@@ -1,0 +1,87 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "backup_dialog_content_type:0"
+msgid "Wi-Fi Data"
+msgstr ""
+
+msgctxt "backup_dialog_content_type:1"
+msgid "All Applications"
+msgstr ""
+
+msgctxt "system_package_label:0"
+msgid "SMS and MMS"
+msgstr ""
+
+msgctxt "system_data_label:0"
+msgid "Wi-Fi Settings"
+msgstr ""
+
+msgctxt "system_data_label:1"
+msgid "Desktop Screens"
+msgstr ""
+
+msgctxt "system_data_label:2"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "system_data_label:3"
+msgid "Call Records"
+msgstr ""
+
+msgctxt "system_data_label:4"
+msgid "SMS Records"
+msgstr ""
+
+msgctxt "app_type_desc:0"
+msgid "(Data)"
+msgstr ""
+
+msgctxt "app_type_desc:1"
+msgid "(Applications)"
+msgstr ""
+
+msgctxt "app_type_desc:2"
+msgid "(Data + Applications)"
+msgstr ""
+
+msgctxt "restore_dialog_content_type:0"
+msgid "System Restore"
+msgstr ""
+
+msgctxt "restore_dialog_content_type:1"
+msgid "Data Restore"
+msgstr ""
+
+msgctxt "cloud_data_label:0"
+msgid "Wi-Fi settings"
+msgstr ""
+
+msgctxt "cloud_data_label:1"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "cloud_data_label:2"
+msgid "Phone records"
+msgstr ""
+
+msgctxt "cloud_data_label:3"
+msgid "SMS Records"
+msgstr ""
+

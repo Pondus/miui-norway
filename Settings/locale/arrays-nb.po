@@ -1,0 +1,1434 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "timezone_filters:0"
+msgid "America"
+msgstr ""
+
+msgctxt "timezone_filters:1"
+msgid "Europe"
+msgstr ""
+
+msgctxt "timezone_filters:2"
+msgid "Africa"
+msgstr ""
+
+msgctxt "timezone_filters:3"
+msgid "Asia"
+msgstr ""
+
+msgctxt "timezone_filters:4"
+msgid "Australia"
+msgstr ""
+
+msgctxt "timezone_filters:5"
+msgid "Pacific"
+msgstr ""
+
+msgctxt "timezone_filters:6"
+msgid "All"
+msgstr ""
+
+msgctxt "date_format_values:0"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+msgctxt "date_format_values:1"
+msgid "MM-dd-yyyy"
+msgstr ""
+
+msgctxt "date_format_values:2"
+msgid "dd-MM-yyyy"
+msgstr ""
+
+msgctxt "animations_entries:0"
+msgid "Off"
+msgstr ""
+
+msgctxt "animations_entries:1"
+msgid "Med"
+msgstr ""
+
+msgctxt "animations_entries:2"
+msgid "Full"
+msgstr ""
+
+msgctxt "animations_summaries:0"
+msgid "No window animations are shown"
+msgstr ""
+
+msgctxt "animations_summaries:1"
+msgid "Some window animations are shown"
+msgstr ""
+
+msgctxt "animations_summaries:2"
+msgid "All window animations are shown"
+msgstr ""
+
+msgctxt "animations_values:0"
+msgid "00"
+msgstr ""
+
+msgctxt "animations_values:1"
+msgid "01"
+msgstr ""
+
+msgctxt "animations_values:2"
+msgid "11"
+msgstr ""
+
+msgctxt "led_color_entries:0"
+msgid "White (default)"
+msgstr ""
+
+msgctxt "led_color_entries:1"
+msgid "Green"
+msgstr ""
+
+msgctxt "led_color_entries:2"
+msgid "Red"
+msgstr ""
+
+msgctxt "led_color_entries:3"
+msgid "Blue"
+msgstr ""
+
+msgctxt "led_color_entries:4"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "led_color_entries:5"
+msgid "Cyan"
+msgstr ""
+
+msgctxt "led_color_entries:6"
+msgid "Magenta"
+msgstr ""
+
+msgctxt "led_color_entries:7"
+msgid "Pink"
+msgstr ""
+
+msgctxt "led_color_entries:8"
+msgid "Orange"
+msgstr ""
+
+msgctxt "led_color_entries:9"
+msgid "Sapphire"
+msgstr ""
+
+msgctxt "led_color_values:0"
+msgid "white"
+msgstr ""
+
+msgctxt "led_color_values:1"
+msgid "green"
+msgstr ""
+
+msgctxt "led_color_values:2"
+msgid "red"
+msgstr ""
+
+msgctxt "led_color_values:3"
+msgid "blue"
+msgstr ""
+
+msgctxt "led_color_values:4"
+msgid "yellow"
+msgstr ""
+
+msgctxt "led_color_values:5"
+msgid "cyan"
+msgstr ""
+
+msgctxt "led_color_values:6"
+msgid "\\#800080"
+msgstr ""
+
+msgctxt "led_color_values:7"
+msgid "\\#ffc0cb"
+msgstr ""
+
+msgctxt "led_color_values:8"
+msgid "\\#ffa500"
+msgstr ""
+
+msgctxt "led_color_values:9"
+msgid "\\#add8e6"
+msgstr ""
+
+msgctxt "led_freq_entries:0"
+msgid "Default (9 sec.)"
+msgstr ""
+
+msgctxt "led_freq_entries:1"
+msgid "2 seconds"
+msgstr ""
+
+msgctxt "led_freq_entries:2"
+msgid "3 seconds"
+msgstr ""
+
+msgctxt "led_freq_entries:3"
+msgid "4 seconds"
+msgstr ""
+
+msgctxt "led_freq_entries:4"
+msgid "5 seconds"
+msgstr ""
+
+msgctxt "led_freq_entries:5"
+msgid "6 seconds"
+msgstr ""
+
+msgctxt "led_freq_entries:6"
+msgid "7 seconds"
+msgstr ""
+
+msgctxt "led_freq_entries:7"
+msgid "8 seconds"
+msgstr ""
+
+msgctxt "led_freq_values:0"
+msgid "9000"
+msgstr ""
+
+msgctxt "led_freq_values:1"
+msgid "2000"
+msgstr ""
+
+msgctxt "led_freq_values:2"
+msgid "3000"
+msgstr ""
+
+msgctxt "led_freq_values:3"
+msgid "4000"
+msgstr ""
+
+msgctxt "led_freq_values:4"
+msgid "5000"
+msgstr ""
+
+msgctxt "led_freq_values:5"
+msgid "6000"
+msgstr ""
+
+msgctxt "led_freq_values:6"
+msgid "7000"
+msgstr ""
+
+msgctxt "led_freq_values:7"
+msgid "8000"
+msgstr ""
+
+msgctxt "screen_timeout_entries:0"
+msgid "30s"
+msgstr ""
+
+msgctxt "screen_timeout_entries:1"
+msgid "1m"
+msgstr ""
+
+msgctxt "screen_timeout_entries:2"
+msgid "5m"
+msgstr ""
+
+msgctxt "screen_timeout_entries:3"
+msgid "10m"
+msgstr ""
+
+msgctxt "screen_timeout_entries:4"
+msgid "Off"
+msgstr ""
+
+msgctxt "screen_timeout_values:0"
+msgid "30000"
+msgstr ""
+
+msgctxt "screen_timeout_values:1"
+msgid "60000"
+msgstr ""
+
+msgctxt "screen_timeout_values:2"
+msgid "300000"
+msgstr ""
+
+msgctxt "screen_timeout_values:3"
+msgid "600000"
+msgstr ""
+
+msgctxt "screen_timeout_values:4"
+msgid "-1"
+msgstr ""
+
+msgctxt "tts_rate_entries:0"
+msgid "Very slow"
+msgstr ""
+
+msgctxt "tts_rate_entries:1"
+msgid "Slow"
+msgstr ""
+
+msgctxt "tts_rate_entries:2"
+msgid "Normal"
+msgstr ""
+
+msgctxt "tts_rate_entries:3"
+msgid "Fast"
+msgstr ""
+
+msgctxt "tts_rate_entries:4"
+msgid "Very fast"
+msgstr ""
+
+msgctxt "tts_rate_values:0"
+msgid "60"
+msgstr ""
+
+msgctxt "tts_rate_values:1"
+msgid "80"
+msgstr ""
+
+msgctxt "tts_rate_values:2"
+msgid "100"
+msgstr ""
+
+msgctxt "tts_rate_values:3"
+msgid "150"
+msgstr ""
+
+msgctxt "tts_rate_values:4"
+msgid "200"
+msgstr ""
+
+msgctxt "tts_pitch_entries:0"
+msgid "Very low"
+msgstr ""
+
+msgctxt "tts_pitch_entries:1"
+msgid "Low"
+msgstr ""
+
+msgctxt "tts_pitch_entries:2"
+msgid "Normal"
+msgstr ""
+
+msgctxt "tts_pitch_entries:3"
+msgid "High"
+msgstr ""
+
+msgctxt "tts_pitch_entries:4"
+msgid "Very high"
+msgstr ""
+
+msgctxt "tts_pitch_values:0"
+msgid "50"
+msgstr ""
+
+msgctxt "tts_pitch_values:1"
+msgid "80"
+msgstr ""
+
+msgctxt "tts_pitch_values:2"
+msgid "100"
+msgstr ""
+
+msgctxt "tts_pitch_values:3"
+msgid "120"
+msgstr ""
+
+msgctxt "tts_pitch_values:4"
+msgid "150"
+msgstr ""
+
+msgctxt "tts_lang_entries:0"
+msgid "American English"
+msgstr ""
+
+msgctxt "tts_lang_entries:1"
+msgid "British English"
+msgstr ""
+
+msgctxt "tts_lang_entries:2"
+msgid "French"
+msgstr ""
+
+msgctxt "tts_lang_entries:3"
+msgid "German"
+msgstr ""
+
+msgctxt "tts_lang_entries:4"
+msgid "Italian"
+msgstr ""
+
+msgctxt "tts_lang_entries:5"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "tts_lang_values:0"
+msgid "eng-USA"
+msgstr ""
+
+msgctxt "tts_lang_values:1"
+msgid "eng-GBR"
+msgstr ""
+
+msgctxt "tts_lang_values:2"
+msgid "fra-FRA"
+msgstr ""
+
+msgctxt "tts_lang_values:3"
+msgid "deu-DEU"
+msgstr ""
+
+msgctxt "tts_lang_values:4"
+msgid "ita-ITA"
+msgstr ""
+
+msgctxt "tts_lang_values:5"
+msgid "spa-ESP"
+msgstr ""
+
+msgctxt "tts_demo_strings:0"
+msgid "This is an example of speech synthesis in English."
+msgstr ""
+
+msgctxt "tts_demo_strings:1"
+msgid "This is an example of speech synthesis in English."
+msgstr ""
+
+msgctxt "tts_demo_strings:2"
+msgid "Voici un échantillon de synthèse vocale en français."
+msgstr ""
+
+msgctxt "tts_demo_strings:3"
+msgid "Dies ist ein Beispiel für Sprachsynthese in Deutsch."
+msgstr ""
+
+msgctxt "tts_demo_strings:4"
+msgid "Questo è un esempio di sintesi vocale in italiano."
+msgstr ""
+
+msgctxt "tts_demo_strings:5"
+msgid "Este es un ejemplo de síntesis de voz en español."
+msgstr ""
+
+msgctxt "tts_engine_entries:0"
+msgid "Pico TTS"
+msgstr ""
+
+msgctxt "tts_engine_values:0"
+msgid "com.svox.pico"
+msgstr ""
+
+msgctxt "wifi_status:1"
+msgid "Scanning…"
+msgstr ""
+
+msgctxt "wifi_status:2"
+msgid "Connecting…"
+msgstr ""
+
+msgctxt "wifi_status:3"
+msgid "Authenticating…"
+msgstr ""
+
+msgctxt "wifi_status:4"
+msgid "Obtaining IP address..."
+msgstr ""
+
+msgctxt "wifi_status:5"
+msgid "Connected"
+msgstr ""
+
+msgctxt "wifi_status:6"
+msgid "Suspended"
+msgstr ""
+
+msgctxt "wifi_status:7"
+msgid "Disconnecting..."
+msgstr ""
+
+msgctxt "wifi_status:8"
+msgid "Disconnected"
+msgstr ""
+
+msgctxt "wifi_status:9"
+msgid "Unsuccessful"
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:1"
+msgid "Scanning…"
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:2"
+msgid "Connecting to %1$s..."
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:3"
+msgid "Authenticating with %1$s..."
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:4"
+msgid "Obtaining IP address from %1$s..."
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:5"
+msgid "Connected to %1$s"
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:6"
+msgid "Suspended"
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:7"
+msgid "Disconnecting from %1$s..."
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:8"
+msgid "Disconnected"
+msgstr ""
+
+msgctxt "wifi_status_with_ssid:9"
+msgid "Unsuccessful"
+msgstr ""
+
+msgctxt "wifi_security:0"
+msgid "Open"
+msgstr ""
+
+msgctxt "wifi_security:1"
+msgid "WEP"
+msgstr ""
+
+msgctxt "wifi_security:2"
+msgid "WPA/WPA2 PSK"
+msgstr ""
+
+msgctxt "wifi_security:3"
+msgid "802.1x EAP"
+msgstr ""
+
+msgctxt "wifi_ap_security:0"
+msgid "Open"
+msgstr ""
+
+msgctxt "wifi_ap_security:1"
+msgid "WPA2 PSK"
+msgstr ""
+
+msgctxt "wifi_eap_method:0"
+msgid "PEAP"
+msgstr ""
+
+msgctxt "wifi_eap_method:1"
+msgid "TLS"
+msgstr ""
+
+msgctxt "wifi_eap_method:2"
+msgid "TTLS"
+msgstr ""
+
+msgctxt "wifi_signal:0"
+msgid "Poor"
+msgstr ""
+
+msgctxt "wifi_signal:1"
+msgid "Fair"
+msgstr ""
+
+msgctxt "wifi_signal:2"
+msgid "Good"
+msgstr ""
+
+msgctxt "wifi_signal:3"
+msgid "Excellent"
+msgstr ""
+
+msgctxt "wifi_sleep_policy_entries:0"
+msgid "When screen turns off"
+msgstr ""
+
+msgctxt "wifi_sleep_policy_entries:1"
+msgid "Never when plugged in"
+msgstr ""
+
+msgctxt "wifi_sleep_policy_entries:2"
+msgid "Never"
+msgstr ""
+
+msgctxt "wifi_sleep_policy_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "wifi_sleep_policy_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "wifi_sleep_policy_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "battery_history_type_spinner:0"
+msgid "CPU usage"
+msgstr ""
+
+msgctxt "battery_history_type_spinner:1"
+msgid "Network usage"
+msgstr ""
+
+msgctxt "battery_history_type_spinner:2"
+msgid "GPS usage"
+msgstr ""
+
+msgctxt "battery_history_type_spinner:3"
+msgid "Sensor usage"
+msgstr ""
+
+msgctxt "battery_history_type_spinner:4"
+msgid "Partial wake usage"
+msgstr ""
+
+msgctxt "battery_history_type_spinner:5"
+msgid "Other usage"
+msgstr ""
+
+msgctxt "battery_history_which_spinner:0"
+msgid "Since last unplugged"
+msgstr ""
+
+msgctxt "battery_history_which_spinner:1"
+msgid "Total since boot"
+msgstr ""
+
+msgctxt "battery_history_which_spinner:2"
+msgid "Total in all time"
+msgstr ""
+
+msgctxt "usage_stats_display_order_types:0"
+msgid "Usage Time"
+msgstr ""
+
+msgctxt "usage_stats_display_order_types:1"
+msgid "Launch Count"
+msgstr ""
+
+msgctxt "usage_stats_display_order_types:2"
+msgid "Application Name"
+msgstr ""
+
+msgctxt "wifi_eap_entries:0"
+msgid "PEAP"
+msgstr ""
+
+msgctxt "wifi_eap_entries:1"
+msgid "TLS"
+msgstr ""
+
+msgctxt "wifi_eap_entries:2"
+msgid "TTLS"
+msgstr ""
+
+msgctxt "wifi_phase2_entries:0"
+msgid "None"
+msgstr ""
+
+msgctxt "wifi_phase2_entries:1"
+msgid "PAP"
+msgstr ""
+
+msgctxt "wifi_phase2_entries:2"
+msgid "MSCHAP"
+msgstr ""
+
+msgctxt "wifi_phase2_entries:3"
+msgid "MSCHAPV2"
+msgstr ""
+
+msgctxt "wifi_phase2_entries:4"
+msgid "GTC"
+msgstr ""
+
+msgctxt "emergency_tone_entries:0"
+msgid "Off"
+msgstr ""
+
+msgctxt "emergency_tone_entries:1"
+msgid "Alert"
+msgstr ""
+
+msgctxt "emergency_tone_entries:2"
+msgid "Vibrate"
+msgstr ""
+
+msgctxt "emergency_tone_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "emergency_tone_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "emergency_tone_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "vpn_openvpn_protocol_entries:0"
+msgid "udp"
+msgstr ""
+
+msgctxt "vpn_openvpn_protocol_entries:1"
+msgid "tcp"
+msgstr ""
+
+msgctxt "vpn_openvpn_device_entries:0"
+msgid "tun"
+msgstr ""
+
+msgctxt "vpn_openvpn_device_entries:1"
+msgid "tap"
+msgstr ""
+
+msgctxt "special_locale_codes:0"
+msgid "zh_CN"
+msgstr ""
+
+msgctxt "special_locale_codes:1"
+msgid "zh_TW"
+msgstr ""
+
+msgctxt "special_locale_names:0"
+msgid "Chinese (Simplified)"
+msgstr ""
+
+msgctxt "special_locale_names:1"
+msgid "Chinese (Traditional)"
+msgstr ""
+
+msgctxt "apn_auth_entries:0"
+msgid "None"
+msgstr ""
+
+msgctxt "apn_auth_entries:1"
+msgid "PAP"
+msgstr ""
+
+msgctxt "apn_auth_entries:2"
+msgid "CHAP"
+msgstr ""
+
+msgctxt "apn_auth_entries:3"
+msgid "PAP or CHAP"
+msgstr ""
+
+msgctxt "apn_auth_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "apn_auth_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "apn_auth_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "apn_auth_values:3"
+msgid "3"
+msgstr ""
+
+msgctxt "app_install_location_entries:0"
+msgid "Internal device storage"
+msgstr ""
+
+msgctxt "app_install_location_entries:1"
+msgid "Removable SD card"
+msgstr ""
+
+msgctxt "app_install_location_entries:2"
+msgid "Let the system decide"
+msgstr ""
+
+msgctxt "app_install_location_values:0"
+msgid "device"
+msgstr ""
+
+msgctxt "app_install_location_values:1"
+msgid "sdcard"
+msgstr ""
+
+msgctxt "app_install_location_values:2"
+msgid "auto"
+msgstr ""
+
+msgctxt "vibrate_entries:0"
+msgid "Always"
+msgstr ""
+
+msgctxt "vibrate_entries:1"
+msgid "Never"
+msgstr ""
+
+msgctxt "vibrate_entries:2"
+msgid "Only in Silent mode"
+msgstr ""
+
+msgctxt "vibrate_entries:3"
+msgid "Only when not in Silent mode"
+msgstr ""
+
+msgctxt "vibrate_values:0"
+msgid "always"
+msgstr ""
+
+msgctxt "vibrate_values:1"
+msgid "never"
+msgstr ""
+
+msgctxt "vibrate_values:2"
+msgid "silent"
+msgstr ""
+
+msgctxt "vibrate_values:3"
+msgid "notsilent"
+msgstr ""
+
+msgctxt "battery_indicator_style_entries:0"
+msgid "Graphical"
+msgstr ""
+
+msgctxt "battery_indicator_style_entries:1"
+msgid "Percentage"
+msgstr ""
+
+msgctxt "battery_indicator_style_entries:2"
+msgid "Top-Bar"
+msgstr ""
+
+msgctxt "battery_indicator_style_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "battery_indicator_style_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "battery_indicator_style_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "battery_low_level_entries:0"
+msgid "10%"
+msgstr ""
+
+msgctxt "battery_low_level_entries:1"
+msgid "20%"
+msgstr ""
+
+msgctxt "battery_low_level_entries:2"
+msgid "30%"
+msgstr ""
+
+msgctxt "battery_low_level_entries:3"
+msgid "40%"
+msgstr ""
+
+msgctxt "battery_low_level_entries:4"
+msgid "50%"
+msgstr ""
+
+msgctxt "battery_low_level_values:0"
+msgid "10"
+msgstr ""
+
+msgctxt "battery_low_level_values:1"
+msgid "20"
+msgstr ""
+
+msgctxt "battery_low_level_values:2"
+msgid "30"
+msgstr ""
+
+msgctxt "battery_low_level_values:3"
+msgid "40"
+msgstr ""
+
+msgctxt "battery_low_level_values:4"
+msgid "50"
+msgstr ""
+
+msgctxt "usage_screen_power_slices:0"
+msgid "Open Screen power usage"
+msgstr ""
+
+msgctxt "usage_screen_power_slices:1"
+msgid "Power usage when screen is idle"
+msgstr ""
+
+msgctxt "usage_screen_power_slices:2"
+msgid "Power usage with a dim lit screen"
+msgstr ""
+
+msgctxt "usage_screen_power_slices:3"
+msgid "Power usage with a medium lit screen"
+msgstr ""
+
+msgctxt "usage_screen_power_slices:4"
+msgid "Power usage with a bright lit screen"
+msgstr ""
+
+msgctxt "usage_screen_power_slices:5"
+msgid "Power usage with a fully lit screen"
+msgstr ""
+
+msgctxt "usage_radio_power_slices:0"
+msgid "1 A Cell signal power"
+msgstr ""
+
+msgctxt "usage_radio_power_slices:1"
+msgid "2 Cell signal power"
+msgstr ""
+
+msgctxt "usage_radio_power_slices:2"
+msgid "3 Signal power grid"
+msgstr ""
+
+msgctxt "usage_radio_power_slices:3"
+msgid "4 Cell signal power"
+msgstr ""
+
+msgctxt "usage_radio_power_slices:4"
+msgid "Cell signal power over"
+msgstr ""
+
+msgctxt "usage_radio_power_slices:5"
+msgid "Search for the signal power"
+msgstr ""
+
+msgctxt "usage_wifi_power_slices:0"
+msgid "Open Wi-Fi power usage"
+msgstr ""
+
+msgctxt "usage_wifi_power_slices:1"
+msgid "Wi-Fi transfer power usage"
+msgstr ""
+
+msgctxt "usage_bluetooth_power_slices:0"
+msgid "Open Bluetooth power usage"
+msgstr ""
+
+msgctxt "usage_bluetooth_power_slices:1"
+msgid "Power usage of Bluetooth"
+msgstr ""
+
+msgctxt "usage_app_power_slices:0"
+msgid "Audio power"
+msgstr ""
+
+msgctxt "usage_app_power_slices:1"
+msgid "Video power"
+msgstr ""
+
+msgctxt "usage_app_power_slices:2"
+msgid "CPU power usage"
+msgstr ""
+
+msgctxt "usage_app_power_slices:3"
+msgid "Data transfer power usage"
+msgstr ""
+
+msgctxt "usage_app_power_slices:4"
+msgid "Sensor power usage"
+msgstr ""
+
+msgctxt "overscroll_mode_entries:0"
+msgid "Always flexible"
+msgstr ""
+
+msgctxt "overscroll_mode_entries:1"
+msgid "Flexible if content full"
+msgstr ""
+
+msgctxt "overscroll_mode_entries:2"
+msgid "No flexibility"
+msgstr ""
+
+msgctxt "overscroll_mode_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "overscroll_mode_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "overscroll_mode_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "menu_style_entries:0"
+msgid "Original grid"
+msgstr ""
+
+msgctxt "menu_style_entries:1"
+msgid "New list"
+msgstr ""
+
+msgctxt "menu_style_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "menu_style_values:1"
+msgid "3"
+msgstr ""
+
+msgctxt "led_color_values_for_milestone:0"
+msgid "Green"
+msgstr ""
+
+msgctxt "led_color_values_for_milestone:1"
+msgid "Red"
+msgstr ""
+
+msgctxt "led_color_values_for_milestone:2"
+msgid "Blue"
+msgstr ""
+
+msgctxt "led_color_values_for_milestone:3"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "led_color_values_for_milestone:4"
+msgid "Cyan"
+msgstr ""
+
+msgctxt "led_color_values_for_milestone:5"
+msgid "\\#800080"
+msgstr ""
+
+msgctxt "led_color_values_for_milestone:6"
+msgid "\\#ffa500"
+msgstr ""
+
+msgctxt "led_color_entries_for_milestone:0"
+msgid "Green (default)"
+msgstr ""
+
+msgctxt "led_color_entries_for_milestone:1"
+msgid "Red"
+msgstr ""
+
+msgctxt "led_color_entries_for_milestone:2"
+msgid "Blue"
+msgstr ""
+
+msgctxt "led_color_entries_for_milestone:3"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "led_color_entries_for_milestone:4"
+msgid "Cyan"
+msgstr ""
+
+msgctxt "led_color_entries_for_milestone:5"
+msgid "Magenta"
+msgstr ""
+
+msgctxt "led_color_entries_for_milestone:6"
+msgid "Orange"
+msgstr ""
+
+msgctxt "entries_light_filter_window:0"
+msgid "10 s"
+msgstr ""
+
+msgctxt "entries_light_filter_window:1"
+msgid "20 s"
+msgstr ""
+
+msgctxt "entries_light_filter_window:2"
+msgid "30 s"
+msgstr ""
+
+msgctxt "entries_light_filter_window:3"
+msgid "40 s"
+msgstr ""
+
+msgctxt "entries_light_filter_window:4"
+msgid "50 s"
+msgstr ""
+
+msgctxt "entries_light_filter_window:5"
+msgid "60 s"
+msgstr ""
+
+msgctxt "values_light_filter_window:0"
+msgid "10000"
+msgstr ""
+
+msgctxt "values_light_filter_window:1"
+msgid "20000"
+msgstr ""
+
+msgctxt "values_light_filter_window:2"
+msgid "30000"
+msgstr ""
+
+msgctxt "values_light_filter_window:3"
+msgid "40000"
+msgstr ""
+
+msgctxt "values_light_filter_window:4"
+msgid "50000"
+msgstr ""
+
+msgctxt "values_light_filter_window:5"
+msgid "60000"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:0"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:1"
+msgid "400 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:2"
+msgid "500 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:3"
+msgid "600 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:4"
+msgid "700 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:5"
+msgid "800 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:6"
+msgid "900 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:7"
+msgid "1000 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:8"
+msgid "1500 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:9"
+msgid "2000 lux"
+msgstr ""
+
+msgctxt "entries_light_filter_reset:10"
+msgid "2500 lux"
+msgstr ""
+
+msgctxt "values_light_filter_reset:0"
+msgid "-1"
+msgstr ""
+
+msgctxt "values_light_filter_reset:1"
+msgid "400"
+msgstr ""
+
+msgctxt "values_light_filter_reset:2"
+msgid "500"
+msgstr ""
+
+msgctxt "values_light_filter_reset:3"
+msgid "600"
+msgstr ""
+
+msgctxt "values_light_filter_reset:4"
+msgid "700"
+msgstr ""
+
+msgctxt "values_light_filter_reset:5"
+msgid "800"
+msgstr ""
+
+msgctxt "values_light_filter_reset:6"
+msgid "900"
+msgstr ""
+
+msgctxt "values_light_filter_reset:7"
+msgid "1000"
+msgstr ""
+
+msgctxt "values_light_filter_reset:8"
+msgid "1500"
+msgstr ""
+
+msgctxt "values_light_filter_reset:9"
+msgid "2000"
+msgstr ""
+
+msgctxt "values_light_filter_reset:10"
+msgid "2500"
+msgstr ""
+
+msgctxt "entries_light_filter_interval:0"
+msgid "0.5 s"
+msgstr ""
+
+msgctxt "entries_light_filter_interval:1"
+msgid "1 s"
+msgstr ""
+
+msgctxt "entries_light_filter_interval:2"
+msgid "2 s"
+msgstr ""
+
+msgctxt "entries_light_filter_interval:3"
+msgid "5 s"
+msgstr ""
+
+msgctxt "entries_light_filter_interval:4"
+msgid "10 s"
+msgstr ""
+
+msgctxt "values_light_filter_interval:0"
+msgid "500"
+msgstr ""
+
+msgctxt "values_light_filter_interval:1"
+msgid "1000"
+msgstr ""
+
+msgctxt "values_light_filter_interval:2"
+msgid "2000"
+msgstr ""
+
+msgctxt "values_light_filter_interval:3"
+msgid "5000"
+msgstr ""
+
+msgctxt "values_light_filter_interval:4"
+msgid "10000"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:0"
+msgid "1"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:1"
+msgid "2"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:2"
+msgid "3"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:3"
+msgid "4"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:4"
+msgid "5"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:5"
+msgid "6"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:6"
+msgid "8"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:7"
+msgid "10"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:8"
+msgid "12"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:9"
+msgid "14"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:10"
+msgid "16"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:11"
+msgid "18"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:12"
+msgid "20 (default)"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:13"
+msgid "22"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:14"
+msgid "24"
+msgstr ""
+
+msgctxt "entries_light_levels_dim:15"
+msgid "26"
+msgstr ""
+
+msgctxt "values_light_levels_dim:0"
+msgid "1"
+msgstr ""
+
+msgctxt "values_light_levels_dim:1"
+msgid "2"
+msgstr ""
+
+msgctxt "values_light_levels_dim:2"
+msgid "3"
+msgstr ""
+
+msgctxt "values_light_levels_dim:3"
+msgid "4"
+msgstr ""
+
+msgctxt "values_light_levels_dim:4"
+msgid "5"
+msgstr ""
+
+msgctxt "values_light_levels_dim:5"
+msgid "6"
+msgstr ""
+
+msgctxt "values_light_levels_dim:6"
+msgid "8"
+msgstr ""
+
+msgctxt "values_light_levels_dim:7"
+msgid "10"
+msgstr ""
+
+msgctxt "values_light_levels_dim:8"
+msgid "12"
+msgstr ""
+
+msgctxt "values_light_levels_dim:9"
+msgid "14"
+msgstr ""
+
+msgctxt "values_light_levels_dim:10"
+msgid "16"
+msgstr ""
+
+msgctxt "values_light_levels_dim:11"
+msgid "18"
+msgstr ""
+
+msgctxt "values_light_levels_dim:12"
+msgid "20"
+msgstr ""
+
+msgctxt "values_light_levels_dim:13"
+msgid "22"
+msgstr ""
+
+msgctxt "values_light_levels_dim:14"
+msgid "24"
+msgstr ""
+
+msgctxt "values_light_levels_dim:15"
+msgid "26"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:0"
+msgid "0 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:1"
+msgid "10 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:2"
+msgid "20 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:3"
+msgid "30 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:4"
+msgid "40 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:5"
+msgid "50 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:6"
+msgid "60 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:7"
+msgid "70 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:8"
+msgid "80 %"
+msgstr ""
+
+msgctxt "entries_light_decrease_hysteresis:9"
+msgid "90 %"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:0"
+msgid "0"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:1"
+msgid "10"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:2"
+msgid "20"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:3"
+msgid "30"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:4"
+msgid "40"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:5"
+msgid "50"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:6"
+msgid "60"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:7"
+msgid "70"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:8"
+msgid "80"
+msgstr ""
+
+msgctxt "values_light_decrease_hysteresis:9"
+msgid "90"
+msgstr ""
+

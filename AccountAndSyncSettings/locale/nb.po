@@ -1,0 +1,209 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:17+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "app_label"
+msgid "Account and Sync Settings"
+msgstr ""
+
+msgctxt "sync_settings"
+msgid "Accounts & Sync Settings"
+msgstr ""
+
+msgctxt "sync_too_many_deletes"
+msgid "Delete limit exceeded"
+msgstr ""
+
+msgctxt "background_data"
+msgid "Background data"
+msgstr ""
+
+msgctxt "background_data_summary"
+msgid "Applications can sync, send, and receive data at any time"
+msgstr ""
+
+msgctxt "background_data_dialog_title"
+msgid "Attention"
+msgstr ""
+
+msgctxt "background_data_dialog_message"
+msgid ""
+"Disabling background data extends battery life and lowers data use. Some "
+"applications may still use the background data connection."
+msgstr ""
+
+msgctxt "sync_automatically"
+msgid "Auto-sync"
+msgstr ""
+
+msgctxt "sync_automatically_summary"
+msgid "Applications sync data automatically"
+msgstr ""
+
+msgctxt "settings_backup"
+msgid "Back up settings"
+msgstr ""
+
+msgctxt "settings_backup_summary"
+msgid "Back up my settings"
+msgstr ""
+
+msgctxt "sync_menu_sync_now"
+msgid "Sync now"
+msgstr ""
+
+msgctxt "sync_menu_sync_cancel"
+msgid "Cancel sync"
+msgstr ""
+
+msgctxt "sync_one_time_sync"
+msgid ""
+"Touch to sync now\n"
+"%1$s"
+msgstr ""
+
+msgctxt "sync_gmail"
+msgid "Gmail"
+msgstr ""
+
+msgctxt "sync_calendar"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "sync_contacts"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "sync_too_many_deletes_desc"
+msgid ""
+"There are %1$d deleted items for %2$s, account %3$s. What would you like "
+"to do?"
+msgstr ""
+
+msgctxt "sync_really_delete"
+msgid "Delete the items."
+msgstr ""
+
+msgctxt "sync_undo_deletes"
+msgid "Undo the deletes."
+msgstr ""
+
+msgctxt "sync_do_nothing"
+msgid "Do nothing for now."
+msgstr ""
+
+msgctxt "sync_is_failing"
+msgid "Sync is currently experiencing problems. It will be back shortly."
+msgstr ""
+
+msgctxt "sync_plug"
+msgid ""
+"<font fgcolor=\"#ffffffff\">Welcome to Google sync!</font> \n"
+"A Google approach to synchronizing data to allow access to your contacts,"
+" appointments, and more from wherever you are.\\u0020"
+msgstr ""
+
+msgctxt "header_application_sync_settings"
+msgid "Application sync settings"
+msgstr ""
+
+msgctxt "header_manage_accounts"
+msgid "Manage accounts"
+msgstr ""
+
+msgctxt "header_general_sync_settings"
+msgid "General sync settings"
+msgstr ""
+
+msgctxt "sync_enabled"
+msgid "Sync is ON"
+msgstr ""
+
+msgctxt "sync_disabled"
+msgid "Sync is OFF"
+msgstr ""
+
+msgctxt "sync_error"
+msgid "Sync error"
+msgstr ""
+
+msgctxt "add_account_label"
+msgid "Add account"
+msgstr ""
+
+msgctxt "header_data_and_synchronization"
+msgid "Data & synchronization"
+msgstr ""
+
+msgctxt "preference_change_password_title"
+msgid "Change password"
+msgstr ""
+
+msgctxt "header_account_settings"
+msgid "Account settings"
+msgstr ""
+
+msgctxt "remove_account_label"
+msgid "Remove account"
+msgstr ""
+
+msgctxt "header_add_an_account"
+msgid "Add an account"
+msgstr ""
+
+msgctxt "finish_button_label"
+msgid "Finish"
+msgstr ""
+
+msgctxt "really_remove_account_title"
+msgid "Remove account"
+msgstr ""
+
+msgctxt "really_remove_account_message"
+msgid ""
+"Do you really want to remove this account? Removing it will also delete "
+"all of its messages, contacts, and other data from the phone. \n"
+"Proceed?"
+msgstr ""
+
+msgctxt "remove_account_failed"
+msgid ""
+"This account is required by some applications. You can only remove it by "
+"resetting the phone to factory defaults (which deletes all your personal "
+"data). You do that in the Settings application, under Privacy."
+msgstr ""
+
+msgctxt "provider_label"
+msgid "Push subscriptions"
+msgstr ""
+
+#, python-format
+msgctxt "sync_item_title"
+msgid "Sync %s"
+msgstr ""
+
+msgctxt "cant_sync_dialog_title"
+msgid "Cannot manually sync"
+msgstr ""
+
+msgctxt "cant_sync_dialog_message"
+msgid ""
+"Sync for this item is currently disabled. To change your preference, "
+"temporarily turn on background data and automatic sync."
+msgstr ""
+

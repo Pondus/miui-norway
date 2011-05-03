@@ -1,0 +1,1219 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "add_songs"
+msgid "Add song(s)"
+msgstr ""
+
+msgctxt "add_to_playlist"
+msgid "Add to Playlist"
+msgstr ""
+
+msgctxt "albumPickerNotFoundText"
+msgid "Album selector not found"
+msgstr ""
+
+msgctxt "albumsongseparator"
+msgid ","
+msgstr ""
+
+msgctxt "albums_menu"
+msgid "Albums"
+msgstr ""
+
+msgctxt "albums_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "album_display_settings"
+msgid "Album art settings"
+msgstr ""
+
+msgctxt "album_download"
+msgid "Searching for album art..."
+msgstr ""
+
+msgctxt "album_downloading"
+msgid "Downloading..."
+msgstr ""
+
+msgctxt "album_search_failed"
+msgid "Album art not found!"
+msgstr ""
+
+msgctxt "album_search_result"
+msgid "Album art search results"
+msgstr ""
+
+msgctxt "all_title"
+msgid "All media"
+msgstr ""
+
+msgctxt "android_album_settings"
+msgid "Use embedded album art"
+msgstr ""
+
+msgctxt "android_album_summary"
+msgid "Automatically use the album art from songs"
+msgstr ""
+
+msgctxt "app_name"
+msgid "Music"
+msgstr ""
+
+msgctxt "artists_title"
+msgid "Artist"
+msgstr ""
+
+msgctxt "buffering"
+msgid "Buffering..."
+msgstr ""
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "cancel_sleep_mode"
+msgid "Sleep mode cancelled"
+msgstr ""
+
+msgctxt "clear_playlist"
+msgid "Clear Playlist"
+msgstr ""
+
+msgctxt "clear_search_history"
+msgid "Clear Search History"
+msgstr ""
+
+#, python-format
+msgctxt "commit_to_download"
+msgid "Confirmation (%d)"
+msgstr ""
+
+msgctxt "confirm"
+msgid "OK"
+msgstr ""
+
+#, python-format
+msgctxt "confirm_with_count"
+msgid "%d Confirmed count"
+msgstr ""
+
+msgctxt "continue_when_wifi_disconnect"
+msgid "Continue listening to online music via mobile network."
+msgstr ""
+
+msgctxt "create_playlist_create_text"
+msgid "Save"
+msgstr ""
+
+msgctxt "create_playlist_create_text_prompt"
+msgid "Playlist name"
+msgstr ""
+
+msgctxt "create_playlist_overwrite_text"
+msgid "Cover"
+msgstr ""
+
+msgctxt "current_playlist"
+msgid "Current Playlist"
+msgstr ""
+
+#, python-format
+msgctxt "current_version"
+msgid "Current version: %.3f"
+msgstr ""
+
+msgctxt "default_time"
+msgid "30 minutes"
+msgstr ""
+
+#, python-format
+msgctxt "delete_album_desc"
+msgid "All songs of the album %s will be permanently deleted from the SD card."
+msgstr ""
+
+#, python-format
+msgctxt "delete_artist_desc"
+msgid "All songs of the artist %s will be permanently deleted from the SD card."
+msgstr ""
+
+msgctxt "delete_confirm_button_text"
+msgid "OK"
+msgstr ""
+
+msgctxt "delete_item"
+msgid "Delete"
+msgstr ""
+
+msgctxt "delete_playlist_menu"
+msgid "Delete Playlist"
+msgstr ""
+
+#, python-format
+msgctxt "delete_song_desc"
+msgid "%s will be permanently deleted from the SD card."
+msgstr ""
+
+msgctxt "donot_ask_me_agaion"
+msgid "Don't ask again"
+msgstr ""
+
+msgctxt "doubletap_trackball_next_summary"
+msgid "Double tap trackball to skip song on lockscreen"
+msgstr ""
+
+msgctxt "doubletap_trackball_next_title"
+msgid "Use trackball to skip"
+msgstr ""
+
+msgctxt "download"
+msgid "Download"
+msgstr ""
+
+msgctxt "downloading_queue"
+msgid "Download queue"
+msgstr ""
+
+#, python-format
+msgctxt "downloading_queue_size"
+msgid "%d Task waiting"
+msgstr ""
+
+msgctxt "download_action_pause"
+msgid "Download paused"
+msgstr ""
+
+msgctxt "download_action_start"
+msgid "Start download"
+msgstr ""
+
+msgctxt "download_action_waiting"
+msgid "Waiting"
+msgstr ""
+
+msgctxt "download_album_helper"
+msgid "Download album art for your song(s) library"
+msgstr ""
+
+msgctxt "download_album_settings"
+msgid "Download album art"
+msgstr ""
+
+msgctxt "download_album_summary"
+msgid "May take longer on mobile network, please consider using Wi-Fi"
+msgstr ""
+
+msgctxt "download_all_album"
+msgid "Download album art(s)"
+msgstr ""
+
+msgctxt "download_batch"
+msgid "Download all"
+msgstr ""
+
+msgctxt "download_batch_start"
+msgid "Start downloading all"
+msgstr ""
+
+msgctxt "download_cancel"
+msgid "Remove all downloads"
+msgstr ""
+
+msgctxt "download_cancel_in_button"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "download_delete_task"
+msgid "Delete task"
+msgstr ""
+
+msgctxt "download_delete_task_and_file"
+msgid "Delete tasks and documents"
+msgstr ""
+
+msgctxt "download_delete_task_only"
+msgid "Just delete the task"
+msgstr ""
+
+msgctxt "download_delete_task_success"
+msgid "Download deleted successfully"
+msgstr ""
+
+msgctxt "download_done"
+msgid "Downloaded"
+msgstr ""
+
+#, python-format
+msgctxt "download_info_count_deleted_tasks"
+msgid "Successfully removed %s from download task(s)"
+msgstr ""
+
+#, python-format
+msgctxt "download_info_count_paused_tasks_wifi_connected"
+msgid "The Wi-Fi connection has been lost, download task %s has been stopped"
+msgstr ""
+
+msgctxt "download_info_start_deleted_tasks"
+msgid "Preparing to delete the task"
+msgstr ""
+
+msgctxt "download_lyric_settings"
+msgid "Download lyrics"
+msgstr ""
+
+msgctxt "download_lyric_summary"
+msgid "May take longer on mobile network, please consider using Wi-Fi"
+msgstr ""
+
+msgctxt "download_music_settings"
+msgid "Download music"
+msgstr ""
+
+msgctxt "download_music_summary"
+msgid "May take longer on mobile network, please consider using Wi-Fi"
+msgstr ""
+
+msgctxt "download_processing"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "download_retry_task"
+msgid "Re-try download"
+msgstr ""
+
+msgctxt "download_start"
+msgid "Start download(s)"
+msgstr ""
+
+msgctxt "download_status_downloading"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "download_status_failed"
+msgid "Download failed"
+msgstr ""
+
+msgctxt "download_status_pending"
+msgid "Waiting for download"
+msgstr ""
+
+msgctxt "download_status_success"
+msgid "Download successfully completed"
+msgstr ""
+
+msgctxt "download_status_suspended"
+msgid "Download suspended"
+msgstr ""
+
+msgctxt "download_stop_all"
+msgid "Stop all downloads"
+msgstr ""
+
+msgctxt "download_unknown_title"
+msgid "Unknown title"
+msgstr ""
+
+msgctxt "durationformatlong"
+msgid "%1$d:%3$02d:%5$02d"
+msgstr ""
+
+msgctxt "durationformatshort"
+msgid "%2$2d:%5$02d"
+msgstr ""
+
+msgctxt "durationformatshort_padding_with_0"
+msgid "%2$02d:%5$02d"
+msgstr ""
+
+msgctxt "edit_playlist_menu"
+msgid "Edit Playlist"
+msgstr ""
+
+msgctxt "edit_song_list"
+msgid "Edit song list"
+msgstr ""
+
+msgctxt "email_optional"
+msgid "E-mail (Optional)"
+msgstr ""
+
+msgctxt "emptyplaylist"
+msgid "The Playlist is empty."
+msgstr ""
+
+msgctxt "fail_to_start_stream"
+msgid "Cannot play the requested audio stream."
+msgstr ""
+
+msgctxt "fast_scroll_alphabet"
+msgid "\\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr ""
+
+msgctxt "favorite_playlist"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "favorite_playlist_item"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "feedback"
+msgid "Feedback"
+msgstr ""
+
+msgctxt "feedback_email"
+msgid "Please enter your E-mail for easy contact:"
+msgstr ""
+
+msgctxt "feedback_reminder"
+msgid "Network connection is not available, please try again later."
+msgstr ""
+
+msgctxt "feedback_thanks"
+msgid "Thanks for your feedback"
+msgstr ""
+
+msgctxt "filter_by_folder"
+msgid "Filter by folder"
+msgstr ""
+
+msgctxt "filter_max"
+msgid "2MB"
+msgstr ""
+
+msgctxt "filter_min"
+msgid "0K"
+msgstr ""
+
+msgctxt "filter_notification"
+msgid ""
+"Filter has been filtered, you can change these settings in the filter "
+"settings."
+msgstr ""
+
+msgctxt "flow_save_hint"
+msgid "Flow hints"
+msgstr ""
+
+msgctxt "flow_save_hint_summary"
+msgid "Pop-up window to confirmations"
+msgstr ""
+
+msgctxt "folder"
+msgid "Folder"
+msgstr ""
+
+msgctxt "folder_renamed_message"
+msgid "Folder has been renamed"
+msgstr ""
+
+#, python-format
+msgctxt "gadget_track"
+msgid "Tracks %d"
+msgstr ""
+
+msgctxt "goto_playback"
+msgid "Play"
+msgstr ""
+
+msgctxt "goto_start"
+msgid "Library"
+msgstr ""
+
+msgctxt "id3_edit"
+msgid "Edit ID3 info"
+msgstr ""
+
+msgctxt "id3_edit_failed"
+msgid "Failed to edit ID3 info"
+msgstr ""
+
+msgctxt "id3_modify_confirm"
+msgid "Are you sure you wish to modify ID3 info?"
+msgstr ""
+
+#, python-format
+msgctxt "item_count_in_header"
+msgid "(%d)"
+msgstr ""
+
+msgctxt "keep_quit_location_settings"
+msgid "Keep track position"
+msgstr ""
+
+msgctxt "keep_quit_location_summary"
+msgid "Stores track of last position upon re-launch of the app"
+msgstr ""
+
+msgctxt "listen_to_music_online_settings"
+msgid "Listen to online music"
+msgstr ""
+
+msgctxt "listen_to_online_summary"
+msgid "Listen to music via mobile network or Wi-Fi"
+msgstr ""
+
+msgctxt "loading"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "load_category_failed"
+msgid "Failed to load category list, please try again"
+msgstr ""
+
+msgctxt "load_category_in_process"
+msgid "Load list(s)"
+msgstr ""
+
+msgctxt "local_search_empty"
+msgid "Your query returned no results."
+msgstr ""
+
+msgctxt "lrc_progress_modify"
+msgid "Adjust lyrics speed"
+msgstr ""
+
+msgctxt "lrc_progress_modify_helper"
+msgid "Adjust the lyrics display"
+msgstr ""
+
+msgctxt "lrc_searching"
+msgid "Searching for lyrics..."
+msgstr ""
+
+msgctxt "lrc_search_failed"
+msgid "Lyrics not found!"
+msgstr ""
+
+msgctxt "lrc_select"
+msgid "Select lyrics"
+msgstr ""
+
+msgctxt "lyricPickerNotFoundText"
+msgid "Lyric picker not installed on device."
+msgstr ""
+
+msgctxt "lyric_display_settings"
+msgid "Lyrics settings"
+msgstr ""
+
+msgctxt "lyric_download"
+msgid "Download lyrics"
+msgstr ""
+
+msgctxt "lyric_open_other_connect"
+msgid "Download lyrics using mobile internet connection"
+msgstr ""
+
+msgctxt "max_time"
+msgid "90"
+msgstr ""
+
+msgctxt "mediapickerlabel"
+msgid "Music"
+msgstr ""
+
+msgctxt "mediaplaybacklabel"
+msgid "Music"
+msgstr ""
+
+#, python-format
+msgctxt "mediasearch"
+msgid "Search using %s:"
+msgstr ""
+
+msgctxt "media_player_quit"
+msgid "Exit"
+msgstr ""
+
+msgctxt "media_player_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "menu_download_manager"
+msgid "Download manager"
+msgstr ""
+
+msgctxt "meta_empty"
+msgid "Song information unavailable"
+msgstr ""
+
+msgctxt "min_muisic_size"
+msgid "Minimum size for music files"
+msgstr ""
+
+msgctxt "min_time"
+msgid "1"
+msgstr ""
+
+msgctxt "miui_folder"
+msgid "MIUI-Downloads"
+msgstr ""
+
+msgctxt "modify_meta"
+msgid "Edit song info"
+msgstr ""
+
+msgctxt "muisic_filter"
+msgid "Filter files"
+msgstr ""
+
+msgctxt "musicbrowserlabel"
+msgid "Browse Music"
+msgstr ""
+
+msgctxt "musicshortcutlabel"
+msgid "Music Playlists"
+msgstr ""
+
+msgctxt "music_filter_helper"
+msgid ""
+"In order to hide files which are not of mp3 format, a size filter of 800K"
+" has been applied to prevent non-mp3 files from being displayed. The "
+"threshold can be adjusted in Settings / File filter."
+msgstr ""
+
+msgctxt "music_picker"
+msgid "Select Song(s)"
+msgstr ""
+
+msgctxt "music_picker_title"
+msgid "Select a song"
+msgstr ""
+
+msgctxt "my_music"
+msgid "My Music"
+msgstr ""
+
+msgctxt "network_error"
+msgid "No network connection, please check your network settings"
+msgstr ""
+
+msgctxt "new_playlist"
+msgid "New Playlist"
+msgstr ""
+
+#, python-format
+msgctxt "new_playlist_name_template"
+msgid "New Playlist %d"
+msgstr ""
+
+msgctxt "notification_download_complete"
+msgid "Download completed"
+msgstr ""
+
+msgctxt "notification_download_failed"
+msgid "Download failed"
+msgstr ""
+
+msgctxt "notification_download_failed_with_sdcard"
+msgid "Download failed: SD card error"
+msgstr ""
+
+#, python-format
+msgctxt "notification_filename_extras"
+msgid "\\u0020and %d more"
+msgstr ""
+
+msgctxt "notification_filename_separator"
+msgid ",\\u0020"
+msgstr ""
+
+msgctxt "nowplaying_mebu"
+msgid "Playing"
+msgstr ""
+
+msgctxt "nowplaying_title"
+msgid "Playing"
+msgstr ""
+
+#, python-format
+msgctxt "no_enough_sdcard_space"
+msgid "SD remaining space: %d, may not be sufficient space to continue?"
+msgstr ""
+
+msgctxt "no_playlists_title"
+msgid "No Playlist"
+msgstr ""
+
+msgctxt "no_tracks_title"
+msgid "No Songs"
+msgstr ""
+
+msgctxt "onesong"
+msgid "1 Songs"
+msgstr ""
+
+msgctxt "online_music"
+msgid "Online Music"
+msgstr ""
+
+msgctxt "online_indicator"
+msgid "Online:"
+msgstr ""
+
+msgctxt "others"
+msgid "Others"
+msgstr ""
+
+msgctxt "other_connect"
+msgid "Mobile network"
+msgstr ""
+
+msgctxt "permdesc_downloadCompletedIntent"
+msgid ""
+"Allows the application to send notifications about completed downloads. "
+"Malicious applications can use this to confuse other applications that "
+"download files."
+msgstr ""
+
+msgctxt "permlab_downloadCompletedIntent"
+msgid "Send download notifications."
+msgstr ""
+
+#, python-format
+msgctxt "picker_song_add"
+msgid "Add (%d)"
+msgstr ""
+
+msgctxt "picker_song_list"
+msgid "Select a song"
+msgstr ""
+
+msgctxt "playback_failed"
+msgid "Sorry, the player does not support this type of audio file."
+msgstr ""
+
+msgctxt "playback_failed_no_title"
+msgid "Song cannot be played, file type is not supported."
+msgstr ""
+
+msgctxt "playlists_header"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "playlists_menu"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "playlists_title"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "playlist_clear"
+msgid "Clear Playlist"
+msgstr ""
+
+msgctxt "playlist_deleted_message"
+msgid "Playlist has been deleted"
+msgstr ""
+
+msgctxt "playlist_renamed_message"
+msgid "Playlist has been renamed"
+msgstr ""
+
+msgctxt "play_all"
+msgid "Play all"
+msgstr ""
+
+msgctxt "play_and_download"
+msgid "Listen and download"
+msgstr ""
+
+msgctxt "play_and_download_summary"
+msgid "Listen to songs and download"
+msgstr ""
+
+msgctxt "play_selection"
+msgid "Play selected"
+msgstr ""
+
+#, python-format
+msgctxt "popup_time"
+msgid "%d minute(s)"
+msgstr ""
+
+msgctxt "prepare_launch"
+msgid "Starting up, please wait..."
+msgstr ""
+
+msgctxt "queue"
+msgid "Queue"
+msgstr ""
+
+#, python-format
+msgctxt "quit_warining"
+msgid "Player will stop playing after %d minute(s)"
+msgstr ""
+
+msgctxt "recentlyadded"
+msgid "Recently Added Song(s)"
+msgstr ""
+
+msgctxt "recentlyadded_title"
+msgid "Song(s)"
+msgstr ""
+
+#, python-format
+msgctxt "record_count"
+msgid "Total of %d records"
+msgstr ""
+
+msgctxt "refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "refreshing"
+msgid "Refreshing"
+msgstr ""
+
+msgctxt "refresh_finish"
+msgid "Refreshing completed"
+msgstr ""
+
+msgctxt "refresh_start"
+msgid "Refreshing started"
+msgstr ""
+
+msgctxt "remove_from"
+msgid "Remove"
+msgstr ""
+
+msgctxt "remove_from_playlist"
+msgid "Remove from the Playlist"
+msgstr ""
+
+msgctxt "rename_playlist_empty_name"
+msgid "Playlist name cannot be blank"
+msgstr ""
+
+msgctxt "rename_playlist_menu"
+msgid "Rename Playlist"
+msgstr ""
+
+#, python-format
+msgctxt "rename_playlist_prompt"
+msgid "Rename playlist to %s"
+msgstr ""
+
+#, python-format
+msgctxt "rename_playlist_same_name"
+msgid "Playlist %s is already taken."
+msgstr ""
+
+msgctxt "repeat_current"
+msgid "Repeat: Song"
+msgstr ""
+
+msgctxt "repeat_none"
+msgid "Don't repeat"
+msgstr ""
+
+msgctxt "repeat_playlist"
+msgid "Repeat: Playlist"
+msgstr ""
+
+msgctxt "ringtone_menu"
+msgid "Set as ringtone"
+msgstr ""
+
+msgctxt "ringtone_menu_short"
+msgid "Use song as ringtone"
+msgstr ""
+
+#, python-format
+msgctxt "ringtone_set"
+msgid "%s has been set as ringtone."
+msgstr ""
+
+msgctxt "save"
+msgid "Save"
+msgstr ""
+
+msgctxt "save_as_playlist"
+msgid "Save as Playlist"
+msgstr ""
+
+msgctxt "scanning"
+msgid "Scanning SD card..."
+msgstr ""
+
+msgctxt "screen_bright_wake"
+msgid "Screen stays awake"
+msgstr ""
+
+msgctxt "screen_bright_wake_summary"
+msgid "Backlight remains active when this setting is enabled"
+msgstr ""
+
+msgctxt "screen_on_while_plugged_in_summary"
+msgid "Keep the screen on while playing and plugged in"
+msgstr ""
+
+msgctxt "screen_on_while_plugged_in_title"
+msgid "Screen on whilst charging"
+msgstr ""
+
+msgctxt "sdcard_busy_message"
+msgid "Sorry, SD card is busy"
+msgstr ""
+
+msgctxt "sdcard_busy_title"
+msgid "SD card not available"
+msgstr ""
+
+msgctxt "sdcard_error_message"
+msgid "SD card error"
+msgstr ""
+
+msgctxt "sdcard_error_title"
+msgid "SD card error"
+msgstr ""
+
+msgctxt "sdcard_missing_message"
+msgid "No SD card was found"
+msgstr ""
+
+msgctxt "sdcard_missing_title"
+msgid "SD card not found"
+msgstr ""
+
+msgctxt "search_failed"
+msgid "Search failed"
+msgstr ""
+
+msgctxt "search_failed_report"
+msgid "Nothing found"
+msgstr ""
+
+#, python-format
+msgctxt "search_from_local_to_online"
+msgid "Search online music for '%s'"
+msgstr ""
+
+msgctxt "search_go"
+msgid "Search"
+msgstr ""
+
+msgctxt "search_history"
+msgid "Search History"
+msgstr ""
+
+msgctxt "search_in_process"
+msgid "Searching"
+msgstr ""
+
+msgctxt "search_online_hint"
+msgid "Search for online music"
+msgstr ""
+
+msgctxt "search_settings_description"
+msgid "Artist, album and track"
+msgstr ""
+
+msgctxt "search_title"
+msgid "Search"
+msgstr ""
+
+msgctxt "select_all"
+msgid "Select all"
+msgstr ""
+
+msgctxt "select_folder"
+msgid "Select folder"
+msgstr ""
+
+msgctxt "select_quit_time"
+msgid "Set the timer for stopping the player (in minutes)"
+msgstr ""
+
+msgctxt "select_reverse"
+msgid "Go back"
+msgstr ""
+
+msgctxt "service_start_error_button"
+msgid "OK"
+msgstr ""
+
+msgctxt "service_start_error_msg"
+msgid "Sorry, cannot play this Song."
+msgstr ""
+
+msgctxt "service_start_error_title"
+msgid "Playback failed"
+msgstr ""
+
+msgctxt "shake_sensitivity_helper"
+msgid "Shake left for higher sensitivity, right for lower."
+msgstr ""
+
+msgctxt "shake_sensitivity_settings"
+msgid "Shake sensitivity"
+msgstr ""
+
+msgctxt "shake_sensitivity_summary"
+msgid "Adjust the shake sensitivity to skip songs"
+msgstr ""
+
+msgctxt "shake_settings"
+msgid "Shake to skip"
+msgstr ""
+
+msgctxt "shake_summary"
+msgid "Shake the device to skip to the next track"
+msgstr ""
+
+msgctxt "shuffle"
+msgid "Shuffle"
+msgstr ""
+
+msgctxt "shuffle_all"
+msgid "Shuffle all"
+msgstr ""
+
+msgctxt "shuffle_cancel"
+msgid "Stop shuffle"
+msgstr ""
+
+msgctxt "sleep_mode"
+msgid "Sleep timer"
+msgstr ""
+
+msgctxt "song_downloaded"
+msgid "Downloaded"
+msgstr ""
+
+msgctxt "song_downloading"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "song_exist_in_playlist"
+msgid "Added"
+msgstr ""
+
+msgctxt "sort_by_album"
+msgid "Sort by Album"
+msgstr ""
+
+msgctxt "sort_by_artist"
+msgid "Sort by Artist"
+msgstr ""
+
+msgctxt "sort_by_track"
+msgid "Sort by Song"
+msgstr ""
+
+msgctxt "spectrogram_display_settings"
+msgid "Spectrogram display"
+msgstr ""
+
+msgctxt "spectrogram_display_summary"
+msgid "Improve display performance"
+msgstr ""
+
+msgctxt "start_play_shuffle"
+msgid "Random shuffle"
+msgstr ""
+
+msgctxt "stop_when_wifi_disconnect"
+msgid ""
+"Wi-Fi connection has been lost, online songs have been stopped. If you "
+"want to listen to online songs using the operator's network, you can "
+"modify the settings."
+msgstr ""
+
+#, python-format
+msgctxt "streamloadingtext"
+msgid "Connecting %s"
+msgstr ""
+
+msgctxt "submit_feedback"
+msgid "Submit feedback"
+msgstr ""
+
+msgctxt "sync_now"
+msgid "Synchronizing..."
+msgstr ""
+
+msgctxt "to_album"
+msgid "Albums"
+msgstr ""
+
+msgctxt "to_artist"
+msgid "Artists"
+msgstr ""
+
+msgctxt "to_playlist"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "to_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "to_track"
+msgid "Songs"
+msgstr ""
+
+msgctxt "tracks_menu"
+msgid "Song"
+msgstr ""
+
+msgctxt "tracks_name"
+msgid "Song name"
+msgstr ""
+
+msgctxt "tracks_title"
+msgid "All Songs"
+msgstr ""
+
+msgctxt "unknown_album_name"
+msgid "Unknown Album"
+msgstr ""
+
+msgctxt "unknown_artist_name"
+msgid "Unknown Artist"
+msgstr ""
+
+msgctxt "unpause_on_headset_plug_summary"
+msgid "Un-pause the player when a headset is connected"
+msgstr ""
+
+msgctxt "unpause_on_headset_plug_title"
+msgid "Un-pause on connect"
+msgstr ""
+
+#, python-format
+msgctxt "update_now"
+msgid "Updating %d %%"
+msgstr ""
+
+msgctxt "update_prepare"
+msgid "Ready to update"
+msgstr ""
+
+msgctxt "update_success"
+msgid "Successfully updated!"
+msgstr ""
+
+msgctxt "update_title"
+msgid "Update"
+msgstr ""
+
+msgctxt "upgrade_check"
+msgid "Check for update"
+msgstr ""
+
+msgctxt "upgrade_detail"
+msgid "New version found, please update"
+msgstr ""
+
+msgctxt "upgrade_downloading"
+msgid "Downloading update..."
+msgstr ""
+
+msgctxt "upgrade_failed"
+msgid "Update failed, please try again"
+msgstr ""
+
+msgctxt "upgrade_no"
+msgid "Update later"
+msgstr ""
+
+msgctxt "upgrade_title"
+msgid "Update"
+msgstr ""
+
+msgctxt "upgrade_yes"
+msgid "Update now"
+msgstr ""
+
+msgctxt "url_album"
+msgid "http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&album=%1$s&artist=%2$s"
+msgstr ""
+
+msgctxt "url_debug_update"
+msgid "http://intranet.xiaomi.com/player"
+msgstr ""
+
+msgctxt "url_default_lyric"
+msgid "http://120.195.13.122/q?title=%1$s&artist=%2$s"
+msgstr ""
+
+msgctxt "url_feedback"
+msgid "http://sj.xiaomi.com/miniphp/ajax.php"
+msgstr ""
+
+msgctxt "url_update"
+msgid "http://xshare.api.xiaomi.com/player"
+msgstr ""
+
+msgctxt "use_local_album"
+msgid "Use saved album art"
+msgstr ""
+
+msgctxt "use_local_lyric"
+msgid "Use saved lyrics"
+msgstr ""
+
+msgctxt "videobrowserlabel"
+msgid "Video"
+msgstr ""
+
+msgctxt "weekpicker_set"
+msgid "Completed"
+msgstr ""
+
+msgctxt "weekpicker_title"
+msgid "Setting the time"
+msgstr ""
+
+msgctxt "widget_1x"
+msgid "Music_1x"
+msgstr ""
+
+msgctxt "widget_initial_text"
+msgid "Please select a song"
+msgstr ""
+
+msgctxt "wifi_connect"
+msgid "Wi-Fi Network"
+msgstr ""
+
+msgctxt "working_albums"
+msgid "Albums..."
+msgstr ""
+
+msgctxt "working_artists"
+msgid "Artists..."
+msgstr ""
+
+msgctxt "working_playlists"
+msgid "Playlists..."
+msgstr ""
+
+msgctxt "working_songs"
+msgid "Songs..."
+msgstr ""
+
+msgctxt "zero_count"
+msgid "(0)"
+msgstr ""
+

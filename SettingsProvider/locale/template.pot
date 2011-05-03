@@ -1,0 +1,67 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "airplane_mode_toggleable_radios"
+msgid "bluetooth,wifi"
+msgstr ""
+
+msgctxt "app_label"
+msgid "Settings Storage"
+msgstr ""
+
+msgctxt "def_airplane_mode_radios"
+msgid "cell,bluetooth,wifi"
+msgstr ""
+
+msgctxt "def_backup_transport"
+msgid "com.google.android.backup/.BackupTransportService"
+msgstr ""
+
+msgctxt "def_car_dock_sound"
+msgid "/system/media/audio/ui/Dock.ogg"
+msgstr ""
+
+msgctxt "def_car_undock_sound"
+msgid "/system/media/audio/ui/Undock.ogg"
+msgstr ""
+
+msgctxt "def_desk_dock_sound"
+msgid "/system/media/audio/ui/Dock.ogg"
+msgstr ""
+
+msgctxt "def_desk_undock_sound"
+msgid "/system/media/audio/ui/Undock.ogg"
+msgstr ""
+
+msgctxt "def_location_providers_allowed"
+msgid "gps,network"
+msgstr ""
+
+msgctxt "def_lock_sound"
+msgid "/system/media/audio/ui/Lock.ogg"
+msgstr ""
+
+msgctxt "def_low_battery_sound"
+msgid "/system/media/audio/ui/LowBattery.ogg"
+msgstr ""
+
+msgctxt "def_unlock_sound"
+msgid "/system/media/audio/ui/Unlock.ogg"
+msgstr ""
+

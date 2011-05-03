@@ -1,0 +1,148 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "change_search_setting"
+msgid "Change search settings"
+msgstr ""
+
+msgctxt "default_web_search_engine_baidu"
+msgid "http://m.baidu.com/ssid=0/from=0/bd_page_type=1/s?word="
+msgstr ""
+
+msgctxt "default_web_search_engine_google"
+msgid "http://www.google.com/m/search?q="
+msgstr ""
+
+msgctxt "delete_input_history"
+msgid "Clear Search History"
+msgstr ""
+
+msgctxt "history_delete_hint"
+msgid "Long press an item to clear"
+msgstr ""
+
+msgctxt "input_history"
+msgid "Search History"
+msgstr ""
+
+msgctxt "menu_history"
+msgid "Search History"
+msgstr ""
+
+msgctxt "menu_preferences"
+msgid "Search Settings"
+msgstr ""
+
+msgctxt "recent_dialog_buttonAppKiller"
+msgid "App Killer"
+msgstr ""
+
+msgctxt "recent_dialog_buttonAppKiller_summary"
+msgid ""
+"App Killer recovered %1$s of memory\n"
+"Memory available: %2$s"
+msgstr ""
+
+msgctxt "recent_dialog_buttonTaskManager"
+msgid "App Manager"
+msgstr ""
+
+msgctxt "search_engine_baidu"
+msgid "Baidu"
+msgstr ""
+
+msgctxt "search_engine_google"
+msgid "Google"
+msgstr ""
+
+msgctxt "search_engine_title"
+msgid "Select search engine"
+msgstr ""
+
+msgctxt "search_hint"
+msgid "Enter Keyword(s) To Search"
+msgstr ""
+
+#, python-format
+msgctxt "search_no_result_hint"
+msgid "No Result Found For \"%s\"."
+msgstr ""
+
+msgctxt "search_no_result_hint_line1"
+msgid "Check that the words are correctly spelled"
+msgstr ""
+
+msgctxt "search_no_result_hint_line2"
+msgid "Try with another keyword in your search"
+msgstr ""
+
+msgctxt "search_no_result_hint_line3"
+msgid "Try more general keywords"
+msgstr ""
+
+msgctxt "search_no_result_hint_suggistion"
+msgid "Search Tips:"
+msgstr ""
+
+msgctxt "search_recent_hint"
+msgid "Recently Searched"
+msgstr ""
+
+#, python-format
+msgctxt "search_result_header_hint_recent"
+msgid "Total of %d result(s) matched your search"
+msgstr ""
+
+#, python-format
+msgctxt "search_result_header_hint_search"
+msgid "Total of %d result(s) matched your search"
+msgstr ""
+
+msgctxt "search_sources"
+msgid "Search Settings"
+msgstr ""
+
+msgctxt "search_sources_summary"
+msgid "Choose the content to search on the device"
+msgstr ""
+
+msgctxt "search_threshold_infinite"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "search_threshold_ten"
+msgid "10"
+msgstr ""
+
+msgctxt "search_threshold_thirty"
+msgid "30"
+msgstr ""
+
+msgctxt "search_threshold_title"
+msgid "Maximum amount of search results per source"
+msgstr ""
+
+msgctxt "search_web"
+msgid "Search the web"
+msgstr ""
+
+msgctxt "sidekick_activity_label"
+msgid "SideKick"
+msgstr ""
+

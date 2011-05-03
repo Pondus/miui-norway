@@ -1,0 +1,305 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "all_apps"
+msgid "All Programs"
+msgstr ""
+
+msgctxt "android_system"
+msgid "Android System"
+msgstr ""
+
+msgctxt "app_detail"
+msgid "Program Details"
+msgstr ""
+
+msgctxt "app_have_delete"
+msgid "Deleted"
+msgstr ""
+
+msgctxt "app_name"
+msgid "Monitor"
+msgstr ""
+
+msgctxt "auto_turn_off_mobile"
+msgid "Turn off automatically"
+msgstr ""
+
+msgctxt "button_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "button_done"
+msgid "Done"
+msgstr ""
+
+msgctxt "call_time"
+msgid "Call time"
+msgstr ""
+
+msgctxt "clear_traffic"
+msgid "Clear Traffic"
+msgstr ""
+
+msgctxt "click_to_input"
+msgid "Click to input"
+msgstr ""
+
+msgctxt "confirm_clear"
+msgid "Are you sure you wish to clear traffic data?"
+msgstr ""
+
+msgctxt "confirm_disable_monitor"
+msgid ""
+"Disabling monitoring of traffic will reset the traffic stats, are you "
+"sure you want to continue?"
+msgstr ""
+
+msgctxt "day_unit"
+msgid "Day billing period commences"
+msgstr ""
+
+msgctxt "display_status_bar_notification"
+msgid "Show in notification bar"
+msgstr ""
+
+msgctxt "display_system_app"
+msgid "Display system apps"
+msgstr ""
+
+msgctxt "download"
+msgid "Download"
+msgstr ""
+
+#, python-format
+msgctxt "download_bytes"
+msgid "Downloaded %s"
+msgstr ""
+
+#, python-format
+msgctxt "duration"
+msgid "Log duration: %d/%d/%d - %d/%d/%d"
+msgstr ""
+
+#, python-format
+msgctxt "duration_days"
+msgid "%d days %d hours %d minutes"
+msgstr ""
+
+#, python-format
+msgctxt "duration_hours"
+msgid "%d hours %d minutes"
+msgstr ""
+
+#, python-format
+msgctxt "duration_minutes"
+msgid "%d minutes"
+msgstr ""
+
+msgctxt "exceed"
+msgid "\\u0020Exceeded\\u0020"
+msgstr ""
+
+msgctxt "firewall_hint"
+msgid "Monitor the apps on the basis of data traffic"
+msgstr ""
+
+msgctxt "first_traffic_day"
+msgid "Start of billing period"
+msgstr ""
+
+msgctxt "first_traffic_day_hint"
+msgid "Enter the day in which the billing period beings from, e.g. 1st = 1"
+msgstr ""
+
+msgctxt "fix_traffic"
+msgid "Reset traffic stats"
+msgstr ""
+
+msgctxt "force_stop"
+msgid "Force Stop"
+msgstr ""
+
+msgctxt "incoming_call"
+msgid "Incoming call"
+msgstr ""
+
+msgctxt "input_rules"
+msgid "Input cannot be 0 or a negative value"
+msgstr ""
+
+#, python-format
+msgctxt "latest_send_time"
+msgid "Last sent: %s"
+msgstr ""
+
+msgctxt "menu_display_system_app"
+msgid "Display system apps"
+msgstr ""
+
+msgctxt "menu_not_display_system_app"
+msgid "Hide system apps"
+msgstr ""
+
+msgctxt "menu_refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "menu_sort_by_name"
+msgid "Sort by Name"
+msgstr ""
+
+msgctxt "menu_sort_by_traffic"
+msgid "Sort by Traffic"
+msgstr ""
+
+#, python-format
+msgctxt "message_amount"
+msgid "Messages: %s"
+msgstr ""
+
+msgctxt "mobile"
+msgid "Data"
+msgstr ""
+
+msgctxt "mobile_package"
+msgid "Mobile Internet"
+msgstr ""
+
+msgctxt "mobile_traffic_limit"
+msgid "Traffic Limit"
+msgstr ""
+
+msgctxt "mobile_traffic_used"
+msgid "Reset Mobile Internet usage"
+msgstr ""
+
+msgctxt "mobile_unit"
+msgid "MB"
+msgstr ""
+
+#, python-format
+msgctxt "mobile_used_toast"
+msgid "%sMB has been used this month"
+msgstr ""
+
+msgctxt "monitor_settings"
+msgid "Preferences"
+msgstr ""
+
+msgctxt "network_monitor"
+msgid "Firewall"
+msgstr ""
+
+msgctxt "notify_threshold_exceed"
+msgid "Threshold limit exceeded!"
+msgstr ""
+
+msgctxt "no_sms"
+msgid "Message log is empty"
+msgstr ""
+
+msgctxt "outgoing_call"
+msgid "Outgoing"
+msgstr ""
+
+msgctxt "package_settings"
+msgid "Configure"
+msgstr ""
+
+msgctxt "refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "remain"
+msgid "\\u0020Left\\u0020"
+msgstr ""
+
+msgctxt "sent"
+msgid "\\u0020Sent\\u0020"
+msgstr ""
+
+msgctxt "settings"
+msgid "Configure"
+msgstr ""
+
+#, python-format
+msgctxt "sms_amount"
+msgid "%d total"
+msgstr ""
+
+#, python-format
+msgctxt "sms_have_send_number"
+msgid "Sent: %d Messages"
+msgstr ""
+
+msgctxt "sms_package"
+msgid "Messages"
+msgstr ""
+
+msgctxt "sms_traffic_limit"
+msgid "Traffic Limit"
+msgstr ""
+
+msgctxt "sms_traffic_used"
+msgid "Reset Message usage"
+msgstr ""
+
+msgctxt "sms_unit"
+msgid "\\u0020Messages"
+msgstr ""
+
+#, python-format
+msgctxt "sms_used_toast"
+msgid "%d Messages have been sent this month"
+msgstr ""
+
+msgctxt "threshold"
+msgid "\\u0020Alert\\u0020"
+msgstr ""
+
+msgctxt "traffic_data"
+msgid "Traffic"
+msgstr ""
+
+msgctxt "traffic_detail"
+msgid "Traffic details"
+msgstr ""
+
+msgctxt "traffic_sms_detials"
+msgid "Message Details"
+msgstr ""
+
+msgctxt "upload"
+msgid "Upload"
+msgstr ""
+
+#, python-format
+msgctxt "upload_bytes"
+msgid "Uploaded %s"
+msgstr ""
+
+msgctxt "used"
+msgid "Used\\u0020"
+msgstr ""
+
+msgctxt "wifi"
+msgid "Wi-Fi"
+msgstr ""
+
