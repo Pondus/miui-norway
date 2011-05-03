@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string-array name="animation">
-	<item>No animation</item>
-	<item>Fade</item>
-	<item>Dial</item>
-	<item>Page</item>
-	<item>Cascade</item>
-	<item>Rotation</item>
-	<item>3D Cube</item>
-	<item>Cover Flow</item>
-    </string-array>
 </resources>

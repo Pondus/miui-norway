@@ -1,32 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi Data</item>
-        <item>All Applications</item>
-    </string-array>
-    <string-array name="system_package_label">
-        <item>SMS and MMS</item>
-    </string-array>
-    <string-array name="system_data_label">
-        <item>Wi-Fi Settings</item>
-        <item>Desktop Screens</item> 
-        <item>Contacts</item>
-        <item>Call Records</item>
-	<item>SMS Records</item>
-    </string-array>
-    <string-array name="app_type_desc">
-        <item>(Data)</item>
-        <item>(Applications)</item>
-        <item>(Data + Applications)</item>
-    </string-array>
-<string-array name="restore_dialog_content_type">
-         <item>System Restore</item>
-         <item>Data Restore</item>
-     </string-array>
-     <string-array name="cloud_data_label">
-         <item>Wi-Fi settings</item>
-         <item>Contacts</item>
-         <item>Phone records</item>
-         <item>SMS Records</item>
-     </string-array>
 </resources>
