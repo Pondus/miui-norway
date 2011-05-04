@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-03 21:28+0200\n"
-"PO-Revision-Date: 2011-05-04 16:17+0100\n"
+"PO-Revision-Date: 2011-05-04 18:57+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
@@ -22,7 +22,7 @@ msgstr "Om telefonen"
 
 msgctxt "about_settings_summary"
 msgid "View legal info, phone status, software version"
-msgstr "View legal info, phone status, software version"
+msgstr "Vis juridisk informasjon, telefon status, programvare versjon"
 
 msgctxt "accelerometer_summary_off"
 msgid "Switch orientation automatically when rotating phone"
@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "accessibility_settings"
 msgid "Accessibility Settings"
-msgstr ""
+msgstr "Tilgjengellighets innstillinger"
 
 msgctxt "accessibility_settings_summary"
 msgid "Manage accessibility options"
@@ -87,11 +87,11 @@ msgstr ""
 
 msgctxt "active_device_admin_msg"
 msgid "Device administrator"
-msgstr ""
+msgstr "Enhets adminstrator"
 
 msgctxt "activity_picker_label"
 msgid "Select activity"
-msgstr ""
+msgstr "Velg aktivtet"
 
 msgctxt "adb_warning_message"
 msgid "USB debugging is intended for development purposes only. It can be used to copy data between your computer and your device, install applications on your device without notification, and read log data."
@@ -99,7 +99,7 @@ msgstr ""
 
 msgctxt "adb_warning_title"
 msgid "Allow USB debugging?"
-msgstr ""
+msgstr "Tillat USB debugging?"
 
 msgctxt "add_device_admin"
 msgid "Activate"
@@ -109,9 +109,10 @@ msgctxt "add_device_admin_msg"
 msgid "Activate device administrator?"
 msgstr ""
 
+# sikkerhetskopi/backup?
 msgctxt "add_new_backup"
 msgid "Make a new backup"
-msgstr ""
+msgstr "Lag en ny sikkerhetskopi"
 
 msgctxt "advanced_mode"
 msgid "Advanced mode"
@@ -159,11 +160,11 @@ msgstr ""
 
 msgctxt "animations_title"
 msgid "Animation"
-msgstr ""
+msgstr "Animasjon"
 
 msgctxt "apn_apn"
 msgid "APN"
-msgstr ""
+msgstr "APN"
 
 msgctxt "apn_auth_type"
 msgid "Authentication type"
@@ -171,59 +172,59 @@ msgstr ""
 
 msgctxt "apn_auth_type_chap"
 msgid "CHAP"
-msgstr ""
+msgstr "CHAP"
 
 msgctxt "apn_auth_type_none"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "apn_auth_type_pap"
 msgid "PAP"
-msgstr ""
+msgstr "PAP"
 
 msgctxt "apn_auth_type_pap_chap"
 msgid "PAP or CHAP"
-msgstr ""
+msgstr "PAP or CHAP"
 
 msgctxt "apn_edit"
 msgid "Edit access point"
-msgstr ""
+msgstr "Endre aksess punkt"
 
 msgctxt "apn_http_port"
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 msgctxt "apn_http_proxy"
 msgid "Proxy"
-msgstr ""
+msgstr "Proxy"
 
 msgctxt "apn_mcc"
 msgid "MCC"
-msgstr ""
+msgstr "MCC"
 
 msgctxt "apn_mmsc"
 msgid "MMSC"
-msgstr ""
+msgstr "MMSC"
 
 msgctxt "apn_mms_port"
 msgid "MMS port"
-msgstr ""
+msgstr "MMS port"
 
 msgctxt "apn_mms_proxy"
 msgid "MMS proxy"
-msgstr ""
+msgstr "MMS proxy"
 
 msgctxt "apn_mnc"
 msgid "MNC"
-msgstr ""
+msgstr "MNC"
 
 msgctxt "apn_name"
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 msgctxt "apn_not_set"
 msgid "&lt;Not set&gt;"
-msgstr ""
+msgstr "&lt;Ikke satt&gt;"
 
 msgctxt "apn_password"
 msgid "Password"
@@ -231,27 +232,27 @@ msgstr "Passord"
 
 msgctxt "apn_server"
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 msgctxt "apn_settings"
 msgid "APNs"
-msgstr ""
+msgstr "APNs"
 
 msgctxt "apn_type"
 msgid "APN type"
-msgstr ""
+msgstr "APN type"
 
 msgctxt "apn_user"
 msgid "Username"
-msgstr ""
+msgstr "Brukernavn"
 
 msgctxt "applications_settings"
 msgid "Applications"
-msgstr ""
+msgstr "Applikasjoner"
 
 msgctxt "applications_settings_header"
 msgid "Application Settings"
-msgstr ""
+msgstr "Applikasjon innstillinger"
 
 msgctxt "applications_settings_summary"
 msgid "Manage applications, set up quick launch shortcuts"
@@ -259,15 +260,15 @@ msgstr ""
 
 msgctxt "application_info_label"
 msgid "Application Info"
-msgstr ""
+msgstr "Applikasjon info"
 
 msgctxt "application_size_label"
 msgid "Application"
-msgstr ""
+msgstr "Applikasjon"
 
 msgctxt "app_factory_reset"
 msgid "Uninstall updates"
-msgstr ""
+msgstr "Avinstaller oppdateringer"
 
 msgctxt "app_factory_reset_dlg_text"
 msgid "Do you want to uninstall all updates to this Android system application?"
@@ -275,11 +276,11 @@ msgstr ""
 
 msgctxt "app_factory_reset_dlg_title"
 msgid "Uninstall updates"
-msgstr ""
+msgstr "Avinstaller oppdateringer"
 
 msgctxt "app_forward_locked"
 msgid "The application is copy-protected."
-msgstr ""
+msgstr "Denne applikasjon er kopibeskyttet"
 
 msgctxt "app_icon_background_title"
 msgid "Icon Backgrounds on Homescreen"
@@ -303,7 +304,7 @@ msgstr ""
 
 msgctxt "app_not_found_dlg_title"
 msgid "Application not found"
-msgstr ""
+msgstr "Applikasjon ikke funnet"
 
 msgctxt "ask_user_usb_mode"
 msgid "Ask on connection"
@@ -355,7 +356,7 @@ msgstr ""
 
 msgctxt "auto_launch_label"
 msgid "Launch by default"
-msgstr ""
+msgstr "Start som standard"
 
 msgctxt "auto_punctuate"
 msgid "Auto-punctuate"
@@ -403,7 +404,7 @@ msgstr ""
 
 msgctxt "backup_data_title"
 msgid "Backup my data"
-msgstr ""
+msgstr "Backup mine data"
 
 msgctxt "backup_erase_dialog_message"
 msgid "Are you sure you want to stop backing up your settings and application data and erase all copies on Google servers?"
@@ -429,23 +430,23 @@ msgstr ""
 
 msgctxt "band_mode_failed"
 msgid "Unsuccessful"
-msgstr ""
+msgstr "Mislykket"
 
 msgctxt "band_mode_loading"
 msgid "Loading band list..."
-msgstr ""
+msgstr "Laster liste over bånd..."
 
 msgctxt "band_mode_set"
 msgid "Set"
-msgstr ""
+msgstr "Sett"
 
 msgctxt "band_mode_succeeded"
 msgid "Successful"
-msgstr ""
+msgstr "Vellykket"
 
 msgctxt "band_mode_title"
 msgid "Set GSM/UMTS band"
-msgstr ""
+msgstr "Sett GSM/UTMS bånd"
 
 msgctxt "baseband_version"
 msgid "Baseband version"
@@ -453,11 +454,11 @@ msgstr ""
 
 msgctxt "battery_action_app_details"
 msgid "Application Info"
-msgstr ""
+msgstr "Applikasjons info"
 
 msgctxt "battery_action_app_settings"
 msgid "Application Settings"
-msgstr ""
+msgstr "Applikasjon innstillinger"
 
 msgctxt "battery_action_bluetooth"
 msgid "Bluetooth Settings"
@@ -465,7 +466,7 @@ msgstr "Bluetooth Innstilinger"
 
 msgctxt "battery_action_display"
 msgid "Display Settings"
-msgstr ""
+msgstr "Skjerm innstillinger"
 
 msgctxt "battery_action_stop"
 msgid "Force stop"
@@ -508,7 +509,7 @@ msgstr ""
 
 msgctxt "battery_auto_saving_rule_apn"
 msgid "Disable mobile data"
-msgstr ""
+msgstr "Skru av mobil data"
 
 msgctxt "battery_auto_saving_rule_apn_summary"
 msgid "Disable mobile networks such as GPRS and 3G."
@@ -516,7 +517,7 @@ msgstr ""
 
 msgctxt "battery_auto_saving_rule_auto_sync"
 msgid "Disable sync"
-msgstr ""
+msgstr "Skru av syncing"
 
 msgctxt "battery_auto_saving_rule_auto_sync_summary"
 msgid "Disable syncing of contacts, mail, etc."
@@ -524,7 +525,7 @@ msgstr ""
 
 msgctxt "battery_auto_saving_rule_background_data"
 msgid "Disable BG data transfer"
-msgstr ""
+msgstr "Skru av bakgrunns overføring"
 
 msgctxt "battery_auto_saving_rule_background_data_summary"
 msgid "Reduces power draw and data charges."
@@ -532,7 +533,7 @@ msgstr ""
 
 msgctxt "battery_auto_saving_rule_bluetooth"
 msgid "Disable bluetooth"
-msgstr ""
+msgstr "Skru av bluetooth"
 
 msgctxt "battery_auto_saving_rule_bluetooth_summary"
 msgid "Can drastically reduce power draw."
@@ -556,11 +557,11 @@ msgstr ""
 
 msgctxt "battery_auto_saving_rule_gps"
 msgid "Disable GPS"
-msgstr ""
+msgstr "Skru av GPS"
 
 msgctxt "battery_auto_saving_rule_gps_summary"
 msgid "Disable background usage of GPS."
-msgstr ""
+msgstr "Skru av bakgrunns bruk av GPS."
 
 msgctxt "battery_auto_saving_rule_haptic"
 msgid "Disable haptic feedback"
@@ -580,7 +581,7 @@ msgstr ""
 
 msgctxt "battery_auto_saving_rule_vibrate"
 msgid "Disable vibrations"
-msgstr ""
+msgstr "Skru av vibrasjoner"
 
 msgctxt "battery_auto_saving_rule_vibrate_summary"
 msgid "Vibrations do not consume much power under normal usage."
@@ -588,7 +589,7 @@ msgstr ""
 
 msgctxt "battery_auto_saving_rule_wallpaper"
 msgid "Disable live wallpapers"
-msgstr ""
+msgstr "Skru av live wallpapers"
 
 msgctxt "battery_auto_saving_rule_wallpaper_summary"
 msgid "Live Wallpapers are significant source of power draw and may cause system lag."
@@ -616,19 +617,20 @@ msgstr ""
 
 msgctxt "battery_desc_bluetooth"
 msgid "Battery used by bluetooth"
-msgstr ""
+msgstr "Batteri brukt av bluetooth"
 
 msgctxt "battery_desc_display"
 msgid "Battery used by the display and backlight"
 msgstr ""
 
+#, fuzzy
 msgctxt "battery_desc_radio"
 msgid "Battery used by cell radio"
-msgstr ""
+msgstr "Batteri brukt av cell radio"
 
 msgctxt "battery_desc_standby"
 msgid "Battery used when phone is idle"
-msgstr ""
+msgstr "Batteri brukt når telefon ikke er i brukt"
 
 msgctxt "battery_desc_voice"
 msgid "Battery used by voice calls"
@@ -636,7 +638,7 @@ msgstr ""
 
 msgctxt "battery_desc_wifi"
 msgid "Battery used by Wi-Fi"
-msgstr ""
+msgstr "Batteri brukt av Wi-Fi"
 
 msgctxt "battery_history_awake"
 msgid "Time spent without sleeping:"
@@ -644,23 +646,24 @@ msgstr ""
 
 msgctxt "battery_history_awake_label"
 msgid "Running"
-msgstr ""
+msgstr "Kjører"
 
 msgctxt "battery_history_bytes_received"
 msgid "Bytes received: %1$d"
-msgstr ""
+msgstr "Bytes mottatt: %1$d"
 
 msgctxt "battery_history_bytes_sent"
 msgid "Bytes sent: %1$d"
-msgstr ""
+msgstr "Bytes sent: %1$d"
 
 msgctxt "battery_history_bytes_total"
 msgid "Total bytes: %1$d"
-msgstr ""
+msgstr "Antall bytes: %1$d"
 
+#, fuzzy
 msgctxt "battery_history_cpu_usage"
 msgid "CPU usage details for %1$s:"
-msgstr ""
+msgstr "Bruk av CPU for %1$s:"
 
 msgctxt "battery_history_days"
 msgid "%1$dd %2$dh %3$dm %4$ds"
@@ -701,7 +704,7 @@ msgstr ""
 
 msgctxt "battery_history_phone_on_label"
 msgid "Phone on"
-msgstr ""
+msgstr "Telefon på"
 
 msgctxt "battery_history_screen_on"
 msgid "Time spent with screen on:"
@@ -805,7 +808,7 @@ msgstr "Ukjent feil"
 
 msgctxt "battery_info_label"
 msgid "Battery info"
-msgstr ""
+msgstr "Batteri info"
 
 msgctxt "battery_info_level_label"
 msgid "Battery level:"
@@ -825,7 +828,7 @@ msgstr ""
 
 msgctxt "battery_info_power_unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "battery_info_power_unplugged"
 msgid "Unplugged"
@@ -845,7 +848,7 @@ msgstr ""
 
 msgctxt "battery_info_status_charging"
 msgid "Charging"
-msgstr ""
+msgstr "Lader"
 
 msgctxt "battery_info_status_charging_ac"
 msgid "(AC)"
@@ -861,15 +864,15 @@ msgstr ""
 
 msgctxt "battery_info_status_full"
 msgid "Full"
-msgstr ""
+msgstr "Full"
 
 msgctxt "battery_info_status_label"
 msgid "Battery status:"
-msgstr ""
+msgstr "Batteri status:"
 
 msgctxt "battery_info_status_not_charging"
 msgid "Not charging"
-msgstr ""
+msgstr "Lader ikke"
 
 msgctxt "battery_info_status_unknown"
 msgid "Unknown"
@@ -885,7 +888,7 @@ msgstr ""
 
 msgctxt "battery_info_temperature_units"
 msgid "°C"
-msgstr ""
+msgstr "°C"
 
 msgctxt "battery_info_uptime"
 msgid "Time since boot:"
@@ -897,7 +900,7 @@ msgstr ""
 
 msgctxt "battery_info_voltage_units"
 msgid "mV"
-msgstr ""
+msgstr "mV"
 
 #, python-format
 msgctxt "battery_level"
@@ -946,7 +949,7 @@ msgstr ""
 
 msgctxt "battery_stats_charging_label"
 msgid "Charging"
-msgstr ""
+msgstr "Lader"
 
 msgctxt "battery_stats_duration"
 msgid "%1$s since unplugged"
@@ -954,7 +957,7 @@ msgstr ""
 
 msgctxt "battery_stats_gps_on_label"
 msgid "GPS is on"
-msgstr ""
+msgstr "GPS er på"
 
 msgctxt "battery_stats_on_battery"
 msgid "Battery has been lasting for %1$s now"
@@ -966,7 +969,7 @@ msgstr ""
 
 msgctxt "battery_stats_screen_on_label"
 msgid "Screen is on"
-msgstr ""
+msgstr "Skjerm er på"
 
 msgctxt "battery_stats_wake_lock_label"
 msgid "Awake"
@@ -978,7 +981,7 @@ msgstr "Wi-Fi"
 
 msgctxt "battery_status_title"
 msgid "Battery status"
-msgstr ""
+msgstr "Batteru statys"
 
 msgctxt "battery_sugg_apps_gps"
 msgid "Turn off GPS when you're not using it"
@@ -986,7 +989,7 @@ msgstr ""
 
 msgctxt "battery_sugg_apps_info"
 msgid "Stop or uninstall the application"
-msgstr ""
+msgstr "Stop eller avinstaller applikasjon"
 
 msgctxt "battery_sugg_apps_settings"
 msgid "The application may offer settings to reduce battery use"
@@ -998,7 +1001,7 @@ msgstr ""
 
 msgctxt "battery_sugg_bluetooth_headset"
 msgid "Try connecting to a different bluetooth device"
-msgstr ""
+msgstr "Prøv å koble til en annen bluetooth enhet"
 
 msgctxt "battery_sugg_display"
 msgid "Reduce the screen brightness and/or screen timeout"
@@ -1042,11 +1045,11 @@ msgstr ""
 
 msgctxt "bluetooth_connected"
 msgid "Connected"
-msgstr ""
+msgstr "Koblet til"
 
 msgctxt "bluetooth_connecting"
 msgid "Connecting..."
-msgstr ""
+msgstr "Kobler til..."
 
 msgctxt "bluetooth_connecting_error_message"
 msgid "There was a problem connecting to %1$s."
@@ -1054,7 +1057,7 @@ msgstr ""
 
 msgctxt "bluetooth_connect_specific_profiles_title"
 msgid "Connect to..."
-msgstr ""
+msgstr "Koble til..."
 
 msgctxt "bluetooth_device"
 msgid "handsfree/headset"
@@ -1062,35 +1065,35 @@ msgstr ""
 
 msgctxt "bluetooth_devices"
 msgid "Bluetooth devices"
-msgstr ""
+msgstr "Bluetooth enheter"
 
 msgctxt "bluetooth_device_advanced_online_mode_summary"
 msgid "Connect to Bluetooth device"
-msgstr ""
+msgstr "Koble til Bluetooth enhet"
 
 msgctxt "bluetooth_device_advanced_online_mode_title"
 msgid "Connect"
-msgstr ""
+msgstr "Koble til"
 
 msgctxt "bluetooth_device_advanced_profile_header_title"
 msgid "Profiles"
-msgstr ""
+msgstr "Profiler"
 
 msgctxt "bluetooth_device_advanced_title"
 msgid "%1$s options"
-msgstr ""
+msgstr "%1$s valg"
 
 msgctxt "bluetooth_device_context_connect"
 msgid "Connect"
-msgstr ""
+msgstr "Koble til"
 
 msgctxt "bluetooth_device_context_connect_advanced"
 msgid "Options..."
-msgstr ""
+msgstr "Valg..."
 
 msgctxt "bluetooth_device_context_disconnect"
 msgid "Disconnect"
-msgstr ""
+msgstr "Koble fra"
 
 msgctxt "bluetooth_device_context_disconnect_unpair"
 msgid "Disconnect & un-pair"
@@ -1106,23 +1109,24 @@ msgstr ""
 
 msgctxt "bluetooth_device_info"
 msgid "Bluetooth device info"
-msgstr ""
+msgstr "Bluetooth enhet info"
 
+#, fuzzy
 msgctxt "bluetooth_device_info_alias"
 msgid "Device alias"
-msgstr ""
+msgstr "Enhetens navn"
 
 msgctxt "bluetooth_device_info_connectButton_text"
 msgid "Turn on Bluetooth"
-msgstr ""
+msgstr "Skru på Bluetooth"
 
 msgctxt "bluetooth_device_info_delete"
 msgid "Remove this device"
-msgstr ""
+msgstr "Fjerne denne enheten"
 
 msgctxt "bluetooth_device_info_no_alias"
 msgid "Type alias here…"
-msgstr ""
+msgstr "Tast navn her..."
 
 msgctxt "bluetooth_device_info_sdp"
 msgid "List supported services"
@@ -1130,19 +1134,19 @@ msgstr ""
 
 msgctxt "bluetooth_device_name"
 msgid "Device name"
-msgstr ""
+msgstr "Enhetens navn"
 
 msgctxt "bluetooth_disconnected"
 msgid "Disconnected"
-msgstr ""
+msgstr "Frakoblet"
 
 msgctxt "bluetooth_disconnecting"
 msgid "Disconnecting..."
-msgstr ""
+msgstr "Kobler fra..."
 
 msgctxt "bluetooth_disconnect_blank"
 msgid "%1$s will be disconnected."
-msgstr ""
+msgstr "%1$s vil ble frakoblet."
 
 msgctxt "bluetooth_display_passkey_msg"
 msgid "Enter %2$s on \"%1$s\" to pair."
@@ -1162,7 +1166,7 @@ msgstr ""
 
 msgctxt "bluetooth_dock_settings_remember"
 msgid "Remember settings"
-msgstr ""
+msgstr "Husk innstillinger"
 
 msgctxt "bluetooth_dock_settings_title"
 msgid "Use dock for audio"
@@ -1296,7 +1300,7 @@ msgstr ""
 
 msgctxt "bluetooth_preference_scan_title"
 msgid "Scan for devices"
-msgstr ""
+msgstr "Søk etter enheter"
 
 msgctxt "bluetooth_profile_a2dp"
 msgid "Media"
@@ -1304,7 +1308,7 @@ msgstr ""
 
 msgctxt "bluetooth_profile_headset"
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 msgctxt "bluetooth_profile_opp"
 msgid "Transfer"
@@ -1312,11 +1316,11 @@ msgstr ""
 
 msgctxt "bluetooth_quick_toggle_summary"
 msgid "Turn on Bluetooth"
-msgstr ""
+msgstr "Skru på Bluetooth"
 
 msgctxt "bluetooth_quick_toggle_title"
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgctxt "bluetooth_remote_device"
 msgid "Remote Bluetooth device"
@@ -1324,7 +1328,7 @@ msgstr ""
 
 msgctxt "bluetooth_scan_for_devices"
 msgid "Scan for devices"
-msgstr ""
+msgstr "Søk etter enheter"
 
 msgctxt "bluetooth_scan_text"
 msgid "Empty button…"
@@ -1332,7 +1336,7 @@ msgstr ""
 
 msgctxt "bluetooth_settings"
 msgid "Bluetooth Settings"
-msgstr ""
+msgstr "Bluetooth innstillinger"
 
 msgctxt "bluetooth_settings_summary"
 msgid "Manage connections, set device name & discoverability"
@@ -1344,7 +1348,7 @@ msgstr ""
 
 msgctxt "bluetooth_settings_title"
 msgid "Bluetooth Settings"
-msgstr ""
+msgstr "Bluetooth innstillinger"
 
 msgctxt "bluetooth_summary_connected_to_a2dp"
 msgid "Connected to media audio"
@@ -1360,7 +1364,7 @@ msgstr ""
 
 msgctxt "bluetooth_turning_on"
 msgid "Turning on Bluetooth…"
-msgstr ""
+msgstr "Skrur på Bluetooth..."
 
 msgctxt "bluetooth_visibility"
 msgid "Discoverable"
@@ -1392,11 +1396,11 @@ msgstr ""
 
 msgctxt "browser_settings_title"
 msgid "Browser Settings"
-msgstr ""
+msgstr "Nettleser innstillinger"
 
 msgctxt "bssid_label"
 msgid "BSSID :"
-msgstr ""
+msgstr "BSSID :"
 
 msgctxt "build_number"
 msgid "Build number"
@@ -1412,11 +1416,11 @@ msgstr ""
 
 msgctxt "button_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "button_done"
 msgid "Done"
-msgstr ""
+msgstr "Klar"
 
 msgctxt "cached"
 msgid "Cached background process"
@@ -1424,19 +1428,20 @@ msgstr ""
 
 msgctxt "cache_header_label"
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgctxt "cache_size_label"
 msgid "Cache size"
-msgstr ""
+msgstr "Cache størrelse"
 
 msgctxt "calendar_settings_title"
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Kalender innstillinger"
 
+#, fuzzy
 msgctxt "call_settings_summary"
 msgid "Set up voicemail, call forwarding, call waiting, caller ID"
-msgstr ""
+msgstr "Sett opp voicemail, call forwarding, call waiting, caller ID"
 
 msgctxt "call_settings_title"
 msgid "Call Settings"
@@ -1444,7 +1449,7 @@ msgstr ""
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "carrier_settings_title"
 msgid "Mobile Network Settings"
@@ -1460,21 +1465,18 @@ msgstr ""
 
 msgctxt "choose_ringtone"
 msgid "Select ringtone"
-msgstr ""
+msgstr "Velg ringetone"
 
 msgctxt "choose_timezone"
 msgid "Select time zone"
-msgstr ""
+msgstr "Velg tidssone"
 
 msgctxt "choose_wallpaper"
 msgid "Choose wallpaper"
-msgstr ""
+msgstr "Velg bakgrunn"
 
 msgctxt "cit_accelermeter_sensor_check_summary"
-msgid ""
-"Fast moving in one direction, the screen will display X, Y, Z three "
-"directions of acceleration (Note: When the phone is turned round the "
-"values will change based on orientation"
+msgid "Fast moving in one direction, the screen will display X, Y, Z three directions of acceleration (Note: When the phone is turned round the values will change based on orientation"
 msgstr ""
 
 msgctxt "cit_accelermeter_sensor_check_title"
@@ -1499,11 +1501,11 @@ msgstr ""
 
 msgctxt "cit_audio_loopback_next"
 msgid "Next"
-msgstr ""
+msgstr "Neste"
 
 msgctxt "cit_audio_loopback_previous"
 msgid "Back"
-msgstr ""
+msgstr "Tilbake"
 
 msgctxt "cit_bluetooth_address_open_error"
 msgid "Unable to find Bluetooth device or address was not found"
@@ -1529,9 +1531,10 @@ msgctxt "cit_bluetooth_scanning_opening_bluetooth"
 msgid "Opening Bluetooth device..."
 msgstr ""
 
+#, fuzzy
 msgctxt "cit_bluetooth_scan_retry"
 msgid "Re-scan"
-msgstr ""
+msgstr "Re-skann"
 
 msgctxt "cit_blue_tooth_address_check_summary"
 msgid "The following Bluetooth information was found"
@@ -1555,7 +1558,7 @@ msgstr ""
 
 msgctxt "cit_charger_plugin_check_title"
 msgid "Check charger"
-msgstr ""
+msgstr "Sjekk laderen"
 
 msgctxt "cit_charger_plugout_check_summary"
 msgid "Unplugging and re-inserting the charger cable will perform the test"
@@ -1575,7 +1578,7 @@ msgstr ""
 
 msgctxt "cit_fail"
 msgid "Failed"
-msgstr ""
+msgstr "Feilet"
 
 msgctxt "cit_headset_button_check_summary"
 msgid "Check headset, press headset button will display the key name"
@@ -1587,7 +1590,7 @@ msgstr ""
 
 msgctxt "cit_headset_button_click"
 msgid "Click"
-msgstr ""
+msgstr "Klikk"
 
 msgctxt "cit_headset_button_fast_forward"
 msgid "Fast forward"
@@ -1595,15 +1598,15 @@ msgstr ""
 
 msgctxt "cit_headset_button_next"
 msgid "Next"
-msgstr ""
+msgstr "Neste"
 
 msgctxt "cit_headset_button_pause_play"
 msgid "Play / Pause"
-msgstr ""
+msgstr "Spill / Pause"
 
 msgctxt "cit_headset_button_previous"
 msgid "Back"
-msgstr ""
+msgstr "Tilbake"
 
 msgctxt "cit_headset_button_rewind"
 msgid "Rewind"
@@ -1611,11 +1614,11 @@ msgstr ""
 
 msgctxt "cit_headset_button_stop"
 msgid "Stop"
-msgstr ""
+msgstr "Stopp"
 
 msgctxt "cit_headset_button_unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "cit_headset_loopback_check_summary"
 msgid "Microphone loopback test"
@@ -1639,7 +1642,7 @@ msgstr ""
 
 msgctxt "cit_headset_plug_hint"
 msgid "Please insert headset"
-msgstr ""
+msgstr "Sett inn headset"
 
 msgctxt "cit_headset_pull_detect_summary"
 msgid "Check the headset is connected"
@@ -1659,17 +1662,15 @@ msgstr ""
 
 msgctxt "cit_hide_menu"
 msgid "Close"
-msgstr ""
+msgstr "Lukk"
 
 msgctxt "cit_keyboard_test_summary"
-msgid ""
-"Shows the currently selected key, this test does not check the home key "
-"or hardware buttons"
+msgid "Shows the currently selected key, this test does not check the home key or hardware buttons"
 msgstr ""
 
 msgctxt "cit_keyboard_test_title"
 msgid "Check keyboard"
-msgstr ""
+msgstr "Sjekk tastatur"
 
 msgctxt "cit_light_sensor_check_summary"
 msgid "The following light sensor DAC information was found"
@@ -1689,7 +1690,7 @@ msgstr ""
 
 msgctxt "cit_name"
 msgid "Factory test"
-msgstr ""
+msgstr "Fabrikk test"
 
 msgctxt "cit_pass"
 msgid "Passed"
@@ -1697,12 +1698,10 @@ msgstr ""
 
 msgctxt "cit_playing_sd_mp3"
 msgid "MP3 playing..."
-msgstr ""
+msgstr "MP3 spilles..."
 
 msgctxt "cit_play_sd_mp3_summary"
-msgid ""
-"Test will play the file named music.mp3 located in the root folder of the"
-" SD card"
+msgid "Test will play the file named music.mp3 located in the root folder of the SD card"
 msgstr ""
 
 msgctxt "cit_play_sd_mp3_title"
@@ -1714,9 +1713,7 @@ msgid "Check touchscreen cursor / pointer"
 msgstr ""
 
 msgctxt "cit_proximity_sensor_check_summary"
-msgid ""
-"Cover the phones proximity sensor by hand, information displayed is near "
-"to far from 0.0 upwards"
+msgid "Cover the phones proximity sensor by hand, information displayed is near to far from 0.0 upwards"
 msgstr ""
 
 msgctxt "cit_proximity_sensor_check_title"
@@ -1793,7 +1790,7 @@ msgstr ""
 
 msgctxt "cit_sim_check_summary"
 msgid "Check SIM status"
-msgstr ""
+msgstr "Sjekk SIM status"
 
 msgctxt "cit_sim_check_title"
 msgid "SIM status info:"
@@ -1801,23 +1798,23 @@ msgstr ""
 
 msgctxt "cit_sim_error_unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "cit_sim_network_operator"
 msgid "Network operator:"
-msgstr ""
+msgstr "Nettverks operatør"
 
 msgctxt "cit_sim_network_operator_name"
 msgid "Operator name:"
-msgstr ""
+msgstr "Operatør navn:"
 
 msgctxt "cit_sim_network_type"
 msgid "Network type:"
-msgstr ""
+msgstr "Nettverk type:"
 
 msgctxt "cit_sim_serial_number"
 msgid "SIM id:"
-msgstr ""
+msgstr "SIM id:"
 
 msgctxt "cit_sim_sim_country"
 msgid "SIM origin:"
@@ -1833,7 +1830,7 @@ msgstr ""
 
 msgctxt "cit_sim_state_absent"
 msgid "No SIM card found"
-msgstr ""
+msgstr "Ingen SIM kort funnet"
 
 msgctxt "cit_sim_state_network_locked"
 msgid "Network PIN Lock"
@@ -1841,15 +1838,15 @@ msgstr ""
 
 msgctxt "cit_sim_state_pin_required"
 msgid "PIN code required"
-msgstr ""
+msgstr "PIN kode kreves"
 
 msgctxt "cit_sim_state_puk_required"
 msgid "PUK code required"
-msgstr ""
+msgstr "PUK kode kreves"
 
 msgctxt "cit_sim_state_ready"
 msgid "SIM card ready"
-msgstr ""
+msgstr "SIM kort klart"
 
 msgctxt "cit_sim_state_unkown"
 msgid "Unknown state"
@@ -1857,11 +1854,11 @@ msgstr ""
 
 msgctxt "cit_usb_charger_in"
 msgid "USB charger connected"
-msgstr ""
+msgstr "USB lader tilkoblet"
 
 msgctxt "cit_usb_charger_out"
 msgid "USB charger unplugged"
-msgstr ""
+msgstr "USB lader frakoblet"
 
 msgctxt "cit_version_check_summary"
 msgid "The following hardware and software versions where found"
@@ -1869,7 +1866,7 @@ msgstr ""
 
 msgctxt "cit_version_check_title"
 msgid "Check version"
-msgstr ""
+msgstr "Sjekk versjon"
 
 msgctxt "cit_vibrator_check_summary"
 msgid "Check vibration settings including haptic feedback"
@@ -1877,7 +1874,7 @@ msgstr ""
 
 msgctxt "cit_vibrator_check_title"
 msgid "Check vibration"
-msgstr ""
+msgstr "Sjekk vibrasjon"
 
 msgctxt "cit_vibrator_long"
 msgid "Long vibrate"
@@ -1893,7 +1890,7 @@ msgstr ""
 
 msgctxt "cit_wifi_address_check_title"
 msgid "Check Wi-Fi address"
-msgstr ""
+msgstr "Sjekk Wi-Fi addresse"
 
 msgctxt "cit_wifi_address_error"
 msgid "Unable to obtain IP address, check Wi-Fi is enabled"
@@ -1901,7 +1898,7 @@ msgstr ""
 
 msgctxt "cit_wifi_ap_scanning"
 msgid "Scanning for Access Points..."
-msgstr ""
+msgstr "Skanner for aksesspunkt..."
 
 msgctxt "cit_wifi_ap_scan_check_summary"
 msgid "The following Access Points where found"
@@ -1909,15 +1906,15 @@ msgstr ""
 
 msgctxt "cit_wifi_ap_scan_check_title"
 msgid "Find Wi-Fi Access Point"
-msgstr ""
+msgstr "Find Wi-FI aksess punkt"
 
 msgctxt "cit_wifi_ap_scan_retry"
 msgid "Re-scan"
-msgstr ""
+msgstr "Re-skann"
 
 msgctxt "cit_wifi_state_refresh"
 msgid "Refresh"
-msgstr ""
+msgstr "Refresh"
 
 msgctxt "clear_activities"
 msgid "Clear defaults"
@@ -1933,7 +1930,7 @@ msgstr ""
 
 msgctxt "clear_data_dlg_title"
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 msgctxt "clear_data_failed"
 msgid "Unable to clear application data."
@@ -1965,23 +1962,23 @@ msgstr ""
 
 msgctxt "compatibility_mode_label"
 msgid "Compatibility mode"
-msgstr ""
+msgstr "Kompabillitetsmodus"
 
 msgctxt "compatibility_mode_summery_off"
 msgid "This application runs in default mode."
-msgstr ""
+msgstr "Denne applikasjonen kjører i standard modus."
 
 msgctxt "compatibility_mode_summery_on"
 msgid "This application runs in compatibility mode."
-msgstr ""
+msgstr "Denne applikasjonen kjører i kompabillitetsmodus."
 
 msgctxt "compatibility_mode_toggle_off"
 msgid "Turn off"
-msgstr ""
+msgstr "Skru av"
 
 msgctxt "compatibility_mode_toggle_on"
 msgid "Turn on"
-msgstr ""
+msgstr "Skru på"
 
 msgctxt "computing_size"
 msgid "Computing..."
@@ -1989,7 +1986,7 @@ msgstr ""
 
 msgctxt "config_list_label"
 msgid "Configured Networks"
-msgstr ""
+msgstr "Konfigurerer nettverk"
 
 msgctxt "contributors_title"
 msgid "Contributors"
@@ -2005,7 +2002,7 @@ msgstr ""
 
 msgctxt "copyright_title"
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 msgctxt "cpu_usage_chart"
 msgid "CPU usage history"
@@ -2025,7 +2022,7 @@ msgstr ""
 
 msgctxt "credentials_confirm_password"
 msgid "Confirm new password:"
-msgstr ""
+msgstr "Godkjenn nytt passord:"
 
 msgctxt "credentials_disabled"
 msgid "Credential storage is disabled."
@@ -2045,7 +2042,7 @@ msgstr ""
 
 msgctxt "credentials_install_certificates"
 msgid "Install from SD card"
-msgstr ""
+msgstr "Installer fra SD kort"
 
 msgctxt "credentials_install_certificates_summary"
 msgid "Install encrypted certificates from SD card"
@@ -2053,11 +2050,11 @@ msgstr ""
 
 msgctxt "credentials_new_password"
 msgid "New password:"
-msgstr ""
+msgstr "Nytt passord:"
 
 msgctxt "credentials_old_password"
 msgid "Current password:"
-msgstr ""
+msgstr "Gammelt passord:"
 
 msgctxt "credentials_passwords_empty"
 msgid "You must enter and confirm a password."
@@ -2065,7 +2062,7 @@ msgstr ""
 
 msgctxt "credentials_passwords_mismatch"
 msgid "Passwords do not match."
-msgstr ""
+msgstr "Passordene stemmer ikke."
 
 msgctxt "credentials_password_empty"
 msgid "Please enter the password."
@@ -2097,7 +2094,7 @@ msgstr ""
 
 msgctxt "credentials_set_password"
 msgid "Set password"
-msgstr ""
+msgstr "Sett passord"
 
 msgctxt "credentials_set_password_summary"
 msgid "Set or change the credential storage password"
@@ -2122,11 +2119,12 @@ msgstr ""
 #, python-format
 msgctxt "current_version"
 msgid "Current version: %s"
-msgstr ""
+msgstr "Gjeldende version: %s"
 
+#, fuzzy
 msgctxt "customized_theme_title"
 msgid "Theme Manager"
-msgstr ""
+msgstr "Tema innstillinger"
 
 msgctxt "data_backup_settings"
 msgid "Backup Data & Settings"
@@ -2142,35 +2140,35 @@ msgstr ""
 
 msgctxt "data_size_label"
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgctxt "date_and_time"
 msgid "Date & Time Settings"
-msgstr ""
+msgstr "Dato og tid innstillinger"
 
 msgctxt "date_and_time_settings_summary"
 msgid "Set date, time, time zone & formats"
-msgstr ""
+msgstr "Sett date, tid, tidssoner & formater"
 
 msgctxt "date_and_time_settings_title"
 msgid "Date & Time Settings"
-msgstr ""
+msgstr "Dato og tid innstillinger"
 
 msgctxt "date_time_12_hour_sample"
 msgid "1:00 pm"
-msgstr ""
+msgstr "1:00 pm"
 
 msgctxt "date_time_24hour"
 msgid "Use 24-hour format"
-msgstr ""
+msgstr "Bruk 24-timers format"
 
 msgctxt "date_time_24_hour_sample"
 msgid "13:00"
-msgstr ""
+msgstr "13:00"
 
 msgctxt "date_time_auto"
 msgid "Automatic"
-msgstr ""
+msgstr "Automatisk"
 
 msgctxt "date_time_auto_summaryOff"
 msgid "Use network-provided values"
@@ -2182,27 +2180,27 @@ msgstr ""
 
 msgctxt "date_time_changeDate_text"
 msgid "Date"
-msgstr ""
+msgstr "Dato"
 
 msgctxt "date_time_changeTime_text"
 msgid "Change time"
-msgstr ""
+msgstr "Endre tid"
 
 msgctxt "date_time_date_format"
 msgid "Select date format"
-msgstr ""
+msgstr "Endre dato format"
 
 msgctxt "date_time_set_date"
 msgid "Set date"
-msgstr ""
+msgstr "Endre dato"
 
 msgctxt "date_time_set_time"
 msgid "Set time"
-msgstr ""
+msgstr "Endre tid"
 
 msgctxt "date_time_set_timezone"
 msgid "Select time zone"
-msgstr ""
+msgstr "Endre tidssone"
 
 msgctxt "debug_intent_sender_label"
 msgid "Debug intent sender"
@@ -2222,7 +2220,7 @@ msgstr ""
 
 msgctxt "default_date_format"
 msgid "MM/dd/yyyy"
-msgstr ""
+msgstr "MM/dd/yyyy"
 
 msgctxt "default_dialer"
 msgid "Default Dialer"
@@ -2290,7 +2288,7 @@ msgstr ""
 
 msgctxt "device_info_default"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "device_info_label"
 msgid "Device info"
@@ -2302,7 +2300,7 @@ msgstr ""
 
 msgctxt "device_info_settings"
 msgid "Phone Status"
-msgstr ""
+msgstr "Telefon status"
 
 #, python-format
 msgctxt "device_overview"
@@ -2315,6 +2313,13 @@ msgid ""
 "\n"
 "Internal memory: %s available"
 msgstr ""
+"Modell: %s\n"
+"\n"
+"Android versjon: %s\n"
+"\n"
+"SD kort: %s \n"
+"\n"
+"Intern minne: %s tilgjengelig"
 
 msgctxt "device_overview_sd_shared"
 msgid "SD card unmounted"
@@ -2326,15 +2331,15 @@ msgstr ""
 
 msgctxt "device_status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgctxt "device_status_activity_title"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgctxt "device_status_summary"
 msgid "Phone number, signal, etc."
-msgstr ""
+msgstr "Telefon nummer, signal, osv."
 
 msgctxt "disabled"
 msgid "Disabled"
@@ -2382,7 +2387,7 @@ msgstr ""
 
 msgctxt "dlg_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "dlg_confirm_unmount_text"
 msgid "If you unmount the SD card, some applications you are using will stop and may be unavailable until you remount the SD card."
@@ -2402,11 +2407,11 @@ msgstr ""
 
 msgctxt "dlg_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "dock_audio_settings_title"
 msgid "Audio Settings"
-msgstr ""
+msgstr "Lyd innstillinger"
 
 msgctxt "dock_audio_summary_car"
 msgid "Settings for the attached car dock"
@@ -2498,7 +2503,7 @@ msgstr ""
 
 msgctxt "enable_adb"
 msgid "USB debugging"
-msgstr ""
+msgstr "USB debugging"
 
 msgctxt "enable_adb_summary"
 msgid "Debug mode when USB is connected"
@@ -2570,7 +2575,7 @@ msgstr ""
 
 msgctxt "firmware_version"
 msgid "Android version"
-msgstr ""
+msgstr "Android versjon"
 
 msgctxt "font_size_preview_text"
 msgid "Servez à ce monsieur une bière et des kiwis."
@@ -2578,7 +2583,7 @@ msgstr ""
 
 msgctxt "font_size_save"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "force_stop"
 msgid "Force stop"
@@ -2638,7 +2643,7 @@ msgstr ""
 
 msgctxt "gps_config_title"
 msgid "GPS configuration"
-msgstr ""
+msgstr "GPS konfigurasjon"
 
 msgctxt "gtalk_settings_title"
 msgid "Google Talk"
@@ -2646,7 +2651,7 @@ msgstr ""
 
 msgctxt "haptic_button_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "haptic_button_default"
 msgid "Load Defaults"
@@ -2666,7 +2671,7 @@ msgstr ""
 
 msgctxt "haptic_button_save"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "haptic_button_test"
 msgid "Test"
@@ -3549,7 +3554,7 @@ msgstr ""
 
 msgctxt "miui_license_title"
 msgid "MIUI license information"
-msgstr ""
+msgstr "MIUI lisens informasjon"
 
 msgctxt "mms_settings_title"
 msgid "MMS Settings"
@@ -4210,11 +4215,11 @@ msgstr ""
 
 msgctxt "radio_info_ping_hostname"
 msgid "Ping Hostname (www.google.com):"
-msgstr ""
+msgstr "Ping Hostname (www.google.com):"
 
 msgctxt "radio_info_ping_ipaddr"
 msgid "Ping IP Address:"
-msgstr ""
+msgstr "Ping IP Address:"
 
 msgctxt "radio_info_ppp_received_label"
 msgid "PPP received:"
@@ -5605,16 +5610,16 @@ msgstr ""
 
 msgctxt "vpn_connect_button"
 msgid "Connect"
-msgstr ""
+msgstr "Koble til"
 
 msgctxt "vpn_connect_hint"
 msgid "Connect to network"
-msgstr ""
+msgstr "Koble til nettverk"
 
 #, python-format
 msgctxt "vpn_connect_to"
 msgid "Connect to %s"
-msgstr ""
+msgstr "Koble til %s"
 
 #, python-format
 msgctxt "vpn_disable_field"
@@ -5656,27 +5661,27 @@ msgstr ""
 #, python-format
 msgctxt "vpn_error_miss_entering"
 msgid "You must enter %s."
-msgstr ""
+msgstr "Du må angi %s."
 
 #, python-format
 msgctxt "vpn_error_miss_selecting"
 msgid "You must select %s."
-msgstr ""
+msgstr "Du må velge %s."
 
 #, python-format
 msgctxt "vpn_field_is_set"
 msgid "%s is set"
-msgstr ""
+msgstr "%s er satt"
 
 #, python-format
 msgctxt "vpn_field_not_set"
 msgid "%s not set"
-msgstr ""
+msgstr "%s er ikke satt"
 
 #, python-format
 msgctxt "vpn_field_not_set_optional"
 msgid "%s not set (optional)"
-msgstr ""
+msgstr "%s er satt (valgfri)"
 
 msgctxt "vpn_ipsec_presharedkey"
 msgid "IPSec pre-shared key"
@@ -5689,44 +5694,44 @@ msgstr ""
 #, python-format
 msgctxt "vpn_is_disabled"
 msgid "%s is disabled"
-msgstr ""
+msgstr "%s er deaktivert"
 
 #, python-format
 msgctxt "vpn_is_enabled"
 msgid "%s is enabled"
-msgstr ""
+msgstr "%s er aktivert"
 
 msgctxt "vpn_l2tp_secret"
 msgid "L2TP secret"
-msgstr ""
+msgstr "L2TP hemmelighet"
 
 msgctxt "vpn_l2tp_secret_string_title"
 msgid "Set L2TP secret"
-msgstr ""
+msgstr "Set L2TP hemmelighet"
 
 msgctxt "vpn_menu_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbrut"
 
 msgctxt "vpn_menu_connect"
 msgid "Connect to network"
-msgstr ""
+msgstr "Koble til nettverk"
 
 msgctxt "vpn_menu_delete"
 msgid "Delete network"
-msgstr ""
+msgstr "Slett nettverk"
 
 msgctxt "vpn_menu_disconnect"
 msgid "Disconnect from network"
-msgstr ""
+msgstr "Koble fra nettverk"
 
 msgctxt "vpn_menu_done"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "vpn_menu_edit"
 msgid "Edit network"
-msgstr ""
+msgstr "Endre nettverk"
 
 msgctxt "vpn_menu_revert"
 msgid "Revert"
@@ -5762,7 +5767,7 @@ msgstr ""
 
 msgctxt "vpn_openvpn_port"
 msgid "Server port"
-msgstr ""
+msgstr "Server port"
 
 msgctxt "vpn_openvpn_protocol"
 msgid "Protocol to use"
@@ -5794,7 +5799,7 @@ msgstr ""
 
 msgctxt "vpn_openvpn_set_extra"
 msgid "Extra arguments"
-msgstr ""
+msgstr "Ekstra argumenter"
 
 msgctxt "vpn_openvpn_set_extra_message"
 msgid "Enter the extra command line arguments"
@@ -5810,11 +5815,11 @@ msgstr ""
 
 msgctxt "vpn_openvpn_set_local_addr"
 msgid "Local IP Address"
-msgstr ""
+msgstr "Lokal IP adresse"
 
 msgctxt "vpn_openvpn_set_remote_addr"
 msgid "Remote IP Address"
-msgstr ""
+msgstr "Ekstern IP adresse"
 
 msgctxt "vpn_openvpn_userauth"
 msgid "User authentication"
@@ -5826,7 +5831,7 @@ msgstr ""
 
 msgctxt "vpn_password_colon"
 msgid "Password:"
-msgstr ""
+msgstr "Passord:"
 
 msgctxt "vpn_ppp_negotiation_failed_dialog_msg"
 msgid "Server negotiation failed. The server may not agree with your encryption option. Do you want to check your encryption setting?"
@@ -5834,25 +5839,25 @@ msgstr ""
 
 msgctxt "vpn_pptp_encryption"
 msgid "PPTP encryption"
-msgstr ""
+msgstr "PPTP kryptering"
 
 msgctxt "vpn_pptp_encryption_title"
 msgid "encryption"
-msgstr ""
+msgstr "kryptering"
 
 #, python-format
 msgctxt "vpn_profile_added"
 msgid "'%s' is added"
-msgstr ""
+msgstr "'%s' ble lagt til"
 
 #, python-format
 msgctxt "vpn_profile_replaced"
 msgid "Changes are made to '%s'"
-msgstr ""
+msgstr "Endringer ble gjort for '%s'"
 
 msgctxt "vpn_reconnect_from_lost"
 msgid "Connection lost. Do you want to connect again?"
-msgstr ""
+msgstr "Tilkobling mistet. Vil du koble til igjen?"
 
 msgctxt "vpn_remote_hung_up_error_dialog_msg"
 msgid "Server hung up. The username or password you entered could be incorrect. Do you want to try again?"
@@ -5864,35 +5869,36 @@ msgstr ""
 
 msgctxt "vpn_save_username"
 msgid "Remember username"
-msgstr ""
+msgstr "Husk brukernavn"
 
 msgctxt "vpn_secret_not_set"
 msgid "(not set)"
-msgstr ""
+msgstr "(ikke satt)"
 
+#, fuzzy
 msgctxt "vpn_secret_not_set_dialog_msg"
 msgid "One or more secrets are missing in this VPN configuration. Do you want to check your secret setting?"
-msgstr ""
+msgstr "Én eller flere hemmligheter mangler fra denne VPN konfigurasjonen. Vil du sjekke din hemmilige innstilling?"
 
 msgctxt "vpn_secret_unchanged"
 msgid "(unchanged)"
-msgstr ""
+msgstr "(uendret)"
 
 msgctxt "vpn_settings_activity_title"
 msgid "VPN Settings"
-msgstr ""
+msgstr "VPN innstillinger"
 
 msgctxt "vpn_settings_summary"
 msgid "Set up & manage Virtual Private Networks (VPNs)"
-msgstr ""
+msgstr "Sett opp og adminstrer Virtual Private Networks (VPNs)"
 
 msgctxt "vpn_settings_title"
 msgid "VPN Settings"
-msgstr ""
+msgstr "VPN innstillinger"
 
 msgctxt "vpn_type_title"
 msgid "Add VPN"
-msgstr ""
+msgstr "Legg til VPN"
 
 msgctxt "vpn_unknown_server_dialog_msg"
 msgid "Server name cannot be resolved. Do you want to check your server name setting?"
@@ -5900,75 +5906,76 @@ msgstr ""
 
 msgctxt "vpn_username_colon"
 msgid "Username:"
-msgstr ""
+msgstr "Brukernavn:"
 
 msgctxt "vpn_user_certificate"
 msgid "User certificate"
-msgstr ""
+msgstr "Bruker sertifikat"
 
 msgctxt "vpn_user_certificate_title"
 msgid "Set user certificate"
-msgstr ""
+msgstr "Legg til bruker sertifikat"
 
 msgctxt "vpn_vpn_server"
 msgid "VPN server"
-msgstr ""
+msgstr "VPN server"
 
 msgctxt "vpn_vpn_server_dialog_title"
 msgid "VPN server name"
-msgstr ""
+msgstr "VPN server navn"
 
 msgctxt "vpn_vpn_server_title"
 msgid "Set VPN server"
-msgstr ""
+msgstr "Sett VPN server"
 
 msgctxt "vpn_yes_button"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgctxt "wallpaper_settings_title"
 msgid "Wallpaper Settings"
-msgstr ""
+msgstr "Bakgrunnsbilde innstillinger"
 
 msgctxt "widget_picker_title"
 msgid "Choose widget"
-msgstr ""
+msgstr "Velg widget"
 
 msgctxt "wifi_access_points"
 msgid "Wi-Fi networks"
-msgstr ""
+msgstr "Wi-Fi nettverk"
 
 msgctxt "wifi_add_network"
 msgid "Add Wi-Fi network"
-msgstr ""
+msgstr "Legg til Wi-Fi nettverk"
 
 msgctxt "wifi_advanced_mac_address_title"
 msgid "MAC Address"
-msgstr ""
+msgstr "MAC adresse"
 
 msgctxt "wifi_advanced_settings"
 msgid "Advanced"
-msgstr ""
+msgstr "Avansert"
 
 msgctxt "wifi_advanced_titlebar"
 msgid "Advanced"
-msgstr ""
+msgstr "Avansert"
 
 msgctxt "wifi_api_test"
 msgid "Wi-Fi API"
-msgstr ""
+msgstr "Wi-Fi API"
 
 msgctxt "wifi_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
+#, fuzzy
 msgctxt "wifi_config_info"
 msgid "Wifi Config"
-msgstr ""
+msgstr "Wifi konfig"
 
 msgctxt "wifi_connect"
 msgid "Connect"
-msgstr ""
+msgstr "Koble til"
 
 msgctxt "wifi_disabled"
 msgid "Disabled"
@@ -5976,23 +5983,23 @@ msgstr ""
 
 msgctxt "wifi_dns1"
 msgid "DNS 1"
-msgstr ""
+msgstr "DNS 1"
 
 msgctxt "wifi_dns2"
 msgid "DNS 2"
-msgstr ""
+msgstr "DNS 2"
 
 msgctxt "wifi_eap_anonymous"
 msgid "Anonymous identity"
-msgstr ""
+msgstr "Anonym identitet"
 
 msgctxt "wifi_eap_ca_cert"
 msgid "CA certificate"
-msgstr ""
+msgstr "CA sertifikat"
 
 msgctxt "wifi_eap_identity"
 msgid "Identity"
-msgstr ""
+msgstr "Identitet"
 
 msgctxt "wifi_eap_method"
 msgid "EAP method"
@@ -6000,11 +6007,11 @@ msgstr ""
 
 msgctxt "wifi_eap_user_cert"
 msgid "User certificate"
-msgstr ""
+msgstr "Bruke sertifikat"
 
 msgctxt "wifi_error"
 msgid "Error"
-msgstr ""
+msgstr "Feil"
 
 msgctxt "wifi_fail_to_scan"
 msgid "Unable to scan for networks"
@@ -6012,59 +6019,59 @@ msgstr ""
 
 msgctxt "wifi_forget"
 msgid "Forget"
-msgstr ""
+msgstr "Glem"
 
 msgctxt "wifi_gateway"
 msgid "Gateway"
-msgstr ""
+msgstr "Gateway"
 
 msgctxt "wifi_in_airplane_mode"
 msgid "In airplane mode"
-msgstr ""
+msgstr "I flymodus"
 
 msgctxt "wifi_ip_address"
 msgid "IP address"
-msgstr ""
+msgstr "IP adresse"
 
 msgctxt "wifi_ip_settings_invalid_ip"
 msgid "Please type a valid IP address."
-msgstr ""
+msgstr "Vennligst skriv en gyldig IP adresse."
 
 msgctxt "wifi_ip_settings_menu_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "wifi_ip_settings_menu_save"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "wifi_ip_settings_titlebar"
 msgid "IP Settings"
-msgstr ""
+msgstr "IP innstillinger"
 
 msgctxt "wifi_menu_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Avansert"
 
 msgctxt "wifi_menu_connect"
 msgid "Connect to network"
-msgstr ""
+msgstr "Koble til nettverk"
 
 msgctxt "wifi_menu_forget"
 msgid "Forget network"
-msgstr ""
+msgstr "Glem nettverk"
 
 msgctxt "wifi_menu_modify"
 msgid "Modify network"
-msgstr ""
+msgstr "Endre nettverk"
 
 msgctxt "wifi_menu_scan"
 msgid "Scan"
-msgstr ""
+msgstr "Skann"
 
 msgctxt "wifi_netmask"
 msgid "Netmask"
-msgstr ""
+msgstr "Netmask"
 
 msgctxt "wifi_notify_open_networks"
 msgid "Network notification"
@@ -6076,7 +6083,7 @@ msgstr ""
 
 msgctxt "wifi_not_in_range"
 msgid "Not in range"
-msgstr ""
+msgstr "Ikke innenfor dekningsområde"
 
 msgctxt "wifi_on_time"
 msgid "Wi-Fi on time"
@@ -6084,55 +6091,55 @@ msgstr ""
 
 msgctxt "wifi_password"
 msgid "Password"
-msgstr ""
+msgstr "Passord"
 
 msgctxt "wifi_quick_toggle_summary"
 msgid "Turn on Wi-Fi"
-msgstr ""
+msgstr "Skru på Wi-Fi"
 
 msgctxt "wifi_quick_toggle_title"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 msgctxt "wifi_remembered"
 msgid "Remembered"
-msgstr ""
+msgstr "Husket"
 
 msgctxt "wifi_save"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "wifi_secured"
 msgid "Secured with %1$s"
-msgstr ""
+msgstr "Sikret med %1$s"
 
 msgctxt "wifi_secured_with_status"
 msgid "%2$s, secured with %1$s"
-msgstr ""
+msgstr "%2$s, sikret med %1$s"
 
 msgctxt "wifi_security"
 msgid "Security"
-msgstr ""
+msgstr "Sikkerhet"
 
 msgctxt "wifi_settings"
 msgid "Wi-Fi Settings"
-msgstr ""
+msgstr "Wi-Fi innstillinger"
 
 msgctxt "wifi_settings_category"
 msgid "Wi-Fi Settings"
-msgstr ""
+msgstr "Wi-Fi innstillinger"
 
 msgctxt "wifi_settings_summary"
 msgid "Set up & manage wireless access points"
-msgstr ""
+msgstr "Sett opp og adminstrer trådløse aksesspunkter"
 
 msgctxt "wifi_settings_title"
 msgid "Wi-Fi Settings"
-msgstr ""
+msgstr "Wi-Fi innstillinger"
 
 msgctxt "wifi_setting_num_channels_channel_phrase"
 msgid "%1$d channels"
-msgstr ""
+msgstr "%1$d kanaler"
 
 msgctxt "wifi_setting_num_channels_error"
 msgid "There was a problem setting the regulatory domain."
@@ -6140,7 +6147,7 @@ msgstr ""
 
 msgctxt "wifi_setting_num_channels_summary"
 msgid "Set the number of channels to use"
-msgstr ""
+msgstr "Velg hvor mange kanaler som skal brukes"
 
 msgctxt "wifi_setting_num_channels_title"
 msgid "Regulatory domain"
@@ -6160,11 +6167,11 @@ msgstr ""
 
 msgctxt "wifi_show_password"
 msgid "Show password."
-msgstr ""
+msgstr "Vis passord."
 
 msgctxt "wifi_signal"
 msgid "Signal strength"
-msgstr ""
+msgstr "Signal stryke"
 
 msgctxt "wifi_speed"
 msgid "Link speed"
@@ -6172,11 +6179,11 @@ msgstr ""
 
 msgctxt "wifi_ssid"
 msgid "Network SSID"
-msgstr ""
+msgstr "Nettverk SSID"
 
 msgctxt "wifi_starting"
 msgid "Turning on..."
-msgstr ""
+msgstr "Skrur på..."
 
 msgctxt "wifi_state_disabled"
 msgid "Disabled"
@@ -6200,23 +6207,23 @@ msgstr ""
 
 msgctxt "wifi_state_unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "wifi_status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgctxt "wifi_status_test"
 msgid "Wifi Status"
-msgstr ""
+msgstr "Wifi Status"
 
 msgctxt "wifi_stop"
 msgid "Turn off Wi-Fi"
-msgstr ""
+msgstr "Skru av Wi-Fi"
 
 msgctxt "wifi_stopping"
 msgid "Turning off..."
-msgstr ""
+msgstr "Skrur av..."
 
 msgctxt "wifi_tether_checkbox_text"
 msgid "Portable Wi-Fi hotspot"
@@ -6224,7 +6231,7 @@ msgstr ""
 
 msgctxt "wifi_tether_configure_ap_text"
 msgid "Configure Wi-Fi hotspot"
-msgstr ""
+msgstr "Configure Wi-Fi hotspot"
 
 msgctxt "wifi_tether_configure_ssid_default"
 msgid "AndroidHotspot"
@@ -6236,31 +6243,31 @@ msgstr ""
 
 msgctxt "wifi_tether_enabled_subtext"
 msgid "Portable hotspot %1$s active"
-msgstr ""
+msgstr "Portabelt nettverk %1$s aktivt"
 
 msgctxt "wifi_tether_failed_subtext"
 msgid "Portable Wi-Fi hotspot error"
-msgstr ""
+msgstr "Portabelt Wi-Fi nettverk feilet"
 
 msgctxt "wifi_tether_settings_subtext"
 msgid "Set up & manage portable Wi-Fi hotspot"
-msgstr ""
+msgstr "Sett opp og adminstrer portabelt Wi-Fi nettverk"
 
 msgctxt "wifi_tether_settings_text"
 msgid "Portable Wi-Fi hotspot Settings"
-msgstr ""
+msgstr "Portabelt Wi-Fi nettverk innstillinger"
 
 msgctxt "wifi_tether_settings_title"
 msgid "Portable Wi-Fi hotspot Settings"
-msgstr ""
+msgstr "Portabelt Wi-Fi nettverk innstillinger"
 
 msgctxt "wifi_unchanged"
 msgid "(unchanged)"
-msgstr ""
+msgstr "(uendret)"
 
 msgctxt "wifi_unspecified"
 msgid "(unspecified)"
-msgstr ""
+msgstr "(uspesifisert)"
 
 msgctxt "wifi_update"
 msgid "Refresh Stats"
@@ -6268,101 +6275,101 @@ msgstr ""
 
 msgctxt "wifi_use_static_ip"
 msgid "Use static IP"
-msgstr ""
+msgstr "Bruk statisk IP"
 
 msgctxt "wireless_networks_settings_title"
 msgid "Wireless & Network Settings"
-msgstr ""
+msgstr "Trådløs og Nettverk innstillinger"
 
 msgctxt "yes"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgctxt "zone_list_menu_sort_alphabetically"
 msgid "Sort Alphabetically"
-msgstr ""
+msgstr "Sort alfabetisk"
 
 msgctxt "zone_list_menu_sort_by_timezone"
 msgid "Sort by Timezone"
-msgstr ""
+msgstr "Sorter etter Tidssone"
 
 #~ msgctxt "add_new_backup"
+
 #~ msgid "Add a new backup"
 #~ msgstr ""
-
 #~ msgctxt "disable_power_key_long_press_under_keyguard"
+
 #~ msgid "Disable long-press on lockscreen"
 #~ msgstr ""
-
 #~ msgctxt "electron_beam_animation_off"
+
 #~ msgid "Turn off animation"
 #~ msgstr ""
-
 #~ msgctxt "electron_beam_animation_on"
+
 #~ msgid "Turn on animation"
 #~ msgstr ""
-
 #~ msgctxt "light_decrease_enabled_title"
+
 #~ msgid "Allow light decrease"
 #~ msgstr ""
-
 #~ msgctxt "ll_disabled"
+
 #~ msgid "disabled"
 #~ msgstr ""
-
 #~ msgctxt "lock_settings_title"
+
 #~ msgid "Screen unlock"
 #~ msgstr ""
-
 #~ msgctxt "more_info"
+
 #~ msgid "More info"
 #~ msgstr ""
-
 #~ msgctxt "personal_password_for_firewall_summary"
+
 #~ msgid "Requires password to enter DND mode"
 #~ msgstr ""
-
 #~ msgctxt "personal_password_for_notes_summary"
+
 #~ msgid "Notes requires password to view"
 #~ msgstr ""
-
 #~ msgctxt "power_key"
+
 #~ msgid "Power button action"
 #~ msgstr ""
-
 #~ msgctxt "preferred_app_title"
+
 #~ msgid "Default Music Player for lockscreen"
 #~ msgstr ""
-
 #~ msgctxt "preferred_media_app_summary"
+
 #~ msgid "Music Player used for lockscreen controls"
 #~ msgstr ""
-
 #~ msgctxt "process_provider_in_use_description"
+
 #~ msgid "Provider %1$s is in use."
 #~ msgstr ""
-
 #~ msgctxt "process_service_in_use_description"
+
 #~ msgid "Service %1$s is in use."
 #~ msgstr ""
-
 #~ msgctxt "sort_order_alpha"
+
 #~ msgid "Sort"
 #~ msgstr ""
-
 #~ msgctxt "title_haptic_feedback_all"
+
 #~ msgid "Haptic screen items"
 #~ msgstr ""
-
 #~ msgctxt "unlock_set_unlock_password_summary"
+
 #~ msgid "Enter a password to unlock screen"
 #~ msgstr ""
-
 #~ msgctxt "unlock_set_unlock_pattern_summary"
+
 #~ msgid "Draw pattern to unlock screen"
 #~ msgstr ""
-
 #~ msgctxt "unlock_set_unlock_pin_summary"
+
 #~ msgid "Enter a numeric PIN to unlock screen"
 #~ msgstr ""
-
