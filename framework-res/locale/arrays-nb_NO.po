@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-04-29 21:07+0200\n"
-"PO-Revision-Date: 2011-05-04 15:46+0100\n"
+"PO-Revision-Date: 2011-05-04 15:55+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: MIUI norway <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -4247,7 +4247,7 @@ msgstr ""
 
 msgctxt "sms_control_no"
 msgid "Cancel"
-msgstr ""
+msgstr "Kanseler"
 
 msgctxt "sms_control_title"
 msgid "Sending SMS messages"
@@ -4255,7 +4255,7 @@ msgstr ""
 
 msgctxt "sms_control_yes"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #, python-format
 msgctxt "sms_exceeded"
@@ -4286,15 +4286,15 @@ msgstr ""
 
 msgctxt "submit"
 msgid "Submit"
-msgstr ""
+msgstr "Send"
 
 msgctxt "sync_binding_label"
 msgid "Sync"
-msgstr ""
+msgstr "Sync"
 
 msgctxt "terabyteShort"
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgctxt "tethered_notification_message"
 msgid "Touch to configure"
@@ -4306,7 +4306,7 @@ msgstr ""
 
 msgctxt "text_copied"
 msgid "Text copied to clipboard."
-msgstr ""
+msgstr "Tekst kopiert til utklippsbrettet"
 
 #, python-format
 msgctxt "text_pastelist"
@@ -4355,11 +4355,11 @@ msgstr ""
 
 msgctxt "today"
 msgid "Today"
-msgstr ""
+msgstr "Idag"
 
 msgctxt "tomorrow"
 msgid "Tomorrow"
-msgstr ""
+msgstr "Imorgen"
 
 msgctxt "traffic_control_hint"
 msgid "You can disable the traffic monitor below"
@@ -4367,19 +4367,19 @@ msgstr ""
 
 msgctxt "traffic_ok"
 msgid "Traffic is Normal"
-msgstr ""
+msgstr "Trafikken er normal"
 
 msgctxt "traffic_settings_hint"
 msgid "Do you want to monitor your usage?"
-msgstr ""
+msgstr "Do you want to monitor your usage?"
 
 msgctxt "turn_off_radio"
 msgid "Turn off wireless"
-msgstr ""
+msgstr "Skru av trådløst"
 
 msgctxt "turn_on_radio"
 msgid "Turn on wireless"
-msgstr ""
+msgstr "Skru på trådløst"
 
 msgctxt "tutorial_double_tap_to_zoom_message_short"
 msgid "Tap twice for zoom control"
