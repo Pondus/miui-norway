@@ -1,15 +1,18 @@
+# Thor <nitrolinken@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 00:42+0100\n"
-"Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
-"Language-Team: Team Norway <norway@miuiandroid.com>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"PO-Revision-Date: 2011-05-04 18:14+0200\n"
+"Last-Translator: Thor <nitrolinken@gmail.com>\n"
+"Language-Team: MIUI Norway\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
 "Generated-By: Babel 1.0dev\n"
 
 msgctxt "abbrev_month"
@@ -72,11 +75,10 @@ msgid ""
 "The application %1$s (process %2$s) has stopped unexpectedly. Please try "
 "again."
 msgstr ""
-"Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> "
-"(prosess <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) stoppet "
-"uventet. Prøv igjen."
+"Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"APPLICATION\">%"
+"1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (prosess "
+"<{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%"
+"2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) stoppet uventet. Prøv igjen."
 
 #, fuzzy
 msgctxt "aerr_process"
@@ -94,12 +96,10 @@ msgctxt "allow"
 msgid "Allow"
 msgstr "Tillat"
 
-#, fuzzy
 msgctxt "alternate_eri_file"
 msgid "/data/eri.xml"
-msgstr "lese kontaktinformasjon"
+msgstr "/data/eri.xml"
 
-#, fuzzy
 msgctxt "alwaysUse"
 msgid "Use by default for this action."
 msgstr "Bruk som standardvalg."
@@ -108,7 +108,6 @@ msgctxt "am"
 msgid "AM"
 msgstr ""
 
-#, fuzzy
 msgctxt "android_system_label"
 msgid "Android System"
 msgstr "Android-system"
@@ -117,117 +116,92 @@ msgstr "Android-system"
 msgctxt "anr_activity_application"
 msgid "Activity %1$s (in application %2$s) is not responding."
 msgstr ""
-"Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"ACTIVITY\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i "
-"applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"APPLICATION\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) "
-"svarer ikke."
+"Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g id=\"ACTIVITY\">%"
+"1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i applikasjonen "
+"<{urn:oasis:names:tc:xliff:document:1.2}g id=\"APPLICATION\">%"
+"2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer ikke."
 
 #, fuzzy
 msgctxt "anr_activity_process"
 msgid "Activity %1$s (in process %2$s) is not responding."
 msgstr ""
-"Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"ACTIVITY\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i "
-"prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer "
-"ikke."
+"Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g id=\"ACTIVITY\">%"
+"1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i prosessen "
+"<{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%"
+"2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer ikke."
 
 #, fuzzy
 msgctxt "anr_application_process"
 msgid "Application %1$s (in process %2$s) is not responding."
 msgstr ""
-"Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i "
-"prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer "
-"ikke."
+"Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"APPLICATION\">%"
+"1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i prosessen "
+"<{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%"
+"2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer ikke."
 
-#, fuzzy
 msgctxt "anr_process"
 msgid "Process %1$s is not responding."
 msgstr ""
-"Prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"PROCESS\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> svarer "
-"ikke."
+"Prosessen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%"
+"1$s</{urn:oasis:names:tc:xliff:document:1.2}g> svarer ikke."
 
-#, fuzzy
 msgctxt "anr_title"
 msgid "Sorry!"
 msgstr "Beklager!"
 
-#, fuzzy
 msgctxt "badPin"
 msgid "The old PIN you typed is not correct."
 msgstr "Den gamle PIN-koden du skrev inn er feil."
 
-#, fuzzy
 msgctxt "badPuk"
 msgid "The PUK you typed is not correct."
 msgstr "PUK-koden du skrev inn er feil."
 
-#, fuzzy
 msgctxt "BaMmi"
 msgid "Call barring"
 msgstr "Samtaleblokkering"
 
-#, fuzzy
 msgctxt "beforeOneMonthDurationPast"
 msgid "Before 1 month ago"
 msgstr "For over en måned siden"
 
-#, fuzzy
 msgctxt "byteShort"
 msgid "B"
 msgstr "B"
 
-#, fuzzy
 msgctxt "callDetailsDurationFormat"
 msgid "%1$s minutes %2$s seconds"
-msgstr ""
-"<{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>:"
-" <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"DIALING_NUMBER\">{1}</{urn:oasis:names:tc:xliff:document:1.2}g> "
-"etter <{urn:oasis:names:tc:xliff:document:1.2}g "
-"id=\"TIME_DELAY\">{2}</{urn:oasis:names:tc:xliff:document:1.2}g> sekunder"
+msgstr "%1$s minutter %2$s sekunder"
 
 #, python-format
 msgctxt "callNoAnswerTimeFormat"
 msgid "Ring %s times"
 msgstr "Ring %s ganger"
 
-#, fuzzy
 msgctxt "cancel"
 msgid "Cancel"
 msgstr "Avbryt"
 
-#, fuzzy
 msgctxt "candidates_style"
 msgid "<u>candidates</u>"
-msgstr "TAG_FONT<u>kandidater</u>CLOSE_FONT"
+msgstr "<u>kandidater</u>"
 
-#, fuzzy
 msgctxt "capital_off"
 msgid "OFF"
-msgstr "Av"
+msgstr "AV"
 
-#, fuzzy
 msgctxt "capital_on"
 msgid "ON"
-msgstr "På"
+msgstr "PÅ"
 
-#, fuzzy
 msgctxt "car_mode_disable_notification_message"
 msgid "Select to exit car mode."
-msgstr "Velg for å avslutte bilmodus"
+msgstr "Velg for å avslutte bilmodus."
 
-#, fuzzy
 msgctxt "car_mode_disable_notification_title"
 msgid "Car mode enabled"
 msgstr "Bilmodus er aktivert"
 
-#, fuzzy
 msgctxt "CfMmi"
 msgid "Call forwarding"
 msgstr "Viderekobling"
@@ -5970,4 +5944,3 @@ msgstr "OK"
 msgctxt "yesterday"
 msgid "Yesterday"
 msgstr "I går"
-
