@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# Norwegian Bokmål translations for PROJECT.
 # Copyright (C) 2011 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
@@ -8,10 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:19+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,7 +31,7 @@ msgid "Automatic Backup"
 msgstr ""
 
 msgctxt "backup_delete"
-msgid "Delete"
+msgid "Delete:"
 msgstr ""
 
 msgctxt "backup_empty"
@@ -54,7 +55,7 @@ msgid "\\u0020System Data Files"
 msgstr ""
 
 msgctxt "backup_new"
-msgid "New"
+msgid "New:"
 msgstr ""
 
 msgctxt "backup_progress"
@@ -74,7 +75,9 @@ msgid "Update"
 msgstr ""
 
 msgctxt "batch_delete_backup_confirm"
-msgid "Delete selected backup(s)?"
+msgid ""
+"\n"
+"Are you sure you wish to delete the selected backup?"
 msgstr ""
 
 msgctxt "btn_cancel"
@@ -142,11 +145,11 @@ msgid "with our cloud backup service"
 msgstr ""
 
 msgctxt "cloud_backup_select_prompt"
-msgid "Please select the items to be backed up"
+msgid "Select items to be backed up"
 msgstr ""
 
 msgctxt "cloud_backup_window_title"
-msgid "Cloud backup"
+msgid "Cloud Backup"
 msgstr ""
 
 msgctxt "cloud_home_title"
@@ -162,7 +165,7 @@ msgid "Select items to restore"
 msgstr ""
 
 msgctxt "cloud_restore_window_title"
-msgid "Cloud recovery"
+msgid "Cloud Recovery"
 msgstr ""
 
 msgctxt "delete_backup"
@@ -174,7 +177,7 @@ msgid "Selected backup will be removed, are you sure?"
 msgstr ""
 
 msgctxt "delete_backup_process"
-msgid "Deleting backup(s) please wait..."
+msgid "Deleting backup(s), please wait..."
 msgstr ""
 
 msgctxt "findlost_contact"
@@ -190,15 +193,15 @@ msgid "Backup"
 msgstr ""
 
 msgctxt "local_backup_hint1"
-msgid "Backup contacts, text messages, settings, and system program data"
+msgid "Backup contacts, call records and text messages"
 msgstr ""
 
 msgctxt "local_backup_hint2"
-msgid "Backup applications and application data"
+msgid "Backup settings, and system program data"
 msgstr ""
 
 msgctxt "local_backup_hint3"
-msgid "Backup other information such as photos"
+msgid "Backup applications and application data"
 msgstr ""
 
 msgctxt "local_backup_window_title"
@@ -214,11 +217,11 @@ msgid "Select items to restore"
 msgstr ""
 
 msgctxt "local_restore_window_title"
-msgid "Local recovery"
+msgid "Local Recovery"
 msgstr ""
 
 msgctxt "local_select_sysdata"
-msgid "Sys"
+msgid "System"
 msgstr ""
 
 msgctxt "local_select_userapp"
@@ -258,7 +261,7 @@ msgid "Search result empty, nothing found"
 msgstr ""
 
 msgctxt "ok_reset"
-msgid "Reset complete"
+msgid "Reset completed"
 msgstr ""
 
 msgctxt "preference_findlost_contact"
@@ -274,11 +277,11 @@ msgid "Example: Contacts / Call log / Messages"
 msgstr ""
 
 msgctxt "progress_backup_hint"
-msgid "Your data is being backed up..."
+msgid "Backing up..."
 msgstr ""
 
 msgctxt "progress_restore_hint"
-msgid "Your data is being restored..."
+msgid "Restoring..."
 msgstr ""
 
 msgctxt "prompt_reading"
@@ -344,7 +347,7 @@ msgid "Don't store Wi-Fi password details"
 msgstr ""
 
 msgctxt "sc_unauthorized"
-msgid "Certification in not valid"
+msgid "Certification is not valid"
 msgstr ""
 
 msgctxt "sdcard_unmounted"
@@ -404,7 +407,7 @@ msgid "Recovery failed"
 msgstr ""
 
 msgctxt "task_restore_succeed"
-msgid "Recovery Successful"
+msgid "Recovery successful"
 msgstr ""
 
 msgctxt "task_running_dialog"
@@ -422,11 +425,11 @@ msgid "Service is not started, please wait!"
 msgstr ""
 
 msgctxt "unit_byte"
-msgid "Bytes"
+msgid "\\u0020Bytes"
 msgstr ""
 
 msgctxt "unit_piece"
-msgid "Item"
+msgid "\\u0020Item(s)"
 msgstr ""
 
 msgctxt "wait_searching"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:30+0200\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,11 +32,11 @@ msgid "Please select a theme!"
 msgstr ""
 
 msgctxt "apply_theme_reboot_confirm_message"
-msgid "Phone will be restarted to apply tjeme changes"
+msgid "Phone will be restarted to apply theme changes"
 msgstr ""
 
 msgctxt "app_name"
-msgid "Theme Manager"
+msgid "Themes"
 msgstr ""
 
 msgctxt "backup_preference_title"
@@ -74,7 +74,7 @@ msgid "Edit theme"
 msgstr ""
 
 msgctxt "component_include_title"
-msgid "Contains (%1$s)"
+msgid "Contains %1$s Components"
 msgstr ""
 
 msgctxt "component_screen_title"
@@ -82,11 +82,11 @@ msgid "Wallpaper"
 msgstr ""
 
 msgctxt "component_select_title"
-msgid "Select (%1$s)"
+msgid "Selected %1$s Components"
 msgstr ""
 
 msgctxt "component_settings_title"
-msgid "Customize theme settings"
+msgid "Customize Theme"
 msgstr ""
 
 msgctxt "confirm"
@@ -129,8 +129,16 @@ msgctxt "online_hotest"
 msgid "Featured"
 msgstr ""
 
+msgctxt "online_hotest_short"
+msgid "Hot"
+msgstr ""
+
 msgctxt "online_latest"
 msgid "Latest"
+msgstr ""
+
+msgctxt "online_latest_short"
+msgid "New"
 msgstr ""
 
 msgctxt "online_loading"
@@ -174,7 +182,7 @@ msgid "Are you sure you wish to delete?"
 msgstr ""
 
 msgctxt "resource_detail"
-msgid "More info"
+msgid "More information"
 msgstr ""
 
 msgctxt "theme_activity_lable"
@@ -190,7 +198,7 @@ msgid "Theme successfully applied!"
 msgstr ""
 
 msgctxt "theme_changing_dialog_title"
-msgid "Appying new theme, please wait..."
+msgid "Applying new theme, please wait..."
 msgstr ""
 
 msgctxt "theme_component_title_alarm"
@@ -209,6 +217,10 @@ msgctxt "theme_component_title_boot_audio"
 msgid "Boot Audio"
 msgstr ""
 
+msgctxt "theme_component_title_contact"
+msgid "Dialer Style"
+msgstr ""
+
 msgctxt "theme_component_title_font"
 msgid "Font"
 msgstr ""
@@ -222,7 +234,7 @@ msgid "Icon"
 msgstr ""
 
 msgctxt "theme_component_title_lockstyle"
-msgid "Lockscreen style"
+msgid "Lockscreen Style"
 msgstr ""
 
 msgctxt "theme_component_title_lockwallpaper"
@@ -234,15 +246,11 @@ msgid "Text Style"
 msgstr ""
 
 msgctxt "theme_component_title_notification"
-msgid "Notification Ringtone"
+msgid "Notification"
 msgstr ""
 
 msgctxt "theme_component_title_others"
 msgid "Other"
-msgstr ""
-
-msgctxt "theme_component_title_phone"
-msgid "Phone"
 msgstr ""
 
 msgctxt "theme_component_title_ringtone"
@@ -250,7 +258,7 @@ msgid "Ringtone"
 msgstr ""
 
 msgctxt "theme_component_title_statusbar"
-msgid "Notification bar"
+msgid "Notification Bar"
 msgstr ""
 
 msgctxt "theme_component_title_wallpaper"
@@ -290,7 +298,7 @@ msgid "Mute"
 msgstr ""
 
 msgctxt "theme_description_version"
-msgid "Default theme"
+msgid "Version:"
 msgstr ""
 
 msgctxt "theme_import"

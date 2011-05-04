@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-04-29 21:07+0200\n"
-"PO-Revision-Date: 2011-05-04 15:55+0100\n"
+"PO-Revision-Date: 2011-05-04 16:04+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: MIUI norway <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -152,7 +152,7 @@ msgstr ""
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "candidates_style"
 msgid "<u>candidates</u>"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "country_name_af"
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afghanistan"
 
 msgctxt "country_name_ag"
 msgid "Antigua and Barbuda"
@@ -365,7 +365,7 @@ msgstr ""
 
 msgctxt "country_name_be"
 msgid "Belgium"
-msgstr ""
+msgstr "Belgia"
 
 msgctxt "country_name_bf"
 msgid "Burkina Faso"
@@ -401,7 +401,7 @@ msgstr ""
 
 msgctxt "country_name_br"
 msgid "Brazil"
-msgstr ""
+msgstr "Brasil"
 
 msgctxt "country_name_bw"
 msgid "Botswana"
@@ -421,11 +421,11 @@ msgstr ""
 
 msgctxt "country_name_cg"
 msgid "Congo"
-msgstr ""
+msgstr "Kongo"
 
 msgctxt "country_name_ch"
 msgid "Switzerland"
-msgstr ""
+msgstr "Sveits"
 
 msgctxt "country_name_ci"
 msgid "Côte d'Ivoire"
@@ -437,7 +437,7 @@ msgstr ""
 
 msgctxt "country_name_cl"
 msgid "Chile"
-msgstr ""
+msgstr "Chile"
 
 msgctxt "country_name_cm"
 msgid "Cameroon"
@@ -445,7 +445,7 @@ msgstr ""
 
 msgctxt "country_name_cn"
 msgid "China"
-msgstr ""
+msgstr "Kinda"
 
 msgctxt "country_name_co"
 msgid "Colombia"
@@ -477,7 +477,7 @@ msgstr ""
 
 msgctxt "country_name_dk"
 msgid "Denmark"
-msgstr ""
+msgstr "Danmark"
 
 msgctxt "country_name_do"
 msgid "Dominican Republic"
@@ -497,7 +497,7 @@ msgstr ""
 
 msgctxt "country_name_eg"
 msgid "Egypt"
-msgstr ""
+msgstr "Egypt"
 
 msgctxt "country_name_eh"
 msgid "Western Samoa"
@@ -505,7 +505,7 @@ msgstr ""
 
 msgctxt "country_name_es"
 msgid "Spain"
-msgstr ""
+msgstr "Spania"
 
 msgctxt "country_name_et"
 msgid "Ethiopia"
@@ -513,7 +513,7 @@ msgstr ""
 
 msgctxt "country_name_fi"
 msgid "Finland"
-msgstr ""
+msgstr "Finland"
 
 msgctxt "country_name_fj"
 msgid "Fiji"
@@ -529,7 +529,7 @@ msgstr ""
 
 msgctxt "country_name_gb"
 msgid "English"
-msgstr ""
+msgstr "Engelsk"
 
 msgctxt "country_name_gd_tt"
 msgid "Grenada / Trinidad and Tobago"
@@ -597,7 +597,7 @@ msgstr ""
 
 msgctxt "country_name_ie"
 msgid "Ireland"
-msgstr ""
+msgstr "Irland"
 
 msgctxt "country_name_il"
 msgid "Israel"
@@ -609,19 +609,19 @@ msgstr ""
 
 msgctxt "country_name_iq"
 msgid "Iraq"
-msgstr ""
+msgstr "Irak"
 
 msgctxt "country_name_ir"
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 msgctxt "country_name_is"
 msgid "Iceland"
-msgstr ""
+msgstr "Island"
 
 msgctxt "country_name_it"
 msgid "Italy"
-msgstr ""
+msgstr "Italia"
 
 msgctxt "country_name_jm"
 msgid "Jamaica"
@@ -649,11 +649,11 @@ msgstr ""
 
 msgctxt "country_name_kp"
 msgid "North Korea"
-msgstr ""
+msgstr "Nord Korea"
 
 msgctxt "country_name_kr"
 msgid "South Korea"
-msgstr ""
+msgstr "Sør Korea"
 
 msgctxt "country_name_kw"
 msgid "Kuwait"
@@ -4247,7 +4247,7 @@ msgstr ""
 
 msgctxt "sms_control_no"
 msgid "Cancel"
-msgstr "Kanseler"
+msgstr "Avbryt"
 
 msgctxt "sms_control_title"
 msgid "Sending SMS messages"

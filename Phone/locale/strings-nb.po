@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# Norwegian Bokmål translations for PROJECT.
 # Copyright (C) 2011 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
@@ -8,10 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:28+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -110,11 +111,11 @@ msgid "Yes"
 msgstr ""
 
 msgctxt "allow_3rd_app_listen_phone_event_summary"
-msgid "Allow third-party phone app monitoring"
+msgid "Enable to allow third-party phone application monitoring"
 msgstr ""
 
 msgctxt "allow_3rd_app_listen_phone_event_title"
-msgid "Third-party phone options"
+msgid "Third-party access"
 msgstr ""
 
 msgctxt "always_enable_mms"
@@ -162,11 +163,11 @@ msgid "Add IP prefix to a foreign number. Enter current area code below."
 msgstr ""
 
 msgctxt "auto_dialpad_pref_summary"
-msgid "Automatically display dialpad"
+msgid "Enable to automatically display dialpad on opening of application"
 msgstr ""
 
 msgctxt "auto_dialpad_pref_title"
-msgid "Show dial pad"
+msgid "Auto show dialpad"
 msgstr ""
 
 msgctxt "auto_reg"
@@ -354,6 +355,10 @@ msgctxt "calling_via_template"
 msgid ""
 "Calling via ^1\n"
 "<b>^2</b>"
+msgstr ""
+
+msgctxt "call_forwarding_number_hint"
+msgid "Enter the number to forward to"
 msgstr ""
 
 msgctxt "call_forwarding_settings"
@@ -558,7 +563,7 @@ msgid "NICAM setting"
 msgstr ""
 
 msgctxt "current_areacode"
-msgid "Current Area Code"
+msgid "Current area code"
 msgstr ""
 
 msgctxt "current_areacode_sum"
@@ -875,14 +880,6 @@ msgctxt "enable_sim_pin"
 msgid "Enable SIM PIN"
 msgstr ""
 
-msgctxt "enforce_proximity_summary"
-msgid "Enable proximity sensor enforcement option"
-msgstr ""
-
-msgctxt "enforce_proximity_title"
-msgid "Enforce proximity sensor"
-msgstr ""
-
 msgctxt "enterNewPin"
 msgid "New SIM PIN code"
 msgstr ""
@@ -1048,11 +1045,7 @@ msgid "Hangup"
 msgstr ""
 
 msgctxt "hangup_sms"
-msgid "Press \"Menu\" to reject and reply with SMS"
-msgstr ""
-
-msgctxt "hangup_sms_body"
-msgid "Currently not available, will call back later"
+msgid "Reject with SMS"
 msgstr ""
 
 msgctxt "ignore"
@@ -1886,6 +1879,18 @@ msgctxt "port_title"
 msgid "Port number"
 msgstr ""
 
+msgctxt "predefined_hangup_sms_body"
+msgid "Not available at the moment but will call you later"
+msgstr ""
+
+msgctxt "predefined_hangup_sms_summary"
+msgid "Ignore call and send message"
+msgstr ""
+
+msgctxt "predefined_hangup_sms_title"
+msgid "Message hangup options"
+msgstr ""
+
 msgctxt "preferred_network_mode_dialogtitle"
 msgid "Preferred network mode"
 msgstr ""
@@ -1904,6 +1909,22 @@ msgstr ""
 
 msgctxt "prefer_2g_summary"
 msgid "Saves battery"
+msgstr ""
+
+msgctxt "pref_dialer_list_title"
+msgid "Dialer list"
+msgstr ""
+
+msgctxt "pref_more_settings_title"
+msgid "Settings"
+msgstr ""
+
+msgctxt "pref_outgoing_call_title"
+msgid "Outgoing calls"
+msgstr ""
+
+msgctxt "pref_phone_security_title"
+msgid "Phone security"
 msgstr ""
 
 msgctxt "primary_account"
@@ -1953,14 +1974,6 @@ msgstr ""
 
 msgctxt "puk_unlocked"
 msgid "Your SIM card has been unblocked. Your phone is unlocking..."
-msgstr ""
-
-msgctxt "query_telocation_sum"
-msgid "Look up for mobile or landline number's location"
-msgstr ""
-
-msgctxt "query_telocation_title"
-msgid "Look up for number's location"
 msgstr ""
 
 msgctxt "radio_off_error"
@@ -2190,12 +2203,20 @@ msgctxt "set_smsc_address_title"
 msgid "Set SMS center number"
 msgstr ""
 
+msgctxt "show_call_log_number_summary"
+msgid "Show number in recent calls list"
+msgstr ""
+
+msgctxt "show_call_log_number_title"
+msgid "Show number in call list"
+msgstr ""
+
 msgctxt "show_quick_contact_badge_summary"
 msgid "Photo is shown in call log and when calling"
 msgstr ""
 
 msgctxt "show_quick_contact_badge_title"
-msgid "Display picture"
+msgid "Display photo"
 msgstr ""
 
 msgctxt "simContacts_empty"
@@ -2696,6 +2717,10 @@ msgctxt "voicemail_settings_number_label"
 msgid "Voicemail number"
 msgstr ""
 
+msgctxt "voice_number_hint"
+msgid "Enter voice mailbox number"
+msgstr ""
+
 msgctxt "voice_privacy"
 msgid "Voice Privacy"
 msgstr ""
@@ -2711,4 +2736,52 @@ msgstr ""
 msgctxt "wild_prompt_str"
 msgid "Replace the wild character with"
 msgstr ""
+
+#~ msgctxt "allow_3rd_app_listen_phone_event_summary"
+#~ msgid "Allow third-party phone app monitoring"
+#~ msgstr ""
+
+#~ msgctxt "allow_3rd_app_listen_phone_event_title"
+#~ msgid "Third-party phone options"
+#~ msgstr ""
+
+#~ msgctxt "auto_dialpad_pref_summary"
+#~ msgid "Automatically display dialpad"
+#~ msgstr ""
+
+#~ msgctxt "auto_dialpad_pref_title"
+#~ msgid "Show dial pad"
+#~ msgstr ""
+
+#~ msgctxt "current_areacode"
+#~ msgid "Current Area Code"
+#~ msgstr ""
+
+#~ msgctxt "enforce_proximity_summary"
+#~ msgid "Enable proximity sensor enforcement option"
+#~ msgstr ""
+
+#~ msgctxt "enforce_proximity_title"
+#~ msgid "Enforce proximity sensor"
+#~ msgstr ""
+
+#~ msgctxt "hangup_sms"
+#~ msgid "Press \"Menu\" to reject and reply with SMS"
+#~ msgstr ""
+
+#~ msgctxt "hangup_sms_body"
+#~ msgid "Currently not available, will call back later"
+#~ msgstr ""
+
+#~ msgctxt "query_telocation_sum"
+#~ msgid "Look up for mobile or landline number's location"
+#~ msgstr ""
+
+#~ msgctxt "query_telocation_title"
+#~ msgid "Look up for number's location"
+#~ msgstr ""
+
+#~ msgctxt "show_quick_contact_badge_title"
+#~ msgid "Display picture"
+#~ msgstr ""
 

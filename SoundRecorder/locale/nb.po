@@ -1,0 +1,129 @@
+# Norwegian Bokmål translations for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:17+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "app_name"
+msgid "Sound Recorder"
+msgstr ""
+
+msgctxt "recording"
+msgid "Recording"
+msgstr ""
+
+msgctxt "recording_stopped"
+msgid "Recording stopped"
+msgstr ""
+
+msgctxt "storage_is_full"
+msgid "Storage is full"
+msgstr ""
+
+msgctxt "max_length_reached"
+msgid "Maximum length reached"
+msgstr ""
+
+msgctxt "insert_sd_card"
+msgid "Please insert an SD card"
+msgstr ""
+
+msgctxt "button_ok"
+msgid "OK"
+msgstr ""
+
+#, python-format
+msgctxt "timer_format"
+msgid "%02d:%02d"
+msgstr ""
+
+msgctxt "audio_db_title_format"
+msgid "yyyy-MM-dd HH:mm:ss"
+msgstr ""
+
+msgctxt "audio_db_artist_name"
+msgid "Your recordings"
+msgstr ""
+
+msgctxt "audio_db_album_name"
+msgid "Audio recordings"
+msgstr ""
+
+msgctxt "audio_db_playlist_name"
+msgid "My recordings"
+msgstr ""
+
+msgctxt "error_sdcard_access"
+msgid "Unable to access SD card"
+msgstr ""
+
+msgctxt "error_app_internal"
+msgid "Internal application error"
+msgstr ""
+
+msgctxt "error_mediadb_new_record"
+msgid "Unable to save recorded audio"
+msgstr ""
+
+msgctxt "default_record_name"
+msgid "untitled record"
+msgstr ""
+
+msgctxt "menu_view_record_list"
+msgid "View record list"
+msgstr ""
+
+msgctxt "menu_setting"
+msgid "Settings"
+msgstr ""
+
+msgctxt "delete_dialog_title"
+msgid "Do you want to delete current record?"
+msgstr ""
+
+msgctxt "preferences_title"
+msgid "Settings"
+msgstr ""
+
+msgctxt "pref_title_record_type"
+msgid "Record file type"
+msgstr ""
+
+msgctxt "prefDialogTitle_recordType"
+msgid "Please select file type"
+msgstr ""
+
+msgctxt "prefDefault_recordType"
+msgid "audio/amr"
+msgstr ""
+
+msgctxt "pref_title_enable_high_quality"
+msgid "Enable high quality"
+msgstr ""
+
+msgctxt "pref_summary_enable_high_quality"
+msgid "The audio file with high quality can be larger"
+msgstr ""
+
+msgctxt "pref_title_enable_sound_effect"
+msgid "Enable sound effect"
+msgstr ""
+
+msgctxt "pref_summary_enable_sound_effect"
+msgid "Playing sound effect when the state is changed"
+msgstr ""
+

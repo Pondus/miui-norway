@@ -2,10 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+<<<<<<< .merge_file_a08476
 "POT-Creation-Date: 2011-05-03 21:28+0200\n"
 "PO-Revision-Date: 2011-05-04 16:17+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+=======
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:17+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+>>>>>>> .merge_file_a00944
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -105,7 +113,7 @@ msgid "Activate device administrator?"
 msgstr ""
 
 msgctxt "add_new_backup"
-msgid "Add a new backup"
+msgid "Make a new backup"
 msgstr ""
 
 msgctxt "advanced_mode"
@@ -1465,6 +1473,455 @@ msgctxt "choose_wallpaper"
 msgid "Choose wallpaper"
 msgstr ""
 
+msgctxt "cit_accelermeter_sensor_check_summary"
+msgid ""
+"Fast moving in one direction, the screen will display X, Y, Z three "
+"directions of acceleration (Note: When the phone is turned round the "
+"values will change based on orientation"
+msgstr ""
+
+msgctxt "cit_accelermeter_sensor_check_title"
+msgid "Check Accelerometer"
+msgstr ""
+
+msgctxt "cit_ac_charger_in"
+msgid "AC power connected"
+msgstr ""
+
+msgctxt "cit_ac_charger_out"
+msgid "AC power unplugged"
+msgstr ""
+
+msgctxt "cit_audio_loopback_check_summary"
+msgid "Check the microphones audio hardware settings for hands free and incalls"
+msgstr ""
+
+msgctxt "cit_audio_loopback_check_title"
+msgid "Check microphone"
+msgstr ""
+
+msgctxt "cit_audio_loopback_next"
+msgid "Next"
+msgstr ""
+
+msgctxt "cit_audio_loopback_previous"
+msgid "Back"
+msgstr ""
+
+msgctxt "cit_bluetooth_address_open_error"
+msgid "Unable to find Bluetooth device or address was not found"
+msgstr ""
+
+msgctxt "cit_bluetooth_not_support"
+msgid "Bluetooth device not supported"
+msgstr ""
+
+msgctxt "cit_bluetooth_scanning"
+msgid "Scanning for Bluetooth devices, please wait..."
+msgstr ""
+
+msgctxt "cit_bluetooth_scanning_bluetooth_done"
+msgid "Scan completed, no devices found"
+msgstr ""
+
+msgctxt "cit_bluetooth_scanning_bluetooth_error"
+msgid "Scan incomplete, unable to open Bluetooth device"
+msgstr ""
+
+msgctxt "cit_bluetooth_scanning_opening_bluetooth"
+msgid "Opening Bluetooth device..."
+msgstr ""
+
+msgctxt "cit_bluetooth_scan_retry"
+msgid "Re-scan"
+msgstr ""
+
+msgctxt "cit_blue_tooth_address_check_summary"
+msgid "The following Bluetooth information was found"
+msgstr ""
+
+msgctxt "cit_blue_tooth_address_check_title"
+msgid "Check Bluetooth address"
+msgstr ""
+
+msgctxt "cit_blue_tooth_scan_check_summary"
+msgid "The following Bluetooth information was found"
+msgstr ""
+
+msgctxt "cit_blue_tooth_scan_check_title"
+msgid "Check Bluetooth devices"
+msgstr ""
+
+msgctxt "cit_charger_plugin_check_summary"
+msgid "Check the chargers current status"
+msgstr ""
+
+msgctxt "cit_charger_plugin_check_title"
+msgid "Check charger"
+msgstr ""
+
+msgctxt "cit_charger_plugout_check_summary"
+msgid "Unplugging and re-inserting the charger cable will perform the test"
+msgstr ""
+
+msgctxt "cit_charger_plugout_check_title"
+msgid "Charger pull check"
+msgstr ""
+
+msgctxt "cit_charger_waiting_in"
+msgid "Please plug in the charger"
+msgstr ""
+
+msgctxt "cit_charger_waiting_out"
+msgid "Please unplug the charger"
+msgstr ""
+
+msgctxt "cit_fail"
+msgid "Failed"
+msgstr ""
+
+msgctxt "cit_headset_button_check_summary"
+msgid "Check headset, press headset button will display the key name"
+msgstr ""
+
+msgctxt "cit_headset_button_check_title"
+msgid "Headset key test"
+msgstr ""
+
+msgctxt "cit_headset_button_click"
+msgid "Click"
+msgstr ""
+
+msgctxt "cit_headset_button_fast_forward"
+msgid "Fast forward"
+msgstr ""
+
+msgctxt "cit_headset_button_next"
+msgid "Next"
+msgstr ""
+
+msgctxt "cit_headset_button_pause_play"
+msgid "Play / Pause"
+msgstr ""
+
+msgctxt "cit_headset_button_previous"
+msgid "Back"
+msgstr ""
+
+msgctxt "cit_headset_button_rewind"
+msgid "Rewind"
+msgstr ""
+
+msgctxt "cit_headset_button_stop"
+msgid "Stop"
+msgstr ""
+
+msgctxt "cit_headset_button_unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "cit_headset_loopback_check_summary"
+msgid "Microphone loopback test"
+msgstr ""
+
+msgctxt "cit_headset_loopback_check_title"
+msgid "Check headset / mic"
+msgstr ""
+
+msgctxt "cit_headset_plug_detect_summary"
+msgid "Checks headset is inserted, must be inserted before test commences"
+msgstr ""
+
+msgctxt "cit_headset_plug_detect_title"
+msgid "Check headset socket"
+msgstr ""
+
+msgctxt "cit_headset_plug_finish"
+msgid "Headset detected"
+msgstr ""
+
+msgctxt "cit_headset_plug_hint"
+msgid "Please insert headset"
+msgstr ""
+
+msgctxt "cit_headset_pull_detect_summary"
+msgid "Check the headset is connected"
+msgstr ""
+
+msgctxt "cit_headset_pull_detect_title"
+msgid "Check headset removal"
+msgstr ""
+
+msgctxt "cit_headset_pull_finish"
+msgid "Headset successfully unplugged"
+msgstr ""
+
+msgctxt "cit_headset_pull_hint"
+msgid "Please unplug headset"
+msgstr ""
+
+msgctxt "cit_hide_menu"
+msgid "Close"
+msgstr ""
+
+msgctxt "cit_keyboard_test_summary"
+msgid ""
+"Shows the currently selected key, this test does not check the home key "
+"or hardware buttons"
+msgstr ""
+
+msgctxt "cit_keyboard_test_title"
+msgid "Check keyboard"
+msgstr ""
+
+msgctxt "cit_light_sensor_check_summary"
+msgid "The following light sensor DAC information was found"
+msgstr ""
+
+msgctxt "cit_light_sensor_check_title"
+msgid "Check light-sensor"
+msgstr ""
+
+msgctxt "cit_magnetic_sensor_check_summary"
+msgid "The following was found for the magnetic-sensor X, Y, Z values"
+msgstr ""
+
+msgctxt "cit_magnetic_sensor_check_title"
+msgid "Check magnetic-sensor"
+msgstr ""
+
+msgctxt "cit_name"
+msgid "Factory test"
+msgstr ""
+
+msgctxt "cit_pass"
+msgid "Passed"
+msgstr ""
+
+msgctxt "cit_playing_sd_mp3"
+msgid "MP3 playing..."
+msgstr ""
+
+msgctxt "cit_play_sd_mp3_summary"
+msgid ""
+"Test will play the file named music.mp3 located in the root folder of the"
+" SD card"
+msgstr ""
+
+msgctxt "cit_play_sd_mp3_title"
+msgid "Check MP3 playback"
+msgstr ""
+
+msgctxt "cit_pointer_location_title"
+msgid "Check touchscreen cursor / pointer"
+msgstr ""
+
+msgctxt "cit_proximity_sensor_check_summary"
+msgid ""
+"Cover the phones proximity sensor by hand, information displayed is near "
+"to far from 0.0 upwards"
+msgstr ""
+
+msgctxt "cit_proximity_sensor_check_title"
+msgid "Check proximity-sensor"
+msgstr ""
+
+msgctxt "cit_reset_check_summary"
+msgid "This test performs a system restart"
+msgstr ""
+
+msgctxt "cit_reset_check_title"
+msgid "Restart check"
+msgstr ""
+
+msgctxt "cit_reset_test"
+msgid "Test Reset"
+msgstr ""
+
+msgctxt "cit_sd_fail"
+msgid "Operation failed"
+msgstr ""
+
+msgctxt "cit_sd_mount"
+msgid "Mount SD card"
+msgstr ""
+
+msgctxt "cit_sd_mp3_not_existed"
+msgid "MP3 file not found on SD card"
+msgstr ""
+
+msgctxt "cit_sd_plugged_in"
+msgid "SD card mounted"
+msgstr ""
+
+msgctxt "cit_sd_plugged_out"
+msgid "SD card unmounted"
+msgstr ""
+
+msgctxt "cit_sd_plug_in_check_summary"
+msgid "This test performs a check for the SD card"
+msgstr ""
+
+msgctxt "cit_sd_plug_in_check_title"
+msgid "Check SD card mount"
+msgstr ""
+
+msgctxt "cit_sd_plug_in_hint"
+msgid "Please insert SD card"
+msgstr ""
+
+msgctxt "cit_sd_plug_in_sd_already_in"
+msgid "SD card already mounted"
+msgstr ""
+
+msgctxt "cit_sd_plug_out_check_summary"
+msgid "This test performs a check to see if the SD card is unmounted"
+msgstr ""
+
+msgctxt "cit_sd_plug_out_check_title"
+msgid "Check SD card unmounted"
+msgstr ""
+
+msgctxt "cit_sd_plug_out_hint"
+msgid "Umounting SD card..."
+msgstr ""
+
+msgctxt "cit_sd_plug_out_sd_already_out"
+msgid "SD card already unmounted"
+msgstr ""
+
+msgctxt "cit_sd_unmount"
+msgid "Unmount SD card"
+msgstr ""
+
+msgctxt "cit_sim_check_summary"
+msgid "Check SIM status"
+msgstr ""
+
+msgctxt "cit_sim_check_title"
+msgid "SIM status info:"
+msgstr ""
+
+msgctxt "cit_sim_error_unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "cit_sim_network_operator"
+msgid "Network operator:"
+msgstr ""
+
+msgctxt "cit_sim_network_operator_name"
+msgid "Operator name:"
+msgstr ""
+
+msgctxt "cit_sim_network_type"
+msgid "Network type:"
+msgstr ""
+
+msgctxt "cit_sim_serial_number"
+msgid "SIM id:"
+msgstr ""
+
+msgctxt "cit_sim_sim_country"
+msgid "SIM origin:"
+msgstr ""
+
+msgctxt "cit_sim_sim_operator"
+msgid "SIM manufacturer:"
+msgstr ""
+
+msgctxt "cit_sim_sim_operator_name"
+msgid "SIM operator name:"
+msgstr ""
+
+msgctxt "cit_sim_state_absent"
+msgid "No SIM card found"
+msgstr ""
+
+msgctxt "cit_sim_state_network_locked"
+msgid "Network PIN Lock"
+msgstr ""
+
+msgctxt "cit_sim_state_pin_required"
+msgid "PIN code required"
+msgstr ""
+
+msgctxt "cit_sim_state_puk_required"
+msgid "PUK code required"
+msgstr ""
+
+msgctxt "cit_sim_state_ready"
+msgid "SIM card ready"
+msgstr ""
+
+msgctxt "cit_sim_state_unkown"
+msgid "Unknown state"
+msgstr ""
+
+msgctxt "cit_usb_charger_in"
+msgid "USB charger connected"
+msgstr ""
+
+msgctxt "cit_usb_charger_out"
+msgid "USB charger unplugged"
+msgstr ""
+
+msgctxt "cit_version_check_summary"
+msgid "The following hardware and software versions where found"
+msgstr ""
+
+msgctxt "cit_version_check_title"
+msgid "Check version"
+msgstr ""
+
+msgctxt "cit_vibrator_check_summary"
+msgid "Check vibration settings including haptic feedback"
+msgstr ""
+
+msgctxt "cit_vibrator_check_title"
+msgid "Check vibration"
+msgstr ""
+
+msgctxt "cit_vibrator_long"
+msgid "Long vibrate"
+msgstr ""
+
+msgctxt "cit_vibrator_short"
+msgid "Short vibrate"
+msgstr ""
+
+msgctxt "cit_wifi_address_check_summary"
+msgid "The following Wi-Fi IP address was found"
+msgstr ""
+
+msgctxt "cit_wifi_address_check_title"
+msgid "Check Wi-Fi address"
+msgstr ""
+
+msgctxt "cit_wifi_address_error"
+msgid "Unable to obtain IP address, check Wi-Fi is enabled"
+msgstr ""
+
+msgctxt "cit_wifi_ap_scanning"
+msgid "Scanning for Access Points..."
+msgstr ""
+
+msgctxt "cit_wifi_ap_scan_check_summary"
+msgid "The following Access Points where found"
+msgstr ""
+
+msgctxt "cit_wifi_ap_scan_check_title"
+msgid "Find Wi-Fi Access Point"
+msgstr ""
+
+msgctxt "cit_wifi_ap_scan_retry"
+msgid "Re-scan"
+msgstr ""
+
+msgctxt "cit_wifi_state_refresh"
+msgid "Refresh"
+msgstr ""
+
 msgctxt "clear_activities"
 msgid "Clear defaults"
 msgstr ""
@@ -1891,7 +2348,7 @@ msgid "disableNetwork"
 msgstr ""
 
 msgctxt "disable_power_key_long_press_under_keyguard"
-msgid "Disable long-press on lockscreen"
+msgid "Disable on lockscreen"
 msgstr ""
 
 msgctxt "disable_text"
@@ -2019,11 +2476,11 @@ msgid "Audible touch tones"
 msgstr ""
 
 msgctxt "electron_beam_animation_off"
-msgid "Turn off animation"
+msgid "Screen off animation"
 msgstr ""
 
 msgctxt "electron_beam_animation_on"
-msgid "Turn on animation"
+msgid "Screen on animation"
 msgstr ""
 
 msgctxt "emergency_tone_summary"
@@ -2479,7 +2936,7 @@ msgid "Enable to allow lights to decrease. Use hysteresis to reduce flicker."
 msgstr ""
 
 msgctxt "light_decrease_enabled_title"
-msgid "Allow light decrease"
+msgid "Allow lights to decrease"
 msgstr ""
 
 msgctxt "light_decrease_hysteresis_summary"
@@ -2563,7 +3020,7 @@ msgid "Load defaults"
 msgstr ""
 
 msgctxt "ll_disabled"
-msgid "disabled"
+msgid "Disabled"
 msgstr ""
 
 msgctxt "ll_header_btn"
@@ -2875,7 +3332,7 @@ msgid "Screen unlock security"
 msgstr ""
 
 msgctxt "lock_settings_title"
-msgid "Screen unlock"
+msgid "Screen unlock pattern"
 msgstr ""
 
 msgctxt "lock_sounds_enable_summary_off"
@@ -3085,6 +3542,18 @@ msgctxt "menu_style_title"
 msgid "Menu Styles"
 msgstr ""
 
+msgctxt "miui_appshare_license_title"
+msgid "MIUI AppShare disclaimer"
+msgstr ""
+
+msgctxt "miui_copyright_title"
+msgid "Copyright"
+msgstr ""
+
+msgctxt "miui_license_title"
+msgid "MIUI license information"
+msgstr ""
+
 msgctxt "mms_settings_title"
 msgid "MMS Settings"
 msgstr ""
@@ -3098,7 +3567,7 @@ msgid "Monitor power usage"
 msgstr ""
 
 msgctxt "more_info"
-msgid "More info"
+msgid "More information"
 msgstr ""
 
 msgctxt "move_app"
@@ -3299,7 +3768,7 @@ msgid "Dialer"
 msgstr ""
 
 msgctxt "personal_password_for_firewall_summary"
-msgid "Requires password to enter DND mode"
+msgid "Requires password to enter DND Mode"
 msgstr ""
 
 msgctxt "personal_password_for_firewall_title"
@@ -3327,7 +3796,7 @@ msgid "Messaging requires password to view messages"
 msgstr ""
 
 msgctxt "personal_password_for_notes_summary"
-msgid "Notes requires password to view"
+msgid "Notes requires password to view note details"
 msgstr ""
 
 msgctxt "personal_password_for_notes_title"
@@ -3407,7 +3876,7 @@ msgid "Phone idle"
 msgstr ""
 
 msgctxt "power_key"
-msgid "Power button action"
+msgid "Long-press power button"
 msgstr ""
 
 msgctxt "power_phone"
@@ -3431,11 +3900,11 @@ msgid "Wi-Fi"
 msgstr ""
 
 msgctxt "preferred_app_title"
-msgid "Default Music Player for lockscreen"
+msgid "Default Music Player"
 msgstr ""
 
 msgctxt "preferred_media_app_summary"
-msgid "Music Player used for lockscreen controls"
+msgid "Music Player used for lockscreen"
 msgstr ""
 
 msgctxt "privacy_settings"
@@ -3455,11 +3924,11 @@ msgid "Media Server"
 msgstr ""
 
 msgctxt "process_provider_in_use_description"
-msgid "Provider %1$s is in use."
+msgid "Provider %1$s is in use"
 msgstr ""
 
 msgctxt "process_service_in_use_description"
-msgid "Service %1$s is in use."
+msgid "Service %1$s is in use"
 msgstr ""
 
 msgctxt "program_settings_tab"
@@ -4329,7 +4798,7 @@ msgid "Notifications"
 msgstr ""
 
 msgctxt "sort_order_alpha"
-msgid "Sort"
+msgid "Sort alphabetically"
 msgstr ""
 
 msgctxt "sort_order_size"
@@ -4617,7 +5086,7 @@ msgid "Set Down Pattern"
 msgstr ""
 
 msgctxt "title_haptic_feedback_all"
-msgid "Haptic screen items"
+msgid "Haptic screen selections"
 msgstr ""
 
 msgctxt "title_haptic_feedback_up"
@@ -4829,7 +5298,7 @@ msgid "None"
 msgstr ""
 
 msgctxt "unlock_set_unlock_password_summary"
-msgid "Enter a password to unlock screen"
+msgid "Enter a password to unlock"
 msgstr ""
 
 msgctxt "unlock_set_unlock_password_title"
@@ -4837,7 +5306,7 @@ msgid "Password"
 msgstr ""
 
 msgctxt "unlock_set_unlock_pattern_summary"
-msgid "Draw pattern to unlock screen"
+msgid "Draw a pattern to unlock"
 msgstr ""
 
 msgctxt "unlock_set_unlock_pattern_title"
@@ -4845,7 +5314,7 @@ msgid "Pattern"
 msgstr ""
 
 msgctxt "unlock_set_unlock_pin_summary"
-msgid "Enter a numeric PIN to unlock screen"
+msgid "Enter a numeric PIN to unlock"
 msgstr ""
 
 msgctxt "unlock_set_unlock_pin_title"
@@ -5819,4 +6288,84 @@ msgstr ""
 msgctxt "zone_list_menu_sort_by_timezone"
 msgid "Sort by Timezone"
 msgstr ""
+
+#~ msgctxt "add_new_backup"
+#~ msgid "Add a new backup"
+#~ msgstr ""
+
+#~ msgctxt "disable_power_key_long_press_under_keyguard"
+#~ msgid "Disable long-press on lockscreen"
+#~ msgstr ""
+
+#~ msgctxt "electron_beam_animation_off"
+#~ msgid "Turn off animation"
+#~ msgstr ""
+
+#~ msgctxt "electron_beam_animation_on"
+#~ msgid "Turn on animation"
+#~ msgstr ""
+
+#~ msgctxt "light_decrease_enabled_title"
+#~ msgid "Allow light decrease"
+#~ msgstr ""
+
+#~ msgctxt "ll_disabled"
+#~ msgid "disabled"
+#~ msgstr ""
+
+#~ msgctxt "lock_settings_title"
+#~ msgid "Screen unlock"
+#~ msgstr ""
+
+#~ msgctxt "more_info"
+#~ msgid "More info"
+#~ msgstr ""
+
+#~ msgctxt "personal_password_for_firewall_summary"
+#~ msgid "Requires password to enter DND mode"
+#~ msgstr ""
+
+#~ msgctxt "personal_password_for_notes_summary"
+#~ msgid "Notes requires password to view"
+#~ msgstr ""
+
+#~ msgctxt "power_key"
+#~ msgid "Power button action"
+#~ msgstr ""
+
+#~ msgctxt "preferred_app_title"
+#~ msgid "Default Music Player for lockscreen"
+#~ msgstr ""
+
+#~ msgctxt "preferred_media_app_summary"
+#~ msgid "Music Player used for lockscreen controls"
+#~ msgstr ""
+
+#~ msgctxt "process_provider_in_use_description"
+#~ msgid "Provider %1$s is in use."
+#~ msgstr ""
+
+#~ msgctxt "process_service_in_use_description"
+#~ msgid "Service %1$s is in use."
+#~ msgstr ""
+
+#~ msgctxt "sort_order_alpha"
+#~ msgid "Sort"
+#~ msgstr ""
+
+#~ msgctxt "title_haptic_feedback_all"
+#~ msgid "Haptic screen items"
+#~ msgstr ""
+
+#~ msgctxt "unlock_set_unlock_password_summary"
+#~ msgid "Enter a password to unlock screen"
+#~ msgstr ""
+
+#~ msgctxt "unlock_set_unlock_pattern_summary"
+#~ msgid "Draw pattern to unlock screen"
+#~ msgstr ""
+
+#~ msgctxt "unlock_set_unlock_pin_summary"
+#~ msgid "Enter a numeric PIN to unlock screen"
+#~ msgstr ""
 

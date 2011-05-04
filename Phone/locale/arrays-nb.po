@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# Norwegian Bokmål translations for PROJECT.
 # Copyright (C) 2011 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
@@ -8,10 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:28+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -313,19 +314,19 @@ msgctxt "cdma_network_preferences_values:2"
 msgid "2"
 msgstr ""
 
-msgctxt "subscription_choices:0"
+msgctxt "cdma_subscription_choices:0"
 msgid "RUIM/SIM"
 msgstr ""
 
-msgctxt "subscription_choices:1"
+msgctxt "cdma_subscription_choices:1"
 msgid "NV"
 msgstr ""
 
-msgctxt "subscription_values:0"
+msgctxt "cdma_subscription_values:0"
 msgid "0"
 msgstr ""
 
-msgctxt "subscription_values:1"
+msgctxt "cdma_subscription_values:1"
 msgid "1"
 msgstr ""
 
@@ -376,4 +377,20 @@ msgstr ""
 msgctxt "dtmf_tone_values:1"
 msgid "1"
 msgstr ""
+
+#~ msgctxt "subscription_choices:0"
+#~ msgid "RUIM/SIM"
+#~ msgstr ""
+
+#~ msgctxt "subscription_choices:1"
+#~ msgid "NV"
+#~ msgstr ""
+
+#~ msgctxt "subscription_values:0"
+#~ msgid "0"
+#~ msgstr ""
+
+#~ msgctxt "subscription_values:1"
+#~ msgid "1"
+#~ msgstr ""
 

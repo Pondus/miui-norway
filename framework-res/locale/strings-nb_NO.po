@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-03 20:56+0200\n"
-"PO-Revision-Date: 2011-05-03 21:03+0100\n"
-"Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
+"PO-Revision-Date: 2011-05-04 16:11+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: Team Norway <norway@miuiandroid.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "country_name_br"
 msgid "Brazil"
-msgstr ""
+msgstr "Brasil"
 
 msgctxt "country_name_bw"
 msgid "Botswana"
@@ -472,11 +472,11 @@ msgstr ""
 
 msgctxt "country_name_cg"
 msgid "Congo"
-msgstr ""
+msgstr "Kongo"
 
 msgctxt "country_name_ch"
 msgid "Switzerland"
-msgstr ""
+msgstr "Sveits"
 
 msgctxt "country_name_ci"
 msgid "Côte d'Ivoire"
@@ -496,7 +496,7 @@ msgstr ""
 
 msgctxt "country_name_cn"
 msgid "China"
-msgstr ""
+msgstr "Kina"
 
 msgctxt "country_name_co"
 msgid "Colombia"
@@ -528,7 +528,7 @@ msgstr ""
 
 msgctxt "country_name_dk"
 msgid "Denmark"
-msgstr ""
+msgstr "Danmark"
 
 msgctxt "country_name_do"
 msgid "Dominican Republic"
@@ -548,7 +548,7 @@ msgstr ""
 
 msgctxt "country_name_eg"
 msgid "Egypt"
-msgstr ""
+msgstr "Egypt"
 
 msgctxt "country_name_eh"
 msgid "Western Samoa"
@@ -556,7 +556,7 @@ msgstr ""
 
 msgctxt "country_name_es"
 msgid "Spain"
-msgstr ""
+msgstr "Spania"
 
 msgctxt "country_name_et"
 msgid "Ethiopia"
@@ -564,7 +564,7 @@ msgstr ""
 
 msgctxt "country_name_fi"
 msgid "Finland"
-msgstr ""
+msgstr "Finland"
 
 msgctxt "country_name_fj"
 msgid "Fiji"
@@ -580,7 +580,7 @@ msgstr ""
 
 msgctxt "country_name_gb"
 msgid "English"
-msgstr ""
+msgstr "Engelsk"
 
 msgctxt "country_name_gd_tt"
 msgid "Grenada / Trinidad and Tobago"
@@ -628,7 +628,7 @@ msgstr ""
 
 msgctxt "country_name_hk"
 msgid "Hong Kong, China"
-msgstr ""
+msgstr "Hong Kong, Kina"
 
 msgctxt "country_name_hn"
 msgid "Honduras"
@@ -648,31 +648,31 @@ msgstr ""
 
 msgctxt "country_name_ie"
 msgid "Ireland"
-msgstr ""
+msgstr "Irland"
 
 msgctxt "country_name_il"
 msgid "Israel"
-msgstr ""
+msgstr "Israel"
 
 msgctxt "country_name_in"
 msgid "India"
-msgstr ""
+msgstr "India"
 
 msgctxt "country_name_iq"
 msgid "Iraq"
-msgstr ""
+msgstr "Irak"
 
 msgctxt "country_name_ir"
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 msgctxt "country_name_is"
 msgid "Iceland"
-msgstr ""
+msgstr "Island"
 
 msgctxt "country_name_it"
 msgid "Italy"
-msgstr ""
+msgstr "Italia"
 
 msgctxt "country_name_jm"
 msgid "Jamaica"
@@ -684,11 +684,11 @@ msgstr ""
 
 msgctxt "country_name_jp"
 msgid "Japan"
-msgstr ""
+msgstr "Japan"
 
 msgctxt "country_name_ke"
 msgid "Kenya"
-msgstr ""
+msgstr "Kenya"
 
 msgctxt "country_name_kg"
 msgid "Kyrgyzstan"
@@ -700,11 +700,11 @@ msgstr ""
 
 msgctxt "country_name_kp"
 msgid "North Korea"
-msgstr ""
+msgstr "Nord Korea"
 
 msgctxt "country_name_kr"
 msgid "South Korea"
-msgstr ""
+msgstr "Sør Korea"
 
 msgctxt "country_name_kw"
 msgid "Kuwait"
@@ -792,7 +792,7 @@ msgstr ""
 
 msgctxt "country_name_mo"
 msgid "Macao, China"
-msgstr ""
+msgstr "Macao, Kinda"
 
 msgctxt "country_name_mp"
 msgid "Northern Mariana Islands"
@@ -856,7 +856,7 @@ msgstr ""
 
 msgctxt "country_name_no"
 msgid "Norway"
-msgstr ""
+msgstr "Norge"
 
 msgctxt "country_name_np"
 msgid "Nepal"
@@ -910,7 +910,7 @@ msgstr ""
 
 msgctxt "country_name_pt"
 msgid "Portugal"
-msgstr ""
+msgstr "Portugal"
 
 msgctxt "country_name_py"
 msgid "Paraguay"
@@ -930,7 +930,7 @@ msgstr ""
 
 msgctxt "country_name_ru"
 msgid "Russia"
-msgstr ""
+msgstr "Russland"
 
 msgctxt "country_name_sa"
 msgid "Saudi Arabia"
@@ -950,7 +950,7 @@ msgstr ""
 
 msgctxt "country_name_se"
 msgid "Sweden"
-msgstr ""
+msgstr "Sverige"
 
 msgctxt "country_name_sg"
 msgid "Singapore"
@@ -1030,7 +1030,7 @@ msgstr ""
 
 msgctxt "country_name_tr"
 msgid "Turkey"
-msgstr ""
+msgstr "Tyrkia"
 
 msgctxt "country_name_tw"
 msgid "China Taiwan"
@@ -1130,7 +1130,7 @@ msgstr ""
 
 msgctxt "date_day"
 msgid "Date"
-msgstr ""
+msgstr "Dato"
 
 #, fuzzy
 msgctxt "date_time"
@@ -1154,31 +1154,31 @@ msgstr "dager"
 
 msgctxt "day_of_week_long_friday"
 msgid "Friday"
-msgstr ""
+msgstr "Fredag"
 
 msgctxt "day_of_week_long_monday"
 msgid "Monday"
-msgstr ""
+msgstr "Mandag"
 
 msgctxt "day_of_week_long_saturday"
 msgid "Saturday"
-msgstr ""
+msgstr "Lørdag"
 
 msgctxt "day_of_week_long_sunday"
 msgid "Sunday"
-msgstr ""
+msgstr "Søndag"
 
 msgctxt "day_of_week_long_thursday"
 msgid "Thursday"
-msgstr ""
+msgstr "Torsdag"
 
 msgctxt "day_of_week_long_tuesday"
 msgid "Tuesday"
-msgstr ""
+msgstr "tirsdag"
 
 msgctxt "day_of_week_long_wednesday"
 msgid "Wednesday"
-msgstr ""
+msgstr "Lørdag"
 
 msgctxt "day_of_week_medium_friday"
 msgid "Fri"
@@ -1262,7 +1262,7 @@ msgstr ""
 
 msgctxt "day_of_week_short_wednesday"
 msgid "We"
-msgstr ""
+msgstr "On"
 
 #, fuzzy
 msgctxt "defaultMsisdnAlphaTag"
@@ -2360,99 +2360,99 @@ msgstr ""
 
 msgctxt "month_long_april"
 msgid "April"
-msgstr ""
+msgstr "April"
 
 msgctxt "month_long_august"
 msgid "August"
-msgstr ""
+msgstr "August"
 
 msgctxt "month_long_december"
 msgid "December"
-msgstr ""
+msgstr "Desember"
 
 msgctxt "month_long_february"
 msgid "February"
-msgstr ""
+msgstr "Februar"
 
 msgctxt "month_long_january"
 msgid "January"
-msgstr ""
+msgstr "Januar"
 
 msgctxt "month_long_july"
 msgid "July"
-msgstr ""
+msgstr "Juli"
 
 msgctxt "month_long_june"
 msgid "June"
-msgstr ""
+msgstr "Juni"
 
 msgctxt "month_long_march"
 msgid "March"
-msgstr ""
+msgstr "Mars"
 
 msgctxt "month_long_may"
 msgid "May"
-msgstr ""
+msgstr "Mai"
 
 msgctxt "month_long_november"
 msgid "November"
-msgstr ""
+msgstr "November"
 
 msgctxt "month_long_october"
 msgid "October"
-msgstr ""
+msgstr "Oktober"
 
 msgctxt "month_long_september"
 msgid "September"
-msgstr ""
+msgstr "September"
 
 msgctxt "month_long_standalone_april"
 msgid "April"
-msgstr ""
+msgstr "April"
 
 msgctxt "month_long_standalone_august"
 msgid "August"
-msgstr ""
+msgstr "August"
 
 msgctxt "month_long_standalone_december"
 msgid "December"
-msgstr ""
+msgstr "Desember"
 
 msgctxt "month_long_standalone_february"
 msgid "February"
-msgstr ""
+msgstr "Februar"
 
 msgctxt "month_long_standalone_january"
 msgid "January"
-msgstr ""
+msgstr "Januar"
 
 msgctxt "month_long_standalone_july"
 msgid "July"
-msgstr ""
+msgstr "Juli"
 
 msgctxt "month_long_standalone_june"
 msgid "June"
-msgstr ""
+msgstr "Juni"
 
 msgctxt "month_long_standalone_march"
 msgid "March"
-msgstr ""
+msgstr "Mars"
 
 msgctxt "month_long_standalone_may"
 msgid "May"
-msgstr ""
+msgstr "Mai"
 
 msgctxt "month_long_standalone_november"
 msgid "November"
-msgstr ""
+msgstr "November"
 
 msgctxt "month_long_standalone_october"
 msgid "October"
-msgstr ""
+msgstr "Oktober"
 
 msgctxt "month_long_standalone_september"
 msgid "September"
-msgstr ""
+msgstr "September"
 
 msgctxt "month_medium_april"
 msgid "Apr"
@@ -4469,7 +4469,7 @@ msgstr "(Mangler telefonnummer)"
 
 msgctxt "reboot_progress"
 msgid "Restarting..."
-msgstr ""
+msgstr "Restarter..."
 
 #, fuzzy
 msgctxt "recent_tasks_title"
@@ -5031,11 +5031,11 @@ msgstr ""
 
 msgctxt "today"
 msgid "Today"
-msgstr ""
+msgstr "Idag"
 
 msgctxt "tomorrow"
 msgid "Tomorrow"
-msgstr ""
+msgstr "Imorgen"
 
 msgctxt "traffic_control_hint"
 msgid "You can disable the traffic monitor below"
@@ -5286,5 +5286,5 @@ msgstr "OK"
 
 msgctxt "yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Igår"
 
