@@ -1,0 +1,379 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "transport_types:0"
+msgid "UDP"
+msgstr ""
+
+msgctxt "transport_types:1"
+msgid "TCP"
+msgstr ""
+
+msgctxt "dialer_click_entries:0"
+msgid "Call"
+msgstr ""
+
+msgctxt "dialer_click_entries:1"
+msgid "Send SMS/MMS"
+msgstr ""
+
+msgctxt "dialer_click_entries:2"
+msgid "View contact"
+msgstr ""
+
+msgctxt "dialer_click_entries:3"
+msgid "Ignore click"
+msgstr ""
+
+msgctxt "dialer_click_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "dialer_click_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "dialer_click_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "dialer_click_values:3"
+msgid "3"
+msgstr ""
+
+msgctxt "voice_quality_ui_values:0"
+msgid "Normal"
+msgstr ""
+
+msgctxt "voice_quality_ui_values:1"
+msgid "Clear"
+msgstr ""
+
+msgctxt "voice_quality_ui_values:2"
+msgid "Crisp"
+msgstr ""
+
+msgctxt "voice_quality_ui_values:3"
+msgid "Vivid"
+msgstr ""
+
+msgctxt "clir_display_values:0"
+msgid "Network default"
+msgstr ""
+
+msgctxt "clir_display_values:1"
+msgid "Hide number"
+msgstr ""
+
+msgctxt "clir_display_values:2"
+msgid "Show number"
+msgstr ""
+
+msgctxt "clir_values:0"
+msgid "DEFAULT"
+msgstr ""
+
+msgctxt "clir_values:1"
+msgid "HIDE"
+msgstr ""
+
+msgctxt "clir_values:2"
+msgid "SHOW"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:0"
+msgid "Global"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:1"
+msgid "EvDo only"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:2"
+msgid "CDMA w/o EvDo"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:3"
+msgid "CDMA / EvDo auto"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:4"
+msgid "GSM / WCDMA auto"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:5"
+msgid "WCDMA only"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:6"
+msgid "GSM only"
+msgstr ""
+
+msgctxt "preferred_network_mode_choices:7"
+msgid "GSM / WCDMA preferred"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:0"
+msgid "7"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:1"
+msgid "6"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:2"
+msgid "5"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:3"
+msgid "4"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:4"
+msgid "3"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:5"
+msgid "2"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:6"
+msgid "1"
+msgstr ""
+
+msgctxt "preferred_network_mode_values:7"
+msgid "0"
+msgstr ""
+
+msgctxt "list_language_entries:0"
+msgid "English"
+msgstr ""
+
+msgctxt "list_language_entries:1"
+msgid "French"
+msgstr ""
+
+msgctxt "list_language_entries:2"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "list_language_entries:3"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "list_language_entries:4"
+msgid "Korean"
+msgstr ""
+
+msgctxt "list_language_entries:5"
+msgid "Chinese"
+msgstr ""
+
+msgctxt "list_language_entries:6"
+msgid "Hebrew"
+msgstr ""
+
+msgctxt "list_language_values:0"
+msgid "1"
+msgstr ""
+
+msgctxt "list_language_values:1"
+msgid "2"
+msgstr ""
+
+msgctxt "list_language_values:2"
+msgid "3"
+msgstr ""
+
+msgctxt "list_language_values:3"
+msgid "4"
+msgstr ""
+
+msgctxt "list_language_values:4"
+msgid "5"
+msgstr ""
+
+msgctxt "list_language_values:5"
+msgid "6"
+msgstr ""
+
+msgctxt "list_language_values:6"
+msgid "7"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_choices:0"
+msgid "GSM/WCDMA (auto mode)"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_choices:1"
+msgid "WCDMA only"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_choices:2"
+msgid "GSM only"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_choices:3"
+msgid "GSM/WCDA (WCDMA preferred)"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "gsm_umts_network_preferences_values:3"
+msgid "3"
+msgstr ""
+
+msgctxt "cdma_system_select_choices:0"
+msgid "Home only"
+msgstr ""
+
+msgctxt "cdma_system_select_choices:1"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "cdma_system_select_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "cdma_system_select_values:1"
+msgid "2"
+msgstr ""
+
+msgctxt "cdma_roaming_mode_choices:0"
+msgid "Home Networks only"
+msgstr ""
+
+msgctxt "cdma_roaming_mode_choices:1"
+msgid "Affiliated Networks"
+msgstr ""
+
+msgctxt "cdma_roaming_mode_choices:2"
+msgid "Any Network"
+msgstr ""
+
+msgctxt "cdma_roaming_mode_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "cdma_roaming_mode_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "cdma_roaming_mode_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "cdma_network_preferences_choices:0"
+msgid "CDMA/EvDo"
+msgstr ""
+
+msgctxt "cdma_network_preferences_choices:1"
+msgid "CDMA only"
+msgstr ""
+
+msgctxt "cdma_network_preferences_choices:2"
+msgid "EvDo only"
+msgstr ""
+
+msgctxt "cdma_network_preferences_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "cdma_network_preferences_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "cdma_network_preferences_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "subscription_choices:0"
+msgid "RUIM/SIM"
+msgstr ""
+
+msgctxt "subscription_choices:1"
+msgid "NV"
+msgstr ""
+
+msgctxt "subscription_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "subscription_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "tty_mode_entries:0"
+msgid "TTY Off"
+msgstr ""
+
+msgctxt "tty_mode_entries:1"
+msgid "TTY Full"
+msgstr ""
+
+msgctxt "tty_mode_entries:2"
+msgid "TTY HCO"
+msgstr ""
+
+msgctxt "tty_mode_entries:3"
+msgid "TTY VCO"
+msgstr ""
+
+msgctxt "tty_mode_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "tty_mode_values:1"
+msgid "1"
+msgstr ""
+
+msgctxt "tty_mode_values:2"
+msgid "2"
+msgstr ""
+
+msgctxt "tty_mode_values:3"
+msgid "3"
+msgstr ""
+
+msgctxt "dtmf_tone_entries:0"
+msgid "Normal"
+msgstr ""
+
+msgctxt "dtmf_tone_entries:1"
+msgid "Long"
+msgstr ""
+
+msgctxt "dtmf_tone_values:0"
+msgid "0"
+msgstr ""
+
+msgctxt "dtmf_tone_values:1"
+msgid "1"
+msgstr ""
+

@@ -1,0 +1,115 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "account_deleted"
+msgid "Account deleted"
+msgstr ""
+
+msgctxt "account_disabled"
+msgid "Account disabled"
+msgstr ""
+
+msgctxt "app_name"
+msgid "MIUI Account Manager"
+msgstr ""
+
+msgctxt "authenticator_label"
+msgid "MIUI"
+msgstr ""
+
+msgctxt "bad_authentication"
+msgid "our username and password do not match. Please try again."
+msgstr ""
+
+msgctxt "bad_username"
+msgid "The text entered is not a valid username"
+msgstr ""
+
+msgctxt "bad_verification"
+msgid "Registration error"
+msgstr ""
+
+msgctxt "email"
+msgid "E-mail:"
+msgstr ""
+
+msgctxt "email_not_verified"
+msgid "E-mail account not yet verified"
+msgstr ""
+
+msgctxt "loging_on"
+msgid "Logging in, please wait..."
+msgstr ""
+
+msgctxt "login_account_suggestion"
+msgid "If you are having trouble signing up please visit http://www.miui.com"
+msgstr ""
+
+msgctxt "logon"
+msgid "Login"
+msgstr ""
+
+msgctxt "must_input"
+msgid "Required field"
+msgstr ""
+
+msgctxt "my_account"
+msgid "My MIUI Profile"
+msgstr ""
+
+msgctxt "network_error"
+msgid "Network connection error, please check mobile data is active and available"
+msgstr ""
+
+msgctxt "nickname"
+msgid "Name / Alias:"
+msgstr ""
+
+msgctxt "password"
+msgid "Password:"
+msgstr ""
+
+msgctxt "registered_account"
+msgid "Account has been registered"
+msgstr ""
+
+msgctxt "service_disabled"
+msgid "Service disabled"
+msgstr ""
+
+msgctxt "service_name"
+msgid "MIUI Account Manager"
+msgstr ""
+
+msgctxt "service_unavailable"
+msgid "Service unavailable"
+msgstr ""
+
+msgctxt "terms_not_agreed"
+msgid "You must agree to our terms to register"
+msgstr ""
+
+msgctxt "unknown"
+msgid "Unknown error"
+msgstr ""
+
+msgctxt "username"
+msgid "Username:"
+msgstr ""
+

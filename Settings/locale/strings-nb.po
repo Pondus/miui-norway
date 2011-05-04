@@ -1,0 +1,5930 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "about_settings"
+msgid "About Phone"
+msgstr ""
+
+msgctxt "about_settings_summary"
+msgid "View legal info, phone status, software version"
+msgstr ""
+
+msgctxt "accelerometer_summary_off"
+msgid "Switch orientation automatically when rotating phone"
+msgstr ""
+
+msgctxt "accelerometer_summary_on"
+msgid "Switch orientation automatically when rotating phone"
+msgstr ""
+
+msgctxt "accelerometer_title"
+msgid "Auto-rotate screen"
+msgstr ""
+
+msgctxt "accessibility_power_button_category"
+msgid "Power button"
+msgstr ""
+
+msgctxt "accessibility_power_button_ends_call"
+msgid "Power button ends call"
+msgstr ""
+
+msgctxt "accessibility_power_button_ends_call_summary"
+msgid ""
+"During a call, press the power button to end the call instead of turning "
+"off the screen"
+msgstr ""
+
+msgctxt "accessibility_services_category"
+msgid "Accessibility services"
+msgstr ""
+
+msgctxt "accessibility_service_disable_warning"
+msgid "Disable accessibility?"
+msgstr ""
+
+msgctxt "accessibility_service_no_apps_message"
+msgid ""
+"You do not have any accessibility related applications installed.\n"
+"\n"
+"You can download a screen reader for your device from Android Market.\n"
+"\n"
+"Click OK to install the screen reader."
+msgstr ""
+
+msgctxt "accessibility_service_no_apps_title"
+msgid "No accessibility related applications found"
+msgstr ""
+
+msgctxt "accessibility_service_security_warning"
+msgid ""
+"This accessibility service may be able to collect all the text you type, "
+"including personal data credit card numbers except passwords. It may also"
+" log your user interface interactions. It comes from the application "
+"%1$s. Use this accessibility service?"
+msgstr ""
+
+msgctxt "accessibility_settings"
+msgid "Accessibility Settings"
+msgstr ""
+
+msgctxt "accessibility_settings_summary"
+msgid "Manage accessibility options"
+msgstr ""
+
+msgctxt "accessibility_settings_title"
+msgid "Accessibility Settings"
+msgstr ""
+
+msgctxt "active_device_admin_msg"
+msgid "Device administrator"
+msgstr ""
+
+msgctxt "activity_picker_label"
+msgid "Select activity"
+msgstr ""
+
+msgctxt "adb_warning_message"
+msgid ""
+"USB debugging is intended for development purposes only. It can be used "
+"to copy data between your computer and your device, install applications "
+"on your device without notification, and read log data."
+msgstr ""
+
+msgctxt "adb_warning_title"
+msgid "Allow USB debugging?"
+msgstr ""
+
+msgctxt "add_device_admin"
+msgid "Activate"
+msgstr ""
+
+msgctxt "add_device_admin_msg"
+msgid "Activate device administrator?"
+msgstr ""
+
+msgctxt "add_new_backup"
+msgid "Add a new backup"
+msgstr ""
+
+msgctxt "advanced_mode"
+msgid "Advanced mode"
+msgstr ""
+
+msgctxt "airplane_mode"
+msgid "Airplane Mode"
+msgstr ""
+
+msgctxt "airplane_mode_summary"
+msgid "Disable all wireless connections"
+msgstr ""
+
+msgctxt "airplane_mode_turning_off"
+msgid "Enabling wireless connections…"
+msgstr ""
+
+msgctxt "airplane_mode_turning_on"
+msgid "Disabling wireless connections…"
+msgstr ""
+
+msgctxt "alarm_volume_title"
+msgid "Alarm"
+msgstr ""
+
+msgctxt "allow_mock_location"
+msgid "Allow mock locations"
+msgstr ""
+
+msgctxt "allow_mock_location_summary"
+msgid "Allow mock locations"
+msgstr ""
+
+msgctxt "all_volume_title"
+msgid "Volume"
+msgstr ""
+
+msgctxt "animations_summary_off"
+msgid "Show animation when opening & closing windows"
+msgstr ""
+
+msgctxt "animations_summary_on"
+msgid "Show animation when opening & closing windows"
+msgstr ""
+
+msgctxt "animations_title"
+msgid "Animation"
+msgstr ""
+
+msgctxt "apn_apn"
+msgid "APN"
+msgstr ""
+
+msgctxt "apn_auth_type"
+msgid "Authentication type"
+msgstr ""
+
+msgctxt "apn_auth_type_chap"
+msgid "CHAP"
+msgstr ""
+
+msgctxt "apn_auth_type_none"
+msgid "None"
+msgstr ""
+
+msgctxt "apn_auth_type_pap"
+msgid "PAP"
+msgstr ""
+
+msgctxt "apn_auth_type_pap_chap"
+msgid "PAP or CHAP"
+msgstr ""
+
+msgctxt "apn_edit"
+msgid "Edit access point"
+msgstr ""
+
+msgctxt "apn_http_port"
+msgid "Port"
+msgstr ""
+
+msgctxt "apn_http_proxy"
+msgid "Proxy"
+msgstr ""
+
+msgctxt "apn_mcc"
+msgid "MCC"
+msgstr ""
+
+msgctxt "apn_mmsc"
+msgid "MMSC"
+msgstr ""
+
+msgctxt "apn_mms_port"
+msgid "MMS port"
+msgstr ""
+
+msgctxt "apn_mms_proxy"
+msgid "MMS proxy"
+msgstr ""
+
+msgctxt "apn_mnc"
+msgid "MNC"
+msgstr ""
+
+msgctxt "apn_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "apn_not_set"
+msgid "&lt;Not set&gt;"
+msgstr ""
+
+msgctxt "apn_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "apn_server"
+msgid "Server"
+msgstr ""
+
+msgctxt "apn_settings"
+msgid "APNs"
+msgstr ""
+
+msgctxt "apn_type"
+msgid "APN type"
+msgstr ""
+
+msgctxt "apn_user"
+msgid "Username"
+msgstr ""
+
+msgctxt "applications_settings"
+msgid "Applications"
+msgstr ""
+
+msgctxt "applications_settings_header"
+msgid "Application Settings"
+msgstr ""
+
+msgctxt "applications_settings_summary"
+msgid "Manage applications, set up quick launch shortcuts"
+msgstr ""
+
+msgctxt "application_info_label"
+msgid "Application Info"
+msgstr ""
+
+msgctxt "application_size_label"
+msgid "Application"
+msgstr ""
+
+msgctxt "app_factory_reset"
+msgid "Uninstall updates"
+msgstr ""
+
+msgctxt "app_factory_reset_dlg_text"
+msgid "Do you want to uninstall all updates to this Android system application?"
+msgstr ""
+
+msgctxt "app_factory_reset_dlg_title"
+msgid "Uninstall updates"
+msgstr ""
+
+msgctxt "app_forward_locked"
+msgid "The application is copy-protected."
+msgstr ""
+
+msgctxt "app_icon_background_title"
+msgid "Icon Backgrounds on Homescreen"
+msgstr ""
+
+msgctxt "app_install_location_summary"
+msgid "Change the preferred installation location for new applications."
+msgstr ""
+
+msgctxt "app_install_location_title"
+msgid "Preferred install location"
+msgstr ""
+
+msgctxt "app_name_label"
+msgid "Application"
+msgstr ""
+
+msgctxt "app_not_found_dlg_text"
+msgid "The application was not found in the list of installed applications."
+msgstr ""
+
+msgctxt "app_not_found_dlg_title"
+msgid "Application not found"
+msgstr ""
+
+msgctxt "ask_user_usb_mode"
+msgid "Ask on connection"
+msgstr ""
+
+msgctxt "assisted_gps"
+msgid "Use assisted GPS"
+msgstr ""
+
+msgctxt "assisted_gps_disabled"
+msgid "Use server to assist GPS (uncheck to improve GPS performance)"
+msgstr ""
+
+msgctxt "assisted_gps_enabled"
+msgid "Use server to assist GPS (uncheck to reduce network usage)"
+msgstr ""
+
+msgctxt "audio_record_proc_summary"
+msgid "Suppress background noise when speaking or recording."
+msgstr ""
+
+msgctxt "audio_record_proc_title"
+msgid "Noise cancellation"
+msgstr ""
+
+msgctxt "automatic_brightness"
+msgid "Automatic brightness"
+msgstr ""
+
+msgctxt "automatic_brightness_summary"
+msgid ""
+"Automatic brightness will adjust to the ambient conditions or you can "
+"manually use the slider to adjust the screen brightness."
+msgstr ""
+
+msgctxt "auto_caps"
+msgid "Auto-cap"
+msgstr ""
+
+msgctxt "auto_caps_summary"
+msgid "Capitalize first letter in sentences"
+msgstr ""
+
+msgctxt "auto_launch_disable_text"
+msgid "No defaults set."
+msgstr ""
+
+msgctxt "auto_launch_enable_text"
+msgid "You have selected to launch this application by default for some actions."
+msgstr ""
+
+msgctxt "auto_launch_label"
+msgid "Launch by default"
+msgstr ""
+
+msgctxt "auto_punctuate"
+msgid "Auto-punctuate"
+msgstr ""
+
+msgctxt "auto_punctuate_summary"
+msgid "Press Space key twice to insert \".\""
+msgstr ""
+
+msgctxt "auto_replace"
+msgid "Auto-replace"
+msgstr ""
+
+msgctxt "auto_replace_summary"
+msgid "Correct mistyped words"
+msgstr ""
+
+msgctxt "auto_restore_summary"
+msgid ""
+"Restore backed up settings and other data on re-installation of "
+"application."
+msgstr ""
+
+msgctxt "auto_restore_title"
+msgid "Automatic restore"
+msgstr ""
+
+msgctxt "awake"
+msgid "Device awake time"
+msgstr ""
+
+msgctxt "background_process_stop_description"
+msgid ""
+"This is an old application process that is being kept for better speed in"
+" case it is needed again. There is usually no reason to stop it."
+msgstr ""
+
+msgctxt "backlight_summary"
+msgid "Tweak levels and filtering"
+msgstr ""
+
+msgctxt "backlight_title"
+msgid "Automatic Backlight"
+msgstr ""
+
+msgctxt "backup_data_summary"
+msgid "Backup my settings and other application data."
+msgstr ""
+
+msgctxt "backup_data_title"
+msgid "Backup my data"
+msgstr ""
+
+msgctxt "backup_erase_dialog_message"
+msgid ""
+"Are you sure you want to stop backing up your settings and application "
+"data and erase all copies on Google servers?"
+msgstr ""
+
+msgctxt "backup_erase_dialog_title"
+msgid "Backup"
+msgstr ""
+
+msgctxt "backup_section_title"
+msgid "Backup and restore"
+msgstr ""
+
+msgctxt "back_long_press"
+msgid "Back key"
+msgstr ""
+
+msgctxt "back_long_press_timeout"
+msgid ""
+"Delay\n"
+"%1$.1f secs"
+msgstr ""
+
+msgctxt "band_mode_failed"
+msgid "Unsuccessful"
+msgstr ""
+
+msgctxt "band_mode_loading"
+msgid "Loading band list..."
+msgstr ""
+
+msgctxt "band_mode_set"
+msgid "Set"
+msgstr ""
+
+msgctxt "band_mode_succeeded"
+msgid "Successful"
+msgstr ""
+
+msgctxt "band_mode_title"
+msgid "Set GSM/UMTS band"
+msgstr ""
+
+msgctxt "baseband_version"
+msgid "Baseband version"
+msgstr ""
+
+msgctxt "battery_action_app_details"
+msgid "Application Info"
+msgstr ""
+
+msgctxt "battery_action_app_settings"
+msgid "Application Settings"
+msgstr ""
+
+msgctxt "battery_action_bluetooth"
+msgid "Bluetooth Settings"
+msgstr ""
+
+msgctxt "battery_action_display"
+msgid "Display Settings"
+msgstr ""
+
+msgctxt "battery_action_stop"
+msgid "Force stop"
+msgstr ""
+
+msgctxt "battery_action_wifi"
+msgid "Wi-Fi Settings"
+msgstr ""
+
+msgctxt "battery_auto_saving"
+msgid "Auto power saving mode"
+msgstr ""
+
+msgctxt "battery_auto_saving_category_general"
+msgid ""
+"Changes will come into effect on the next time power saving mode is "
+"activated"
+msgstr ""
+
+msgctxt "battery_auto_saving_category_practise"
+msgid "Want to extend your battery life?"
+msgstr ""
+
+msgctxt "battery_auto_saving_category_rule"
+msgid "Power saving options"
+msgstr ""
+
+msgctxt "battery_auto_saving_practise"
+msgid "Tips on Maximizing Battery Life"
+msgstr ""
+
+msgctxt "battery_auto_saving_practise_more"
+msgid "More power saving tips..."
+msgstr ""
+
+msgctxt "battery_auto_saving_practise_summary"
+msgid ""
+"1.Limit number of background apps. \n"
+"2.Unless under bright light, there is no need for maximum brightness. \n"
+"3.Consider activating Flight Mode at night."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_apn"
+msgid "Disable mobile data"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_apn_summary"
+msgid "Disable mobile networks such as GPRS and 3G."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_auto_sync"
+msgid "Disable sync"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_auto_sync_summary"
+msgid "Disable syncing of contacts, mail, etc."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_background_data"
+msgid "Disable BG data transfer"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_background_data_summary"
+msgid "Reduces power draw and data charges."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_bluetooth"
+msgid "Disable bluetooth"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_bluetooth_summary"
+msgid "Can drastically reduce power draw."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_brightness"
+msgid "Reduce brightness"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_brightness_summary"
+msgid ""
+"Screen brightness will be set to minimum. Can drastically decrease power "
+"draw."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_cpu"
+msgid "Reduce CPU speed"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_cpu_summary"
+msgid "May reduce power draw from rogue applications while the screen is locked."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_gps"
+msgid "Disable GPS"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_gps_summary"
+msgid "Disable background usage of GPS."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_haptic"
+msgid "Disable haptic feedback"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_haptic_summary"
+msgid "Refer to vibrations."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_screen_time_out"
+msgid "Reduce screen timeout"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_screen_time_out_summary"
+msgid "Reduces screen timeout interval to minimum. May help with battery life."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_vibrate"
+msgid "Disable vibrations"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_vibrate_summary"
+msgid "Vibrations do not consume much power under normal usage."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_wallpaper"
+msgid "Disable live wallpapers"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_wallpaper_summary"
+msgid ""
+"Live Wallpapers are significant source of power draw and may cause system"
+" lag."
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_wifi"
+msgid "Disable Wi-Fi"
+msgstr ""
+
+msgctxt "battery_auto_saving_rule_wifi_summary"
+msgid "Can drastically reduce power draw."
+msgstr ""
+
+msgctxt "battery_auto_saving_summary"
+msgid "Automatically activates power saving mode when the battery is running low."
+msgstr ""
+
+msgctxt "battery_current_chart"
+msgid "Battery current history"
+msgstr ""
+
+msgctxt "battery_desc_apps"
+msgid "Battery being used by application when running"
+msgstr ""
+
+msgctxt "battery_desc_bluetooth"
+msgid "Battery used by bluetooth"
+msgstr ""
+
+msgctxt "battery_desc_display"
+msgid "Battery used by the display and backlight"
+msgstr ""
+
+msgctxt "battery_desc_radio"
+msgid "Battery used by cell radio"
+msgstr ""
+
+msgctxt "battery_desc_standby"
+msgid "Battery used when phone is idle"
+msgstr ""
+
+msgctxt "battery_desc_voice"
+msgid "Battery used by voice calls"
+msgstr ""
+
+msgctxt "battery_desc_wifi"
+msgid "Battery used by Wi-Fi"
+msgstr ""
+
+msgctxt "battery_history_awake"
+msgid "Time spent without sleeping:"
+msgstr ""
+
+msgctxt "battery_history_awake_label"
+msgid "Running"
+msgstr ""
+
+msgctxt "battery_history_bytes_received"
+msgid "Bytes received: %1$d"
+msgstr ""
+
+msgctxt "battery_history_bytes_sent"
+msgid "Bytes sent: %1$d"
+msgstr ""
+
+msgctxt "battery_history_bytes_total"
+msgid "Total bytes: %1$d"
+msgstr ""
+
+msgctxt "battery_history_cpu_usage"
+msgid "CPU usage details for %1$s:"
+msgstr ""
+
+msgctxt "battery_history_days"
+msgid "%1$dd %2$dh %3$dm %4$ds"
+msgstr ""
+
+#, python-format
+msgctxt "battery_history_details_for"
+msgid "Details for UID %d"
+msgstr ""
+
+msgctxt "battery_history_hours"
+msgid "%1$dh %2$dm %3$ds"
+msgstr ""
+
+msgctxt "battery_history_label"
+msgid "Battery history"
+msgstr ""
+
+msgctxt "battery_history_minutes"
+msgid "%1$dm %2$ds"
+msgstr ""
+
+msgctxt "battery_history_network_usage"
+msgid "Network usage details for %1$s:"
+msgstr ""
+
+msgctxt "battery_history_no_data"
+msgid "No battery usage data available"
+msgstr ""
+
+msgctxt "battery_history_packages_sharing_this_uid"
+msgid "Packages sharing this UID:"
+msgstr ""
+
+msgctxt "battery_history_phone_on"
+msgid "Time spent with phone on:"
+msgstr ""
+
+msgctxt "battery_history_phone_on_label"
+msgid "Phone on"
+msgstr ""
+
+msgctxt "battery_history_screen_on"
+msgid "Time spent with screen on:"
+msgstr ""
+
+msgctxt "battery_history_screen_on_battery"
+msgid "On battery:"
+msgstr ""
+
+msgctxt "battery_history_screen_on_label"
+msgid "Screen on"
+msgstr ""
+
+msgctxt "battery_history_screen_on_plugged"
+msgid "Plugged in:"
+msgstr ""
+
+msgctxt "battery_history_seconds"
+msgid "%1$ds"
+msgstr ""
+
+msgctxt "battery_history_sensor"
+msgid "Sensor:"
+msgstr ""
+
+msgctxt "battery_history_sensor_usage"
+msgid "Used %1$d times by %2$s"
+msgstr ""
+
+msgctxt "battery_history_sensor_usage_multi"
+msgid "Used %1$d times by one of:"
+msgstr ""
+
+msgctxt "battery_history_starts"
+msgid "Starts: %1$d"
+msgstr ""
+
+msgctxt "battery_history_system_time"
+msgid "System time:"
+msgstr ""
+
+msgctxt "battery_history_total_time"
+msgid "Total time:"
+msgstr ""
+
+msgctxt "battery_history_uid"
+msgid "UID %1$d"
+msgstr ""
+
+msgctxt "battery_history_used_by_packages"
+msgid "Sensor used by packages:"
+msgstr ""
+
+msgctxt "battery_history_user_time"
+msgid "User time:"
+msgstr ""
+
+msgctxt "battery_history_wakelock"
+msgid "Partial Wakelock:"
+msgstr ""
+
+msgctxt "battery_indicator_style"
+msgid "Battery indicator style"
+msgstr ""
+
+msgctxt "battery_info_awake_battery"
+msgid "Awake time on battery:"
+msgstr ""
+
+msgctxt "battery_info_awake_plugged"
+msgid "Awake time when charging:"
+msgstr ""
+
+msgctxt "battery_info_health_dead"
+msgid "Dead"
+msgstr ""
+
+msgctxt "battery_info_health_good"
+msgid "Good"
+msgstr ""
+
+msgctxt "battery_info_health_label"
+msgid "Battery health:"
+msgstr ""
+
+msgctxt "battery_info_health_overheat"
+msgid "Overheat"
+msgstr ""
+
+msgctxt "battery_info_health_over_voltage"
+msgid "Over voltage"
+msgstr ""
+
+msgctxt "battery_info_health_unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "battery_info_health_unspecified_failure"
+msgid "Unknown error"
+msgstr ""
+
+msgctxt "battery_info_label"
+msgid "Battery info"
+msgstr ""
+
+msgctxt "battery_info_level_label"
+msgid "Battery level:"
+msgstr ""
+
+msgctxt "battery_info_power_ac"
+msgid "AC"
+msgstr ""
+
+msgctxt "battery_info_power_ac_usb"
+msgid "AC+USB"
+msgstr ""
+
+msgctxt "battery_info_power_label"
+msgid "Power plug:"
+msgstr ""
+
+msgctxt "battery_info_power_unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "battery_info_power_unplugged"
+msgid "Unplugged"
+msgstr ""
+
+msgctxt "battery_info_power_usb"
+msgid "USB"
+msgstr ""
+
+msgctxt "battery_info_scale_label"
+msgid "Battery scale:"
+msgstr ""
+
+msgctxt "battery_info_screen_on"
+msgid "Screen ON time:"
+msgstr ""
+
+msgctxt "battery_info_status_charging"
+msgid "Charging"
+msgstr ""
+
+msgctxt "battery_info_status_charging_ac"
+msgid "(AC)"
+msgstr ""
+
+msgctxt "battery_info_status_charging_usb"
+msgid "(USB)"
+msgstr ""
+
+msgctxt "battery_info_status_discharging"
+msgid "Discharging"
+msgstr ""
+
+msgctxt "battery_info_status_full"
+msgid "Full"
+msgstr ""
+
+msgctxt "battery_info_status_label"
+msgid "Battery status:"
+msgstr ""
+
+msgctxt "battery_info_status_not_charging"
+msgid "Not charging"
+msgstr ""
+
+msgctxt "battery_info_status_unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "battery_info_technology_label"
+msgid "Battery technology:"
+msgstr ""
+
+msgctxt "battery_info_temperature_label"
+msgid "Battery temperature:"
+msgstr ""
+
+msgctxt "battery_info_temperature_units"
+msgid "°C"
+msgstr ""
+
+msgctxt "battery_info_uptime"
+msgid "Time since boot:"
+msgstr ""
+
+msgctxt "battery_info_voltage_label"
+msgid "Battery voltage:"
+msgstr ""
+
+msgctxt "battery_info_voltage_units"
+msgid "mV"
+msgstr ""
+
+#, python-format
+msgctxt "battery_level"
+msgid "Battery level: %d"
+msgstr ""
+
+msgctxt "battery_level_title"
+msgid "Battery level"
+msgstr ""
+
+msgctxt "battery_low_level"
+msgid "Alarm level for low battery"
+msgstr ""
+
+msgctxt "battery_saving_rules_summary"
+msgid "Settings when battery level is below alarm level"
+msgstr ""
+
+msgctxt "battery_saving_rules_title"
+msgid "Power saving mode"
+msgstr ""
+
+msgctxt "battery_settings"
+msgid "Battery Settings"
+msgstr ""
+
+msgctxt "battery_settings_title"
+msgid "Battery Settings"
+msgstr ""
+
+msgctxt "battery_setting_quick_entry"
+msgid "Low power notification"
+msgstr ""
+
+msgctxt "battery_setting_quick_entry_summary"
+msgid ""
+"Notification will be shown when the battery is running low. Click on the "
+"notification to enter power settings."
+msgstr ""
+
+msgctxt "battery_since_reset"
+msgid "Battery use since reset"
+msgstr ""
+
+msgctxt "battery_since_unplugged"
+msgid "Battery use since unplugged"
+msgstr ""
+
+msgctxt "battery_stats_charging_label"
+msgid "Charging"
+msgstr ""
+
+msgctxt "battery_stats_duration"
+msgid "%1$s since unplugged"
+msgstr ""
+
+msgctxt "battery_stats_gps_on_label"
+msgid "GPS is on"
+msgstr ""
+
+msgctxt "battery_stats_on_battery"
+msgid "Battery has been lasting for %1$s now"
+msgstr ""
+
+msgctxt "battery_stats_phone_signal_label"
+msgid "Phone signal strength [black:pilot blue:scanning]"
+msgstr ""
+
+msgctxt "battery_stats_screen_on_label"
+msgid "Screen is on"
+msgstr ""
+
+msgctxt "battery_stats_wake_lock_label"
+msgid "Awake"
+msgstr ""
+
+msgctxt "battery_stats_wifi_running_label"
+msgid "Wi-Fi"
+msgstr ""
+
+msgctxt "battery_status_title"
+msgid "Battery status"
+msgstr ""
+
+msgctxt "battery_sugg_apps_gps"
+msgid "Turn off GPS when you're not using it"
+msgstr ""
+
+msgctxt "battery_sugg_apps_info"
+msgid "Stop or uninstall the application"
+msgstr ""
+
+msgctxt "battery_sugg_apps_settings"
+msgid "The application may offer settings to reduce battery use"
+msgstr ""
+
+msgctxt "battery_sugg_bluetooth_basic"
+msgid "Turn off bluetooth when you aren't using it"
+msgstr ""
+
+msgctxt "battery_sugg_bluetooth_headset"
+msgid "Try connecting to a different bluetooth device"
+msgstr ""
+
+msgctxt "battery_sugg_display"
+msgid "Reduce the screen brightness and/or screen timeout"
+msgstr ""
+
+msgctxt "battery_sugg_radio"
+msgid "Switch to airplane mode to save power in areas with no cell coverage"
+msgstr ""
+
+msgctxt "battery_sugg_wifi"
+msgid "Turn off Wi-Fi when not using it or where it is not available"
+msgstr ""
+
+msgctxt "bluetooth"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "bluetooth_a2dp_profile_summary_connected"
+msgid "Connected to media audio"
+msgstr ""
+
+msgctxt "bluetooth_a2dp_profile_summary_use_for"
+msgid "Use for media audio"
+msgstr ""
+
+msgctxt "bluetooth_ask_discovery"
+msgid ""
+"An application on your phone is requesting permission to make your phone "
+"discoverable by other Bluetooth devices for %1$d seconds. Do you want to "
+"do this?"
+msgstr ""
+
+msgctxt "bluetooth_ask_enablement"
+msgid ""
+"An application on your phone is requesting permission to turn on "
+"Bluetooth. Do you want to do this?"
+msgstr ""
+
+msgctxt "bluetooth_ask_enablement_and_discovery"
+msgid ""
+"An application on your phone is requesting permission to turn on "
+"Bluetooth and to make your phone discoverable by other devices for %1$d "
+"seconds. Do you want to do this?"
+msgstr ""
+
+msgctxt "bluetooth_confirm_passkey_msg"
+msgid "To pair with \"%1$s\", confirm that it is showing the passkey: %2$s."
+msgstr ""
+
+msgctxt "bluetooth_connected"
+msgid "Connected"
+msgstr ""
+
+msgctxt "bluetooth_connecting"
+msgid "Connecting..."
+msgstr ""
+
+msgctxt "bluetooth_connecting_error_message"
+msgid "There was a problem connecting to %1$s."
+msgstr ""
+
+msgctxt "bluetooth_connect_specific_profiles_title"
+msgid "Connect to..."
+msgstr ""
+
+msgctxt "bluetooth_device"
+msgid "handsfree/headset"
+msgstr ""
+
+msgctxt "bluetooth_devices"
+msgid "Bluetooth devices"
+msgstr ""
+
+msgctxt "bluetooth_device_advanced_online_mode_summary"
+msgid "Connect to Bluetooth device"
+msgstr ""
+
+msgctxt "bluetooth_device_advanced_online_mode_title"
+msgid "Connect"
+msgstr ""
+
+msgctxt "bluetooth_device_advanced_profile_header_title"
+msgid "Profiles"
+msgstr ""
+
+msgctxt "bluetooth_device_advanced_title"
+msgid "%1$s options"
+msgstr ""
+
+msgctxt "bluetooth_device_context_connect"
+msgid "Connect"
+msgstr ""
+
+msgctxt "bluetooth_device_context_connect_advanced"
+msgid "Options..."
+msgstr ""
+
+msgctxt "bluetooth_device_context_disconnect"
+msgid "Disconnect"
+msgstr ""
+
+msgctxt "bluetooth_device_context_disconnect_unpair"
+msgid "Disconnect & un-pair"
+msgstr ""
+
+msgctxt "bluetooth_device_context_pair_connect"
+msgid "Pair and connect"
+msgstr ""
+
+msgctxt "bluetooth_device_context_unpair"
+msgid "Un-pair"
+msgstr ""
+
+msgctxt "bluetooth_device_info"
+msgid "Bluetooth device info"
+msgstr ""
+
+msgctxt "bluetooth_device_info_alias"
+msgid "Device alias"
+msgstr ""
+
+msgctxt "bluetooth_device_info_connectButton_text"
+msgid "Turn on Bluetooth"
+msgstr ""
+
+msgctxt "bluetooth_device_info_delete"
+msgid "Remove this device"
+msgstr ""
+
+msgctxt "bluetooth_device_info_no_alias"
+msgid "Type alias here…"
+msgstr ""
+
+msgctxt "bluetooth_device_info_sdp"
+msgid "List supported services"
+msgstr ""
+
+msgctxt "bluetooth_device_name"
+msgid "Device name"
+msgstr ""
+
+msgctxt "bluetooth_disconnected"
+msgid "Disconnected"
+msgstr ""
+
+msgctxt "bluetooth_disconnecting"
+msgid "Disconnecting..."
+msgstr ""
+
+msgctxt "bluetooth_disconnect_blank"
+msgid "%1$s will be disconnected."
+msgstr ""
+
+msgctxt "bluetooth_display_passkey_msg"
+msgid "Enter %2$s on \"%1$s\" to pair."
+msgstr ""
+
+msgctxt "bluetooth_dock_settings"
+msgid "Dock Settings"
+msgstr ""
+
+msgctxt "bluetooth_dock_settings_a2dp"
+msgid "For music and media"
+msgstr ""
+
+msgctxt "bluetooth_dock_settings_headset"
+msgid "As speaker phone"
+msgstr ""
+
+msgctxt "bluetooth_dock_settings_remember"
+msgid "Remember settings"
+msgstr ""
+
+msgctxt "bluetooth_dock_settings_title"
+msgid "Use dock for audio"
+msgstr ""
+
+msgctxt "bluetooth_enable_text"
+msgid "Empty button..."
+msgstr ""
+
+msgctxt "bluetooth_enter_passkey_msg"
+msgid ""
+"\n"
+"Type passkey to pair with \"%1$s\"."
+msgstr ""
+
+msgctxt "bluetooth_enter_pin_msg"
+msgid ""
+"\n"
+"Type PIN to pair with \"%1$s\". (Try 0000 or 1234.)"
+msgstr ""
+
+msgctxt "bluetooth_error_title"
+msgid "Attention"
+msgstr ""
+
+msgctxt "bluetooth_headset_profile_summary_connected"
+msgid "Connected to phone audio"
+msgstr ""
+
+msgctxt "bluetooth_headset_profile_summary_use_for"
+msgid "Use for phone audio"
+msgstr ""
+
+msgctxt "bluetooth_incoming_pairing_msg"
+msgid ""
+"%1$s\n"
+"wants to pair."
+msgstr ""
+
+msgctxt "bluetooth_is_discoverable"
+msgid "Discoverable for %1$s seconds…"
+msgstr ""
+
+msgctxt "bluetooth_lock_voice_dialing"
+msgid "Lock voice dialling"
+msgstr ""
+
+msgctxt "bluetooth_lock_voice_dialing_summary"
+msgid "Prevent use of the bluetooth dialler when the screen is locked"
+msgstr ""
+
+msgctxt "bluetooth_name_not_set"
+msgid "No name set, using account name"
+msgstr ""
+
+msgctxt "bluetooth_notif_message"
+msgid "Select to pair with\\u0020"
+msgstr ""
+
+msgctxt "bluetooth_notif_ticker"
+msgid "Bluetooth pairing request"
+msgstr ""
+
+msgctxt "bluetooth_notif_title"
+msgid "Pairing request"
+msgstr ""
+
+msgctxt "bluetooth_not_connected"
+msgid "Pair with this device"
+msgstr ""
+
+msgctxt "bluetooth_not_discoverable"
+msgid "Make device discoverable"
+msgstr ""
+
+msgctxt "bluetooth_on_time"
+msgid "WiFi on time"
+msgstr ""
+
+msgctxt "bluetooth_opp_profile_summary_connected"
+msgid "Connected to file transfer server"
+msgstr ""
+
+msgctxt "bluetooth_opp_profile_summary_not_connected"
+msgid "Not connected to file transfer server"
+msgstr ""
+
+msgctxt "bluetooth_opp_profile_summary_use_for"
+msgid "Use for file transfer"
+msgstr ""
+
+msgctxt "bluetooth_paired"
+msgid "Paired but not connected"
+msgstr ""
+
+msgctxt "bluetooth_pairing"
+msgid "Pairing…"
+msgstr ""
+
+msgctxt "bluetooth_pairing_accept"
+msgid "Pair"
+msgstr ""
+
+msgctxt "bluetooth_pairing_decline"
+msgid "Don't Pair"
+msgstr ""
+
+msgctxt "bluetooth_pairing_device_down_error_message"
+msgid "Cannot establish communication with %1$s."
+msgstr ""
+
+msgctxt "bluetooth_pairing_error_message"
+msgid "There was a problem pairing with %1$s."
+msgstr ""
+
+msgctxt "bluetooth_pairing_pin_error_message"
+msgid ""
+"There was a problem pairing with %1$s because the PIN or Passkey is "
+"incorrect."
+msgstr ""
+
+msgctxt "bluetooth_pairing_rejected_error_message"
+msgid "Pairing rejected by %1$s."
+msgstr ""
+
+msgctxt "bluetooth_pairing_request"
+msgid "Bluetooth pairing request"
+msgstr ""
+
+msgctxt "bluetooth_permission_request"
+msgid "Bluetooth permission request"
+msgstr ""
+
+msgctxt "bluetooth_preference_scan_title"
+msgid "Scan for devices"
+msgstr ""
+
+msgctxt "bluetooth_profile_a2dp"
+msgid "Media"
+msgstr ""
+
+msgctxt "bluetooth_profile_headset"
+msgid "Phone"
+msgstr ""
+
+msgctxt "bluetooth_profile_opp"
+msgid "Transfer"
+msgstr ""
+
+msgctxt "bluetooth_quick_toggle_summary"
+msgid "Turn on Bluetooth"
+msgstr ""
+
+msgctxt "bluetooth_quick_toggle_title"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "bluetooth_remote_device"
+msgid "Remote Bluetooth device"
+msgstr ""
+
+msgctxt "bluetooth_scan_for_devices"
+msgid "Scan for devices"
+msgstr ""
+
+msgctxt "bluetooth_scan_text"
+msgid "Empty button…"
+msgstr ""
+
+msgctxt "bluetooth_settings"
+msgid "Bluetooth Settings"
+msgstr ""
+
+msgctxt "bluetooth_settings_summary"
+msgid "Manage connections, set device name & discoverability"
+msgstr ""
+
+msgctxt "bluetooth_settings_text"
+msgid "Empty button..."
+msgstr ""
+
+msgctxt "bluetooth_settings_title"
+msgid "Bluetooth Settings"
+msgstr ""
+
+msgctxt "bluetooth_summary_connected_to_a2dp"
+msgid "Connected to media audio"
+msgstr ""
+
+msgctxt "bluetooth_summary_connected_to_a2dp_headset"
+msgid "Connected to phone and media audio"
+msgstr ""
+
+msgctxt "bluetooth_summary_connected_to_headset"
+msgid "Connected to phone audio"
+msgstr ""
+
+msgctxt "bluetooth_turning_on"
+msgid "Turning on Bluetooth…"
+msgstr ""
+
+msgctxt "bluetooth_visibility"
+msgid "Discoverable"
+msgstr ""
+
+msgctxt "breathing_light_color_summary"
+msgid "Trackball color when receiving new notification"
+msgstr ""
+
+msgctxt "breathing_light_color_title"
+msgid "Trackball color"
+msgstr ""
+
+msgctxt "breathing_light_freq_summary"
+msgid "Trackball pause between flashes"
+msgstr ""
+
+msgctxt "breathing_light_freq_title"
+msgid "Trackball flashing frequency"
+msgstr ""
+
+msgctxt "brightness"
+msgid "Brightness"
+msgstr ""
+
+msgctxt "brightness_summary"
+msgid "Adjust the brightness of the screen"
+msgstr ""
+
+msgctxt "browser_settings_title"
+msgid "Browser Settings"
+msgstr ""
+
+msgctxt "bssid_label"
+msgid "BSSID :"
+msgstr ""
+
+msgctxt "build_number"
+msgid "Build number"
+msgstr ""
+
+msgctxt "builtin_keyboard_settings_summary"
+msgid "Built-in Keyboard Settings"
+msgstr ""
+
+msgctxt "builtin_keyboard_settings_title"
+msgid "Device Keyboard"
+msgstr ""
+
+msgctxt "button_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "button_done"
+msgid "Done"
+msgstr ""
+
+msgctxt "cached"
+msgid "Cached background process"
+msgstr ""
+
+msgctxt "cache_header_label"
+msgid "Cache"
+msgstr ""
+
+msgctxt "cache_size_label"
+msgid "Cache size"
+msgstr ""
+
+msgctxt "calendar_settings_title"
+msgid "Calendar Settings"
+msgstr ""
+
+msgctxt "call_settings_summary"
+msgid "Set up voicemail, call forwarding, call waiting, caller ID"
+msgstr ""
+
+msgctxt "call_settings_title"
+msgid "Call Settings"
+msgstr ""
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "carrier_settings_title"
+msgid "Mobile Network Settings"
+msgstr ""
+
+msgctxt "cdma_security_settings_summary"
+msgid "Set My Location, screen unlock, credential storage lock"
+msgstr ""
+
+msgctxt "checkbox_notification_same_as_incoming_call"
+msgid "Use incoming call volume for notifications"
+msgstr ""
+
+msgctxt "choose_ringtone"
+msgid "Select ringtone"
+msgstr ""
+
+msgctxt "choose_timezone"
+msgid "Select time zone"
+msgstr ""
+
+msgctxt "choose_wallpaper"
+msgid "Choose wallpaper"
+msgstr ""
+
+msgctxt "clear_activities"
+msgid "Clear defaults"
+msgstr ""
+
+msgctxt "clear_cache_btn_text"
+msgid "Clear cache"
+msgstr ""
+
+msgctxt "clear_data_dlg_text"
+msgid ""
+"All of this application's data will be deleted permanently. This includes"
+" all files, settings, accounts, databases and so on."
+msgstr ""
+
+msgctxt "clear_data_dlg_title"
+msgid "Delete"
+msgstr ""
+
+msgctxt "clear_data_failed"
+msgid "Unable to clear application data."
+msgstr ""
+
+msgctxt "clear_default"
+msgid "Clear defaults"
+msgstr ""
+
+msgctxt "clear_failed_dlg_text"
+msgid "Failed clearing data for application"
+msgstr ""
+
+msgctxt "clear_failed_dlg_title"
+msgid "Clear data"
+msgstr ""
+
+msgctxt "clear_user_data_text"
+msgid "Clear data"
+msgstr ""
+
+msgctxt "click_to_input"
+msgid "Click to input"
+msgstr ""
+
+msgctxt "common_settings_tab"
+msgid "Common"
+msgstr ""
+
+msgctxt "compatibility_mode_label"
+msgid "Compatibility mode"
+msgstr ""
+
+msgctxt "compatibility_mode_summery_off"
+msgid "This application runs in default mode."
+msgstr ""
+
+msgctxt "compatibility_mode_summery_on"
+msgid "This application runs in compatibility mode."
+msgstr ""
+
+msgctxt "compatibility_mode_toggle_off"
+msgid "Turn off"
+msgstr ""
+
+msgctxt "compatibility_mode_toggle_on"
+msgid "Turn on"
+msgstr ""
+
+msgctxt "computing_size"
+msgid "Computing..."
+msgstr ""
+
+msgctxt "config_list_label"
+msgid "Configured Networks"
+msgstr ""
+
+msgctxt "contributors_title"
+msgid "Contributors"
+msgstr ""
+
+msgctxt "controls_label"
+msgid "Controls"
+msgstr ""
+
+msgctxt "controls_subtitle"
+msgid "Adjust power use"
+msgstr ""
+
+msgctxt "copyright_title"
+msgid "Copyright"
+msgstr ""
+
+msgctxt "cpu_usage_chart"
+msgid "CPU usage history"
+msgstr ""
+
+msgctxt "credentials_access"
+msgid "Use secure credentials"
+msgstr ""
+
+msgctxt "credentials_access_summary"
+msgid "Allow applications to access secure certificates and other credentials"
+msgstr ""
+
+msgctxt "credentials_category"
+msgid "Credential storage"
+msgstr ""
+
+msgctxt "credentials_confirm_password"
+msgid "Confirm new password:"
+msgstr ""
+
+msgctxt "credentials_disabled"
+msgid "Credential storage is disabled."
+msgstr ""
+
+msgctxt "credentials_enabled"
+msgid "Credential storage is enabled."
+msgstr ""
+
+msgctxt "credentials_erased"
+msgid "The credential storage is erased."
+msgstr ""
+
+msgctxt "credentials_first_time_hint"
+msgid "Set a password for the credential storage (at least 8 characters)."
+msgstr ""
+
+msgctxt "credentials_install_certificates"
+msgid "Install from SD card"
+msgstr ""
+
+msgctxt "credentials_install_certificates_summary"
+msgid "Install encrypted certificates from SD card"
+msgstr ""
+
+msgctxt "credentials_new_password"
+msgid "New password:"
+msgstr ""
+
+msgctxt "credentials_old_password"
+msgid "Current password:"
+msgstr ""
+
+msgctxt "credentials_passwords_empty"
+msgid "You must enter and confirm a password."
+msgstr ""
+
+msgctxt "credentials_passwords_mismatch"
+msgid "Passwords do not match."
+msgstr ""
+
+msgctxt "credentials_password_empty"
+msgid "Please enter the password."
+msgstr ""
+
+msgctxt "credentials_password_too_short"
+msgid "The password must have at least 8 characters."
+msgstr ""
+
+msgctxt "credentials_reset"
+msgid "Clear storage"
+msgstr ""
+
+msgctxt "credentials_reset_hint"
+msgid ""
+"Are you sure you want to delete all credentials and reset the credential "
+"storage password?"
+msgstr ""
+
+msgctxt "credentials_reset_summary"
+msgid "Clear credential storage of all contents and reset its password"
+msgstr ""
+
+msgctxt "credentials_reset_warning"
+msgid ""
+"Please enter the correct password. You have one more try to enter the "
+"correct password before the credential storage is erased."
+msgstr ""
+
+msgctxt "credentials_reset_warning_plural"
+msgid ""
+"Please enter the correct password. You have %1$d more tries to enter the "
+"correct password before the credential storage is erased."
+msgstr ""
+
+msgctxt "credentials_set_password"
+msgid "Set password"
+msgstr ""
+
+msgctxt "credentials_set_password_summary"
+msgid "Set or change the credential storage password"
+msgstr ""
+
+msgctxt "credentials_unlock"
+msgid "Enter password"
+msgstr ""
+
+msgctxt "credentials_unlock_hint"
+msgid "Enter the credential storage password."
+msgstr ""
+
+msgctxt "credentials_wrong_password"
+msgid "Please enter the correct password."
+msgstr ""
+
+msgctxt "current_ime"
+msgid "Current keyboard"
+msgstr ""
+
+#, python-format
+msgctxt "current_version"
+msgid "Current version: %s"
+msgstr ""
+
+msgctxt "customized_theme_title"
+msgid "Theme Manager"
+msgstr ""
+
+msgctxt "data_backup_settings"
+msgid "Backup Data & Settings"
+msgstr ""
+
+msgctxt "data_backup_settings_title"
+msgid "Backup Data & Settings"
+msgstr ""
+
+msgctxt "data_service"
+msgid "Data Services"
+msgstr ""
+
+msgctxt "data_size_label"
+msgid "Data"
+msgstr ""
+
+msgctxt "date_and_time"
+msgid "Date & Time Settings"
+msgstr ""
+
+msgctxt "date_and_time_settings_summary"
+msgid "Set date, time, time zone & formats"
+msgstr ""
+
+msgctxt "date_and_time_settings_title"
+msgid "Date & Time Settings"
+msgstr ""
+
+msgctxt "date_time_12_hour_sample"
+msgid "1:00 pm"
+msgstr ""
+
+msgctxt "date_time_24hour"
+msgid "Use 24-hour format"
+msgstr ""
+
+msgctxt "date_time_24_hour_sample"
+msgid "13:00"
+msgstr ""
+
+msgctxt "date_time_auto"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "date_time_auto_summaryOff"
+msgid "Use network-provided values"
+msgstr ""
+
+msgctxt "date_time_auto_summaryOn"
+msgid "Use network-provided values"
+msgstr ""
+
+msgctxt "date_time_changeDate_text"
+msgid "Date"
+msgstr ""
+
+msgctxt "date_time_changeTime_text"
+msgid "Change time"
+msgstr ""
+
+msgctxt "date_time_date_format"
+msgid "Select date format"
+msgstr ""
+
+msgctxt "date_time_set_date"
+msgid "Set date"
+msgstr ""
+
+msgctxt "date_time_set_time"
+msgid "Set time"
+msgstr ""
+
+msgctxt "date_time_set_timezone"
+msgid "Select time zone"
+msgstr ""
+
+msgctxt "debug_intent_sender_label"
+msgid "Debug intent sender"
+msgstr ""
+
+msgctxt "debug_log"
+msgid "Debug log"
+msgstr ""
+
+msgctxt "default_application_settings"
+msgid "Default Program Settings"
+msgstr ""
+
+msgctxt "default_browser"
+msgid "Default Browser"
+msgstr ""
+
+msgctxt "default_date_format"
+msgid "MM/dd/yyyy"
+msgstr ""
+
+msgctxt "default_dialer"
+msgid "Default Dialer"
+msgstr ""
+
+msgctxt "default_gallery"
+msgid "Default Gallery"
+msgstr ""
+
+msgctxt "default_reader"
+msgid "Default Text Reader"
+msgstr ""
+
+msgctxt "default_launcher"
+msgid "Default Launcher"
+msgstr ""
+
+msgctxt "default_sms"
+msgid "Default SMS"
+msgstr ""
+
+msgctxt "default_usb_mode"
+msgid "Default connection type"
+msgstr ""
+
+msgctxt "details_subtitle"
+msgid "Usage details"
+msgstr ""
+
+msgctxt "details_title"
+msgid "Battery use details"
+msgstr ""
+
+msgctxt "development_debug_category"
+msgid "Development & debugging"
+msgstr ""
+
+msgctxt "development_settings_summary"
+msgid "Set options for application development"
+msgstr ""
+
+msgctxt "development_settings_title"
+msgid "Development Settings"
+msgstr ""
+
+msgctxt "device_admin_add_title"
+msgid "Device Administrator"
+msgstr ""
+
+msgctxt "device_admin_settings_title"
+msgid "Device Administration Settings"
+msgstr ""
+
+msgctxt "device_admin_status"
+msgid ""
+"This administrator is active and allows the application %1$s to perform "
+"the following operations:"
+msgstr ""
+
+msgctxt "device_admin_title"
+msgid "Device administration"
+msgstr ""
+
+msgctxt "device_admin_warning"
+msgid ""
+"Activating this administrator will allow the application %1$s to perform "
+"the following operations:"
+msgstr ""
+
+msgctxt "device_info_default"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "device_info_label"
+msgid "Device info"
+msgstr ""
+
+msgctxt "device_info_not_available"
+msgid "Not available"
+msgstr ""
+
+msgctxt "device_info_settings"
+msgid "Phone Status"
+msgstr ""
+
+#, python-format
+msgctxt "device_overview"
+msgid ""
+"Model: %s\n"
+"\n"
+"Android version: %s\n"
+"\n"
+"SD card: %s \n"
+"\n"
+"Internal memory: %s available"
+msgstr ""
+
+msgctxt "device_overview_sd_shared"
+msgid "SD card unmounted"
+msgstr ""
+
+msgctxt "device_picker"
+msgid "Bluetooth device picker"
+msgstr ""
+
+msgctxt "device_status"
+msgid "Status"
+msgstr ""
+
+msgctxt "device_status_activity_title"
+msgid "Status"
+msgstr ""
+
+msgctxt "device_status_summary"
+msgid "Phone number, signal, etc."
+msgstr ""
+
+msgctxt "disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "disableNetwork"
+msgid "disableNetwork"
+msgstr ""
+
+msgctxt "disable_power_key_long_press_under_keyguard"
+msgid "Disable long-press on lockscreen"
+msgstr ""
+
+msgctxt "disable_text"
+msgid "Disable"
+msgstr ""
+
+msgctxt "disconnect"
+msgid "disconnect"
+msgstr ""
+
+msgctxt "display_font_size_label"
+msgid "Font size:"
+msgstr ""
+
+msgctxt "display_label"
+msgid "Display"
+msgstr ""
+
+msgctxt "display_order_text"
+msgid "Sort by:"
+msgstr ""
+
+msgctxt "display_preview_label"
+msgid "Preview:"
+msgstr ""
+
+msgctxt "display_settings"
+msgid "Display Settings"
+msgstr ""
+
+msgctxt "display_settings_title"
+msgid "Display Settings"
+msgstr ""
+
+msgctxt "dlg_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "dlg_confirm_unmount_text"
+msgid ""
+"If you unmount the SD card, some applications you are using will stop and"
+" may be unavailable until you remount the SD card."
+msgstr ""
+
+msgctxt "dlg_confirm_unmount_title"
+msgid "Unmount SD card"
+msgstr ""
+
+msgctxt "dlg_error_unmount_text"
+msgid "Cannot unmount SD card. Try again later."
+msgstr ""
+
+msgctxt "dlg_error_unmount_title"
+msgid "Unmount SD card failed"
+msgstr ""
+
+msgctxt "dlg_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "dock_audio_settings_title"
+msgid "Audio Settings"
+msgstr ""
+
+msgctxt "dock_audio_summary_car"
+msgid "Settings for the attached car dock"
+msgstr ""
+
+msgctxt "dock_audio_summary_desk"
+msgid "Settings for the attached desktop dock"
+msgstr ""
+
+msgctxt "dock_audio_summary_none"
+msgid "Phone not docked"
+msgstr ""
+
+msgctxt "dock_audio_summary_unknown"
+msgid "Settings for the attached dock"
+msgstr ""
+
+msgctxt "dock_not_found_text"
+msgid "The phone must be docked to configure dock audio"
+msgstr ""
+
+msgctxt "dock_not_found_title"
+msgid "Dock not found"
+msgstr ""
+
+msgctxt "dock_settings"
+msgid "Dock Settings"
+msgstr ""
+
+msgctxt "dock_settings_summary"
+msgid "Audio settings for the attached dock"
+msgstr ""
+
+msgctxt "dock_settings_title"
+msgid "Dock Settings"
+msgstr ""
+
+msgctxt "dock_sounds_enable_summary_off"
+msgid "Don't play sound when inserting or removing phone from dock"
+msgstr ""
+
+msgctxt "dock_sounds_enable_summary_on"
+msgid "Play sound when inserting or removing phone from dock"
+msgstr ""
+
+msgctxt "dock_sounds_enable_title"
+msgid "Dock insertion sound"
+msgstr ""
+
+msgctxt "does_not_exist"
+msgid "The application does not exist."
+msgstr ""
+
+msgctxt "dtmf_tone_enable_summary_off"
+msgid "Play tones when using dial pad"
+msgstr ""
+
+msgctxt "dtmf_tone_enable_summary_on"
+msgid "Play tones when using dial pad"
+msgstr ""
+
+msgctxt "dtmf_tone_enable_title"
+msgid "Audible touch tones"
+msgstr ""
+
+msgctxt "electron_beam_animation_off"
+msgid "Turn off animation"
+msgstr ""
+
+msgctxt "electron_beam_animation_on"
+msgid "Turn on animation"
+msgstr ""
+
+msgctxt "emergency_tone_summary"
+msgid "Set behaviour when an emergency call is placed"
+msgstr ""
+
+msgctxt "emergency_tone_title"
+msgid "Emergency tone"
+msgstr ""
+
+msgctxt "empty_list_msg"
+msgid "You do not have any third-party applications installed."
+msgstr ""
+
+msgctxt "enableNetwork"
+msgid "enableNetwork"
+msgstr ""
+
+msgctxt "enable_adb"
+msgid "USB debugging"
+msgstr ""
+
+msgctxt "enable_adb_summary"
+msgid "Debug mode when USB is connected"
+msgstr ""
+
+msgctxt "enable_back_long_press"
+msgid "Long-press to kill app"
+msgstr ""
+
+msgctxt "enable_text"
+msgid "Enable"
+msgstr ""
+
+msgctxt "error_apn_empty"
+msgid "The APN cannot be empty."
+msgstr ""
+
+msgctxt "error_mcc_not3"
+msgid "MCC field must be 3 digits."
+msgstr ""
+
+msgctxt "error_mnc_not23"
+msgid "MNC field must be 2 or 3 digits."
+msgstr ""
+
+msgctxt "error_name_empty"
+msgid "The Name field cannot be empty."
+msgstr ""
+
+msgctxt "error_title"
+msgid "Attention"
+msgstr ""
+
+msgctxt "experimental_category_control_title"
+msgid "System Control (Experimental)"
+msgstr ""
+
+msgctxt "experimental_category_launcher_title"
+msgid "System Controls"
+msgstr ""
+
+msgctxt "experimental_settings"
+msgid "Developer-Specific Settings(Use At Your Own Risk)"
+msgstr ""
+
+msgctxt "filter"
+msgid "Filter"
+msgstr ""
+
+msgctxt "filter_apps_all"
+msgid "All"
+msgstr ""
+
+msgctxt "filter_apps_onsdcard"
+msgid "On SD card"
+msgstr ""
+
+msgctxt "filter_apps_running"
+msgid "Running"
+msgstr ""
+
+msgctxt "filter_apps_third_party"
+msgid "Downloaded"
+msgstr ""
+
+msgctxt "filter_dlg_title"
+msgid "Select filter options"
+msgstr ""
+
+msgctxt "firmware_version"
+msgid "Android version"
+msgstr ""
+
+msgctxt "font_size_preview_text"
+msgid "Servez à ce monsieur une bière et des kiwis."
+msgstr ""
+
+msgctxt "font_size_save"
+msgid "OK"
+msgstr ""
+
+msgctxt "force_stop"
+msgid "Force stop"
+msgstr ""
+
+msgctxt "force_stop_dlg_text"
+msgid ""
+"This application will be restarted right way. Are you sure you want to "
+"force stop?"
+msgstr ""
+
+msgctxt "force_stop_dlg_title"
+msgid "Force stop"
+msgstr ""
+
+msgctxt "gadget_picker_title"
+msgid "Choose gadget"
+msgstr ""
+
+msgctxt "gadget_title"
+msgid "Power Control"
+msgstr ""
+
+msgctxt "gadget_toggle_bluetooth"
+msgid "Updating Bluetooth setting"
+msgstr ""
+
+msgctxt "gadget_toggle_wifi"
+msgid "Updating Wi-Fi setting"
+msgstr ""
+
+msgctxt "getConfiguredNetworks"
+msgid "getConfiguredNetworks"
+msgstr ""
+
+msgctxt "getConnectionInfo"
+msgid "getConnectionInfo"
+msgstr ""
+
+msgctxt "gmail_settings_title"
+msgid "Gmail Settings"
+msgstr ""
+
+msgctxt "gps_config_ntp_server"
+msgid "NTP server address:"
+msgstr ""
+
+msgctxt "gps_config_summary"
+msgid "Adjust GPS configuration settings to improve accuracy of positioning"
+msgstr ""
+
+msgctxt "gps_config_supl_host"
+msgid "SUPL server address:"
+msgstr ""
+
+msgctxt "gps_config_supl_port"
+msgid "SUPL server port:"
+msgstr ""
+
+msgctxt "gps_config_title"
+msgid "GPS configuration"
+msgstr ""
+
+msgctxt "gtalk_settings_title"
+msgid "Google Talk"
+msgstr ""
+
+msgctxt "haptic_button_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "haptic_button_default"
+msgid "Load Defaults"
+msgstr ""
+
+msgctxt "haptic_button_minus"
+msgid "-"
+msgstr ""
+
+msgctxt "haptic_button_plus"
+msgid "+"
+msgstr ""
+
+msgctxt "haptic_button_revert"
+msgid "Revert Changes"
+msgstr ""
+
+msgctxt "haptic_button_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "haptic_button_test"
+msgid "Test"
+msgstr ""
+
+msgctxt "haptic_cancel_toast"
+msgid "Haptic values unchanged"
+msgstr ""
+
+msgctxt "haptic_default_toast"
+msgid "Loading hard-coded defaults"
+msgstr ""
+
+msgctxt "haptic_delay_desc"
+msgid "ms Off Time"
+msgstr ""
+
+msgctxt "haptic_down_description"
+msgid ""
+"Adjusting haptic values for button DOWN-PRESSES\n"
+"(Virtual hardkeys and certain UI interactions)"
+msgstr ""
+
+msgctxt "haptic_feedback_enable_summary_off"
+msgid "Vibrate when pressing soft keys and on certain UI interactions"
+msgstr ""
+
+msgctxt "haptic_feedback_enable_summary_on"
+msgid "Vibrate when pressing soft keys and on certain UI interactions"
+msgstr ""
+
+msgctxt "haptic_feedback_enable_title"
+msgid "Haptic feedback"
+msgstr ""
+
+msgctxt "haptic_long_description"
+msgid "Adjusting haptic values for LONG-PRESSES"
+msgstr ""
+
+msgctxt "haptic_plus_minus_desc"
+msgid "Press the Plus or Minus Buttons to add or remove steps in the sequence."
+msgstr ""
+
+msgctxt "haptic_revert_toast"
+msgid "Restoring last-used values"
+msgstr ""
+
+msgctxt "haptic_save_toast"
+msgid "Saving haptic values:"
+msgstr ""
+
+msgctxt "haptic_summary"
+msgid "Adjust when and how strong haptic feedback occurs"
+msgstr ""
+
+msgctxt "haptic_tap_description"
+msgid "Adjusting haptic values for on-screen keyboard taps"
+msgstr ""
+
+msgctxt "haptic_title"
+msgid "Haptic feedback tweaks"
+msgstr ""
+
+msgctxt "haptic_up_description"
+msgid ""
+"Adjusting haptic values for button RELEASES\n"
+"(Virtual hardkeys and most screen presses)"
+msgstr ""
+
+msgctxt "haptic_vibe_desc"
+msgid "ms On Time"
+msgstr ""
+
+msgctxt "hardkeyboard_category"
+msgid "Physical keyboard settings"
+msgstr ""
+
+msgctxt "heavy_weight_stop_description"
+msgid ""
+"This application can not safely be stopped. Doing so may lose some of "
+"your current work."
+msgstr ""
+
+msgctxt "hidden_ssid_label"
+msgid "Hidden SSID :"
+msgstr ""
+
+msgctxt "ime_security_warning"
+msgid ""
+"This input method may be able to collect all the text you type, including"
+" personal data like passwords and credit card numbers. It comes from the "
+"application %1$s. Use this input method?"
+msgstr ""
+
+msgctxt "incoming_call"
+msgid "Phone calls"
+msgstr ""
+
+msgctxt "incoming_call_volume_title"
+msgid "Ringtone"
+msgstr ""
+
+msgctxt "input_methods_settings_label_format"
+msgid "%1$s settings"
+msgstr ""
+
+msgctxt "input_methods_settings_summary"
+msgid "Manage text input options"
+msgstr ""
+
+msgctxt "input_methods_settings_title"
+msgid "Text Input Settings"
+msgstr ""
+
+msgctxt "input_method_category"
+msgid "Input set"
+msgstr ""
+
+msgctxt "install_all_warning"
+msgid ""
+"Your phone and personal data are more vulnerable to attack by "
+"applications from unknown sources. You agree that you are solely "
+"responsible for any damage to your phone or loss of data that may result "
+"from using these applications."
+msgstr ""
+
+msgctxt "install_applications"
+msgid "Unknown sources"
+msgstr ""
+
+msgctxt "install_development_settings_title"
+msgid "Development Settings"
+msgstr ""
+
+msgctxt "install_unknown_applications"
+msgid "Allow installation of non-Market applications"
+msgstr ""
+
+msgctxt "insufficient_storage"
+msgid "There is not enough storage space left."
+msgstr ""
+
+msgctxt "intent_sender_account_label"
+msgid "Account:"
+msgstr ""
+
+msgctxt "intent_sender_action_label"
+msgid "Action:"
+msgstr ""
+
+msgctxt "intent_sender_data_label"
+msgid "Data:"
+msgstr ""
+
+msgctxt "intent_sender_resource_label"
+msgid "Resource:"
+msgstr ""
+
+msgctxt "intent_sender_sendbroadcast_text"
+msgid "Send broadcast"
+msgstr ""
+
+msgctxt "intent_sender_startactivity_text"
+msgid "Start activity"
+msgstr ""
+
+msgctxt "internal_memory"
+msgid "Internal phone storage"
+msgstr ""
+
+msgctxt "internal_storage"
+msgid "Internal storage"
+msgstr ""
+
+msgctxt "invalid_location"
+msgid "The specified install location is not valid."
+msgstr ""
+
+msgctxt "invalid_size_value"
+msgid "Unable to compute package size"
+msgstr ""
+
+msgctxt "ipaddr_label"
+msgid "IP:"
+msgstr ""
+
+msgctxt "keep_screen_on"
+msgid "Stay awake"
+msgstr ""
+
+msgctxt "keep_screen_on_summary"
+msgid "Screen will never sleep while charging"
+msgstr ""
+
+msgctxt "kernel_version"
+msgid "Kernel version"
+msgstr ""
+
+msgctxt "keyboard_settings_title"
+msgid "Android Keyboard Settings"
+msgstr ""
+
+msgctxt "key_settings"
+msgid "Button Settings"
+msgstr ""
+
+msgctxt "key_settings_title"
+msgid "Button Settings"
+msgstr ""
+
+msgctxt "language_category"
+msgid "Locale Settings"
+msgstr ""
+
+msgctxt "language_keyboard_settings_title"
+msgid "Language & Input Settings"
+msgstr ""
+
+msgctxt "language_picker_title"
+msgid "Locale"
+msgstr ""
+
+msgctxt "language_settings"
+msgid "Language & Keyboard"
+msgstr ""
+
+msgctxt "language_settings_summary"
+msgid "Set locale (language & region), text input and auto-correction options"
+msgstr ""
+
+msgctxt "language_settings_title"
+msgid "Language & Input Settings"
+msgstr ""
+
+msgctxt "large_font"
+msgid "Large"
+msgstr ""
+
+msgctxt "launcher_settings_title"
+msgid "Launcher Settings"
+msgstr ""
+
+msgctxt "launch_count_label"
+msgid "Count"
+msgstr ""
+
+msgctxt "lbs_apps"
+msgid "Apps"
+msgstr ""
+
+msgctxt "led_colors"
+msgid "LED color"
+msgstr ""
+
+msgctxt "led_frequence"
+msgid "LED frequency"
+msgstr ""
+
+msgctxt "led_settings"
+msgid "LED settings"
+msgstr ""
+
+msgctxt "legal_information"
+msgid "Legal Information"
+msgstr ""
+
+msgctxt "license_title"
+msgid "License"
+msgstr ""
+
+msgctxt "light_decrease_enabled_summary"
+msgid "Enable to allow lights to decrease. Use hysteresis to reduce flicker."
+msgstr ""
+
+msgctxt "light_decrease_enabled_title"
+msgid "Allow light decrease"
+msgstr ""
+
+msgctxt "light_decrease_hysteresis_summary"
+msgid "Sensor levels overlap this much downwards."
+msgstr ""
+
+msgctxt "light_decrease_hysteresis_title"
+msgid "Decrease hysteresis"
+msgstr ""
+
+msgctxt "light_filter_enabled_summary"
+msgid "Allow moving average filtered value to sense data to reduce flicker"
+msgstr ""
+
+msgctxt "light_filter_enabled_title"
+msgid "Enabled"
+msgstr ""
+
+msgctxt "light_filter_interval_summary"
+msgid "Lower value can improve the accuracy but it uses more CPU"
+msgstr ""
+
+msgctxt "light_filter_interval_title"
+msgid "Sample interval"
+msgstr ""
+
+msgctxt "light_filter_reset_summary"
+msgid ""
+"Samples that are deviating much from the current average value resets the"
+" filter"
+msgstr ""
+
+msgctxt "light_filter_reset_title"
+msgid "Reset threshold"
+msgstr ""
+
+msgctxt "light_filter_title"
+msgid "Light sensor filter"
+msgstr ""
+
+msgctxt "light_filter_window_summary"
+msgid "Filtered value is the average sensor value during this period"
+msgstr ""
+
+msgctxt "light_filter_window_title"
+msgid "Window length"
+msgstr ""
+
+msgctxt "light_levels_dim_summary"
+msgid "Brightness used to dim the screen"
+msgstr ""
+
+msgctxt "light_levels_dim_title"
+msgid "Screen dim level"
+msgstr ""
+
+msgctxt "light_levels_editor_title"
+msgid "Edit other levels..."
+msgstr ""
+
+msgctxt "light_levels_enabled_title"
+msgid "Use custom"
+msgstr ""
+
+msgctxt "light_levels_title"
+msgid "Light levels"
+msgstr ""
+
+msgctxt "link_speed_label"
+msgid "Link Speed:"
+msgstr ""
+
+msgctxt "ll_bad_levels"
+msgid "Levels must be increasing"
+msgstr ""
+
+msgctxt "ll_btn"
+msgid "Buttons:"
+msgstr ""
+
+msgctxt "ll_default"
+msgid "Load defaults"
+msgstr ""
+
+msgctxt "ll_disabled"
+msgid "disabled"
+msgstr ""
+
+msgctxt "ll_header_btn"
+msgid "Buttons"
+msgstr ""
+
+msgctxt "ll_header_kb"
+msgid "Keyboard"
+msgstr ""
+
+msgctxt "ll_header_lcd"
+msgid "Screen"
+msgstr ""
+
+msgctxt "ll_header_lower"
+msgid "Lower"
+msgstr ""
+
+msgctxt "ll_header_upper"
+msgid "Upper"
+msgstr ""
+
+msgctxt "ll_kb"
+msgid "Keyboard:"
+msgstr ""
+
+msgctxt "ll_lcd"
+msgid "Screen:"
+msgstr ""
+
+msgctxt "ll_lux"
+msgid "Sensor (filtered / raw):"
+msgstr ""
+
+msgctxt "ll_num_levels"
+msgid "Set number of levels"
+msgstr ""
+
+msgctxt "ll_reload"
+msgid "Reload current"
+msgstr ""
+
+msgctxt "ll_save"
+msgid "Save settings"
+msgstr ""
+
+msgctxt "ll_title"
+msgid "Light sensor levels"
+msgstr ""
+
+msgctxt "location_gps"
+msgid "Use GPS Satellites"
+msgstr ""
+
+msgctxt "location_gps_disabled"
+msgid "Locate to street-level (requires more battery plus view of sky)"
+msgstr ""
+
+msgctxt "location_neighborhood_level"
+msgid "Location determined by Wi-Fi and/or mobile networks"
+msgstr ""
+
+msgctxt "location_networks_disabled"
+msgid "See location in applications (such as Maps) using wireless networks"
+msgstr ""
+
+msgctxt "location_network_based"
+msgid "Use Wireless Networks"
+msgstr ""
+
+msgctxt "location_security_settings_title"
+msgid "Security & Privacy Settings"
+msgstr ""
+
+msgctxt "location_street_level"
+msgid "When locating, accurate to street level (uncheck to conserve battery)"
+msgstr ""
+
+msgctxt "location_title"
+msgid "My Location"
+msgstr ""
+
+msgctxt "lockpassword_cancel_label"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "lockpassword_choose_your_password_header"
+msgid "Choose your password"
+msgstr ""
+
+msgctxt "lockpassword_choose_your_pin_header"
+msgid "Choose your PIN"
+msgstr ""
+
+msgctxt "lockpassword_confirm_passwords_dont_match"
+msgid "Passwords don't match"
+msgstr ""
+
+msgctxt "lockpassword_confirm_pins_dont_match"
+msgid "PINs don't match"
+msgstr ""
+
+msgctxt "lockpassword_confirm_previous_password_header"
+msgid "Enter your password"
+msgstr ""
+
+msgctxt "lockpassword_confirm_your_password_header"
+msgid "Confirm your password"
+msgstr ""
+
+msgctxt "lockpassword_confirm_your_pin_header"
+msgid "Confirm your PIN"
+msgstr ""
+
+msgctxt "lockpassword_continue_label"
+msgid "Continue"
+msgstr ""
+
+msgctxt "lockpassword_illegal_character"
+msgid "Password contains an illegal character"
+msgstr ""
+
+msgctxt "lockpassword_ok_label"
+msgid "OK"
+msgstr ""
+
+msgctxt "lockpassword_password_requires_alpha"
+msgid "Password must contain at least one letter"
+msgstr ""
+
+msgctxt "lockpassword_password_requires_digit"
+msgid "Password must contain at least one digit"
+msgstr ""
+
+msgctxt "lockpassword_password_requires_symbol"
+msgid "Password must contain at least one symbol"
+msgstr ""
+
+msgctxt "lockpassword_password_set_toast"
+msgid "Password has been set"
+msgstr ""
+
+#, python-format
+msgctxt "lockpassword_password_too_long"
+msgid "PIN can be no longer than %d digits"
+msgstr ""
+
+#, python-format
+msgctxt "lockpassword_password_too_short"
+msgid "Password must be at least %d characters"
+msgstr ""
+
+msgctxt "lockpassword_pattern_set_toast"
+msgid "Pattern has been set"
+msgstr ""
+
+msgctxt "lockpassword_pin_contains_non_digits"
+msgid "PIN must contain only digits 0-9"
+msgstr ""
+
+msgctxt "lockpassword_pin_set_toast"
+msgid "PIN has been set"
+msgstr ""
+
+#, python-format
+msgctxt "lockpassword_pin_too_long"
+msgid "PIN can be no longer than %d digits"
+msgstr ""
+
+#, python-format
+msgctxt "lockpassword_pin_too_short"
+msgid "PIN must be at least %d characters"
+msgstr ""
+
+msgctxt "lockpassword_press_continue"
+msgid "Press OK when done"
+msgstr ""
+
+msgctxt "lockpattern_change_lock_pattern_label"
+msgid "Change unlock pattern"
+msgstr ""
+
+msgctxt "lockpattern_change_lock_pin_label"
+msgid "Change unlock PIN"
+msgstr ""
+
+msgctxt "lockpattern_confirm_button_text"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "lockpattern_continue_button_text"
+msgid "Continue"
+msgstr ""
+
+msgctxt "lockpattern_need_to_confirm"
+msgid "Draw pattern again to confirm:"
+msgstr ""
+
+msgctxt "lockpattern_need_to_unlock"
+msgid "Confirm saved pattern"
+msgstr ""
+
+msgctxt "lockpattern_need_to_unlock_wrong"
+msgid "Sorry, try again:"
+msgstr ""
+
+msgctxt "lockpattern_pattern_confirmed_header"
+msgid "Your new unlock pattern:"
+msgstr ""
+
+msgctxt "lockpattern_pattern_entered_header"
+msgid "Pattern recorded!"
+msgstr ""
+
+#, python-format
+msgctxt "lockpattern_recording_incorrect_too_short"
+msgid "Connect at least %d dots. Try again:"
+msgstr ""
+
+msgctxt "lockpattern_recording_inprogress"
+msgid "Release finger when done."
+msgstr ""
+
+msgctxt "lockpattern_recording_intro_footer"
+msgid "Press Menu for help."
+msgstr ""
+
+msgctxt "lockpattern_recording_intro_header"
+msgid "Draw an unlock pattern"
+msgstr ""
+
+msgctxt "lockpattern_restart_button_text"
+msgid "Redraw"
+msgstr ""
+
+msgctxt "lockpattern_retry_button_text"
+msgid "Retry"
+msgstr ""
+
+msgctxt "lockpattern_settings_change_lock_pattern"
+msgid "Change unlock pattern"
+msgstr ""
+
+msgctxt "lockpattern_settings_choose_lock_pattern"
+msgid "Set unlock pattern"
+msgstr ""
+
+msgctxt "lockpattern_settings_enable_summary"
+msgid "Must draw pattern to unlock screen"
+msgstr ""
+
+msgctxt "lockpattern_settings_enable_tactile_feedback_title"
+msgid "Use tactile feedback"
+msgstr ""
+
+msgctxt "lockpattern_settings_enable_title"
+msgid "Require pattern"
+msgstr ""
+
+msgctxt "lockpattern_settings_enable_visible_pattern_title"
+msgid "Use visible pattern"
+msgstr ""
+
+msgctxt "lockpattern_settings_help_how_to_record"
+msgid "How to draw an unlock pattern"
+msgstr ""
+
+msgctxt "lockpattern_settings_title"
+msgid "Unlock pattern"
+msgstr ""
+
+#, python-format
+msgctxt "lockpattern_too_many_failed_confirmation_attempts_footer"
+msgid "Try again in %d seconds."
+msgstr ""
+
+msgctxt "lockpattern_too_many_failed_confirmation_attempts_header"
+msgid "Too many incorrect attempts!"
+msgstr ""
+
+msgctxt "lock_example_message"
+msgid ""
+"Connect at least four dots.\n"
+" \n"
+"Touch “Next” when you’re ready to draw your own pattern."
+msgstr ""
+
+msgctxt "lock_example_title"
+msgid "Example pattern"
+msgstr ""
+
+msgctxt "lock_intro_message"
+msgid ""
+"<font size=\"17\">Protect your phone from unauthorized use by creating a "
+"personal screen unlock pattern. \n"
+"<font height=\"17\">\n"
+"</font><b>1</b>  On the next screen, watch while an example pattern is "
+"drawn. \n"
+"<font height=\"17\">\n"
+"</font><b>2</b>  When ready, draw your own personal unlock pattern. "
+"Experiment with different patterns but connect at least four dots. \n"
+"<font height=\"17\">\n"
+"</font><b>3</b>  Redraw your pattern to confirm. \n"
+"<font height=\"17\">\n"
+"</font><b>Ready to start? Touch “Next”</b>. \n"
+"<font height=\"3\">\n"
+"</font>To leave your phone unprotected, touch “Cancel”.</font>\\u0020"
+msgstr ""
+
+msgctxt "lock_settings_picker_title"
+msgid "Screen unlock security"
+msgstr ""
+
+msgctxt "lock_settings_title"
+msgid "Screen unlock"
+msgstr ""
+
+msgctxt "lock_sounds_enable_summary_off"
+msgid "Play sounds when locking and unlocking the screen"
+msgstr ""
+
+msgctxt "lock_sounds_enable_summary_on"
+msgid "Play sounds when locking and unlocking the screen"
+msgstr ""
+
+msgctxt "lock_sounds_enable_title"
+msgid "Screen lock sounds"
+msgstr ""
+
+msgctxt "lock_title"
+msgid "Securing your phone"
+msgstr ""
+
+msgctxt "macaddr_label"
+msgid "MAC address:"
+msgstr ""
+
+msgctxt "main_running_process_description"
+msgid "Main process that is in use."
+msgstr ""
+
+msgctxt "manageapplications_settings_summary"
+msgid "Manage and remove installed applications"
+msgstr ""
+
+msgctxt "manageapplications_settings_title"
+msgid "Manage Applications"
+msgstr ""
+
+msgctxt "manage_applications_title"
+msgid "Manage Applications"
+msgstr ""
+
+msgctxt "manage_device_admin"
+msgid "Select device administrators"
+msgstr ""
+
+msgctxt "manage_device_admin_summary"
+msgid "Add or remove device administrators"
+msgstr ""
+
+msgctxt "manage_space_text"
+msgid "Manage space"
+msgstr ""
+
+msgctxt "master_clear_button_text"
+msgid "Reset phone"
+msgstr ""
+
+msgctxt "master_clear_desc"
+msgid ""
+"This will erase all data from your phone, including:\n"
+"<li>Your Google account</li>\n"
+"<li>System and application data and settings</li>\n"
+"<li>Downloaded applications</li>\n"
+"It will not erase:\n"
+"<li>Current system software and bundled applications</li>\n"
+"<li>SD card files, such as music or photos</li>"
+msgstr ""
+
+msgctxt "master_clear_failed"
+msgid "No reset was performed because the System Clear service is not available."
+msgstr ""
+
+msgctxt "master_clear_final_button_text"
+msgid "Erase everything"
+msgstr ""
+
+msgctxt "master_clear_final_desc"
+msgid ""
+"Erase all of your personal information and any downloaded applications? "
+"It is impossible to reverse this action!"
+msgstr ""
+
+msgctxt "master_clear_gesture_explanation"
+msgid "You must draw your unlock pattern to confirm a phone reset."
+msgstr ""
+
+msgctxt "master_clear_gesture_prompt"
+msgid "Draw your unlock pattern"
+msgstr ""
+
+msgctxt "master_clear_summary"
+msgid "Erases all data on phone"
+msgstr ""
+
+msgctxt "master_clear_title"
+msgid "Factory data reset"
+msgstr ""
+
+msgctxt "media_buttons"
+msgid "Remote control media keys (Lock screen)"
+msgstr ""
+
+msgctxt "media_format_button_text"
+msgid "Format SD card"
+msgstr ""
+
+msgctxt "media_format_desc"
+msgid ""
+"This action will erase the SD card in the phone. You will lose ALL data "
+"on the card!"
+msgstr ""
+
+msgctxt "media_format_final_button_text"
+msgid "Erase everything"
+msgstr ""
+
+msgctxt "media_format_final_desc"
+msgid "Format SD card, erasing all your media? Action cannot be reversed!"
+msgstr ""
+
+msgctxt "media_format_gesture_explanation"
+msgid "You must draw your unlock pattern to confirm an SD card format."
+msgstr ""
+
+msgctxt "media_format_gesture_prompt"
+msgid "Draw your unlock pattern"
+msgstr ""
+
+msgctxt "media_format_summary"
+msgid "Erases all data on the SD card"
+msgstr ""
+
+msgctxt "media_format_title"
+msgid "Format SD card"
+msgstr ""
+
+msgctxt "media_volume"
+msgid "Media volume"
+msgstr ""
+
+msgctxt "media_volume_summary"
+msgid "Set volume for music and videos"
+msgstr ""
+
+msgctxt "media_volume_title"
+msgid "Media"
+msgstr ""
+
+msgctxt "medium_font"
+msgid "Medium"
+msgstr ""
+
+msgctxt "memory"
+msgid "RAM"
+msgstr ""
+
+msgctxt "memory_available"
+msgid "Available space"
+msgstr ""
+
+msgctxt "memory_size"
+msgid "Total space"
+msgstr ""
+
+msgctxt "mem_usage_chart"
+msgid "Memory usage history"
+msgstr ""
+
+msgctxt "menu_cancel"
+msgid "Discard"
+msgstr ""
+
+msgctxt "menu_delete"
+msgid "Delete APN"
+msgstr ""
+
+msgctxt "menu_new"
+msgid "New APN"
+msgstr ""
+
+msgctxt "menu_restore"
+msgid "Reset to default"
+msgstr ""
+
+msgctxt "menu_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "menu_settings"
+msgid "Menu Styles"
+msgstr ""
+
+msgctxt "menu_settings_title"
+msgid "Menu Styles"
+msgstr ""
+
+msgctxt "menu_stats_last_unplugged"
+msgid "While last unplugged for %1$s"
+msgstr ""
+
+msgctxt "menu_stats_refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "menu_stats_total"
+msgid "Total Usage"
+msgstr ""
+
+msgctxt "menu_stats_unplugged"
+msgid "Unplugged Usage"
+msgstr ""
+
+msgctxt "menu_style_title"
+msgid "Menu Styles"
+msgstr ""
+
+msgctxt "mms_settings_title"
+msgid "MMS Settings"
+msgstr ""
+
+msgctxt "model_number"
+msgid "Model number"
+msgstr ""
+
+msgctxt "monitor_history"
+msgid "Monitor power usage"
+msgstr ""
+
+msgctxt "more_info"
+msgid "More info"
+msgstr ""
+
+msgctxt "move_app"
+msgid "Move"
+msgstr ""
+
+msgctxt "move_app_failed_dlg_text"
+msgid "Failed to move application. %1$s"
+msgstr ""
+
+msgctxt "move_app_failed_dlg_title"
+msgid "Move application"
+msgstr ""
+
+msgctxt "move_app_to_internal"
+msgid "Move to phone"
+msgstr ""
+
+msgctxt "move_app_to_sdcard"
+msgid "Move to SD card"
+msgstr ""
+
+msgctxt "moving"
+msgid "Moving"
+msgstr ""
+
+msgctxt "networkid_label"
+msgid "Network ID:"
+msgstr ""
+
+msgctxt "networks"
+msgid "Operator selection"
+msgstr ""
+
+msgctxt "network_category"
+msgid "Network"
+msgstr ""
+
+msgctxt "network_settings_summary"
+msgid "Set options for roaming, networks, APNs"
+msgstr ""
+
+msgctxt "network_settings_title"
+msgid "Mobile Network Settings"
+msgstr ""
+
+msgctxt "network_share_settings_title"
+msgid "Tethering & Portable Hotspot"
+msgstr ""
+
+msgctxt "network_state_label"
+msgid "Network Status:"
+msgstr ""
+
+msgctxt "next_button_label"
+msgid "Next"
+msgstr ""
+
+msgctxt "next_label"
+msgid "Next"
+msgstr ""
+
+msgctxt "nfc_quick_toggle_summary"
+msgid "Use Near Field Communication to read and exchange tags"
+msgstr ""
+
+msgctxt "nfc_quick_toggle_title"
+msgid "NFC"
+msgstr ""
+
+msgctxt "nfc_toggle_error"
+msgid "An error occurred."
+msgstr ""
+
+msgctxt "no"
+msgid "No"
+msgstr ""
+
+#, python-format
+msgctxt "normal_date_format"
+msgid "Normal (%s)"
+msgstr ""
+
+msgctxt "notification_pulse_summary"
+msgid "Pulse trackball light repeatedly for new notifications"
+msgstr ""
+
+msgctxt "notification_pulse_title"
+msgid "Pulse notification light"
+msgstr ""
+
+msgctxt "notification_sound_dialog_title"
+msgid "Select notification ringtone"
+msgstr ""
+
+msgctxt "notification_sound_title"
+msgid "Notification Ringtone"
+msgstr ""
+
+msgctxt "notification_use_ring_volume"
+msgid "Use Ringtone volume"
+msgstr ""
+
+msgctxt "notification_volume_title"
+msgid "Notification"
+msgstr ""
+
+msgctxt "no_accessibility_services_summary"
+msgid "No installed accessibility services."
+msgstr ""
+
+msgctxt "no_applications"
+msgid "No applications."
+msgstr ""
+
+msgctxt "no_device_admins"
+msgid "No available device administrators"
+msgstr ""
+
+msgctxt "no_media_button_receiver"
+msgid "No"
+msgstr ""
+
+msgctxt "no_running_services"
+msgid "No running services"
+msgstr ""
+
+msgctxt "no_services"
+msgid "Not active"
+msgstr ""
+
+msgctxt "oem_radio_info_label"
+msgid "OEM-specific Info/Settings"
+msgstr ""
+
+msgctxt "ok_gotopassword"
+msgid "Password Security"
+msgstr ""
+
+msgctxt "onscreen_keyboard_settings_summary"
+msgid "Onscreen Keyboard Settings"
+msgstr ""
+
+msgctxt "overscroll_mode_title"
+msgid "Lists Overshoot"
+msgstr ""
+
+msgctxt "packages_subtitle"
+msgid "Included packages"
+msgstr ""
+
+msgctxt "password_guide"
+msgid "Password Help"
+msgstr ""
+
+msgctxt "password_guide_desc1"
+msgid ""
+"Set a password to protect your personal security, to do this select "
+"Password Security in Settings."
+msgstr ""
+
+msgctxt "password_guide_desc2"
+msgid "If you do not want to set a password, please click the Cancel button."
+msgstr ""
+
+msgctxt "pc_connection_category"
+msgid "PC / Sync Settings"
+msgstr ""
+
+msgctxt "pc_connection_settings_title"
+msgid "PC / Sync Settings"
+msgstr ""
+
+msgctxt "permissions_label"
+msgid "Permissions"
+msgstr ""
+
+msgctxt "personalization_category"
+msgid "Personalization"
+msgstr ""
+
+msgctxt "personal_data_section_title"
+msgid "Personal data"
+msgstr ""
+
+msgctxt "personal_info_category"
+msgid "Personal Information"
+msgstr ""
+
+msgctxt "personal_password_for"
+msgid "Use personal password for"
+msgstr ""
+
+msgctxt "personal_password_for_dialer_summary"
+msgid "Dialer requires password to function"
+msgstr ""
+
+msgctxt "personal_password_for_dialer_title"
+msgid "Dialer"
+msgstr ""
+
+msgctxt "personal_password_for_firewall_summary"
+msgid "Requires password to enter DND mode"
+msgstr ""
+
+msgctxt "personal_password_for_firewall_title"
+msgid "DND Mode"
+msgstr ""
+
+msgctxt "personal_password_for_folderhidden_summary"
+msgid "Folders require password to view applications"
+msgstr ""
+
+msgctxt "personal_password_for_folderhidden_title"
+msgid "Hidden folder apps"
+msgstr ""
+
+msgctxt "personal_password_for_lockscreen_summary"
+msgid "Enter personal password to unlock"
+msgstr ""
+
+msgctxt "personal_password_for_lockscreen_title"
+msgid "Lock screen security"
+msgstr ""
+
+msgctxt "personal_password_for_mms_summary"
+msgid "Messaging requires password to view messages"
+msgstr ""
+
+msgctxt "personal_password_for_notes_summary"
+msgid "Notes requires password to view"
+msgstr ""
+
+msgctxt "personal_password_for_notes_title"
+msgid "Notes"
+msgstr ""
+
+msgctxt "personal_password_for_mms_title"
+msgid "Messaging"
+msgstr ""
+
+msgctxt "personal_password_for_privacymode_summary"
+msgid "Password will be used to protect the privacy of your phone"
+msgstr ""
+
+msgctxt "personal_password_for_privacymode_title"
+msgid "Visitor mode"
+msgstr ""
+
+msgctxt "personal_password_summary"
+msgid "PIN will be used to protect the privacy of your phone"
+msgstr ""
+
+msgctxt "personal_password_title"
+msgid "Personal Password"
+msgstr ""
+
+msgctxt "personal_settings_tab"
+msgid "Personal"
+msgstr ""
+
+msgctxt "phone_info_label"
+msgid "Phone info"
+msgstr ""
+
+msgctxt "phone_language"
+msgid "Select language"
+msgstr ""
+
+msgctxt "pico_installed"
+msgid "Installed"
+msgstr ""
+
+msgctxt "pico_languages_and_voices"
+msgid "Languages and voices"
+msgstr ""
+
+msgctxt "pico_not_installed"
+msgid "Not installed"
+msgstr ""
+
+msgctxt "pico_voice_summary_female"
+msgid "Female"
+msgstr ""
+
+msgctxt "pico_voice_summary_male"
+msgid "Male"
+msgstr ""
+
+msgctxt "ping_test_label"
+msgid "Run ping test"
+msgstr ""
+
+msgctxt "please_select_phase2"
+msgid "Phase 2 authentication"
+msgstr ""
+
+msgctxt "power_bluetooth"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "power_cell"
+msgid "Cell standby"
+msgstr ""
+
+msgctxt "power_idle"
+msgid "Phone idle"
+msgstr ""
+
+msgctxt "power_key"
+msgid "Power button action"
+msgstr ""
+
+msgctxt "power_phone"
+msgid "Voice calls"
+msgstr ""
+
+msgctxt "power_screen"
+msgid "Display"
+msgstr ""
+
+msgctxt "power_usage_summary"
+msgid "What has been using the battery"
+msgstr ""
+
+msgctxt "power_usage_summary_title"
+msgid "Battery use"
+msgstr ""
+
+msgctxt "power_wifi"
+msgid "Wi-Fi"
+msgstr ""
+
+msgctxt "preferred_app_title"
+msgid "Default Music Player for lockscreen"
+msgstr ""
+
+msgctxt "preferred_media_app_summary"
+msgid "Music Player used for lockscreen controls"
+msgstr ""
+
+msgctxt "privacy_settings"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "privacy_settings_title"
+msgid "Privacy Settings"
+msgstr ""
+
+msgctxt "process_kernel_label"
+msgid "Android OS"
+msgstr ""
+
+msgctxt "process_mediaserver_label"
+msgid "Media Server"
+msgstr ""
+
+msgctxt "process_provider_in_use_description"
+msgid "Provider %1$s is in use."
+msgstr ""
+
+msgctxt "process_service_in_use_description"
+msgid "Service %1$s is in use."
+msgstr ""
+
+msgctxt "program_settings_tab"
+msgid "Programs"
+msgstr ""
+
+msgctxt "progress_scanning"
+msgid "Scanning"
+msgstr ""
+
+msgctxt "proxy_action_text"
+msgid "Save"
+msgstr ""
+
+msgctxt "proxy_clear_text"
+msgid "Clear"
+msgstr ""
+
+msgctxt "proxy_defaultView_text"
+msgid "Restore defaults"
+msgstr ""
+
+msgctxt "proxy_error"
+msgid "Attention"
+msgstr ""
+
+msgctxt "proxy_error_dismiss"
+msgid "OK"
+msgstr ""
+
+msgctxt "proxy_error_empty_host_set_port"
+msgid "The port field must be empty if the host field is empty."
+msgstr ""
+
+msgctxt "proxy_error_empty_port"
+msgid "You must complete the port field."
+msgstr ""
+
+msgctxt "proxy_error_invalid_host"
+msgid "The hostname you typed is not valid."
+msgstr ""
+
+msgctxt "proxy_error_invalid_port"
+msgid "The port you typed is not valid."
+msgstr ""
+
+msgctxt "proxy_hostname_label"
+msgid "Hostname"
+msgstr ""
+
+msgctxt "proxy_port_label"
+msgid "Port"
+msgstr ""
+
+msgctxt "proxy_quick_toggle_title"
+msgid "Use a Proxy"
+msgstr ""
+
+msgctxt "proxy_settings_label"
+msgid "Proxy Settings"
+msgstr ""
+
+msgctxt "proxy_settings_summary"
+msgid "Configure the proxy server address and port number"
+msgstr ""
+
+msgctxt "proxy_settings_title"
+msgid "Proxy Settings"
+msgstr ""
+
+msgctxt "proxy_wifi_only_title"
+msgid "Only use Wi-Fi"
+msgstr ""
+
+msgctxt "quick_launch_assign_application"
+msgid "Assign application"
+msgstr ""
+
+msgctxt "quick_launch_clear_cancel_button"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "quick_launch_clear_dialog_message"
+msgid "Your shortcut for %1$s (%2$s) will be cleared."
+msgstr ""
+
+msgctxt "quick_launch_clear_dialog_title"
+msgid "Clear"
+msgstr ""
+
+msgctxt "quick_launch_clear_ok_button"
+msgid "OK"
+msgstr ""
+
+msgctxt "quick_launch_display_mode_applications"
+msgid "Applications"
+msgstr ""
+
+msgctxt "quick_launch_display_mode_shortcuts"
+msgid "Shortcuts"
+msgstr ""
+
+msgctxt "quick_launch_no_shortcut"
+msgid "No shortcut"
+msgstr ""
+
+msgctxt "quick_launch_shortcut"
+msgid "Search + %1$s"
+msgstr ""
+
+msgctxt "quick_launch_summary"
+msgid "Set keyboard shortcuts to launch applications"
+msgstr ""
+
+msgctxt "quick_launch_title"
+msgid "Quick launch"
+msgstr ""
+
+msgctxt "radioInfo_cid"
+msgid "CID"
+msgstr ""
+
+msgctxt "radioInfo_data_connected"
+msgid "Connected"
+msgstr ""
+
+msgctxt "radioInfo_data_connecting"
+msgid "Connecting"
+msgstr ""
+
+msgctxt "radioInfo_data_disconnected"
+msgid "Disconnected"
+msgstr ""
+
+msgctxt "radioInfo_data_suspended"
+msgid "Suspended"
+msgstr ""
+
+msgctxt "radioInfo_display_asu"
+msgid "asu"
+msgstr ""
+
+msgctxt "radioInfo_display_bytes"
+msgid "bytes"
+msgstr ""
+
+msgctxt "radioInfo_display_dbm"
+msgid "dBm"
+msgstr ""
+
+msgctxt "radioInfo_display_packets"
+msgid "pkts"
+msgstr ""
+
+msgctxt "radioInfo_lac"
+msgid "LAC"
+msgstr ""
+
+msgctxt "radioInfo_menu_getPDP"
+msgid "Get PDP list"
+msgstr ""
+
+msgctxt "radioInfo_menu_viewADN"
+msgid "View SIM address book"
+msgstr ""
+
+msgctxt "radioInfo_menu_viewFDN"
+msgid "View Fixed Dialing Numbers"
+msgstr ""
+
+msgctxt "radioInfo_menu_viewSDN"
+msgid "View Service Dialing Numbers"
+msgstr ""
+
+msgctxt "radioInfo_phone_idle"
+msgid "Idle"
+msgstr ""
+
+msgctxt "radioInfo_phone_offhook"
+msgid "Call in progress"
+msgstr ""
+
+msgctxt "radioInfo_phone_ringing"
+msgid "Ringing"
+msgstr ""
+
+msgctxt "radioInfo_roaming_in"
+msgid "Roaming"
+msgstr ""
+
+msgctxt "radioInfo_roaming_not"
+msgid "Not roaming"
+msgstr ""
+
+msgctxt "radioInfo_service_emergency"
+msgid "Emergency calls only"
+msgstr ""
+
+msgctxt "radioInfo_service_in"
+msgid "In service"
+msgstr ""
+
+msgctxt "radioInfo_service_off"
+msgid "Radio off"
+msgstr ""
+
+msgctxt "radioInfo_service_out"
+msgid "Out of service"
+msgstr ""
+
+msgctxt "radioInfo_unknown"
+msgid "unknown"
+msgstr ""
+
+msgctxt "radio_controls_summary"
+msgid "Manage Wi-Fi, Bluetooth, airplane mode, mobile networks, & VPNs"
+msgstr ""
+
+msgctxt "radio_controls_title"
+msgid "Wireless & networks"
+msgstr ""
+
+msgctxt "radio_info_band_mode_label"
+msgid "Select radio band"
+msgstr ""
+
+msgctxt "radio_info_call_redirect_label"
+msgid "Call redirect:"
+msgstr ""
+
+msgctxt "radio_info_call_status_label"
+msgid "Call status:"
+msgstr ""
+
+msgctxt "radio_info_current_network_label"
+msgid "Current network:"
+msgstr ""
+
+msgctxt "radio_info_data_attempts_label"
+msgid "Data attempts:"
+msgstr ""
+
+msgctxt "radio_info_data_successes_label"
+msgid "Data successes:"
+msgstr ""
+
+msgctxt "radio_info_gprs_service_label"
+msgid "GPRS service:"
+msgstr ""
+
+msgctxt "radio_info_gsm_disconnects_label"
+msgid "GSM disconnects:"
+msgstr ""
+
+msgctxt "radio_info_gsm_service_label"
+msgid "GSM service:"
+msgstr ""
+
+msgctxt "radio_info_http_client_test"
+msgid "HTTP Client test:"
+msgstr ""
+
+msgctxt "radio_info_imei_label"
+msgid "IMEI:"
+msgstr ""
+
+msgctxt "radio_info_message_waiting_label"
+msgid "Message waiting:"
+msgstr ""
+
+msgctxt "radio_info_neighboring_location_label"
+msgid "Neighbouring CID:"
+msgstr ""
+
+msgctxt "radio_info_network_type_label"
+msgid "Network type:"
+msgstr ""
+
+msgctxt "radio_info_phone_number_label"
+msgid "Phone number:"
+msgstr ""
+
+msgctxt "radio_info_ping_hostname"
+msgid "Ping Hostname (www.google.com):"
+msgstr ""
+
+msgctxt "radio_info_ping_ipaddr"
+msgid "Ping IP Address:"
+msgstr ""
+
+msgctxt "radio_info_ppp_received_label"
+msgid "PPP received:"
+msgstr ""
+
+msgctxt "radio_info_ppp_resets_label"
+msgid "Number of PPP reset since boot:"
+msgstr ""
+
+msgctxt "radio_info_ppp_sent_label"
+msgid "PPP sent:"
+msgstr ""
+
+msgctxt "radio_info_radio_resets_label"
+msgid "Radio resets:"
+msgstr ""
+
+msgctxt "radio_info_roaming_label"
+msgid "Roaming:"
+msgstr ""
+
+msgctxt "radio_info_set_perferred_label"
+msgid "Set preferred network type:"
+msgstr ""
+
+msgctxt "radio_info_signal_location_label"
+msgid "Location:"
+msgstr ""
+
+msgctxt "radio_info_signal_strength_label"
+msgid "Signal strength:"
+msgstr ""
+
+msgctxt "radio_info_smsc_label"
+msgid "SMSC:"
+msgstr ""
+
+msgctxt "radio_info_smsc_refresh_label"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "radio_info_smsc_update_label"
+msgid "Update"
+msgstr ""
+
+msgctxt "radio_info_toggle_dns_check_label"
+msgid "Toggle DNS check"
+msgstr ""
+
+msgctxt "read_only"
+msgid "\\u0020(Read-only)"
+msgstr ""
+
+msgctxt "reboot"
+msgid "Restart"
+msgstr ""
+
+msgctxt "reboot_dialog_msg"
+msgid ""
+"Please close all the applications and restart your phone for changes to "
+"take effect.\n"
+"\n"
+"Do you want to restart the phone now?"
+msgstr ""
+
+msgctxt "reboot_dialog_title"
+msgid "Successfully applied menu style"
+msgstr ""
+
+#, python-format
+msgctxt "recognizer_settings_summary"
+msgid "Settings for '%s'"
+msgstr ""
+
+msgctxt "recognizer_settings_title"
+msgid "Voice recognizer Settings"
+msgstr ""
+
+msgctxt "recognizer_title"
+msgid "Voice recognizer"
+msgstr ""
+
+msgctxt "recompute_size"
+msgid "Recomputing size..."
+msgstr ""
+
+msgctxt "remove_device_admin"
+msgid "Deactivate"
+msgstr ""
+
+msgctxt "restore_default_apn"
+msgid "Restoring default APN settings"
+msgstr ""
+
+msgctxt "restore_default_apn_completed"
+msgid "Reset default APN settings completed"
+msgstr ""
+
+msgctxt "ringtone_settings_title"
+msgid "Call Ringtone"
+msgstr ""
+
+msgctxt "ringtone_title"
+msgid "Phone ringtone"
+msgstr ""
+
+msgctxt "ring_volume_title"
+msgid "Ringer volume"
+msgstr ""
+
+msgctxt "roaming"
+msgid "Data Roaming"
+msgstr ""
+
+msgctxt "roaming_disable"
+msgid "Connect to data services when roaming"
+msgstr ""
+
+msgctxt "roaming_enable"
+msgid "Connect to data services when roaming"
+msgstr ""
+
+msgctxt "roaming_reenable_message"
+msgid ""
+"You have lost data connectivity because you left your home network with "
+"data roaming turned off."
+msgstr ""
+
+msgctxt "roaming_reenable_title"
+msgid "Attention"
+msgstr ""
+
+msgctxt "roaming_turn_it_on_button"
+msgid "Turn it on"
+msgstr ""
+
+msgctxt "roaming_warning"
+msgid "Allow data roaming? You may incur significant roaming charges!"
+msgstr ""
+
+msgctxt "rotate_180_title"
+msgid "Allow 180° rotation"
+msgstr ""
+
+msgctxt "rssi_label"
+msgid "RSSI:"
+msgstr ""
+
+msgctxt "runningservicedetails_processes_title"
+msgid "Processes"
+msgstr ""
+
+msgctxt "runningservicedetails_services_title"
+msgid "Services"
+msgstr ""
+
+msgctxt "runningservicedetails_settings_title"
+msgid "Running application"
+msgstr ""
+
+msgctxt "runningservicedetails_stop_dlg_text"
+msgid ""
+"Are you sure you want to stop this system service? If you do, some "
+"features of your phone may stop working correctly until you power it off "
+"and then on again."
+msgstr ""
+
+msgctxt "runningservicedetails_stop_dlg_title"
+msgid "Stop system service?"
+msgstr ""
+
+msgctxt "runningservices_settings_summary"
+msgid "View and control currently running services"
+msgstr ""
+
+msgctxt "runningservices_settings_title"
+msgid "Running services"
+msgstr ""
+
+msgctxt "running_processes_item_description_p_p"
+msgid "%1$d processes and %2$d services"
+msgstr ""
+
+msgctxt "running_processes_item_description_p_s"
+msgid "%1$d processes and %2$d service"
+msgstr ""
+
+msgctxt "running_processes_item_description_s_p"
+msgid "%1$d process and %2$d services"
+msgstr ""
+
+msgctxt "running_processes_item_description_s_s"
+msgid "%1$d process and %2$d service"
+msgstr ""
+
+msgctxt "scan_list_label"
+msgid "Scan results:"
+msgstr ""
+
+msgctxt "screen_rotation"
+msgid "Screen rotation"
+msgstr ""
+
+msgctxt "screen_timeout"
+msgid "Screen timeout"
+msgstr ""
+
+msgctxt "screen_timeout_summary"
+msgid "Adjust the delay before the screen automatically turns off"
+msgstr ""
+
+msgctxt "sdcard_changes_instructions"
+msgid "Changes take effect when USB cable is reconnected"
+msgstr ""
+
+msgctxt "sdcard_format"
+msgid "Format SD card"
+msgstr ""
+
+msgctxt "sdcard_setting"
+msgid "SD card"
+msgstr ""
+
+msgctxt "sdcard_settings_available_bytes_label"
+msgid "Available bytes:"
+msgstr ""
+
+msgctxt "sdcard_settings_bad_removal_status"
+msgid "SD card was removed while still in use!"
+msgstr ""
+
+msgctxt "sdcard_settings_mass_storage_status"
+msgid "SD card is being used as a mass storage device"
+msgstr ""
+
+msgctxt "sdcard_settings_not_present_status"
+msgid "No SD card"
+msgstr ""
+
+msgctxt "sdcard_settings_read_only_status"
+msgid "SD card mounted read-only"
+msgstr ""
+
+msgctxt "sdcard_settings_scanning_status"
+msgid "Scanning SD card for media…"
+msgstr ""
+
+msgctxt "sdcard_settings_screen_mass_storage_text"
+msgid "Enable USB mass storage"
+msgstr ""
+
+msgctxt "sdcard_settings_total_bytes_label"
+msgid "Total bytes:"
+msgstr ""
+
+msgctxt "sdcard_settings_unmounted_status"
+msgid "It is now safe to remove the SD card"
+msgstr ""
+
+msgctxt "sdcard_settings_used_bytes_label"
+msgid "Used bytes:"
+msgstr ""
+
+msgctxt "sdcard_unmount"
+msgid "Unmount SD card"
+msgstr ""
+
+msgctxt "sdext_unavailable"
+msgid "This device does not support A2SD+"
+msgstr ""
+
+#, python-format
+msgctxt "sd_available_size"
+msgid "%s available"
+msgstr ""
+
+msgctxt "sd_card_settings_label"
+msgid "SD card"
+msgstr ""
+
+msgctxt "sd_card_storage"
+msgid "USB storage"
+msgstr ""
+
+msgctxt "sd_eject"
+msgid "Unmount SD card"
+msgstr ""
+
+msgctxt "sd_ejecting_summary"
+msgid "Unmount in progress"
+msgstr ""
+
+msgctxt "sd_ejecting_title"
+msgid "Unmount"
+msgstr ""
+
+msgctxt "sd_eject_summary"
+msgid "Unmount the SD card for safe removal"
+msgstr ""
+
+msgctxt "sd_ext_memory"
+msgid "A2SD+"
+msgstr ""
+
+msgctxt "sd_format"
+msgid "Format SD card"
+msgstr ""
+
+msgctxt "sd_format_summary"
+msgid "Format (erase) the SD card"
+msgstr ""
+
+msgctxt "sd_insert_summary"
+msgid "Insert an SD card for mounting"
+msgstr ""
+
+msgctxt "sd_memory"
+msgid "SD card"
+msgstr ""
+
+msgctxt "sd_mount"
+msgid "Mount SD card"
+msgstr ""
+
+msgctxt "sd_mount_summary"
+msgid "Mount the SD card"
+msgstr ""
+
+msgctxt "sd_unavailable"
+msgid "Unavailable"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Search settings"
+msgstr ""
+
+msgctxt "search_hint"
+msgid "Search settings"
+msgstr ""
+
+msgctxt "search_label"
+msgid "Search"
+msgstr ""
+
+msgctxt "search_settings"
+msgid "Search Settings"
+msgstr ""
+
+msgctxt "search_settings_summary"
+msgid "Manage search settings and history"
+msgstr ""
+
+msgctxt "security_passwords_title"
+msgid "Passwords"
+msgstr ""
+
+msgctxt "security_privacy_settings_title"
+msgid "Security & Privacy Settings"
+msgstr ""
+
+msgctxt "security_settings_desc"
+msgid "This application can access the following on your phone:"
+msgstr ""
+
+msgctxt "security_settings_summary"
+msgid "Set My Location, screen unlock, SIM card lock, credential storage lock"
+msgstr ""
+
+msgctxt "security_settings_title"
+msgid "Location & Security"
+msgstr ""
+
+msgctxt "select_device_admin_msg"
+msgid "Device Administrators"
+msgstr ""
+
+msgctxt "select_your_language"
+msgid "Select your Language"
+msgstr ""
+
+msgctxt "service_background_processes"
+msgid "%1$s free"
+msgstr ""
+
+msgctxt "service_client_name"
+msgid "%1$s: touch to manage"
+msgstr ""
+
+msgctxt "service_foreground_processes"
+msgid "%1$s used"
+msgstr ""
+
+msgctxt "service_manage"
+msgid "Settings"
+msgstr ""
+
+msgctxt "service_manage_description"
+msgid "%1$s currently in use. Touch Settings to control it."
+msgstr ""
+
+msgctxt "service_process_name"
+msgid "Process: %1$s"
+msgstr ""
+
+msgctxt "service_restarting"
+msgid "Restarting"
+msgstr ""
+
+msgctxt "service_started_by_app"
+msgid "Started by application: touch to stop"
+msgstr ""
+
+msgctxt "service_stop"
+msgid "Stop"
+msgstr ""
+
+msgctxt "service_stop_description"
+msgid ""
+"This service was started by its application. Stopping it may cause the "
+"application to fail."
+msgstr ""
+
+msgctxt "settings_label"
+msgid "Settings"
+msgstr ""
+
+msgctxt "settings_license_activity_loading"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "settings_license_activity_title"
+msgid "Open source licenses"
+msgstr ""
+
+msgctxt "settings_license_activity_unavailable"
+msgid "There is a problem loading the licenses."
+msgstr ""
+
+msgctxt "settings_safetylegal_activity_loading"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "settings_safetylegal_activity_title"
+msgid "Safety information"
+msgstr ""
+
+#, python-format
+msgctxt "settings_safetylegal_activity_unreachable"
+msgid ""
+"Your phone is not connected to a data service. To view this information "
+"now, go to %s from any computer connected to the Internet."
+msgstr ""
+
+msgctxt "settings_safetylegal_title"
+msgid "Safety information"
+msgstr ""
+
+msgctxt "settings_shortcut"
+msgid "Settings"
+msgstr ""
+
+msgctxt "show_background_processes"
+msgid "Show cached processes"
+msgstr ""
+
+msgctxt "show_password"
+msgid "Visible passwords"
+msgstr ""
+
+msgctxt "show_password_summary"
+msgid "Show password as you type"
+msgstr ""
+
+msgctxt "show_running_services"
+msgid "Show running services"
+msgstr ""
+
+msgctxt "silent_mode_incl_alarm_summary"
+msgid "All sounds except media are silenced"
+msgstr ""
+
+msgctxt "silent_mode_summary"
+msgid "Silence all sounds except media & alarms"
+msgstr ""
+
+msgctxt "silent_mode_title"
+msgid "Silent mode"
+msgstr ""
+
+msgctxt "sim_bad_pin"
+msgid "Incorrect PIN!"
+msgstr ""
+
+msgctxt "sim_change_failed"
+msgid ""
+"Unable to change PIN.\n"
+"Possibly incorrect PIN."
+msgstr ""
+
+msgctxt "sim_change_pin"
+msgid "SIM PIN"
+msgstr ""
+
+msgctxt "sim_change_succeeded"
+msgid "SIM PIN changed successfully"
+msgstr ""
+
+msgctxt "sim_disable_sim_lock"
+msgid "Unlock SIM card"
+msgstr ""
+
+msgctxt "sim_enable_sim_lock"
+msgid "Lock SIM card"
+msgstr ""
+
+msgctxt "sim_enter_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sim_enter_new"
+msgid "New SIM PIN"
+msgstr ""
+
+msgctxt "sim_enter_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sim_enter_old"
+msgid "Old SIM PIN"
+msgstr ""
+
+msgctxt "sim_enter_pin"
+msgid "SIM PIN"
+msgstr ""
+
+msgctxt "sim_lock_failed"
+msgid ""
+"Unable to change SIM card lock state.\n"
+"Possibly incorrect PIN."
+msgstr ""
+
+msgctxt "sim_lock_off"
+msgid "Require PIN to use phone"
+msgstr ""
+
+msgctxt "sim_lock_on"
+msgid "Require PIN to use phone"
+msgstr ""
+
+msgctxt "sim_lock_settings"
+msgid "SIM card lock Settings"
+msgstr ""
+
+msgctxt "sim_lock_settings_category"
+msgid "Set up SIM card lock"
+msgstr ""
+
+msgctxt "sim_lock_settings_title"
+msgid "SIM card lock"
+msgstr ""
+
+msgctxt "sim_pins_dont_match"
+msgid "PINs don't match!"
+msgstr ""
+
+msgctxt "sim_pin_change"
+msgid "Change SIM PIN"
+msgstr ""
+
+msgctxt "sim_pin_toggle"
+msgid "Lock SIM card"
+msgstr ""
+
+msgctxt "sim_reenter_new"
+msgid "Re-type new PIN"
+msgstr ""
+
+msgctxt "skip_button_label"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "small_font"
+msgid "Small"
+msgstr ""
+
+msgctxt "sms"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "sort_order_alpha"
+msgid "Sort"
+msgstr ""
+
+msgctxt "sort_order_size"
+msgid "Sort by size"
+msgstr ""
+
+msgctxt "sound_alarms_title"
+msgid "Alarms"
+msgstr ""
+
+msgctxt "sound_category_calls_title"
+msgid "Incoming calls"
+msgstr ""
+
+msgctxt "sound_category_feedback_title"
+msgid "Feedback"
+msgstr ""
+
+msgctxt "sound_category_notification_title"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "sound_category_sound_title"
+msgid "General"
+msgstr ""
+
+msgctxt "sound_effects_enable_summary_off"
+msgid "Play sound when making screen selection"
+msgstr ""
+
+msgctxt "sound_effects_enable_summary_on"
+msgid "Play sound when making screen selection"
+msgstr ""
+
+msgctxt "sound_effects_enable_title"
+msgid "Audible selection"
+msgstr ""
+
+msgctxt "sound_notifications_title"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "sound_rings_title"
+msgid "Ringtones"
+msgstr ""
+
+msgctxt "sound_settings"
+msgid "Sound Settings"
+msgstr ""
+
+msgctxt "sound_settings_title"
+msgid "Sound Settings"
+msgstr ""
+
+msgctxt "sound_to_speaker_title"
+msgid "Always play through speaker"
+msgstr ""
+
+msgctxt "ssid_label"
+msgid "SSID:"
+msgstr ""
+
+msgctxt "status_awake_time"
+msgid "Awake time"
+msgstr ""
+
+msgctxt "status_bt_address"
+msgid "Bluetooth address"
+msgstr ""
+
+msgctxt "status_data_state"
+msgid "Mobile network state"
+msgstr ""
+
+msgctxt "status_imei"
+msgid "IMEI"
+msgstr ""
+
+msgctxt "status_imei_sv"
+msgid "IMEI SV"
+msgstr ""
+
+msgctxt "status_meid_number"
+msgid "MEID"
+msgstr ""
+
+msgctxt "status_min_number"
+msgid "MIN"
+msgstr ""
+
+msgctxt "status_network_type"
+msgid "Mobile network type"
+msgstr ""
+
+msgctxt "status_number"
+msgid "My phone number"
+msgstr ""
+
+msgctxt "status_operator"
+msgid "Network"
+msgstr ""
+
+msgctxt "status_prl_version"
+msgid "PRL Version"
+msgstr ""
+
+msgctxt "status_roaming"
+msgid "Roaming"
+msgstr ""
+
+msgctxt "status_service_state"
+msgid "Service state"
+msgstr ""
+
+msgctxt "status_signal_strength"
+msgid "Signal strength"
+msgstr ""
+
+msgctxt "status_unavailable"
+msgid "Unavailable"
+msgstr ""
+
+msgctxt "status_up_time"
+msgid "Up time"
+msgstr ""
+
+msgctxt "status_wifi_mac_address"
+msgid "Wi-Fi MAC address"
+msgstr ""
+
+msgctxt "storageuse_settings_summary"
+msgid "View storage used by applications"
+msgstr ""
+
+msgctxt "storageuse_settings_title"
+msgid "Storage use"
+msgstr ""
+
+msgctxt "storage_label"
+msgid "Storage"
+msgstr ""
+
+msgctxt "storage_settings"
+msgid "SD card"
+msgstr ""
+
+msgctxt "storage_settings_summary"
+msgid "Unmount SD card, view available storage"
+msgstr ""
+
+msgctxt "storage_settings_title"
+msgid "SD card Settings"
+msgstr ""
+
+msgctxt "summary_off_haptic_feedback_all"
+msgid "Do not use haptic feedback when making screen selections"
+msgstr ""
+
+msgctxt "summary_off_haptic_feedback_up"
+msgid ""
+"Do not use haptic feedback on key release for softkeys and certain UI "
+"interactions"
+msgstr ""
+
+msgctxt "summary_on_haptic_feedback_all"
+msgid "Use haptic feedback when making screen selections"
+msgstr ""
+
+msgctxt "summary_on_haptic_feedback_up"
+msgid ""
+"Use haptic feedback on key release for softkeys and certain UI "
+"interactions"
+msgstr ""
+
+msgctxt "sum_carrier_select"
+msgid "Select a network operator"
+msgstr ""
+
+msgctxt "supplicant_state_label"
+msgid "Supplicant State :"
+msgstr ""
+
+msgctxt "sync_settings"
+msgid "Accounts & Sync"
+msgstr ""
+
+msgctxt "sync_settings_summary"
+msgid "Add or remove accounts and change account settings"
+msgstr ""
+
+msgctxt "sync_settings_title"
+msgid "Accounts & Sync Settings"
+msgstr ""
+
+msgctxt "system_hardware_category"
+msgid "System & Hardware"
+msgstr ""
+
+msgctxt "system_package"
+msgid "System updates cannot be installed on external media."
+msgstr ""
+
+msgctxt "system_settings_tab"
+msgid "System"
+msgstr ""
+
+msgctxt "system_tutorial_list_item_summary"
+msgid "Learn how to use your phone"
+msgstr ""
+
+msgctxt "system_tutorial_list_item_title"
+msgid "System tutorial"
+msgstr ""
+
+msgctxt "system_update_settings_list_item_title"
+msgid "System updates"
+msgstr ""
+
+msgctxt "system_update_settings_title"
+msgid "System Update"
+msgstr ""
+
+msgctxt "terms_title"
+msgid "Terms & Conditions"
+msgstr ""
+
+msgctxt "testing"
+msgid "Testing"
+msgstr ""
+
+msgctxt "testing_battery_history"
+msgid "Battery history"
+msgstr ""
+
+msgctxt "testing_battery_info"
+msgid "Battery information"
+msgstr ""
+
+msgctxt "testing_phone_info"
+msgid "Phone information"
+msgstr ""
+
+msgctxt "testing_sim_toolkit"
+msgid "SIM toolkit"
+msgstr ""
+
+msgctxt "testing_usage_stats"
+msgid "Usage statistics"
+msgstr ""
+
+msgctxt "testing_wifi_info"
+msgid "Wifi information"
+msgstr ""
+
+msgctxt "tethering_help_button_text"
+msgid "Help"
+msgstr ""
+
+msgctxt "tether_settings_summary_both"
+msgid ""
+"Share your phone's mobile data connection via USB or as a portable Wi-Fi "
+"hotspot"
+msgstr ""
+
+msgctxt "tether_settings_summary_usb"
+msgid "Share your phone's mobile data connection via USB"
+msgstr ""
+
+msgctxt "tether_settings_summary_wifi"
+msgid "Share your phone's mobile connection as a portable Wi-Fi hotspot"
+msgstr ""
+
+msgctxt "tether_settings_title_both"
+msgid "Tethering & Portable Hotspot"
+msgstr ""
+
+msgctxt "tether_settings_title_usb"
+msgid "Tethering"
+msgstr ""
+
+msgctxt "tether_settings_title_wifi"
+msgid "Portable hotspot"
+msgstr ""
+
+msgctxt "text_category"
+msgid "Text Settings"
+msgstr ""
+
+msgctxt "title_haptic_down_decider"
+msgid "Set Down Pattern"
+msgstr ""
+
+msgctxt "title_haptic_feedback_all"
+msgid "Haptic screen items"
+msgstr ""
+
+msgctxt "title_haptic_feedback_up"
+msgid "Haptic feedback up"
+msgstr ""
+
+msgctxt "title_haptic_long_decider"
+msgid "Set Long-Press Pattern"
+msgstr ""
+
+msgctxt "title_haptic_menu"
+msgid "Adjust Haptic"
+msgstr ""
+
+msgctxt "title_haptic_tap_decider"
+msgid "Set Keypad Tap Pattern"
+msgstr ""
+
+msgctxt "title_haptic_up_decider"
+msgid "Set Up Pattern"
+msgstr ""
+
+msgctxt "toggle_accessibility_title"
+msgid "Accessibility"
+msgstr ""
+
+msgctxt "total_size_label"
+msgid "Total"
+msgstr ""
+
+msgctxt "trackball_settings"
+msgid "Trackball Settings"
+msgstr ""
+
+msgctxt "trackball_wake_title"
+msgid "Trackball wake"
+msgstr ""
+
+msgctxt "traffic_chart"
+msgid "Traffic usage history"
+msgstr ""
+
+msgctxt "tts_data_installed_summary"
+msgid "Voices required for speech synthesis already properly installed"
+msgstr ""
+
+msgctxt "tts_default_lang_summary"
+msgid "Sets the language-specific voice for the spoken text"
+msgstr ""
+
+msgctxt "tts_default_lang_title"
+msgid "Language"
+msgstr ""
+
+msgctxt "tts_default_pitch_summary"
+msgid "Affects the tone of the spoken text"
+msgstr ""
+
+msgctxt "tts_default_pitch_title"
+msgid "Pitch"
+msgstr ""
+
+msgctxt "tts_default_rate_summary"
+msgid "Speed at which the text is spoken"
+msgstr ""
+
+msgctxt "tts_default_rate_title"
+msgid "Speech rate"
+msgstr ""
+
+msgctxt "tts_default_settings_section"
+msgid "Default Settings"
+msgstr ""
+
+msgctxt "tts_default_synth_summary"
+msgid "Sets the speech synthesis engine to be used for spoken text"
+msgstr ""
+
+msgctxt "tts_default_synth_title"
+msgid "Default Engine"
+msgstr ""
+
+msgctxt "tts_demo"
+msgid "This is an example of speech synthesis."
+msgstr ""
+
+msgctxt "tts_engines_section"
+msgid "Engines"
+msgstr ""
+
+msgctxt "tts_engine_error"
+msgid "The engine you selected is unable to run"
+msgstr ""
+
+msgctxt "tts_engine_error_config"
+msgid "Configure"
+msgstr ""
+
+msgctxt "tts_engine_error_reselect"
+msgid "Select another engine"
+msgstr ""
+
+#, python-format
+msgctxt "tts_engine_name_is_disabled_summary"
+msgid "%s is Disabled"
+msgstr ""
+
+#, python-format
+msgctxt "tts_engine_name_is_enabled_summary"
+msgid "%s is Enabled"
+msgstr ""
+
+#, python-format
+msgctxt "tts_engine_name_settings"
+msgid "%s Settings"
+msgstr ""
+
+#, python-format
+msgctxt "tts_engine_security_warning"
+msgid ""
+"This speech synthesis engine may be able to collect all the text that "
+"will be spoken, including personal data like passwords and credit card "
+"numbers. It comes from the %s engine. Enable the use of this speech "
+"synthesis engine?"
+msgstr ""
+
+msgctxt "tts_install_data_summary"
+msgid "Install the voice data required for speech synthesis"
+msgstr ""
+
+msgctxt "tts_install_data_title"
+msgid "Install voice data"
+msgstr ""
+
+msgctxt "tts_play_example_summary"
+msgid "Play a short demonstration of speech synthesis"
+msgstr ""
+
+msgctxt "tts_play_example_title"
+msgid "Listen to an example"
+msgstr ""
+
+msgctxt "tts_settings"
+msgid "Text-to-speech Settings"
+msgstr ""
+
+msgctxt "tts_settings_changed_demo"
+msgid "Your settings have changed. This is an example of how they sound"
+msgstr ""
+
+msgctxt "tts_settings_title"
+msgid "Text-to-speech Settings"
+msgstr ""
+
+msgctxt "turn_off_radio"
+msgid "Turn off radio"
+msgstr ""
+
+msgctxt "turn_on_radio"
+msgid "Turn on radio"
+msgstr ""
+
+msgctxt "uninstall_program_title"
+msgid "Uninstall Application"
+msgstr ""
+
+msgctxt "uninstall_text"
+msgid "Uninstall"
+msgstr ""
+
+msgctxt "unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "unlock_change_lock_password_title"
+msgid "Change unlock password"
+msgstr ""
+
+msgctxt "unlock_change_lock_pattern_title"
+msgid "Change unlock pattern"
+msgstr ""
+
+msgctxt "unlock_change_lock_pin_title"
+msgid "Change unlock PIN"
+msgstr ""
+
+msgctxt "unlock_disable_lock_password_summary"
+msgid "Remove unlock password"
+msgstr ""
+
+msgctxt "unlock_disable_lock_pattern_summary"
+msgid "Remove unlock pattern"
+msgstr ""
+
+msgctxt "unlock_disable_lock_pin_summary"
+msgid "Remove unlock PIN"
+msgstr ""
+
+msgctxt "unlock_disable_lock_title"
+msgid "Turn off screen lock"
+msgstr ""
+
+msgctxt "unlock_set_unlock_disabled_summary"
+msgid "Disabled by remote phone administrator"
+msgstr ""
+
+msgctxt "unlock_set_unlock_none_summary"
+msgid "Disable personal password security"
+msgstr ""
+
+msgctxt "unlock_set_unlock_none_title"
+msgid "None"
+msgstr ""
+
+msgctxt "unlock_set_unlock_password_summary"
+msgid "Enter a password to unlock screen"
+msgstr ""
+
+msgctxt "unlock_set_unlock_password_title"
+msgid "Password"
+msgstr ""
+
+msgctxt "unlock_set_unlock_pattern_summary"
+msgid "Draw pattern to unlock screen"
+msgstr ""
+
+msgctxt "unlock_set_unlock_pattern_title"
+msgid "Pattern"
+msgstr ""
+
+msgctxt "unlock_set_unlock_pin_summary"
+msgid "Enter a numeric PIN to unlock screen"
+msgstr ""
+
+msgctxt "unlock_set_unlock_pin_title"
+msgid "PIN"
+msgstr ""
+
+msgctxt "unmount_inform_text"
+msgid "SD card will be unmounted. Check the notification area for status."
+msgstr ""
+
+msgctxt "untitled_apn"
+msgid "Untitled APN"
+msgstr ""
+
+msgctxt "upload_debug_log_summary"
+msgid ""
+"Upload debug log to help developing of a more stable and easy to use MIUI"
+" ROM. Thank you!"
+msgstr ""
+
+msgctxt "upload_debug_log_title"
+msgid "Upload debug log"
+msgstr ""
+
+#, python-format
+msgctxt "usage_name_percent"
+msgid "%1$s - \\u0020%2$s%%"
+msgstr ""
+
+msgctxt "usage_stats_label"
+msgid "Usage statistics"
+msgstr ""
+
+msgctxt "usage_time_label"
+msgid "Usage time"
+msgstr ""
+
+msgctxt "usage_type_audio"
+msgid "Audio"
+msgstr ""
+
+msgctxt "usage_type_cpu"
+msgid "CPU total"
+msgstr ""
+
+msgctxt "usage_type_cpu_foreground"
+msgid "CPU foreground"
+msgstr ""
+
+msgctxt "usage_type_data_recv"
+msgid "Data received"
+msgstr ""
+
+msgctxt "usage_type_data_send"
+msgid "Data sent"
+msgstr ""
+
+msgctxt "usage_type_gps"
+msgid "GPS"
+msgstr ""
+
+msgctxt "usage_type_no_coverage"
+msgid "Time without a signal"
+msgstr ""
+
+msgctxt "usage_type_on_time"
+msgid "Time on"
+msgstr ""
+
+msgctxt "usage_type_phone"
+msgid "Phone"
+msgstr ""
+
+msgctxt "usage_type_power"
+msgid "Battery usage"
+msgstr ""
+
+msgctxt "usage_type_video"
+msgid "Video"
+msgstr ""
+
+msgctxt "usb_mode_charge_only"
+msgid "Charge only"
+msgstr ""
+
+msgctxt "usb_mode_mount_storage"
+msgid "Mount SD card"
+msgstr ""
+
+msgctxt "usb_tethering_active_subtext"
+msgid "Tethered"
+msgstr ""
+
+msgctxt "usb_tethering_available_subtext"
+msgid "USB connected, check to tether"
+msgstr ""
+
+msgctxt "usb_tethering_button_text"
+msgid "USB tethering"
+msgstr ""
+
+msgctxt "usb_tethering_errored_subtext"
+msgid "USB tethering error"
+msgstr ""
+
+msgctxt "usb_tethering_storage_active_subtext"
+msgid "Can't tether when USB storage in use"
+msgstr ""
+
+msgctxt "usb_tethering_unavailable_subtext"
+msgid "USB not connected"
+msgstr ""
+
+msgctxt "usb_title"
+msgid "USB"
+msgstr ""
+
+msgctxt "user_dict_settings_add_dialog_title"
+msgid "Add to dictionary"
+msgstr ""
+
+msgctxt "user_dict_settings_add_menu_title"
+msgid "Add"
+msgstr ""
+
+msgctxt "user_dict_settings_context_menu_delete_title"
+msgid "Delete"
+msgstr ""
+
+msgctxt "user_dict_settings_context_menu_edit_title"
+msgid "Edit"
+msgstr ""
+
+msgctxt "user_dict_settings_edit_dialog_title"
+msgid "Edit word"
+msgstr ""
+
+msgctxt "user_dict_settings_empty_text"
+msgid ""
+"You do not have any words in the user dictionary. You can add a word "
+"through the menu."
+msgstr ""
+
+msgctxt "user_dict_settings_title"
+msgid "User dictionary"
+msgstr ""
+
+msgctxt "user_dict_settings_titlebar"
+msgid "User dictionary"
+msgstr ""
+
+msgctxt "use_default_tts_settings_summary"
+msgid "Default settings below override application settings"
+msgstr ""
+
+msgctxt "use_default_tts_settings_title"
+msgid "Always use my settings"
+msgstr ""
+
+msgctxt "vcard_settings_title"
+msgid "Personal vCard"
+msgstr ""
+
+msgctxt "version_text"
+msgid "Version %1$s"
+msgstr ""
+
+msgctxt "vibrate_in_silent_summary"
+msgid "Allow vibration feedback in silent mode"
+msgstr ""
+
+msgctxt "vibrate_in_silent_title"
+msgid "Vibrate when silent"
+msgstr ""
+
+msgctxt "vibrate_summary"
+msgid "Vibration feedback for calls and notifications"
+msgstr ""
+
+msgctxt "vibrate_title"
+msgid "Vibrate"
+msgstr ""
+
+msgctxt "view_debug_show_fps_title"
+msgid "Show FPS"
+msgstr ""
+
+msgctxt "voice_input_category"
+msgid "Voice Input"
+msgstr ""
+
+msgctxt "voice_input_output_settings"
+msgid "Voice Input & Output"
+msgstr ""
+
+msgctxt "voice_input_output_settings_title"
+msgid "Voice Input & Output Settings"
+msgstr ""
+
+msgctxt "voice_output_category"
+msgid "Voice output"
+msgstr ""
+
+msgctxt "voice_search_settings_title"
+msgid "Voice Search Settings"
+msgstr ""
+
+msgctxt "voice_volume"
+msgid "Call volume"
+msgstr ""
+
+msgctxt "vpns"
+msgid "VPNs"
+msgstr ""
+
+msgctxt "vpn_add_new_vpn"
+msgid "Add VPN"
+msgstr ""
+
+msgctxt "vpn_auth_error_dialog_msg"
+msgid ""
+"The username or password you entered is incorrect. Do you want to try "
+"again?"
+msgstr ""
+
+msgctxt "vpn_a_ca_certificate"
+msgid "a CA certificate"
+msgstr ""
+
+msgctxt "vpn_a_ipsec_presharedkey"
+msgid "an IPSec pre-shared key"
+msgstr ""
+
+msgctxt "vpn_a_l2tp_secret"
+msgid "an L2TP secret"
+msgstr ""
+
+msgctxt "vpn_a_name"
+msgid "a VPN name"
+msgstr ""
+
+msgctxt "vpn_a_password"
+msgid "a password"
+msgstr ""
+
+msgctxt "vpn_a_username"
+msgid "a username"
+msgstr ""
+
+msgctxt "vpn_a_user_certificate"
+msgid "a user certificate"
+msgstr ""
+
+msgctxt "vpn_a_vpn_server"
+msgid "a VPN server"
+msgstr ""
+
+msgctxt "vpn_back_button"
+msgid "Back"
+msgstr ""
+
+msgctxt "vpn_ca_certificate"
+msgid "Certificate authority (CA) certificate"
+msgstr ""
+
+msgctxt "vpn_ca_certificate_title"
+msgid "Set CA certificate"
+msgstr ""
+
+msgctxt "vpn_challenge_error_dialog_msg"
+msgid "Challenge error. Do you want to check your secret setting?"
+msgstr ""
+
+msgctxt "vpn_confirm_add_profile_cancellation"
+msgid "Are you sure you don't want to create this profile?"
+msgstr ""
+
+msgctxt "vpn_confirm_edit_profile_cancellation"
+msgid "Are you sure you want to discard the changes made to this profile?"
+msgstr ""
+
+msgctxt "vpn_confirm_profile_deletion"
+msgid "Are you sure you want to delete this VPN?"
+msgstr ""
+
+msgctxt "vpn_confirm_reconnect"
+msgid "Unable to connect to the network. Do you want to try again?"
+msgstr ""
+
+msgctxt "vpn_connected"
+msgid "Connected"
+msgstr ""
+
+msgctxt "vpn_connecting"
+msgid "Connecting..."
+msgstr ""
+
+msgctxt "vpn_connect_button"
+msgid "Connect"
+msgstr ""
+
+msgctxt "vpn_connect_hint"
+msgid "Connect to network"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_connect_to"
+msgid "Connect to %s"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_disable_field"
+msgid "Disable %s"
+msgstr ""
+
+msgctxt "vpn_disconnecting"
+msgid "Disconnecting..."
+msgstr ""
+
+msgctxt "vpn_dns_search_list"
+msgid "DNS search domains"
+msgstr ""
+
+msgctxt "vpn_dns_search_list_title"
+msgid "DNS search domains"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_edit_title_add"
+msgid "Add %s VPN"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_edit_title_edit"
+msgid "%s details"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_enable_field"
+msgid "Enable %s"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_error_duplicate_name"
+msgid "The VPN name '%s' already exists. Find another name."
+msgstr ""
+
+#, python-format
+msgctxt "vpn_error_miss_entering"
+msgid "You must enter %s."
+msgstr ""
+
+#, python-format
+msgctxt "vpn_error_miss_selecting"
+msgid "You must select %s."
+msgstr ""
+
+#, python-format
+msgctxt "vpn_field_is_set"
+msgid "%s is set"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_field_not_set"
+msgid "%s not set"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_field_not_set_optional"
+msgid "%s not set (optional)"
+msgstr ""
+
+msgctxt "vpn_ipsec_presharedkey"
+msgid "IPSec pre-shared key"
+msgstr ""
+
+msgctxt "vpn_ipsec_presharedkey_title"
+msgid "Set IPSec pre-shared key"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_is_disabled"
+msgid "%s is disabled"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_is_enabled"
+msgid "%s is enabled"
+msgstr ""
+
+msgctxt "vpn_l2tp_secret"
+msgid "L2TP secret"
+msgstr ""
+
+msgctxt "vpn_l2tp_secret_string_title"
+msgid "Set L2TP secret"
+msgstr ""
+
+msgctxt "vpn_menu_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "vpn_menu_connect"
+msgid "Connect to network"
+msgstr ""
+
+msgctxt "vpn_menu_delete"
+msgid "Delete network"
+msgstr ""
+
+msgctxt "vpn_menu_disconnect"
+msgid "Disconnect from network"
+msgstr ""
+
+msgctxt "vpn_menu_done"
+msgid "Save"
+msgstr ""
+
+msgctxt "vpn_menu_edit"
+msgid "Edit network"
+msgstr ""
+
+msgctxt "vpn_menu_revert"
+msgid "Revert"
+msgstr ""
+
+msgctxt "vpn_mistake_button"
+msgid "No"
+msgstr ""
+
+msgctxt "vpn_name"
+msgid "VPN name"
+msgstr ""
+
+msgctxt "vpn_no_button"
+msgid "No"
+msgstr ""
+
+msgctxt "vpn_openvpn_advanced_titlebar"
+msgid "Advanced Openvpn Settings"
+msgstr ""
+
+msgctxt "vpn_openvpn_comp_lzo"
+msgid "LZO compression"
+msgstr ""
+
+msgctxt "vpn_openvpn_comp_lzo_summary"
+msgid "Force LZO compression to be set to on"
+msgstr ""
+
+msgctxt "vpn_openvpn_device"
+msgid "Device to use"
+msgstr ""
+
+msgctxt "vpn_openvpn_port"
+msgid "Server port"
+msgstr ""
+
+msgctxt "vpn_openvpn_protocol"
+msgid "Protocol to use"
+msgstr ""
+
+msgctxt "vpn_openvpn_redirect_gateway_summary"
+msgid "Force all traffic to berouted thru the VPN tunnel"
+msgstr ""
+
+msgctxt "vpn_openvpn_redirect_gateway_title"
+msgid "Redirect gateway"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_addr"
+msgid "Remote Sets Addresses"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_addr_summary"
+msgid "Uncheck to set tunnel addresses manually"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_cipher"
+msgid "Cipher algorithm"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_cipher_message"
+msgid "Leave empty to use default cipher"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_extra"
+msgid "Extra arguments"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_extra_message"
+msgid "Enter the extra command line arguments"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_keysize"
+msgid "Size of cipher key"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_keysize_message"
+msgid "Leave empty to use cipher-specific default"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_local_addr"
+msgid "Local IP Address"
+msgstr ""
+
+msgctxt "vpn_openvpn_set_remote_addr"
+msgid "Remote IP Address"
+msgstr ""
+
+msgctxt "vpn_openvpn_userauth"
+msgid "User authentication"
+msgstr ""
+
+msgctxt "vpn_openvpn_userauth_summary"
+msgid "Set if additional username/password authentication needs to be used"
+msgstr ""
+
+msgctxt "vpn_password_colon"
+msgid "Password:"
+msgstr ""
+
+msgctxt "vpn_ppp_negotiation_failed_dialog_msg"
+msgid ""
+"Server negotiation failed. The server may not agree with your encryption "
+"option. Do you want to check your encryption setting?"
+msgstr ""
+
+msgctxt "vpn_pptp_encryption"
+msgid "PPTP encryption"
+msgstr ""
+
+msgctxt "vpn_pptp_encryption_title"
+msgid "encryption"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_profile_added"
+msgid "'%s' is added"
+msgstr ""
+
+#, python-format
+msgctxt "vpn_profile_replaced"
+msgid "Changes are made to '%s'"
+msgstr ""
+
+msgctxt "vpn_reconnect_from_lost"
+msgid "Connection lost. Do you want to connect again?"
+msgstr ""
+
+msgctxt "vpn_remote_hung_up_error_dialog_msg"
+msgid ""
+"Server hung up. The username or password you entered could be incorrect. "
+"Do you want to try again?"
+msgstr ""
+
+msgctxt "vpn_remote_ppp_hung_up_error_dialog_msg"
+msgid ""
+"Server hung up. It is possible that you are behind a firewall that "
+"prevents you from connecting to the server. Do you want to try again?"
+msgstr ""
+
+msgctxt "vpn_save_username"
+msgid "Remember username"
+msgstr ""
+
+msgctxt "vpn_secret_not_set"
+msgid "(not set)"
+msgstr ""
+
+msgctxt "vpn_secret_not_set_dialog_msg"
+msgid ""
+"One or more secrets are missing in this VPN configuration. Do you want to"
+" check your secret setting?"
+msgstr ""
+
+msgctxt "vpn_secret_unchanged"
+msgid "(unchanged)"
+msgstr ""
+
+msgctxt "vpn_settings_activity_title"
+msgid "VPN Settings"
+msgstr ""
+
+msgctxt "vpn_settings_summary"
+msgid "Set up & manage Virtual Private Networks (VPNs)"
+msgstr ""
+
+msgctxt "vpn_settings_title"
+msgid "VPN Settings"
+msgstr ""
+
+msgctxt "vpn_type_title"
+msgid "Add VPN"
+msgstr ""
+
+msgctxt "vpn_unknown_server_dialog_msg"
+msgid ""
+"Server name cannot be resolved. Do you want to check your server name "
+"setting?"
+msgstr ""
+
+msgctxt "vpn_username_colon"
+msgid "Username:"
+msgstr ""
+
+msgctxt "vpn_user_certificate"
+msgid "User certificate"
+msgstr ""
+
+msgctxt "vpn_user_certificate_title"
+msgid "Set user certificate"
+msgstr ""
+
+msgctxt "vpn_vpn_server"
+msgid "VPN server"
+msgstr ""
+
+msgctxt "vpn_vpn_server_dialog_title"
+msgid "VPN server name"
+msgstr ""
+
+msgctxt "vpn_vpn_server_title"
+msgid "Set VPN server"
+msgstr ""
+
+msgctxt "vpn_yes_button"
+msgid "Yes"
+msgstr ""
+
+msgctxt "wallpaper_settings_title"
+msgid "Wallpaper Settings"
+msgstr ""
+
+msgctxt "widget_picker_title"
+msgid "Choose widget"
+msgstr ""
+
+msgctxt "wifi_access_points"
+msgid "Wi-Fi networks"
+msgstr ""
+
+msgctxt "wifi_add_network"
+msgid "Add Wi-Fi network"
+msgstr ""
+
+msgctxt "wifi_advanced_mac_address_title"
+msgid "MAC Address"
+msgstr ""
+
+msgctxt "wifi_advanced_settings"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "wifi_advanced_titlebar"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "wifi_api_test"
+msgid "Wi-Fi API"
+msgstr ""
+
+msgctxt "wifi_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "wifi_config_info"
+msgid "Wifi Config"
+msgstr ""
+
+msgctxt "wifi_connect"
+msgid "Connect"
+msgstr ""
+
+msgctxt "wifi_disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "wifi_dns1"
+msgid "DNS 1"
+msgstr ""
+
+msgctxt "wifi_dns2"
+msgid "DNS 2"
+msgstr ""
+
+msgctxt "wifi_eap_anonymous"
+msgid "Anonymous identity"
+msgstr ""
+
+msgctxt "wifi_eap_ca_cert"
+msgid "CA certificate"
+msgstr ""
+
+msgctxt "wifi_eap_identity"
+msgid "Identity"
+msgstr ""
+
+msgctxt "wifi_eap_method"
+msgid "EAP method"
+msgstr ""
+
+msgctxt "wifi_eap_user_cert"
+msgid "User certificate"
+msgstr ""
+
+msgctxt "wifi_error"
+msgid "Error"
+msgstr ""
+
+msgctxt "wifi_fail_to_scan"
+msgid "Unable to scan for networks"
+msgstr ""
+
+msgctxt "wifi_forget"
+msgid "Forget"
+msgstr ""
+
+msgctxt "wifi_gateway"
+msgid "Gateway"
+msgstr ""
+
+msgctxt "wifi_in_airplane_mode"
+msgid "In airplane mode"
+msgstr ""
+
+msgctxt "wifi_ip_address"
+msgid "IP address"
+msgstr ""
+
+msgctxt "wifi_ip_settings_invalid_ip"
+msgid "Please type a valid IP address."
+msgstr ""
+
+msgctxt "wifi_ip_settings_menu_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "wifi_ip_settings_menu_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "wifi_ip_settings_titlebar"
+msgid "IP Settings"
+msgstr ""
+
+msgctxt "wifi_menu_advanced"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "wifi_menu_connect"
+msgid "Connect to network"
+msgstr ""
+
+msgctxt "wifi_menu_forget"
+msgid "Forget network"
+msgstr ""
+
+msgctxt "wifi_menu_modify"
+msgid "Modify network"
+msgstr ""
+
+msgctxt "wifi_menu_scan"
+msgid "Scan"
+msgstr ""
+
+msgctxt "wifi_netmask"
+msgid "Netmask"
+msgstr ""
+
+msgctxt "wifi_notify_open_networks"
+msgid "Network notification"
+msgstr ""
+
+msgctxt "wifi_notify_open_networks_summary"
+msgid "Notify me when an open network is available"
+msgstr ""
+
+msgctxt "wifi_not_in_range"
+msgid "Not in range"
+msgstr ""
+
+msgctxt "wifi_on_time"
+msgid "Wi-Fi on time"
+msgstr ""
+
+msgctxt "wifi_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "wifi_quick_toggle_summary"
+msgid "Turn on Wi-Fi"
+msgstr ""
+
+msgctxt "wifi_quick_toggle_title"
+msgid "Wi-Fi"
+msgstr ""
+
+msgctxt "wifi_remembered"
+msgid "Remembered"
+msgstr ""
+
+msgctxt "wifi_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "wifi_secured"
+msgid "Secured with %1$s"
+msgstr ""
+
+msgctxt "wifi_secured_with_status"
+msgid "%2$s, secured with %1$s"
+msgstr ""
+
+msgctxt "wifi_security"
+msgid "Security"
+msgstr ""
+
+msgctxt "wifi_settings"
+msgid "Wi-Fi Settings"
+msgstr ""
+
+msgctxt "wifi_settings_category"
+msgid "Wi-Fi Settings"
+msgstr ""
+
+msgctxt "wifi_settings_summary"
+msgid "Set up & manage wireless access points"
+msgstr ""
+
+msgctxt "wifi_settings_title"
+msgid "Wi-Fi Settings"
+msgstr ""
+
+msgctxt "wifi_setting_num_channels_channel_phrase"
+msgid "%1$d channels"
+msgstr ""
+
+msgctxt "wifi_setting_num_channels_error"
+msgid "There was a problem setting the regulatory domain."
+msgstr ""
+
+msgctxt "wifi_setting_num_channels_summary"
+msgid "Set the number of channels to use"
+msgstr ""
+
+msgctxt "wifi_setting_num_channels_title"
+msgid "Regulatory domain"
+msgstr ""
+
+msgctxt "wifi_setting_sleep_policy_error"
+msgid "There was a problem setting the sleep policy."
+msgstr ""
+
+msgctxt "wifi_setting_sleep_policy_summary"
+msgid "Specify when to switch from Wi-Fi to mobile data"
+msgstr ""
+
+msgctxt "wifi_setting_sleep_policy_title"
+msgid "Wi-Fi sleep policy"
+msgstr ""
+
+msgctxt "wifi_show_password"
+msgid "Show password."
+msgstr ""
+
+msgctxt "wifi_signal"
+msgid "Signal strength"
+msgstr ""
+
+msgctxt "wifi_speed"
+msgid "Link speed"
+msgstr ""
+
+msgctxt "wifi_ssid"
+msgid "Network SSID"
+msgstr ""
+
+msgctxt "wifi_starting"
+msgid "Turning on..."
+msgstr ""
+
+msgctxt "wifi_state_disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "wifi_state_disabling"
+msgid "Disabling"
+msgstr ""
+
+msgctxt "wifi_state_enabled"
+msgid "Enabled"
+msgstr ""
+
+msgctxt "wifi_state_enabling"
+msgid "Enabling"
+msgstr ""
+
+msgctxt "wifi_state_label"
+msgid "Wifi State :"
+msgstr ""
+
+msgctxt "wifi_state_unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "wifi_status"
+msgid "Status"
+msgstr ""
+
+msgctxt "wifi_status_test"
+msgid "Wifi Status"
+msgstr ""
+
+msgctxt "wifi_stop"
+msgid "Turn off Wi-Fi"
+msgstr ""
+
+msgctxt "wifi_stopping"
+msgid "Turning off..."
+msgstr ""
+
+msgctxt "wifi_tether_checkbox_text"
+msgid "Portable Wi-Fi hotspot"
+msgstr ""
+
+msgctxt "wifi_tether_configure_ap_text"
+msgid "Configure Wi-Fi hotspot"
+msgstr ""
+
+msgctxt "wifi_tether_configure_ssid_default"
+msgid "AndroidHotspot"
+msgstr ""
+
+msgctxt "wifi_tether_configure_subtext"
+msgid "%1$s %2$s portable Wi-Fi hotspot"
+msgstr ""
+
+msgctxt "wifi_tether_enabled_subtext"
+msgid "Portable hotspot %1$s active"
+msgstr ""
+
+msgctxt "wifi_tether_failed_subtext"
+msgid "Portable Wi-Fi hotspot error"
+msgstr ""
+
+msgctxt "wifi_tether_settings_subtext"
+msgid "Set up & manage portable Wi-Fi hotspot"
+msgstr ""
+
+msgctxt "wifi_tether_settings_text"
+msgid "Portable Wi-Fi hotspot Settings"
+msgstr ""
+
+msgctxt "wifi_tether_settings_title"
+msgid "Portable Wi-Fi hotspot Settings"
+msgstr ""
+
+msgctxt "wifi_unchanged"
+msgid "(unchanged)"
+msgstr ""
+
+msgctxt "wifi_unspecified"
+msgid "(unspecified)"
+msgstr ""
+
+msgctxt "wifi_update"
+msgid "Refresh Stats"
+msgstr ""
+
+msgctxt "wifi_use_static_ip"
+msgid "Use static IP"
+msgstr ""
+
+msgctxt "wireless_networks_settings_title"
+msgid "Wireless & Network Settings"
+msgstr ""
+
+msgctxt "yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "zone_list_menu_sort_alphabetically"
+msgid "Sort Alphabetically"
+msgstr ""
+
+msgctxt "zone_list_menu_sort_by_timezone"
+msgid "Sort by Timezone"
+msgstr ""
+

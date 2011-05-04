@@ -1,0 +1,318 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "alert_message_delete_folder"
+msgid "Are you sure you wish to delete the folder and its notes?"
+msgstr ""
+
+msgctxt "alert_message_delete_notes"
+msgid "Are you sure you wish to delete?"
+msgstr ""
+
+msgctxt "alert_title_delete_folder"
+msgid "Delete selected folder(s)"
+msgstr ""
+
+msgctxt "alert_title_delete_note"
+msgid "Delete note"
+msgstr ""
+
+msgctxt "alert_title_delete_notes"
+msgid "Delete selected note(s)"
+msgstr ""
+
+msgctxt "app_name"
+msgid "Notes"
+msgstr ""
+
+msgctxt "app_widget2x2"
+msgid "Notes 2x2"
+msgstr ""
+
+msgctxt "app_widget4x4"
+msgid "Notes 4x4"
+msgstr ""
+
+#, python-format
+msgctxt "btn_delete_with_number"
+msgid "Delete (%d)"
+msgstr ""
+
+msgctxt "button_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "button_clear"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "button_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "button_set"
+msgid "Set"
+msgstr ""
+
+msgctxt "call_record_folder_name"
+msgid "Call record"
+msgstr ""
+
+msgctxt "error_note_empty_for_clock"
+msgid "Sorry, can not set clock on empty note"
+msgstr ""
+
+msgctxt "error_note_not_exist"
+msgid "The note is not exist"
+msgstr ""
+
+msgctxt "error_sdcard_export"
+msgid "Export failed, please check SD card"
+msgstr ""
+
+msgctxt "error_sdcard_unmounted"
+msgid "SD card busy, not available now"
+msgstr ""
+
+msgctxt "error_sync_cancelled"
+msgid "Sync is canceled"
+msgstr ""
+
+msgctxt "error_sync_internal"
+msgid "Internal error occurs"
+msgstr ""
+
+msgctxt "error_sync_network"
+msgid "Sync failed, please check network and account settings"
+msgstr ""
+
+msgctxt "failed_sdcard_export"
+msgid "Export fail"
+msgstr ""
+
+msgctxt "failed_sync"
+msgid "Sync fail"
+msgstr ""
+
+#, python-format
+msgctxt "file_name_txt_format"
+msgid "notes_%s.txt"
+msgstr ""
+
+msgctxt "file_path"
+msgid "/MIUI/notes/"
+msgstr ""
+
+msgctxt "formate_sync_account"
+msgid "Sync is successful with account (%1$s)"
+msgstr ""
+
+msgctxt "format_datetime_mdhm"
+msgid "MMMd kk:mm"
+msgstr ""
+
+msgctxt "format_date_ymd"
+msgid "yyyyMMdd"
+msgstr ""
+
+msgctxt "format_exported_file_location"
+msgid "Exported text file (%1$s) to SD card (%2$s) directory"
+msgstr ""
+
+#, python-format
+msgctxt "format_folder_files_count"
+msgid "(%d)"
+msgstr ""
+
+msgctxt "hint_foler_name"
+msgid "Input name"
+msgstr ""
+
+msgctxt "info_note_enter_desktop"
+msgid "Note added to home"
+msgstr ""
+
+msgctxt "menu_alert"
+msgid "Reminder"
+msgstr ""
+
+msgctxt "menu_alert_me"
+msgid "Remind me"
+msgstr ""
+
+msgctxt "menu_create_folder"
+msgid "New folder"
+msgstr ""
+
+msgctxt "menu_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "menu_export_text"
+msgid "Export text"
+msgstr ""
+
+msgctxt "menu_folder_change_name"
+msgid "Rename folder"
+msgstr ""
+
+msgctxt "menu_folder_delete"
+msgid "Delete folder"
+msgstr ""
+
+msgctxt "menu_folder_view"
+msgid "View folder"
+msgstr ""
+
+msgctxt "menu_font_large"
+msgid "Large"
+msgstr ""
+
+msgctxt "menu_font_normal"
+msgid "Medium"
+msgstr ""
+
+msgctxt "menu_font_size"
+msgid "Font size"
+msgstr ""
+
+msgctxt "menu_font_small"
+msgid "Small"
+msgstr ""
+
+msgctxt "menu_font_super"
+msgid "Super"
+msgstr ""
+
+msgctxt "menu_list_mode"
+msgid "Enter check list"
+msgstr ""
+
+msgctxt "menu_normal_mode"
+msgid "Leave check list"
+msgstr ""
+
+msgctxt "menu_send_to_desktop"
+msgid "Send to home"
+msgstr ""
+
+msgctxt "menu_setting"
+msgid "Settings"
+msgstr ""
+
+msgctxt "menu_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "menu_sync"
+msgid "Sync"
+msgstr ""
+
+msgctxt "notealert_enter"
+msgid "Take a look"
+msgstr ""
+
+msgctxt "notealert_ok"
+msgid "Got it"
+msgstr ""
+
+msgctxt "noteedit_use_alert_time_error"
+msgid "Failed to set time"
+msgstr ""
+
+msgctxt "notelist_menu_new"
+msgid "Add note"
+msgstr ""
+
+msgctxt "notelist_string_info"
+msgid "..."
+msgstr ""
+
+msgctxt "note_alert_expired"
+msgid "Expired"
+msgstr ""
+
+msgctxt "note_link_email"
+msgid "Send E-mail"
+msgstr ""
+
+msgctxt "note_link_other"
+msgid "Open map"
+msgstr ""
+
+msgctxt "note_link_tel"
+msgid "Call"
+msgstr ""
+
+msgctxt "note_link_web"
+msgid "Browse web"
+msgstr ""
+
+msgctxt "preferences_account_key"
+msgid "pref_sync_account_key"
+msgstr ""
+
+msgctxt "preferences_account_title"
+msgid "Sync account setting"
+msgstr ""
+
+msgctxt "preferences_add_account"
+msgid "Add account"
+msgstr ""
+
+msgctxt "preferences_default_account"
+msgid "Default account"
+msgstr ""
+
+msgctxt "preferences_last_sync_time"
+msgid "Last sync time %1$s"
+msgstr ""
+
+msgctxt "preferences_last_sync_time_format"
+msgid "yyyy-MM-dd hh:mm:ss"
+msgstr ""
+
+msgctxt "preferences_title"
+msgid "Settings"
+msgstr ""
+
+msgctxt "success_sdcard_export"
+msgid "Export successful"
+msgstr ""
+
+msgctxt "success_sync"
+msgid "Sync successful"
+msgstr ""
+
+msgctxt "sync_progress_init_list"
+msgid "Getting remote note list..."
+msgstr ""
+
+msgctxt "sync_progress_login"
+msgid "Logging into Google Task..."
+msgstr ""
+
+msgctxt "sync_progress_syncing"
+msgid "Synchronize local notes with Google Task..."
+msgstr ""
+
+msgctxt "widget_havenot_content"
+msgid "No associated note found, click to create associated note."
+msgstr ""
+

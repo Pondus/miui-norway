@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="emailAddressTypes">
@@ -232,3 +233,7 @@
     </string-array>
     <array name="carrier_properties" />
 </resources>
+=======
+<?xml version='1.0' encoding='utf-8'?>
+<resources/>
+>>>>>>> 2f0a01dc662dc44016639980bce0485a2db679dc

@@ -1,0 +1,459 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "absence_of_sdcard"
+msgid "SD card is unmounted!"
+msgstr ""
+
+#, python-format
+msgctxt "already_saved"
+msgid "Photo already saved in %s"
+msgstr ""
+
+msgctxt "animation_set"
+msgid "Animation"
+msgstr ""
+
+msgctxt "apply_pic_for"
+msgid "Set as:"
+msgstr ""
+
+msgctxt "app_name"
+msgid "MIUI Gallery"
+msgstr ""
+
+msgctxt "caixin_content"
+msgid "MMS media"
+msgstr ""
+
+msgctxt "camera_folder_display_name"
+msgid "Camera Photos"
+msgstr ""
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "cancel_hide"
+msgid "Unhide"
+msgstr ""
+
+msgctxt "clear_cache_file"
+msgid "Empty cache files"
+msgstr ""
+
+msgctxt "confirm_delete_file"
+msgid "File will be permanently deleted from the SD card"
+msgstr ""
+
+msgctxt "confirm_delete_folder"
+msgid ""
+"All the files in the selected folder will be permanently deleted from the"
+" SD card"
+msgstr ""
+
+msgctxt "confirm_delete_selected_files"
+msgid "Selected files will be permanently deleted from the SD card"
+msgstr ""
+
+msgctxt "contact_photo"
+msgid "Contact photo"
+msgstr ""
+
+msgctxt "cut"
+msgid "Crop"
+msgstr ""
+
+msgctxt "damaged_file"
+msgid "File is corrupted"
+msgstr ""
+
+msgctxt "delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "deleting_files"
+msgid "Deleting files..."
+msgstr ""
+
+msgctxt "details_hms"
+msgid "%1$d:%2$02d:%3$02d"
+msgstr ""
+
+msgctxt "details_ms"
+msgid "%1$02d:%2$02d"
+msgstr ""
+
+msgctxt "disallowed_set_contact_photo"
+msgid "Set as contact photo"
+msgstr ""
+
+msgctxt "disallowed_turn_left_or_right"
+msgid "Video preview does not allow rotation"
+msgstr ""
+
+msgctxt "email_attachment"
+msgid "E-mail attachment"
+msgstr ""
+
+msgctxt "error"
+msgid "Error"
+msgstr ""
+
+msgctxt "failure_external_storage_not_writable"
+msgid "External storage is not writable!"
+msgstr ""
+
+msgctxt "file"
+msgid "File"
+msgstr ""
+
+msgctxt "file_create_time"
+msgid "Created:"
+msgstr ""
+
+msgctxt "file_path"
+msgid "Path:"
+msgstr ""
+
+msgctxt "file_size"
+msgid "Size:"
+msgstr ""
+
+msgctxt "file_title"
+msgid "Title:"
+msgstr ""
+
+msgctxt "file_width_height"
+msgid "Resolution:"
+msgstr ""
+
+msgctxt "filter_small_image"
+msgid "Filter small image(s)"
+msgstr ""
+
+msgctxt "folder"
+msgid "Folder"
+msgstr ""
+
+msgctxt "folder_animation_set"
+msgid "Set animation in folder page"
+msgstr ""
+
+msgctxt "frontpage_animation_set"
+msgid "Set animation in home page"
+msgstr ""
+
+msgctxt "front_title"
+msgid "Gallery"
+msgstr ""
+
+msgctxt "gadget22_title"
+msgid "Photo Frame (2x2)"
+msgstr ""
+
+msgctxt "gadget24_title"
+msgid "Photo Frame (2x4)"
+msgstr ""
+
+msgctxt "gadget44_title"
+msgid "Photo Frame (4x4)"
+msgstr ""
+
+msgctxt "gallery_save_folder"
+msgid "/MIUI/MIUIGallery"
+msgstr ""
+
+msgctxt "global_setting"
+msgid "Settings"
+msgstr ""
+
+msgctxt "hide_this_folder"
+msgid "Hide folder"
+msgstr ""
+
+msgctxt "image_size_threshold"
+msgid "Image size threshold (KB)"
+msgstr ""
+
+msgctxt "image_size_threshold_dialog_title"
+msgid "Set size threshold (KB)"
+msgstr ""
+
+msgctxt "image_size_threshold_summary"
+msgid "Set the threshold size of images specified as too small for display"
+msgstr ""
+
+msgctxt "info"
+msgid "Info"
+msgstr ""
+
+msgctxt "info_rescan_sdcard_finished"
+msgid "Scan of SD card completed"
+msgstr ""
+
+msgctxt "loading_files"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "loading_thumbnail"
+msgid "Loading thumbnail..."
+msgstr ""
+
+msgctxt "loading_video"
+msgid "Loading video..."
+msgstr ""
+
+msgctxt "lockscreen_set"
+msgid "Lockscreen gallery"
+msgstr ""
+
+msgctxt "media_file_format_support"
+msgid "Media format"
+msgstr ""
+
+msgctxt "miui_capture_screen_folder_display_name"
+msgid "MIUI Screenshots"
+msgstr ""
+
+msgctxt "more"
+msgid "More"
+msgstr ""
+
+msgctxt "movie_view_label"
+msgid "Videos"
+msgstr ""
+
+msgctxt "multiface_crop_help"
+msgid "Tap a face to begin."
+msgstr ""
+
+msgctxt "must_pick_file"
+msgid "Select an image"
+msgstr ""
+
+msgctxt "not_show_hidden"
+msgid "Do not show hidden files"
+msgstr ""
+
+msgctxt "no_files"
+msgid "Folder is empty"
+msgstr ""
+
+msgctxt "ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "open_single_image_failure"
+msgid "Failed to load image"
+msgstr ""
+
+msgctxt "page_preference"
+msgid "Page preferences"
+msgstr ""
+
+msgctxt "pick_camera_app"
+msgid "Complete action using"
+msgstr ""
+
+msgctxt "play_video"
+msgid "Play video"
+msgstr ""
+
+msgctxt "rescan_sdcard"
+msgid "Rescan SD card"
+msgstr ""
+
+#, python-format
+msgctxt "resume_playing_message"
+msgid "Resume playing from %s ?"
+msgstr ""
+
+msgctxt "resume_playing_restart"
+msgid "Replay video"
+msgstr ""
+
+msgctxt "resume_playing_resume"
+msgid "Resume video"
+msgstr ""
+
+msgctxt "resume_playing_title"
+msgid "Resume video"
+msgstr ""
+
+msgctxt "running_face_detection"
+msgid "Please wait..."
+msgstr ""
+
+msgctxt "running_setup_highlight"
+msgid "Processing area to crop, please wait..."
+msgstr ""
+
+msgctxt "save"
+msgid "Save"
+msgstr ""
+
+msgctxt "save_pic_error"
+msgid "Failed to save picture!"
+msgstr ""
+
+msgctxt "save_pic_to_success"
+msgid "Picture successfully saved!"
+msgstr ""
+
+msgctxt "save_to_sdcard"
+msgid "Save to SD card"
+msgstr ""
+
+msgctxt "saving_image"
+msgid "Saving picture..."
+msgstr ""
+
+msgctxt "saving_lockscreen"
+msgid "Setting lockscreen wallpaper, please wait..."
+msgstr ""
+
+msgctxt "saving_wallpaper"
+msgid "Setting wallpaper, please wait..."
+msgstr ""
+
+msgctxt "screen_saver_wallpaper"
+msgid "Lockscreen wallpaper"
+msgstr ""
+
+msgctxt "select_all"
+msgid "Select all"
+msgstr ""
+
+msgctxt "send"
+msgid "Send"
+msgstr ""
+
+msgctxt "send_method"
+msgid "Share"
+msgstr ""
+
+msgctxt "set_contact_photo"
+msgid "Set as contact photo"
+msgstr ""
+
+msgctxt "set_lockscreen"
+msgid "Set as lockscreen wallpaper"
+msgstr ""
+
+msgctxt "set_lockscreen_failure"
+msgid "Failed to set lockscreen wallpaper!"
+msgstr ""
+
+msgctxt "set_lockscreen_success"
+msgid "Successfully set lockscreen wallpaper!"
+msgstr ""
+
+msgctxt "set_wallpaper"
+msgid "Set as desktop wallpaper"
+msgstr ""
+
+msgctxt "set_wallpaper_failure"
+msgid "Failed to set wallpaper!"
+msgstr ""
+
+msgctxt "set_wallpaper_success"
+msgid "Successfully set wallpaper!"
+msgstr ""
+
+msgctxt "show_hidden"
+msgid "Show hidden files"
+msgstr ""
+
+msgctxt "singleview_animation_set"
+msgid "Set animation to full screen image"
+msgstr ""
+
+msgctxt "slideshow_interval"
+msgid "Time interval"
+msgstr ""
+
+msgctxt "slideshow_interval_dialog_title"
+msgid "Time interval must be greater than 0 seconds"
+msgstr ""
+
+msgctxt "slideshow_preference"
+msgid "Slideshow settings"
+msgstr ""
+
+msgctxt "sort_by_create_time"
+msgid "Sort by date"
+msgstr ""
+
+msgctxt "sort_by_file_name"
+msgid "Sort by name"
+msgstr ""
+
+msgctxt "sort_by_file_size"
+msgid "Sort by size"
+msgstr ""
+
+msgctxt "support_gif_animation"
+msgid "Gif animation support"
+msgstr ""
+
+msgctxt "support_gif_animation_summary"
+msgid ""
+"Show animation while viewing gif in full screen, otherwise display only "
+"the first frame"
+msgstr ""
+
+msgctxt "support_reflection"
+msgid "Enable reflection"
+msgstr ""
+
+msgctxt "turn_left"
+msgid "Rotate left"
+msgstr ""
+
+msgctxt "turn_right"
+msgid "Rotate right"
+msgstr ""
+
+msgctxt "video_err"
+msgid "Unable to play video"
+msgstr ""
+
+msgctxt "view_preference"
+msgid "File files (except for videos)"
+msgstr ""
+
+msgctxt "wallpaper"
+msgid "Desktop wallpaper"
+msgstr ""
+
+msgctxt "wallpaper_set"
+msgid "Wallpaper gallery"
+msgstr ""
+
+msgctxt "warn"
+msgid "Warning"
+msgstr ""
+
+msgctxt "warning_rescan_sdcard"
+msgid ""
+"Rescan SD card? Warning: operation may take several minutes to complete! "
+"Are you sure?"
+msgstr ""
+

@@ -1,0 +1,63 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-03 21:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "unrestricted_packages:0"
+msgid "com.android.contacts"
+msgstr ""
+
+msgctxt "unrestricted_packages:1"
+msgid "com.facebook.katana"
+msgstr ""
+
+msgctxt "unrestricted_packages:2"
+msgid "com.android.mms"
+msgstr ""
+
+msgctxt "unrestricted_packages:3"
+msgid "com.google.android.gm"
+msgstr ""
+
+msgctxt "unrestricted_packages:4"
+msgid "com.android.email"
+msgstr ""
+
+msgctxt "unrestricted_packages:5"
+msgid "com.android.phone"
+msgstr ""
+
+msgctxt "unrestricted_packages:6"
+msgid "com.google.android.apps.maps"
+msgstr ""
+
+msgctxt "unrestricted_packages:7"
+msgid "com.android.globalsearch"
+msgstr ""
+
+msgctxt "unrestricted_packages:8"
+msgid "com.android.calendar"
+msgstr ""
+
+msgctxt "unrestricted_packages:9"
+msgid "com.google.android.talk"
+msgstr ""
+
+msgctxt "unrestricted_packages:10"
+msgid "android"
+msgstr ""
+
