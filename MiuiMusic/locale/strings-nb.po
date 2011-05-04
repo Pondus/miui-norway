@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# Norwegian Bokmål translations for PROJECT.
 # Copyright (C) 2011 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
@@ -8,10 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:26+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,12 +22,16 @@ msgctxt "add_songs"
 msgid "Add song(s)"
 msgstr ""
 
+msgctxt "add_to_favorite"
+msgid "Add to Favourites"
+msgstr ""
+
 msgctxt "add_to_playlist"
 msgid "Add to Playlist"
 msgstr ""
 
 msgctxt "albumPickerNotFoundText"
-msgid "Album selector not found"
+msgid "Gallery not found on the device"
 msgstr ""
 
 msgctxt "albumsongseparator"
@@ -38,7 +43,7 @@ msgid "Albums"
 msgstr ""
 
 msgctxt "albums_title"
-msgid "Title"
+msgid "Albums"
 msgstr ""
 
 msgctxt "album_display_settings"
@@ -46,7 +51,7 @@ msgid "Album art settings"
 msgstr ""
 
 msgctxt "album_download"
-msgid "Searching for album art..."
+msgid "Download album art"
 msgstr ""
 
 msgctxt "album_downloading"
@@ -66,7 +71,7 @@ msgid "All media"
 msgstr ""
 
 msgctxt "android_album_settings"
-msgid "Use embedded album art"
+msgid "Embedded album art"
 msgstr ""
 
 msgctxt "android_album_summary"
@@ -115,6 +120,14 @@ msgctxt "confirm_with_count"
 msgid "%d Confirmed count"
 msgstr ""
 
+msgctxt "context_menu_status_local"
+msgid "Local"
+msgstr ""
+
+msgctxt "context_menu_status_online"
+msgid "Online"
+msgstr ""
+
 msgctxt "continue_when_wifi_disconnect"
 msgid "Continue listening to online music via mobile network."
 msgstr ""
@@ -158,6 +171,10 @@ msgctxt "delete_confirm_button_text"
 msgid "OK"
 msgstr ""
 
+msgctxt "delete_from_favorite"
+msgid "Delete Favourite"
+msgstr ""
+
 msgctxt "delete_item"
 msgid "Delete"
 msgstr ""
@@ -169,6 +186,10 @@ msgstr ""
 #, python-format
 msgctxt "delete_song_desc"
 msgid "%s will be permanently deleted from the SD card."
+msgstr ""
+
+msgctxt "delete_song_item"
+msgid "Delete"
 msgstr ""
 
 msgctxt "donot_ask_me_agaion"
@@ -298,6 +319,10 @@ msgctxt "download_retry_task"
 msgid "Re-try download"
 msgstr ""
 
+msgctxt "download_song_item"
+msgid "Download songs"
+msgstr ""
+
 msgctxt "download_start"
 msgid "Start download(s)"
 msgstr ""
@@ -367,11 +392,11 @@ msgid "\\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 msgstr ""
 
 msgctxt "favorite_playlist"
-msgid "Favorites"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "favorite_playlist_item"
-msgid "Favorites"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "feedback"
@@ -417,7 +442,7 @@ msgid "Pop-up window to confirmations"
 msgstr ""
 
 msgctxt "folder"
-msgid "Folder"
+msgid "Folders"
 msgstr ""
 
 msgctxt "folder_renamed_message"
@@ -438,15 +463,15 @@ msgid "Library"
 msgstr ""
 
 msgctxt "id3_edit"
-msgid "Edit ID3 info"
+msgid "Edit ID3 information"
 msgstr ""
 
 msgctxt "id3_edit_failed"
-msgid "Failed to edit ID3 info"
+msgid "Failed to edit ID3 information"
 msgstr ""
 
 msgctxt "id3_modify_confirm"
-msgid "Are you sure you wish to modify ID3 info?"
+msgid "Confirm ID3 changes?"
 msgstr ""
 
 #, python-format
@@ -507,7 +532,7 @@ msgid "Select lyrics"
 msgstr ""
 
 msgctxt "lyricPickerNotFoundText"
-msgid "Lyric picker not installed on device."
+msgid "File Manager not found on the device"
 msgstr ""
 
 msgctxt "lyric_display_settings"
@@ -568,7 +593,7 @@ msgid "MIUI-Downloads"
 msgstr ""
 
 msgctxt "modify_meta"
-msgid "Edit song info"
+msgid "Edit song information"
 msgstr ""
 
 msgctxt "muisic_filter"
@@ -585,13 +610,9 @@ msgstr ""
 
 msgctxt "music_filter_helper"
 msgid ""
-"In order to hide files which are not of mp3 format, a size filter of 800K"
-" has been applied to prevent non-mp3 files from being displayed. The "
-"threshold can be adjusted in Settings / File filter."
-msgstr ""
-
-msgctxt "music_picker"
-msgid "Select Song(s)"
+"In order to hide files which are not music, a size filter of 800K has "
+"been applied to hide these files from being displayed. The threshold can "
+"be adjusted in Settings / File filter."
 msgstr ""
 
 msgctxt "music_picker_title"
@@ -823,7 +844,7 @@ msgid "Repeat: Song"
 msgstr ""
 
 msgctxt "repeat_none"
-msgid "Don't repeat"
+msgid "Repeat: Off"
 msgstr ""
 
 msgctxt "repeat_playlist"
@@ -836,6 +857,10 @@ msgstr ""
 
 msgctxt "ringtone_menu_short"
 msgid "Use song as ringtone"
+msgstr ""
+
+msgctxt "ringtone_picker"
+msgid "Ringtone"
 msgstr ""
 
 #, python-format
@@ -948,6 +973,10 @@ msgctxt "select_reverse"
 msgid "Go back"
 msgstr ""
 
+msgctxt "send_to"
+msgid "Send"
+msgstr ""
+
 msgctxt "service_start_error_button"
 msgid "OK"
 msgstr ""
@@ -961,7 +990,7 @@ msgid "Playback failed"
 msgstr ""
 
 msgctxt "shake_sensitivity_helper"
-msgid "Shake left for higher sensitivity, right for lower."
+msgid "Move left for higher sensitivity, right for lower"
 msgstr ""
 
 msgctxt "shake_sensitivity_settings"
@@ -981,7 +1010,7 @@ msgid "Shake the device to skip to the next track"
 msgstr ""
 
 msgctxt "shuffle"
-msgid "Shuffle"
+msgid "Shuffle: On"
 msgstr ""
 
 msgctxt "shuffle_all"
@@ -989,7 +1018,7 @@ msgid "Shuffle all"
 msgstr ""
 
 msgctxt "shuffle_cancel"
-msgid "Stop shuffle"
+msgid "Shuffle: Off"
 msgstr ""
 
 msgctxt "sleep_mode"
@@ -1049,7 +1078,7 @@ msgid "Submit feedback"
 msgstr ""
 
 msgctxt "sync_now"
-msgid "Synchronizing..."
+msgid "Synchronising..."
 msgstr ""
 
 msgctxt "to_album"
@@ -1077,7 +1106,7 @@ msgid "Song"
 msgstr ""
 
 msgctxt "tracks_name"
-msgid "Song name"
+msgid "Title"
 msgstr ""
 
 msgctxt "tracks_title"
@@ -1216,4 +1245,90 @@ msgstr ""
 msgctxt "zero_count"
 msgid "(0)"
 msgstr ""
+
+#~ msgctxt "albumPickerNotFoundText"
+#~ msgid "Album selector not found"
+#~ msgstr ""
+
+#~ msgctxt "albums_title"
+#~ msgid "Title"
+#~ msgstr ""
+
+#~ msgctxt "album_download"
+#~ msgid "Searching for album art..."
+#~ msgstr ""
+
+#~ msgctxt "android_album_settings"
+#~ msgid "Use embedded album art"
+#~ msgstr ""
+
+#~ msgctxt "favorite_playlist"
+#~ msgid "Favorites"
+#~ msgstr ""
+
+#~ msgctxt "favorite_playlist_item"
+#~ msgid "Favorites"
+#~ msgstr ""
+
+#~ msgctxt "folder"
+#~ msgid "Folder"
+#~ msgstr ""
+
+#~ msgctxt "id3_edit"
+#~ msgid "Edit ID3 info"
+#~ msgstr ""
+
+#~ msgctxt "id3_edit_failed"
+#~ msgid "Failed to edit ID3 info"
+#~ msgstr ""
+
+#~ msgctxt "id3_modify_confirm"
+#~ msgid "Are you sure you wish to modify ID3 info?"
+#~ msgstr ""
+
+#~ msgctxt "lyricPickerNotFoundText"
+#~ msgid "Lyric picker not installed on device."
+#~ msgstr ""
+
+#~ msgctxt "modify_meta"
+#~ msgid "Edit song info"
+#~ msgstr ""
+
+#~ msgctxt "music_filter_helper"
+#~ msgid ""
+#~ "In order to hide files which are"
+#~ " not of mp3 format, a size "
+#~ "filter of 800K has been applied to"
+#~ " prevent non-mp3 files from being "
+#~ "displayed. The threshold can be adjusted"
+#~ " in Settings / File filter."
+#~ msgstr ""
+
+#~ msgctxt "music_picker"
+#~ msgid "Select Song(s)"
+#~ msgstr ""
+
+#~ msgctxt "repeat_none"
+#~ msgid "Don't repeat"
+#~ msgstr ""
+
+#~ msgctxt "shake_sensitivity_helper"
+#~ msgid "Shake left for higher sensitivity, right for lower."
+#~ msgstr ""
+
+#~ msgctxt "shuffle"
+#~ msgid "Shuffle"
+#~ msgstr ""
+
+#~ msgctxt "shuffle_cancel"
+#~ msgid "Stop shuffle"
+#~ msgstr ""
+
+#~ msgctxt "sync_now"
+#~ msgid "Synchronizing..."
+#~ msgstr ""
+
+#~ msgctxt "tracks_name"
+#~ msgid "Song name"
+#~ msgstr ""
 

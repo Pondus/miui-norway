@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:29+0200\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgid "Available memory %1$s"
 msgstr ""
 
 msgctxt "apps_clean_result"
-msgid "%1$s released, current available memory now: %2$s"
+msgid "%1$s released, current available memory is now: %2$s"
 msgstr ""
 
 msgctxt "apps_clean_title"
@@ -122,6 +122,14 @@ msgctxt "status_bar_clear_all_button"
 msgid "Clear"
 msgstr ""
 
+msgctxt "status_bar_date_format"
+msgid "MMM d,"
+msgstr ""
+
+msgctxt "status_bar_date_format_lock"
+msgid "E, MMM d"
+msgstr ""
+
 msgctxt "status_bar_latest_events_title"
 msgid "Notifications"
 msgstr ""
@@ -131,7 +139,15 @@ msgid "No notifications"
 msgstr ""
 
 msgctxt "status_bar_ongoing_events_title"
-msgid "Ongoing"
+msgid "On-going"
+msgstr ""
+
+msgctxt "status_bar_time_format_12"
+msgid "h:mma"
+msgstr ""
+
+msgctxt "status_bar_time_format_24"
+msgid "HH:mm"
 msgstr ""
 
 msgctxt "tab_apps_lable"
@@ -139,7 +155,7 @@ msgid "Apps"
 msgstr ""
 
 msgctxt "tab_notifications_lable"
-msgid "Notices"
+msgid "Notifications"
 msgstr ""
 
 msgctxt "tab_toggles_lable"

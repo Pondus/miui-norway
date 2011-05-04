@@ -1,8 +1,9 @@
+
 msgid ""
 msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 00:15+0200\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
 "PO-Revision-Date: 2011-05-04 00:42+0100\n"
 "Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
 "Language-Team: Team Norway <norway@miuiandroid.com>\n"
@@ -11,7 +12,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
-"X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,91,-1,-1,-1\n"
 
 msgctxt "abbrev_month"
 msgid "%-b"
@@ -62,17 +62,30 @@ msgstr "USB-debugging tilkoblet"
 #, python-format
 msgctxt "addToDictionary"
 msgid "Add \"%s\" to dictionary"
-msgstr "Legg «<{urn:oasis:names:tc:xliff:document:1.2}g id=\"WORD\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>» til i ordlisten"
+msgstr ""
+"Legg «<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"WORD\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>» til i "
+"ordlisten"
 
 #, fuzzy
 msgctxt "aerr_application"
-msgid "The application %1$s (process %2$s) has stopped unexpectedly. Please try again."
-msgstr "Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (prosess <{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) stoppet uventet. Prøv igjen."
+msgid ""
+"The application %1$s (process %2$s) has stopped unexpectedly. Please try "
+"again."
+msgstr ""
+"Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> "
+"(prosess <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) stoppet "
+"uventet. Prøv igjen."
 
 #, fuzzy
 msgctxt "aerr_process"
 msgid "The process %1$s has stopped unexpectedly. Please try again."
-msgstr "Prosessen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> stoppet uventet. Prøv igjen."
+msgstr ""
+"Prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"PROCESS\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> stoppet "
+"uventet. Prøv igjen."
 
 msgctxt "aerr_title"
 msgid "Sorry!"
@@ -104,22 +117,40 @@ msgstr "Android-system"
 #, fuzzy
 msgctxt "anr_activity_application"
 msgid "Activity %1$s (in application %2$s) is not responding."
-msgstr "Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g id=\"ACTIVITY\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"APPLICATION\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer ikke."
+msgstr ""
+"Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"ACTIVITY\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i "
+"applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"APPLICATION\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) "
+"svarer ikke."
 
 #, fuzzy
 msgctxt "anr_activity_process"
 msgid "Activity %1$s (in process %2$s) is not responding."
-msgstr "Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g id=\"ACTIVITY\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i prosessen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer ikke."
+msgstr ""
+"Aktiviteten <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"ACTIVITY\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i "
+"prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer "
+"ikke."
 
 #, fuzzy
 msgctxt "anr_application_process"
 msgid "Application %1$s (in process %2$s) is not responding."
-msgstr "Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i prosessen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer ikke."
+msgstr ""
+"Applikasjonen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (i "
+"prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) svarer "
+"ikke."
 
 #, fuzzy
 msgctxt "anr_process"
 msgid "Process %1$s is not responding."
-msgstr "Prosessen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> svarer ikke."
+msgstr ""
+"Prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"PROCESS\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> svarer "
+"ikke."
 
 #, fuzzy
 msgctxt "anr_title"
@@ -154,7 +185,13 @@ msgstr "B"
 #, fuzzy
 msgctxt "callDetailsDurationFormat"
 msgid "%1$s minutes %2$s seconds"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>: <{urn:oasis:names:tc:xliff:document:1.2}g id=\"DIALING_NUMBER\">{1}</{urn:oasis:names:tc:xliff:document:1.2}g> etter <{urn:oasis:names:tc:xliff:document:1.2}g id=\"TIME_DELAY\">{2}</{urn:oasis:names:tc:xliff:document:1.2}g> sekunder"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>:"
+" <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DIALING_NUMBER\">{1}</{urn:oasis:names:tc:xliff:document:1.2}g> "
+"etter <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TIME_DELAY\">{2}</{urn:oasis:names:tc:xliff:document:1.2}g> sekunder"
 
 #, python-format
 msgctxt "callNoAnswerTimeFormat"
@@ -199,27 +236,46 @@ msgstr "Viderekobling"
 #, fuzzy
 msgctxt "cfTemplateForwarded"
 msgid "{0}: {1}"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>: <{urn:oasis:names:tc:xliff:document:1.2}g id=\"DIALING_NUMBER\">{1}</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>:"
+" <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DIALING_NUMBER\">{1}</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "cfTemplateForwardedTime"
 msgid "{0}: {1} after {2} seconds"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>: <{urn:oasis:names:tc:xliff:document:1.2}g id=\"DIALING_NUMBER\">{1}</{urn:oasis:names:tc:xliff:document:1.2}g> etter <{urn:oasis:names:tc:xliff:document:1.2}g id=\"TIME_DELAY\">{2}</{urn:oasis:names:tc:xliff:document:1.2}g> sekunder"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>:"
+" <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DIALING_NUMBER\">{1}</{urn:oasis:names:tc:xliff:document:1.2}g> "
+"etter <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TIME_DELAY\">{2}</{urn:oasis:names:tc:xliff:document:1.2}g> sekunder"
 
 #, fuzzy
 msgctxt "cfTemplateNotForwarded"
 msgid "{0}: Not forwarded"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>: Ikke viderekoblet"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>:"
+" Ikke viderekoblet"
 
 #, fuzzy
 msgctxt "cfTemplateRegistered"
 msgid "{0}: Not forwarded"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>: Ikke viderekoblet"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>:"
+" Ikke viderekoblet"
 
 #, fuzzy
 msgctxt "cfTemplateRegisteredTime"
 msgid "{0}: Not forwarded"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>: Ikke viderekoblet"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"BEARER_SERVICE_CODE\">{0}</{urn:oasis:names:tc:xliff:document:1.2}g>:"
+" Ikke viderekoblet"
 
 #, fuzzy
 msgctxt "chooseActivity"
@@ -234,7 +290,9 @@ msgstr "Velg bakgrunnsbilde"
 #, fuzzy
 msgctxt "clearDefaultHintMsg"
 msgid "Clear default in Home Settings &gt; Applications &gt; Manage applications."
-msgstr "Fjern standardvalg i Innstillinger &gt; Applikasjoner &gt; Installerte applikasjoner."
+msgstr ""
+"Fjern standardvalg i Innstillinger &gt; Applikasjoner &gt; Installerte "
+"applikasjoner."
 
 #, fuzzy
 msgctxt "ClipMmi"
@@ -305,12 +363,18 @@ msgstr "com.android.systemui/com.android.systemui.statusbar.StatusBarService"
 #, fuzzy
 msgctxt "contact_status_update_attribution"
 msgid "via %1$s"
-msgstr "via <{urn:oasis:names:tc:xliff:document:1.2}g id=\"SOURCE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"via <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"SOURCE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "contact_status_update_attribution_with_date"
 msgid "%1$s via %2$s"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> via <{urn:oasis:names:tc:xliff:document:1.2}g id=\"SOURCE\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> via "
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"SOURCE\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "contentServiceSync"
@@ -325,7 +389,9 @@ msgstr "Synkronisering"
 #, fuzzy, python-format
 msgctxt "contentServiceTooManyDeletesNotificationDesc"
 msgid "Too many %s deletes."
-msgstr "For mange slettinger av <{urn:oasis:names:tc:xliff:document:1.2}g id=\"CONTENT_TYPE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>."
+msgstr ""
+"For mange slettinger av <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"CONTENT_TYPE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>."
 
 #, fuzzy
 msgctxt "copy"
@@ -1095,7 +1161,8 @@ msgid ""
 "using %s"
 msgstr ""
 "Lag kontakt\n"
-"med nummeret <{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+"med nummeret <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "cut"
@@ -1127,7 +1194,11 @@ msgstr "Dato"
 #, fuzzy
 msgctxt "date_time"
 msgid "%1$s, %2$s"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, <{urn:oasis:names:tc:xliff:document:1.2}g id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, "
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "date_time_set"
@@ -1298,12 +1369,18 @@ msgid ""
 "using %s"
 msgstr ""
 "Ring nummeret\n"
-"<{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "dlg_confirm_kill_storage_users_text"
-msgid "If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage."
-msgstr "Hvis du aktiverer USB-lagring, virker ikke lenger enkelte av programmene du bruker, og de kan være utilgjengelige inntil du deaktiverer USB-lagringen."
+msgid ""
+"If you turn on USB storage, some applications you are using will stop and"
+" may be unavailable until you turn off USB storage."
+msgstr ""
+"Hvis du aktiverer USB-lagring, virker ikke lenger enkelte av programmene "
+"du bruker, og de kan være utilgjengelige inntil du deaktiverer USB-"
+"lagringen."
 
 #, fuzzy
 msgctxt "dlg_confirm_kill_storage_users_title"
@@ -1338,12 +1415,20 @@ msgstr "Rediger tekst"
 #, fuzzy
 msgctxt "elapsed_time_short_format_h_mm_ss"
 msgid "%1$d:%2$02d:%3$02d"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"HOURS\">%1$d</{urn:oasis:names:tc:xliff:document:1.2}g>:<{urn:oasis:names:tc:xliff:document:1.2}g id=\"MINUTES\">%2$02d</{urn:oasis:names:tc:xliff:document:1.2}g>:<{urn:oasis:names:tc:xliff:document:1.2}g id=\"SECONDS\">%3$02d</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"HOURS\">%1$d</{urn:oasis:names:tc:xliff:document:1.2}g>:<{urn:oasis:names:tc:xliff:document:1.2}g"
+" "
+"id=\"MINUTES\">%2$02d</{urn:oasis:names:tc:xliff:document:1.2}g>:<{urn:oasis:names:tc:xliff:document:1.2}g"
+" id=\"SECONDS\">%3$02d</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "elapsed_time_short_format_mm_ss"
 msgid "%1$02d:%2$02d"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"MINUTES\">%1$02d</{urn:oasis:names:tc:xliff:document:1.2}g>:<{urn:oasis:names:tc:xliff:document:1.2}g id=\"SECONDS\">%2$02d</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"MINUTES\">%1$02d</{urn:oasis:names:tc:xliff:document:1.2}g>:<{urn:oasis:names:tc:xliff:document:1.2}g"
+" id=\"SECONDS\">%2$02d</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "ellipsis"
@@ -1417,8 +1502,12 @@ msgstr "Format"
 
 #, fuzzy
 msgctxt "extmedia_format_message"
-msgid "Are you sure you want to format the SD card? All data on your card will be lost."
-msgstr "Vil du formatere USB-lagring og slette alle lagrede filer? Handlingen kan ikke angres!"
+msgid ""
+"Are you sure you want to format the SD card? All data on your card will "
+"be lost."
+msgstr ""
+"Vil du formatere USB-lagring og slette alle lagrede filer? Handlingen kan"
+" ikke angres!"
 
 #, fuzzy
 msgctxt "extmedia_format_title"
@@ -1428,7 +1517,9 @@ msgstr "Formaterer USB-lagring"
 #, fuzzy
 msgctxt "ext_media_badremoval_notification_message"
 msgid "Unmount SD card before removing to avoid data loss."
-msgstr "Koble fra USB-lagring før enheten tas ut av maskinen for å unngå tap av data."
+msgstr ""
+"Koble fra USB-lagring før enheten tas ut av maskinen for å unngå tap av "
+"data."
 
 #, fuzzy
 msgctxt "ext_media_badremoval_notification_title"
@@ -1492,8 +1583,12 @@ msgstr "Fabrikktesten feilet"
 
 #, fuzzy
 msgctxt "factorytest_not_system"
-msgid "The FACTORY_TEST action is only supported for packages installed in /system/app."
-msgstr "The FACTORY_TEST action is only supported for packages installed in /system/app."
+msgid ""
+"The FACTORY_TEST action is only supported for packages installed in "
+"/system/app."
+msgstr ""
+"The FACTORY_TEST action is only supported for packages installed in "
+"/system/app."
 
 #, fuzzy
 msgctxt "factorytest_no_action"
@@ -1528,7 +1623,10 @@ msgstr "Tilkoblingsproblem eller ugyldig funksjonskode."
 #, fuzzy
 msgctxt "fileSizeSuffix"
 msgid "%1$s%2$s"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g id=\"UNIT\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g"
+" id=\"UNIT\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "firewall_setting"
@@ -1537,7 +1635,8 @@ msgstr "Svarmodus"
 
 msgctxt "first_back_long_press_message"
 msgid ""
-"Do you want to enable the function of long-pressing the back key to kill the current process and its background services? \n"
+"Do you want to enable the function of long-pressing the back key to kill "
+"the current process and its background services? \n"
 "\n"
 "Enable via Settings &gt; System &gt; Button Settings"
 msgstr ""
@@ -1605,7 +1704,9 @@ msgid "Power off"
 msgstr "Slå av"
 
 msgctxt "global_action_privacy_mode_dialog_message"
-msgid "In Visitor mode, calls and text messages will be hidden and launcher will not be able to enter editing mode."
+msgid ""
+"In Visitor mode, calls and text messages will be hidden and launcher will"
+" not be able to enter editing mode."
 msgstr ""
 
 #, fuzzy
@@ -1619,7 +1720,9 @@ msgid "Visitor mode is ON"
 msgstr "Flymodus er på"
 
 msgctxt "global_action_privacy_mode_on_toast"
-msgid "Visitor mode is turned on. Calls and text messages are hidden and launcher cannot enter editing mode."
+msgid ""
+"Visitor mode is turned on. Calls and text messages are hidden and "
+"launcher cannot enter editing mode."
 msgstr ""
 
 #, fuzzy
@@ -1649,8 +1752,12 @@ msgstr "Vil du tillate dette?"
 
 #, fuzzy
 msgctxt "grant_credentials_permission_message_header"
-msgid "The following one or more applications request permission to access your account, now and in the future."
-msgstr "Ett eller flere av de følgende programmene ber om tillatelse til å få tilgang til kontoen din fra nå av."
+msgid ""
+"The following one or more applications request permission to access your "
+"account, now and in the future."
+msgstr ""
+"Ett eller flere av de følgende programmene ber om tillatelse til å få "
+"tilgang til kontoen din fra nå av."
 
 #, fuzzy
 msgctxt "grant_permissions_header_text"
@@ -1660,7 +1767,9 @@ msgstr "Få tilgang til forespørsler"
 #, fuzzy
 msgctxt "heavy_weight_notification"
 msgid "%1$s running"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"APP\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> kjører"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"APP\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> kjører"
 
 #, fuzzy
 msgctxt "heavy_weight_notification_detail"
@@ -1669,7 +1778,9 @@ msgstr "Velg for å bytte til programmet"
 
 #, fuzzy
 msgctxt "heavy_weight_switcher_text"
-msgid "Another application is already running that must be stopped before you can start a new one."
+msgid ""
+"Another application is already running that must be stopped before you "
+"can start a new one."
 msgstr "Et annet program kjører og må stoppes før du kan starte et nytt program."
 
 #, fuzzy
@@ -1690,12 +1801,18 @@ msgstr "timer"
 #, fuzzy, python-format
 msgctxt "hour_ampm"
 msgid "%-l%P"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"HOUR\">%-l</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g id=\"AMPM\">%P</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"HOUR\">%-l</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g"
+" id=\"AMPM\">%P</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy, python-format
 msgctxt "hour_cap_ampm"
 msgid "%-l%p"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"HOUR\">%-l</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g id=\"AMPM\">%p</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"HOUR\">%-l</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g"
+" id=\"AMPM\">%p</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 msgctxt "hour_minute_24"
 msgid "%H:%M"
@@ -1919,14 +2036,17 @@ msgid ""
 msgstr ""
 "Naviger bort fra denne siden?\n"
 "\n"
-"<{urn:oasis:names:tc:xliff:document:1.2}g id=\"MESSAGE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>\n"
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"MESSAGE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>\n"
 "\n"
 "Velg OK for å fortsette, eller Avbryt for å forbli på denne siden."
 
 #, fuzzy, python-format
 msgctxt "js_dialog_title"
 msgid "The page at '%s' says:"
-msgstr "Siden '<{urn:oasis:names:tc:xliff:document:1.2}g id=\"TITLE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g> sier:"
+msgstr ""
+"Siden '<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TITLE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g> sier:"
 
 #, fuzzy
 msgctxt "js_dialog_title_default"
@@ -1981,12 +2101,18 @@ msgstr "Forrige måned"
 #, fuzzy
 msgctxt "launch_warning_original"
 msgid "%1$s was originally launched."
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"APP_NAME\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> ble opprinnelig startet."
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"APP_NAME\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> ble "
+"opprinnelig startet."
 
 #, fuzzy
 msgctxt "launch_warning_replace"
 msgid "%1$s is now running."
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"APP_NAME\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> kjører nå."
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"APP_NAME\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> kjører "
+"nå."
 
 #, fuzzy
 msgctxt "launch_warning_title"
@@ -1996,7 +2122,10 @@ msgstr "Programmet er omdirigert"
 #, fuzzy, python-format
 msgctxt "lockscreen_battery_short"
 msgid "%d%%"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER\">%d</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g id=\"PERCENT\">%%</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER\">%d</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g"
+" id=\"PERCENT\">%%</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 msgctxt "lockscreen_call_bottom_hint"
 msgid "Slide down to open Dialer"
@@ -2025,13 +2154,22 @@ msgstr "Nødanrop"
 #, fuzzy, python-format
 msgctxt "lockscreen_failed_attempts_almost_glogin"
 msgid ""
-"You have inputted wrong password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.\n"
+"You have inputted wrong password %d times. After %d more unsuccessful "
+"attempts, you will be asked to unlock your phone using your Google sign-"
+"in.\n"
 "\n"
 " Please try again in %d seconds."
 msgstr ""
-"You have incorrectly drawn your unlock pattern <{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER_0\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> times. After <{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER_1\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.\n"
+"You have incorrectly drawn your unlock pattern "
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER_0\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> times. "
+"After <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER_1\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> more "
+"unsuccessful attempts, you will be asked to unlock your phone using your "
+"Google sign-in.\n"
 "\n"
-" Please try again in <{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER_2\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> seconds."
+" Please try again in <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER_2\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> seconds."
 
 #, fuzzy
 msgctxt "lockscreen_forgot_pattern_button_text"
@@ -2135,7 +2273,10 @@ msgstr ""
 #, fuzzy, python-format
 msgctxt "lockscreen_plugged_in"
 msgid "Charging (%d%%)"
-msgstr "Lader (<{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER\">%d</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g id=\"PERCENT\">%%</{urn:oasis:names:tc:xliff:document:1.2}g>)"
+msgstr ""
+"Lader (<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER\">%d</{urn:oasis:names:tc:xliff:document:1.2}g><{urn:oasis:names:tc:xliff:document:1.2}g"
+" id=\"PERCENT\">%%</{urn:oasis:names:tc:xliff:document:1.2}g>)"
 
 #, fuzzy
 msgctxt "lockscreen_return_to_call"
@@ -2189,7 +2330,9 @@ msgstr "Skriv inn passord for å låse opp"
 #, fuzzy, python-format
 msgctxt "lockscreen_too_many_failed_attempts_countdown"
 msgid "Try again in %d seconds."
-msgstr "Prøv igjen om <{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> sekunder."
+msgstr ""
+"Prøv igjen om <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> sekunder."
 
 #, fuzzy, python-format
 msgctxt "lockscreen_too_many_failed_attempts_dialog_message"
@@ -2198,9 +2341,12 @@ msgid ""
 "\n"
 "Please try again in %d seconds."
 msgstr ""
-"You have incorrectly drawn your unlock pattern <{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER_0\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> times. \n"
+"You have incorrectly drawn your unlock pattern "
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER_0\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> times. \n"
 "\n"
-"Please try again in <{urn:oasis:names:tc:xliff:document:1.2}g id=\"NUMBER_1\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> seconds."
+"Please try again in <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"NUMBER_1\">%d</{urn:oasis:names:tc:xliff:document:1.2}g> seconds."
 
 #, fuzzy
 msgctxt "lockscreen_unlock_hint"
@@ -2583,7 +2729,9 @@ msgstr "Skriv inn PUK2 for å låse opp SIM-kortet."
 #, fuzzy
 msgctxt "new_app_action"
 msgid "Start %1$s"
-msgstr "Start <{urn:oasis:names:tc:xliff:document:1.2}g id=\"OLD_APP\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"Start <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"OLD_APP\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "new_app_description"
@@ -2613,7 +2761,9 @@ msgstr "middag"
 #, fuzzy
 msgctxt "notification_title"
 msgid "Sign-in error for %1$s"
-msgstr "Innloggingsfeil for <{urn:oasis:names:tc:xliff:document:1.2}g id=\"ACCOUNT\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"Innloggingsfeil for <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"ACCOUNT\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "no_permissions"
@@ -2684,7 +2834,9 @@ msgstr "Eldre"
 #, fuzzy
 msgctxt "old_app_action"
 msgid "Return to %1$s"
-msgstr "Gå tilbake til <{urn:oasis:names:tc:xliff:document:1.2}g id=\"OLD_APP\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"Gå tilbake til <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"OLD_APP\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "old_app_description"
@@ -2752,23 +2904,48 @@ msgstr ""
 
 #, fuzzy
 msgctxt "permdesc_accessCoarseLocation"
-msgid "Access coarse location sources such as the cellular network database to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are."
-msgstr "Få tilgang til grove plasseringskilder som databasen over basestasjoner til å finne ut omtrent hvor telefonen er, når det er tilgjengelig. Ondsinnede applikasjoner kan bruke dette til å finne ut omtrent hvor du er."
+msgid ""
+"Access coarse location sources such as the cellular network database to "
+"determine an approximate phone location, where available. Malicious "
+"applications can use this to determine approximately where you are."
+msgstr ""
+"Få tilgang til grove plasseringskilder som databasen over basestasjoner "
+"til å finne ut omtrent hvor telefonen er, når det er tilgjengelig. "
+"Ondsinnede applikasjoner kan bruke dette til å finne ut omtrent hvor du "
+"er."
 
 #, fuzzy
 msgctxt "permdesc_accessFineLocation"
-msgid "Access fine location sources such as the Global Positioning System on the phone, where available. Malicious applications can use this to determine where you are, and may consume additional battery power."
-msgstr "Få tilgang til nøyaktige plasseringskilder som Global Positioning System (GPS) på telefonen, når det er tilgjengelig. Ondsinnede applikasjoner kan bruke dette til å finne ut hvor du er, og kan bruke mer batteri."
+msgid ""
+"Access fine location sources such as the Global Positioning System on the"
+" phone, where available. Malicious applications can use this to determine"
+" where you are, and may consume additional battery power."
+msgstr ""
+"Få tilgang til nøyaktige plasseringskilder som Global Positioning System "
+"(GPS) på telefonen, når det er tilgjengelig. Ondsinnede applikasjoner kan"
+" bruke dette til å finne ut hvor du er, og kan bruke mer batteri."
 
 #, fuzzy
 msgctxt "permdesc_accessLocationExtraCommands"
-msgid "Access extra location provider commands. Malicious applications could use this to interfere with the operation of the GPS or other location sources."
-msgstr "Få tilgang til ekstra kommandoer for plasseringskilder. Ondsinnede applikasjoner kan bruke dette til å forstyrre GPS eller andre plasseringskilder."
+msgid ""
+"Access extra location provider commands. Malicious applications could use"
+" this to interfere with the operation of the GPS or other location "
+"sources."
+msgstr ""
+"Få tilgang til ekstra kommandoer for plasseringskilder. Ondsinnede "
+"applikasjoner kan bruke dette til å forstyrre GPS eller andre "
+"plasseringskilder."
 
 #, fuzzy
 msgctxt "permdesc_accessMockLocation"
-msgid "Create mock location sources for testing. Malicious applications can use this to override the location and/or status returned by real location sources such as GPS or Network providers."
-msgstr "Lage simulerte plassingskilder for testing. Ondsinnede applikasjoner kan bruke dette til å overstyre plasseringen og/eller statusen rapportert av ekte plasseringskilder slik som GPS eller nettverksoperatører."
+msgid ""
+"Create mock location sources for testing. Malicious applications can use "
+"this to override the location and/or status returned by real location "
+"sources such as GPS or Network providers."
+msgstr ""
+"Lage simulerte plassingskilder for testing. Ondsinnede applikasjoner kan "
+"bruke dette til å overstyre plasseringen og/eller statusen rapportert av "
+"ekte plasseringskilder slik som GPS eller nettverksoperatører."
 
 #, fuzzy
 msgctxt "permdesc_accessNetworkState"
@@ -2822,73 +2999,143 @@ msgstr "Tillater programmet å gi nytt navn til intern lagring."
 
 #, fuzzy
 msgctxt "permdesc_authenticateAccounts"
-msgid "Allows an application to use the account authenticator capabilities of the AccountManager, including creating accounts and getting and setting their passwords."
-msgstr "Lar et program bruke kontogodkjenningsfunksjonaliteten til kontoadministratoren, herunder opprette kontoer og få og angi passord."
+msgid ""
+"Allows an application to use the account authenticator capabilities of "
+"the AccountManager, including creating accounts and getting and setting "
+"their passwords."
+msgstr ""
+"Lar et program bruke kontogodkjenningsfunksjonaliteten til "
+"kontoadministratoren, herunder opprette kontoer og få og angi passord."
 
 #, fuzzy
 msgctxt "permdesc_backup"
-msgid "Allows the application to control the system's backup and restore mechanism. Not for use by normal applications."
-msgstr "Lar applikasjonen kontrollere systemets backup- og gjenopprettingsmekanisme. Ikke ment for vanlige applikasjoner."
+msgid ""
+"Allows the application to control the system's backup and restore "
+"mechanism. Not for use by normal applications."
+msgstr ""
+"Lar applikasjonen kontrollere systemets backup- og "
+"gjenopprettingsmekanisme. Ikke ment for vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_batteryStats"
-msgid "Allows the modification of collected battery statistics. Not for use by normal applications."
-msgstr "Lar applikasjonen endre på innsamlet batteristatistikk. Ikke ment for vanlige applikasjoner."
+msgid ""
+"Allows the modification of collected battery statistics. Not for use by "
+"normal applications."
+msgstr ""
+"Lar applikasjonen endre på innsamlet batteristatistikk. Ikke ment for "
+"vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_bindDeviceAdmin"
-msgid "Allows the holder to send intents to a device administrator. Should never be needed for normal applications."
-msgstr "Tillater innehaveren å sende hensikter til enhetsadministrator. Bør aldri være nødvendig for normale programmer."
+msgid ""
+"Allows the holder to send intents to a device administrator. Should never"
+" be needed for normal applications."
+msgstr ""
+"Tillater innehaveren å sende hensikter til enhetsadministrator. Bør aldri"
+" være nødvendig for normale programmer."
 
 #, fuzzy
 msgctxt "permdesc_bindGadget"
-msgid "Allows the application to tell the system which widgets can be used by which application. With this permission, applications can give access to personal data to other applications. Not for use by normal applications."
-msgstr "Lar applikasjonen fortelle systemet hvilke gadgeter som kan brukes av hvilke applikasjoner. Med denne rettigheten kan applikasjoner andre applikasjoner tilgang til personlig data. Ikke ment for vanlige applikasjoner."
+msgid ""
+"Allows the application to tell the system which widgets can be used by "
+"which application. With this permission, applications can give access to "
+"personal data to other applications. Not for use by normal applications."
+msgstr ""
+"Lar applikasjonen fortelle systemet hvilke gadgeter som kan brukes av "
+"hvilke applikasjoner. Med denne rettigheten kan applikasjoner andre "
+"applikasjoner tilgang til personlig data. Ikke ment for vanlige "
+"applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_bindInputMethod"
-msgid "Allows the holder to bind to the top-level interface of an input method. Should never be needed for normal applications."
-msgstr "Lar applikasjonen binde til toppnivågrensesnittet for en inndatametode. Vanlige applikasjoner bør aldri trenge dette."
+msgid ""
+"Allows the holder to bind to the top-level interface of an input method. "
+"Should never be needed for normal applications."
+msgstr ""
+"Lar applikasjonen binde til toppnivågrensesnittet for en inndatametode. "
+"Vanlige applikasjoner bør aldri trenge dette."
 
 #, fuzzy
 msgctxt "permdesc_bindWallpaper"
-msgid "Allows the holder to bind to the top-level interface of a wallpaper. Should never be needed for normal applications."
-msgstr "Lar innehaveren binde det øverste nivået av grensesnittet til en bakgrunnsbilder. Skal ikke være nødvendig for vanlige programmer."
+msgid ""
+"Allows the holder to bind to the top-level interface of a wallpaper. "
+"Should never be needed for normal applications."
+msgstr ""
+"Lar innehaveren binde det øverste nivået av grensesnittet til en "
+"bakgrunnsbilder. Skal ikke være nødvendig for vanlige programmer."
 
 #, fuzzy
 msgctxt "permdesc_bluetooth"
-msgid "Allows an application to view configuration of the local Bluetooth phone, and to make and accept connections with paired devices."
-msgstr "Lar applikasjonen se konfigurasjonen til den lokale Bluetooth-telefonen, og å opprette og godta tilkoblinger med parede enheter."
+msgid ""
+"Allows an application to view configuration of the local Bluetooth phone,"
+" and to make and accept connections with paired devices."
+msgstr ""
+"Lar applikasjonen se konfigurasjonen til den lokale Bluetooth-telefonen, "
+"og å opprette og godta tilkoblinger med parede enheter."
 
 #, fuzzy
 msgctxt "permdesc_bluetoothAdmin"
-msgid "Allows an application to configure the local Bluetooth phone, and to discover and pair with remote devices."
-msgstr "Lar applikasjonen konfigurere den lokale Bluetooth-telefonen, og å oppdage og pare med andre enheter."
+msgid ""
+"Allows an application to configure the local Bluetooth phone, and to "
+"discover and pair with remote devices."
+msgstr ""
+"Lar applikasjonen konfigurere den lokale Bluetooth-telefonen, og å "
+"oppdage og pare med andre enheter."
 
 #, fuzzy
 msgctxt "permdesc_brick"
-msgid "Allows the application to disable the entire phone permanently. This is very dangerous."
-msgstr "Lar applikasjonen deaktivere hele telefonen permanent. Dette er svært farlig."
+msgid ""
+"Allows the application to disable the entire phone permanently. This is "
+"very dangerous."
+msgstr ""
+"Lar applikasjonen deaktivere hele telefonen permanent. Dette er svært "
+"farlig."
 
 #, fuzzy
 msgctxt "permdesc_broadcastPackageRemoved"
-msgid "Allows an application to broadcast a notification that an application package has been removed. Malicious applications may use this to kill any other running application."
-msgstr "Lar applikasjonen kringkaste en melding om at en applikasjonspakke er blitt fjernet. Ondsinnede applikasjoner kan bruke dette til å drepe vilkårlige andre kjørende applikasjoner."
+msgid ""
+"Allows an application to broadcast a notification that an application "
+"package has been removed. Malicious applications may use this to kill any"
+" other running application."
+msgstr ""
+"Lar applikasjonen kringkaste en melding om at en applikasjonspakke er "
+"blitt fjernet. Ondsinnede applikasjoner kan bruke dette til å drepe "
+"vilkårlige andre kjørende applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_broadcastSmsReceived"
-msgid "Allows an application to broadcast a notification that an SMS message has been received. Malicious applications may use this to forge incoming SMS messages."
-msgstr "Lar applikasjonen kringkaste en melding om at en SMS-melding er mottatt. Ondsinnede applikasjoner kan bruke dette til å forfalske innkommende SMS-meldinger."
+msgid ""
+"Allows an application to broadcast a notification that an SMS message has"
+" been received. Malicious applications may use this to forge incoming SMS"
+" messages."
+msgstr ""
+"Lar applikasjonen kringkaste en melding om at en SMS-melding er mottatt. "
+"Ondsinnede applikasjoner kan bruke dette til å forfalske innkommende SMS-"
+"meldinger."
 
 #, fuzzy
 msgctxt "permdesc_broadcastSticky"
-msgid "Allows an application to send sticky broadcasts, which remain after the broadcast ends. Malicious applications can make the phone slow or unstable by causing it to use too much memory."
-msgstr "Lar applikasjonen sende varige kringkastinger, som forblir på systemet etter at kringkastingen er avsluttet. Ondsinnede applikasjoner kan gjøre telefonen treg eller ustabil ved å få den til å bruke for mye minne."
+msgid ""
+"Allows an application to send sticky broadcasts, which remain after the "
+"broadcast ends. Malicious applications can make the phone slow or "
+"unstable by causing it to use too much memory."
+msgstr ""
+"Lar applikasjonen sende varige kringkastinger, som forblir på systemet "
+"etter at kringkastingen er avsluttet. Ondsinnede applikasjoner kan gjøre "
+"telefonen treg eller ustabil ved å få den til å bruke for mye minne."
 
 #, fuzzy
 msgctxt "permdesc_broadcastWapPush"
-msgid "Allows an application to broadcast a notification that a WAP PUSH message has been received. Malicious applications may use this to forge MMS message receipt or to silently replace the content of any web page with malicious variants."
-msgstr "Lar applikasjonen kringkaste en melding om at en WAP-PUSH-melding er blitt mottatt. Ondsinnede applikasjoner kan bruke dette til å forfalske MMS-kvitteringer eller i det stille erstatte innholdet av vilkårlige nettsteder med ondsinnede varianter."
+msgid ""
+"Allows an application to broadcast a notification that a WAP PUSH message"
+" has been received. Malicious applications may use this to forge MMS "
+"message receipt or to silently replace the content of any web page with "
+"malicious variants."
+msgstr ""
+"Lar applikasjonen kringkaste en melding om at en WAP-PUSH-melding er "
+"blitt mottatt. Ondsinnede applikasjoner kan bruke dette til å forfalske "
+"MMS-kvitteringer eller i det stille erstatte innholdet av vilkårlige "
+"nettsteder med ondsinnede varianter."
 
 #, fuzzy
 msgctxt "permdesc_cache_filesystem"
@@ -2897,18 +3144,35 @@ msgstr "Tillater et program å lese og skrive til bufrede filer."
 
 #, fuzzy
 msgctxt "permdesc_callPhone"
-msgid "Allows the application to call phone numbers without your intervention. Malicious applications may cause unexpected calls on your phone bill. Note that this does not allow the application to call emergency numbers."
-msgstr "Lar applikasjonen ringe telefonnummer uten inngripen fra brukeren. Ondsinnede applikasjoner kan forårsake uventede oppringinger på telefonregningen. Merk at dette ikke gir applikasjonen lov til å ringe nødnummer."
+msgid ""
+"Allows the application to call phone numbers without your intervention. "
+"Malicious applications may cause unexpected calls on your phone bill. "
+"Note that this does not allow the application to call emergency numbers."
+msgstr ""
+"Lar applikasjonen ringe telefonnummer uten inngripen fra brukeren. "
+"Ondsinnede applikasjoner kan forårsake uventede oppringinger på "
+"telefonregningen. Merk at dette ikke gir applikasjonen lov til å ringe "
+"nødnummer."
 
 #, fuzzy
 msgctxt "permdesc_callPrivileged"
-msgid "Allows the application to call any phone number, including emergency numbers, without your intervention. Malicious applications may place unnecessary and illegal calls to emergency services."
-msgstr "Lar applikasjonen ringe hvilket som helst telefonnummer, inkludert nødnummer, uten inngripen fra brukeren. Ondsinnede applikasjoner kan forårsake unødvendige og ulovlige samtaler til nødtjenester."
+msgid ""
+"Allows the application to call any phone number, including emergency "
+"numbers, without your intervention. Malicious applications may place "
+"unnecessary and illegal calls to emergency services."
+msgstr ""
+"Lar applikasjonen ringe hvilket som helst telefonnummer, inkludert "
+"nødnummer, uten inngripen fra brukeren. Ondsinnede applikasjoner kan "
+"forårsake unødvendige og ulovlige samtaler til nødtjenester."
 
 #, fuzzy
 msgctxt "permdesc_camera"
-msgid "Allows application to take pictures with the camera. This allows the application at any time to collect images the camera is seeing."
-msgstr "Tillat programmet å ta bilder og videoer med kameraet. Programmet kan dermed til enhver tid samle inn bilder som kameraet fanger inn."
+msgid ""
+"Allows application to take pictures with the camera. This allows the "
+"application at any time to collect images the camera is seeing."
+msgstr ""
+"Tillat programmet å ta bilder og videoer med kameraet. Programmet kan "
+"dermed til enhver tid samle inn bilder som kameraet fanger inn."
 
 #, fuzzy
 msgctxt "permdesc_changeBackgroundDataSetting"
@@ -2917,13 +3181,27 @@ msgstr "Lar applikasjonen endre innstillingen for bakgrunnsdata."
 
 #, fuzzy
 msgctxt "permdesc_changeComponentState"
-msgid "Allows an application to change whether a component of another application is enabled or not. Malicious applications can use this to disable important phone capabilities. Care must be used with permission, as it is possible to get application components into an unusable, inconsistent, or unstable state."
-msgstr "Lar applikasjonen endre om en komponent i en annen applikasjon er aktivert eller ikke. Ondsinnede applikasjoner kan bruke dette til å deaktivere viktige telefonfunksjoner. Denne rettigheten må brukes med forsiktighet, ettersom det er mulig å få applikasjonskomponenter inn i en ubrukelig, inkonsistent eller ustabil tilstand."
+msgid ""
+"Allows an application to change whether a component of another "
+"application is enabled or not. Malicious applications can use this to "
+"disable important phone capabilities. Care must be used with permission, "
+"as it is possible to get application components into an unusable, "
+"inconsistent, or unstable state."
+msgstr ""
+"Lar applikasjonen endre om en komponent i en annen applikasjon er "
+"aktivert eller ikke. Ondsinnede applikasjoner kan bruke dette til å "
+"deaktivere viktige telefonfunksjoner. Denne rettigheten må brukes med "
+"forsiktighet, ettersom det er mulig å få applikasjonskomponenter inn i en"
+" ubrukelig, inkonsistent eller ustabil tilstand."
 
 #, fuzzy
 msgctxt "permdesc_changeConfiguration"
-msgid "Allows an application to change the current configuration, such as the locale or overall font size."
-msgstr "Tillater applikasjonen å endre gjeldende innstillinger, slik som språk eller skriftstørrelse."
+msgid ""
+"Allows an application to change the current configuration, such as the "
+"locale or overall font size."
+msgstr ""
+"Tillater applikasjonen å endre gjeldende innstillinger, slik som språk "
+"eller skriftstørrelse."
 
 #, fuzzy
 msgctxt "permdesc_changeNetworkState"
@@ -2932,28 +3210,50 @@ msgstr "Tillater et program å endre innstillingene for nettverkstilkoblingen."
 
 #, fuzzy
 msgctxt "permdesc_changeTetherState"
-msgid "Allows an application to change the state of tethered network connectivity."
+msgid ""
+"Allows an application to change the state of tethered network "
+"connectivity."
 msgstr "Tillater et program å endre innstillingene for nettverkstilknytningen."
 
 #, fuzzy
 msgctxt "permdesc_changeWifiMulticastState"
-msgid "Allows an application to receive packets not directly addressed to your device. This can be useful when discovering services offered near by. It uses more power than the non-multicast mode."
-msgstr "Lar applikasjonen motta pakker som ikke er adressert til enheten selv. Dette kan være nyttig ved leting etter nærliggende tjenester, men bruker mer strøm enn ikke-multicast-modus."
+msgid ""
+"Allows an application to receive packets not directly addressed to your "
+"device. This can be useful when discovering services offered near by. It "
+"uses more power than the non-multicast mode."
+msgstr ""
+"Lar applikasjonen motta pakker som ikke er adressert til enheten selv. "
+"Dette kan være nyttig ved leting etter nærliggende tjenester, men bruker "
+"mer strøm enn ikke-multicast-modus."
 
 #, fuzzy
 msgctxt "permdesc_changeWifiState"
-msgid "Allows an application to connect to and disconnect from Wi-Fi access points, and to make changes to configured Wi-Fi networks."
-msgstr "Lar applikasjonen koble til og fra trådløse aksesspunkt, og å gjøre endringer i konfigurerte trådløse nettverk."
+msgid ""
+"Allows an application to connect to and disconnect from Wi-Fi access "
+"points, and to make changes to configured Wi-Fi networks."
+msgstr ""
+"Lar applikasjonen koble til og fra trådløse aksesspunkt, og å gjøre "
+"endringer i konfigurerte trådløse nettverk."
 
 #, fuzzy
 msgctxt "permdesc_checkinProperties"
-msgid "Allows read/write access to properties uploaded by the checkin service. Not for use by normal applications."
-msgstr "Gir lese- og skrivetilgang til egenskaper lastet opp av innsjekkingstjenesten. Ikke ment for vanlige applikasjoner."
+msgid ""
+"Allows read/write access to properties uploaded by the checkin service. "
+"Not for use by normal applications."
+msgstr ""
+"Gir lese- og skrivetilgang til egenskaper lastet opp av "
+"innsjekkingstjenesten. Ikke ment for vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_clearAppCache"
-msgid "Allows an application to free phone storage by deleting files in application cache directory. Access is very restricted usually to system process."
-msgstr "Lar applikasjonen frigjøre lagringsplass ved å slette filer i applikasjoners hurtigbufferkatalog. Tilgangen er vanligvis sterkt begrenset, til systemprosesser."
+msgid ""
+"Allows an application to free phone storage by deleting files in "
+"application cache directory. Access is very restricted usually to system "
+"process."
+msgstr ""
+"Lar applikasjonen frigjøre lagringsplass ved å slette filer i "
+"applikasjoners hurtigbufferkatalog. Tilgangen er vanligvis sterkt "
+"begrenset, til systemprosesser."
 
 #, fuzzy
 msgctxt "permdesc_clearAppUserData"
@@ -2962,8 +3262,12 @@ msgstr "Lar applikasjonen fjerne brukerdata."
 
 #, fuzzy
 msgctxt "permdesc_copyProtectedData"
-msgid "Allows to invoke default container service to copy content. Not for use by normal applications."
-msgstr "Tillater bruk av standard meldingsbeholdertjeneste for kopiering av innhold. Brukes ikke for normale programmer."
+msgid ""
+"Allows to invoke default container service to copy content. Not for use "
+"by normal applications."
+msgstr ""
+"Tillater bruk av standard meldingsbeholdertjeneste for kopiering av "
+"innhold. Brukes ikke for normale programmer."
 
 #, fuzzy
 msgctxt "permdesc_createNetworkSockets"
@@ -2977,8 +3281,12 @@ msgstr "Lar applikasjonen to slette hurtigbufferfiler."
 
 #, fuzzy
 msgctxt "permdesc_deletePackages"
-msgid "Allows an application to delete Android packages. Malicious applications can use this to delete important applications."
-msgstr "Lar applikasjonen slette Android-pakker. Ondsinnede applikasjoner kan bruke dette til å slette viktige applikasjoner."
+msgid ""
+"Allows an application to delete Android packages. Malicious applications "
+"can use this to delete important applications."
+msgstr ""
+"Lar applikasjonen slette Android-pakker. Ondsinnede applikasjoner kan "
+"bruke dette til å slette viktige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_devicePower"
@@ -2987,18 +3295,40 @@ msgstr "Lar applikasjonen skru telefonen av eller på."
 
 #, fuzzy
 msgctxt "permdesc_diagnostic"
-msgid "Allows an application to read and write to any resource owned by the diag group; for example, files in /dev. This could potentially affect system stability and security. This should be ONLY be used for hardware-specific diagnostics by the manufacturer or operator."
-msgstr "Lar applikasjonen lese og skrive enhver ressurs eid av gruppen diag; for eksempel, filer i /dev. Dette kan potensielt påvirke systemets sikkerhet og stabilitet. Dette bør KUN brukes for maskinvarespesifikke diagnoseverktøy laget av operatøren eller produsenten."
+msgid ""
+"Allows an application to read and write to any resource owned by the diag"
+" group; for example, files in /dev. This could potentially affect system "
+"stability and security. This should be ONLY be used for hardware-specific"
+" diagnostics by the manufacturer or operator."
+msgstr ""
+"Lar applikasjonen lese og skrive enhver ressurs eid av gruppen diag; for "
+"eksempel, filer i /dev. Dette kan potensielt påvirke systemets sikkerhet "
+"og stabilitet. Dette bør KUN brukes for maskinvarespesifikke "
+"diagnoseverktøy laget av operatøren eller produsenten."
 
 #, fuzzy
 msgctxt "permdesc_disableKeyguard"
-msgid "Allows an application to disable the keylock and any associated password security. A legitimate example of this is the phone disabling the keylock when receiving an incoming phone call, then re-enabling the keylock when the call is finished."
-msgstr "Lar applikasjonen slå av tastaturlåsen og enhver tilknyttet passordsikkerhet. Et legitimt eksempel på dette er at telefonen slår av tastaturlåsen når den mottar et innkommende anrop, og så slår den på igjen når samtalen er over."
+msgid ""
+"Allows an application to disable the keylock and any associated password "
+"security. A legitimate example of this is the phone disabling the keylock"
+" when receiving an incoming phone call, then re-enabling the keylock when"
+" the call is finished."
+msgstr ""
+"Lar applikasjonen slå av tastaturlåsen og enhver tilknyttet "
+"passordsikkerhet. Et legitimt eksempel på dette er at telefonen slår av "
+"tastaturlåsen når den mottar et innkommende anrop, og så slår den på "
+"igjen når samtalen er over."
 
 #, fuzzy
 msgctxt "permdesc_dump"
-msgid "Allows application to retrieve internal state of the system. Malicious applications may retrieve a wide variety of private and secure information that they should never normally need."
-msgstr "Lar applikasjonen hente intern tilstand fra systemet. Ondsinnede applikasjoner kan hente et bredt spekter av privat og sikker informasjon som de vanligvis aldri burde ha behov for."
+msgid ""
+"Allows application to retrieve internal state of the system. Malicious "
+"applications may retrieve a wide variety of private and secure "
+"information that they should never normally need."
+msgstr ""
+"Lar applikasjonen hente intern tilstand fra systemet. Ondsinnede "
+"applikasjoner kan hente et bredt spekter av privat og sikker informasjon "
+"som de vanligvis aldri burde ha behov for."
 
 #, fuzzy
 msgctxt "permdesc_enableCarMode"
@@ -3012,8 +3342,13 @@ msgstr "Lar applikasjonen utvide eller slå sammen statusfeltet."
 
 #, fuzzy
 msgctxt "permdesc_factoryTest"
-msgid "Run as a low-level manufacturer test, allowing complete access to the phone hardware. Only available when a phone is running in manufacturer test mode."
-msgstr "Kjøre som en lavnivås produsenttest, med full tilgang til telefonens maskinvare. Kun tilgjengelig når telefonen kjører i produsenttestmodus."
+msgid ""
+"Run as a low-level manufacturer test, allowing complete access to the "
+"phone hardware. Only available when a phone is running in manufacturer "
+"test mode."
+msgstr ""
+"Kjøre som en lavnivås produsenttest, med full tilgang til telefonens "
+"maskinvare. Kun tilgjengelig når telefonen kjører i produsenttestmodus."
 
 #, fuzzy
 msgctxt "permdesc_flashlight"
@@ -3022,8 +3357,12 @@ msgstr "Lar applikasjonen kontrollere lommelykten."
 
 #, fuzzy
 msgctxt "permdesc_forceBack"
-msgid "Allows an application to force any activity that is in the foreground to close and go back. Should never be needed for normal applications."
-msgstr "Lar applikasjonen tvinge enhver aktivitet som er i forgrunnen til å lukkes og gå tilbake. Vanlige applikasjoner bør aldri trenge dette."
+msgid ""
+"Allows an application to force any activity that is in the foreground to "
+"close and go back. Should never be needed for normal applications."
+msgstr ""
+"Lar applikasjonen tvinge enhver aktivitet som er i forgrunnen til å "
+"lukkes og gå tilbake. Vanlige applikasjoner bør aldri trenge dette."
 
 #, fuzzy
 msgctxt "permdesc_forceStopPackages"
@@ -3042,68 +3381,132 @@ msgstr "Lar applikasjonen hente kode-, data- og hurtigbufferstørrelser"
 
 #, fuzzy
 msgctxt "permdesc_getTasks"
-msgid "Allows application to retrieve information about currently and recently running tasks. May allow malicious applications to discover private information about other applications."
-msgstr "Tillater applikasjonen å hente informasjon om aktive og nylig kjørte programmer. Kan tillate ondsinnede applikasjoner å oppdage privat informasjon om andre applikasjoner."
+msgid ""
+"Allows application to retrieve information about currently and recently "
+"running tasks. May allow malicious applications to discover private "
+"information about other applications."
+msgstr ""
+"Tillater applikasjonen å hente informasjon om aktive og nylig kjørte "
+"programmer. Kan tillate ondsinnede applikasjoner å oppdage privat "
+"informasjon om andre applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_hardware_test"
-msgid "Allows the application to control various peripherals for the purpose of hardware testing."
-msgstr "Lar applikasjonen styre diverse enheter med det formål å teste maskinvaren."
+msgid ""
+"Allows the application to control various peripherals for the purpose of "
+"hardware testing."
+msgstr ""
+"Lar applikasjonen styre diverse enheter med det formål å teste "
+"maskinvaren."
 
 #, fuzzy
 msgctxt "permdesc_injectEvents"
-msgid "Allows an application to deliver its own input events (key presses, etc.) to other applications. Malicious applications can use this to take over the phone."
-msgstr "Lar applikasjonen levere sine egne inndatahendelser (tastetrykk osv.) til andre applikasjoner. Ondsinnede applikasjoner kan bruke dette til å ta over telefonen."
+msgid ""
+"Allows an application to deliver its own input events (key presses, etc.)"
+" to other applications. Malicious applications can use this to take over "
+"the phone."
+msgstr ""
+"Lar applikasjonen levere sine egne inndatahendelser (tastetrykk osv.) til"
+" andre applikasjoner. Ondsinnede applikasjoner kan bruke dette til å ta "
+"over telefonen."
 
 #, fuzzy
 msgctxt "permdesc_installLocationProvider"
-msgid "Create mock location sources for testing. Malicious applications can use this to override the location and/or status returned by real location sources such as GPS or Network providers or monitor and report your location to an external source."
-msgstr "Lar applikasjonen lage manuelle plasseringskilder for testing. Ondsinnede applikasjoner kan bruke dette til å overstyre plasseringen og/eller statusen rapportert av ekte plasseringskilder slik som GPS eller nettverksoperatører, eller overvåke og rapportere plasseringen din til en tredjepart."
+msgid ""
+"Create mock location sources for testing. Malicious applications can use "
+"this to override the location and/or status returned by real location "
+"sources such as GPS or Network providers or monitor and report your "
+"location to an external source."
+msgstr ""
+"Lar applikasjonen lage manuelle plasseringskilder for testing. Ondsinnede"
+" applikasjoner kan bruke dette til å overstyre plasseringen og/eller "
+"statusen rapportert av ekte plasseringskilder slik som GPS eller "
+"nettverksoperatører, eller overvåke og rapportere plasseringen din til en"
+" tredjepart."
 
 #, fuzzy
 msgctxt "permdesc_installPackages"
-msgid "Allows an application to install new or updated Android packages. Malicious applications can use this to add new applications with arbitrarily powerful permissions."
-msgstr "Lar applikasjonen installere nye eller oppdaterte Android-pakker. Ondsinnede applikasjoner kan bruke dette til å legge til nye applikasjoner med vilkårlig kraftige rettigheter."
+msgid ""
+"Allows an application to install new or updated Android packages. "
+"Malicious applications can use this to add new applications with "
+"arbitrarily powerful permissions."
+msgstr ""
+"Lar applikasjonen installere nye eller oppdaterte Android-pakker. "
+"Ondsinnede applikasjoner kan bruke dette til å legge til nye "
+"applikasjoner med vilkårlig kraftige rettigheter."
 
 #, fuzzy
 msgctxt "permdesc_internalSystemWindow"
-msgid "Allows the creation of windows that are intended to be used by the internal system user interface. Not for use by normal applications."
-msgstr "Tillater at det opprettes vinduer ment for bruk av systemets interne brukergrensesnitt. Ikke ment for vanlige applikasjoner."
+msgid ""
+"Allows the creation of windows that are intended to be used by the "
+"internal system user interface. Not for use by normal applications."
+msgstr ""
+"Tillater at det opprettes vinduer ment for bruk av systemets interne "
+"brukergrensesnitt. Ikke ment for vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_killBackgroundProcesses"
-msgid "Allows an application to kill background processes of other applications, even if memory isn't low."
-msgstr "Tillater et program å avslutte bakgrunnsprosesser for andre programmer, selv om det er nok minne."
+msgid ""
+"Allows an application to kill background processes of other applications,"
+" even if memory isn't low."
+msgstr ""
+"Tillater et program å avslutte bakgrunnsprosesser for andre programmer, "
+"selv om det er nok minne."
 
 #, fuzzy
 msgctxt "permdesc_locationUpdates"
-msgid "Allows enabling/disabling location update notifications from the radio. Not for use by normal applications."
-msgstr "Lar applikasjonen slå av/på varsling om plasseringsendringer fra radioen. Ikke ment for vanlige applikasjoner."
+msgid ""
+"Allows enabling/disabling location update notifications from the radio. "
+"Not for use by normal applications."
+msgstr ""
+"Lar applikasjonen slå av/på varsling om plasseringsendringer fra radioen."
+" Ikke ment for vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_manageAccounts"
-msgid "Allows an application to perform operations like adding, and removing accounts and deleting their password."
-msgstr "Lar et program utføre handlinger som å legge til og fjerne kontoer samt slette passord."
+msgid ""
+"Allows an application to perform operations like adding, and removing "
+"accounts and deleting their password."
+msgstr ""
+"Lar et program utføre handlinger som å legge til og fjerne kontoer samt "
+"slette passord."
 
 #, fuzzy
 msgctxt "permdesc_manageAppTokens"
-msgid "Allows applications to create and manage their own tokens, bypassing their normal Z-ordering. Should never be needed for normal applications."
-msgstr "Lar applikasjoner lage og vedlikeholde sine egne symboler, noe som lar dem overstyre den vanlige Z-ordningen. Vanlige applikasjoner bør aldri trenge dette."
+msgid ""
+"Allows applications to create and manage their own tokens, bypassing "
+"their normal Z-ordering. Should never be needed for normal applications."
+msgstr ""
+"Lar applikasjoner lage og vedlikeholde sine egne symboler, noe som lar "
+"dem overstyre den vanlige Z-ordningen. Vanlige applikasjoner bør aldri "
+"trenge dette."
 
 #, fuzzy
 msgctxt "permdesc_masterClear"
-msgid "Allows an application to completely reset the system to its factory settings, erasing all data, configuration, and installed applications."
-msgstr "Lar applikasjonen tilbakestille systemet til fabrikkinnstillinger, noe som vil fjerne alle data, alt oppsett, og alle installerte applikasjoner."
+msgid ""
+"Allows an application to completely reset the system to its factory "
+"settings, erasing all data, configuration, and installed applications."
+msgstr ""
+"Lar applikasjonen tilbakestille systemet til fabrikkinnstillinger, noe "
+"som vil fjerne alle data, alt oppsett, og alle installerte applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_modifyAudioSettings"
-msgid "Allows application to modify global audio settings such as volume and routing."
+msgid ""
+"Allows application to modify global audio settings such as volume and "
+"routing."
 msgstr "Lar applikasjonen endre globale lydinnstillinger som volum og ruting."
 
 #, fuzzy
 msgctxt "permdesc_modifyPhoneState"
-msgid "Allows the application to control the phone features of the device. An application with this permission can switch networks, turn the phone radio on and off and the like without ever notifying you."
-msgstr "Lar applikasjonen kontrollere telefonfunksjonaliteten i enheten. En applikasjon med denne rettigheten kan endre nettverk, slå telefonens radio av eller på og lignende uten noensinne å varsle brukeren."
+msgid ""
+"Allows the application to control the phone features of the device. An "
+"application with this permission can switch networks, turn the phone "
+"radio on and off and the like without ever notifying you."
+msgstr ""
+"Lar applikasjonen kontrollere telefonfunksjonaliteten i enheten. En "
+"applikasjon med denne rettigheten kan endre nettverk, slå telefonens "
+"radio av eller på og lignende uten noensinne å varsle brukeren."
 
 #, fuzzy
 msgctxt "permdesc_mount_format_filesystems"
@@ -3112,53 +3515,97 @@ msgstr "Lar applikasjonen formatere ekstern lagringsplass."
 
 #, fuzzy
 msgctxt "permdesc_mount_unmount_filesystems"
-msgid "Allows the application to mount and unmount filesystems for removable storage."
+msgid ""
+"Allows the application to mount and unmount filesystems for removable "
+"storage."
 msgstr "Lar applikasjonen montere og avmontere filsystemer for uttagbar lagring."
 
 #, fuzzy
 msgctxt "permdesc_movePackage"
-msgid "Allows an application to move application resources from internal to external media and vice versa."
-msgstr "Gir et program tillatelse til å flytte programressurser fra interne til eksterne medier og omvendt."
+msgid ""
+"Allows an application to move application resources from internal to "
+"external media and vice versa."
+msgstr ""
+"Gir et program tillatelse til å flytte programressurser fra interne til "
+"eksterne medier og omvendt."
 
 #, fuzzy
 msgctxt "permdesc_nfc"
-msgid "Allows an application to communicate with Near Field Communication (NFC) tags, cards, and readers."
-msgstr "Tillater programmet å kommunisere data via koder, kort og lesere for NFC-teknologi."
+msgid ""
+"Allows an application to communicate with Near Field Communication (NFC) "
+"tags, cards, and readers."
+msgstr ""
+"Tillater programmet å kommunisere data via koder, kort og lesere for NFC-"
+"teknologi."
 
 #, fuzzy
 msgctxt "permdesc_performCdmaProvisioning"
-msgid "Allows the application to start CDMA provisioning. Malicious applications may unnecessarily start CDMA provisioning"
-msgstr "Lar applikasjonen begynne CDMA-oppsett. Ondsinnede applikasjoner kan bruke dette til å starte CDMA-oppsett uten grunn."
+msgid ""
+"Allows the application to start CDMA provisioning. Malicious applications"
+" may unnecessarily start CDMA provisioning"
+msgstr ""
+"Lar applikasjonen begynne CDMA-oppsett. Ondsinnede applikasjoner kan "
+"bruke dette til å starte CDMA-oppsett uten grunn."
 
 #, fuzzy
 msgctxt "permdesc_persistentActivity"
-msgid "Allows an application to make parts of itself persistent, so the system can't use it for other applications."
-msgstr "Lar applikasjonen gjøre deler av seg selv varig, så systemet ikke kan bruke det til andre applikasjoner."
+msgid ""
+"Allows an application to make parts of itself persistent, so the system "
+"can't use it for other applications."
+msgstr ""
+"Lar applikasjonen gjøre deler av seg selv varig, så systemet ikke kan "
+"bruke det til andre applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_pkgUsageStats"
-msgid "Allows the modification of collected component usage statistics. Not for use by normal applications."
-msgstr "Tillater endring av innsamlet data om bruk av komponenter. Ikke ment for vanlige applikasjoner."
+msgid ""
+"Allows the modification of collected component usage statistics. Not for "
+"use by normal applications."
+msgstr ""
+"Tillater endring av innsamlet data om bruk av komponenter. Ikke ment for "
+"vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_processOutgoingCalls"
-msgid "Allows application to process outgoing calls and change the number to be dialed. Malicious applications may monitor, redirect, or prevent outgoing calls."
-msgstr "Lar applikasjonen behandle utgående anrop og endre nummeret som ringes. Ondsinnede applikasjoner kan overvåke, videresende, eller hindre utgående anrop."
+msgid ""
+"Allows application to process outgoing calls and change the number to be "
+"dialed. Malicious applications may monitor, redirect, or prevent outgoing"
+" calls."
+msgstr ""
+"Lar applikasjonen behandle utgående anrop og endre nummeret som ringes. "
+"Ondsinnede applikasjoner kan overvåke, videresende, eller hindre utgående"
+" anrop."
 
 #, fuzzy
 msgctxt "permdesc_readCalendar"
-msgid "Allows an application to read all of the calendar events stored on your phone. Malicious applications can use this to send your calendar events to other people."
-msgstr "Lar applikasjonen lese alle kalenderhendelser lagret på telefonen. Ondsinnede applikasjoner kan bruke dette til å sende kalenderhendelser til andre."
+msgid ""
+"Allows an application to read all of the calendar events stored on your "
+"phone. Malicious applications can use this to send your calendar events "
+"to other people."
+msgstr ""
+"Lar applikasjonen lese alle kalenderhendelser lagret på telefonen. "
+"Ondsinnede applikasjoner kan bruke dette til å sende kalenderhendelser "
+"til andre."
 
 #, fuzzy
 msgctxt "permdesc_readContacts"
-msgid "Allows an application to read all of the contact (address) data stored on your phone. Malicious applications can use this to send your data to other people."
-msgstr "Lar applikasjonen lese all kontakt- og adresseinformasjon lagret på telefonen. Ondsinnede applikasjoner kan bruke dette til å sende personlige data til andre."
+msgid ""
+"Allows an application to read all of the contact (address) data stored on"
+" your phone. Malicious applications can use this to send your data to "
+"other people."
+msgstr ""
+"Lar applikasjonen lese all kontakt- og adresseinformasjon lagret på "
+"telefonen. Ondsinnede applikasjoner kan bruke dette til å sende "
+"personlige data til andre."
 
 #, fuzzy
 msgctxt "permdesc_readDictionary"
-msgid "Allows an application to read any private words, names and phrases that the user may have stored in the user dictionary."
-msgstr "Lar applikasjonen lese private ord, navn og uttrykk som brukeren har lagret i den brukerdefinerte ordlisten."
+msgid ""
+"Allows an application to read any private words, names and phrases that "
+"the user may have stored in the user dictionary."
+msgstr ""
+"Lar applikasjonen lese private ord, navn og uttrykk som brukeren har "
+"lagret i den brukerdefinerte ordlisten."
 
 #, fuzzy
 msgctxt "permdesc_readFrameBuffer"
@@ -3167,38 +3614,75 @@ msgstr "Tillater at programmet leser innholdet av rammebufferen."
 
 #, fuzzy
 msgctxt "permdesc_readHistoryBookmarks"
-msgid "Allows the application to read all the URLs that the Browser has visited, and all of the Browser's bookmarks."
-msgstr "Lar applikasjonen lese alle adresser nettleseren har besøkt, og alle nettleserens bokmerker."
+msgid ""
+"Allows the application to read all the URLs that the Browser has visited,"
+" and all of the Browser's bookmarks."
+msgstr ""
+"Lar applikasjonen lese alle adresser nettleseren har besøkt, og alle "
+"nettleserens bokmerker."
 
 #, fuzzy
 msgctxt "permdesc_readInputState"
-msgid "Allows applications to watch the keys you press even when interacting with another application (such as entering a password). Should never be needed for normal applications."
-msgstr "Lar applikasjonen overvåke tastetrykk selv når interaksjonen er med et annet program (som å skrive inn et passord). Vanlige applikasjoner bør aldri trenge dette."
+msgid ""
+"Allows applications to watch the keys you press even when interacting "
+"with another application (such as entering a password). Should never be "
+"needed for normal applications."
+msgstr ""
+"Lar applikasjonen overvåke tastetrykk selv når interaksjonen er med et "
+"annet program (som å skrive inn et passord). Vanlige applikasjoner bør "
+"aldri trenge dette."
 
 #, fuzzy
 msgctxt "permdesc_readLogs"
-msgid "Allows an application to read from the system's various log files. This allows it to discover general information about what you are doing with the phone, but they should not contain any personal or private information."
-msgstr "Lar programmet lese fra diverse loggfiler på systemet. Disse inneholder generell informasjon om hva som gjøres med telefonen, og kan inneholde personlig eller privat informasjon."
+msgid ""
+"Allows an application to read from the system's various log files. This "
+"allows it to discover general information about what you are doing with "
+"the phone, but they should not contain any personal or private "
+"information."
+msgstr ""
+"Lar programmet lese fra diverse loggfiler på systemet. Disse inneholder "
+"generell informasjon om hva som gjøres med telefonen, og kan inneholde "
+"personlig eller privat informasjon."
 
 #, fuzzy
 msgctxt "permdesc_readPhoneState"
-msgid "Allows the application to access the phone features of the device. An application with this permission can determine the phone number and serial number of this phone, whether a call is active, the number that call is connected to and the like."
-msgstr "Gir applikasjonen tilgang til telefonfunksjonaliteten i enheten. En applikasjon med denne rettigheten kan finne telefonens telefonnummer og seriellnummer, om en samtale er aktiv, nummeret det ringes til og lignende."
+msgid ""
+"Allows the application to access the phone features of the device. An "
+"application with this permission can determine the phone number and "
+"serial number of this phone, whether a call is active, the number that "
+"call is connected to and the like."
+msgstr ""
+"Gir applikasjonen tilgang til telefonfunksjonaliteten i enheten. En "
+"applikasjon med denne rettigheten kan finne telefonens telefonnummer og "
+"seriellnummer, om en samtale er aktiv, nummeret det ringes til og "
+"lignende."
 
 #, fuzzy
 msgctxt "permdesc_readSms"
-msgid "Allows application to read SMS messages stored on your phone or SIM card. Malicious applications may read your confidential messages."
-msgstr "Lar applikasjonen lese SMS-meldinger lagret i telefonen eller på SIM-kortet. Ondsinnede applikasjoner kan lese private meldinger."
+msgid ""
+"Allows application to read SMS messages stored on your phone or SIM card."
+" Malicious applications may read your confidential messages."
+msgstr ""
+"Lar applikasjonen lese SMS-meldinger lagret i telefonen eller på SIM-"
+"kortet. Ondsinnede applikasjoner kan lese private meldinger."
 
 #, fuzzy
 msgctxt "permdesc_readSyncSettings"
-msgid "Allows an application to read the sync settings, such as whether sync is enabled for Contacts."
-msgstr "Lar applikasjonen lese synkroniseringsinnstillingene, som for eksempel om kontakter blir synkronisert."
+msgid ""
+"Allows an application to read the sync settings, such as whether sync is "
+"enabled for Contacts."
+msgstr ""
+"Lar applikasjonen lese synkroniseringsinnstillingene, som for eksempel om"
+" kontakter blir synkronisert."
 
 #, fuzzy
 msgctxt "permdesc_readSyncStats"
-msgid "Allows an application to read the sync stats; e.g., the history of syncs that have occurred."
-msgstr "Lar applikasjonen lese synkroniseringsstatistikk, som for eksempel loggen over alle synkroniseringer utført."
+msgid ""
+"Allows an application to read the sync stats; e.g., the history of syncs "
+"that have occurred."
+msgstr ""
+"Lar applikasjonen lese synkroniseringsstatistikk, som for eksempel loggen"
+" over alle synkroniseringer utført."
 
 #, fuzzy
 msgctxt "permdesc_reboot"
@@ -3207,23 +3691,44 @@ msgstr "Lar applikasjonen tvinge telefonen til å starte på nytt."
 
 #, fuzzy
 msgctxt "permdesc_receiveBootCompleted"
-msgid "Allows an application to have itself started as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running."
-msgstr "Lar applikasjonen sette opp at den selv skal starte så fort systemet er ferdig med å slå seg på. Dette kan gjøre at det tar lengre tid å starte telefonen, og at den kan bli tregere fordi applikasjonen alltid kjører."
+msgid ""
+"Allows an application to have itself started as soon as the system has "
+"finished booting. This can make it take longer to start the phone and "
+"allow the application to slow down the overall phone by always running."
+msgstr ""
+"Lar applikasjonen sette opp at den selv skal starte så fort systemet er "
+"ferdig med å slå seg på. Dette kan gjøre at det tar lengre tid å starte "
+"telefonen, og at den kan bli tregere fordi applikasjonen alltid kjører."
 
 #, fuzzy
 msgctxt "permdesc_receiveMms"
-msgid "Allows application to receive and process MMS messages. Malicious applications may monitor your messages or delete them without showing them to you."
-msgstr "Lar applikasjonen motta og behandle MMS-meldinger. Ondsinnede applikasjoner kan overvåke meldinger eller slette dem uten at de vises."
+msgid ""
+"Allows application to receive and process MMS messages. Malicious "
+"applications may monitor your messages or delete them without showing "
+"them to you."
+msgstr ""
+"Lar applikasjonen motta og behandle MMS-meldinger. Ondsinnede "
+"applikasjoner kan overvåke meldinger eller slette dem uten at de vises."
 
 #, fuzzy
 msgctxt "permdesc_receiveSms"
-msgid "Allows application to receive and process SMS messages. Malicious applications may monitor your messages or delete them without showing them to you."
-msgstr "Lar applikasjonen motta og behandle SMS-meldinger. Ondsinnede applikasjoner kan overvåke meldinger eller slette dem uten at de vises."
+msgid ""
+"Allows application to receive and process SMS messages. Malicious "
+"applications may monitor your messages or delete them without showing "
+"them to you."
+msgstr ""
+"Lar applikasjonen motta og behandle SMS-meldinger. Ondsinnede "
+"applikasjoner kan overvåke meldinger eller slette dem uten at de vises."
 
 #, fuzzy
 msgctxt "permdesc_receiveWapPush"
-msgid "Allows application to receive and process WAP messages. Malicious applications may monitor your messages or delete them without showing them to you."
-msgstr "Lar applikasjonen motta og behandle WAP-meldinger. Ondsinnede applikasjoner kan overvåke meldinger eller slette dem uten at de vises."
+msgid ""
+"Allows application to receive and process WAP messages. Malicious "
+"applications may monitor your messages or delete them without showing "
+"them to you."
+msgstr ""
+"Lar applikasjonen motta og behandle WAP-meldinger. Ondsinnede "
+"applikasjoner kan overvåke meldinger eller slette dem uten at de vises."
 
 #, fuzzy
 msgctxt "permdesc_recordAudio"
@@ -3232,13 +3737,26 @@ msgstr "Gir applikasjonen tilgang til opptaksstien for lyd."
 
 #, fuzzy
 msgctxt "permdesc_reorderTasks"
-msgid "Allows an application to move tasks to the foreground and background. Malicious applications can force themselves to the front without your control."
-msgstr "Tillater applikasjonen å flytte programmer til forgrunnen eller bakgrunnen. Ondsinnede applikasjoner kan tvinge seg selv til fronten."
+msgid ""
+"Allows an application to move tasks to the foreground and background. "
+"Malicious applications can force themselves to the front without your "
+"control."
+msgstr ""
+"Tillater applikasjonen å flytte programmer til forgrunnen eller "
+"bakgrunnen. Ondsinnede applikasjoner kan tvinge seg selv til fronten."
 
 #, fuzzy
 msgctxt "permdesc_runSetActivityWatcher"
-msgid "Allows an application to monitor and control how the system launches activities. Malicious applications may completely compromise the system. This permission is only needed for development, never for normal phone usage."
-msgstr "Lar applikasjonen overvåke og kontrollere hvordan systemet starter applikasjoner. Ondsinnede applikasjoner kan ta over systemet helt. Denne rettigheten behøves bare for utvikling, aldri for vanlig bruk av telefonen."
+msgid ""
+"Allows an application to monitor and control how the system launches "
+"activities. Malicious applications may completely compromise the system. "
+"This permission is only needed for development, never for normal phone "
+"usage."
+msgstr ""
+"Lar applikasjonen overvåke og kontrollere hvordan systemet starter "
+"applikasjoner. Ondsinnede applikasjoner kan ta over systemet helt. Denne "
+"rettigheten behøves bare for utvikling, aldri for vanlig bruk av "
+"telefonen."
 
 #, fuzzy
 msgctxt "permdesc_sdcardWrite"
@@ -3247,43 +3765,82 @@ msgstr "Prog. skriver til USB-lagr."
 
 #, fuzzy
 msgctxt "permdesc_sendSms"
-msgid "Allows application to send SMS messages. Malicious applications may cost you money by sending messages without your confirmation."
-msgstr "Lar applikasjonen sende SMS-meldinger. Ondsinnede applikasjoner kan koste deg penger ved å sende meldinger uten bekreftelse."
+msgid ""
+"Allows application to send SMS messages. Malicious applications may cost "
+"you money by sending messages without your confirmation."
+msgstr ""
+"Lar applikasjonen sende SMS-meldinger. Ondsinnede applikasjoner kan koste"
+" deg penger ved å sende meldinger uten bekreftelse."
 
 #, fuzzy
 msgctxt "permdesc_setAlarm"
-msgid "Allows the application to set an alarm in an installed alarm clock application. Some alarm clock applications may not implement this feature."
-msgstr "Lar programmet angi en alarm i et installert alarmklokkeprogram. Det kan hende at enkelte alarmklokkeprogrammer ikke implementerer denne funksjonen."
+msgid ""
+"Allows the application to set an alarm in an installed alarm clock "
+"application. Some alarm clock applications may not implement this "
+"feature."
+msgstr ""
+"Lar programmet angi en alarm i et installert alarmklokkeprogram. Det kan "
+"hende at enkelte alarmklokkeprogrammer ikke implementerer denne "
+"funksjonen."
 
 #, fuzzy
 msgctxt "permdesc_setAlwaysFinish"
-msgid "Allows an application to control whether activities are always finished as soon as they go to the background. Never needed for normal applications."
-msgstr "Lar applikasjonen kontrollere om aktiviteter alltid avsluttes når de sendes til bakgrunnen. Behøves aldri for vanlige applikasjoner."
+msgid ""
+"Allows an application to control whether activities are always finished "
+"as soon as they go to the background. Never needed for normal "
+"applications."
+msgstr ""
+"Lar applikasjonen kontrollere om aktiviteter alltid avsluttes når de "
+"sendes til bakgrunnen. Behøves aldri for vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_setAnimationScale"
-msgid "Allows an application to change the global animation speed (faster or slower animations) at any time."
-msgstr "Lar applikasjonen endre den globale animasjonshastigheten (raskere eller tregere animasjoner) når som helst."
+msgid ""
+"Allows an application to change the global animation speed (faster or "
+"slower animations) at any time."
+msgstr ""
+"Lar applikasjonen endre den globale animasjonshastigheten (raskere eller "
+"tregere animasjoner) når som helst."
 
 #, fuzzy
 msgctxt "permdesc_setDebugApp"
-msgid "Allows an application to turn on debugging for another application. Malicious applications can use this to kill other applications."
-msgstr "Lar applikasjonen skru på debugging for en annen applikasjon. Ondsinnede applikasjoner kan bruke dette til å drepe andre applikasjoner."
+msgid ""
+"Allows an application to turn on debugging for another application. "
+"Malicious applications can use this to kill other applications."
+msgstr ""
+"Lar applikasjonen skru på debugging for en annen applikasjon. Ondsinnede "
+"applikasjoner kan bruke dette til å drepe andre applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_setOrientation"
-msgid "Allows an application to change the rotation of the screen at any time. Should never be needed for normal applications."
-msgstr "Lar applikasjonen rotere skjermen når som helst. Vanlige applikasjoner bør aldri trenge dette."
+msgid ""
+"Allows an application to change the rotation of the screen at any time. "
+"Should never be needed for normal applications."
+msgstr ""
+"Lar applikasjonen rotere skjermen når som helst. Vanlige applikasjoner "
+"bør aldri trenge dette."
 
 #, fuzzy
 msgctxt "permdesc_setPreferredApplications"
-msgid "Allows an application to modify your preferred applications. This can allow malicious applications to silently change the applications that are run, spoofing your existing applications to collect private data from you."
-msgstr "Lar applikasjonen endre valgene for foretrukne applikasjoner. Dette kan gi ondsinnede applikasjoner tilgang til i det stille å endre hvilke applikasjoner som kjøres, og slik gi seg ut til å være en eksisterende applikasjon og samle private data."
+msgid ""
+"Allows an application to modify your preferred applications. This can "
+"allow malicious applications to silently change the applications that are"
+" run, spoofing your existing applications to collect private data from "
+"you."
+msgstr ""
+"Lar applikasjonen endre valgene for foretrukne applikasjoner. Dette kan "
+"gi ondsinnede applikasjoner tilgang til i det stille å endre hvilke "
+"applikasjoner som kjøres, og slik gi seg ut til å være en eksisterende "
+"applikasjon og samle private data."
 
 #, fuzzy
 msgctxt "permdesc_setProcessLimit"
-msgid "Allows an application to control the maximum number of processes that will run. Never needed for normal applications."
-msgstr "Lar applikasjonen kontrollere maksimalt antall kjørende prosesser. Behøves aldri for vanlige applikasjoner."
+msgid ""
+"Allows an application to control the maximum number of processes that "
+"will run. Never needed for normal applications."
+msgstr ""
+"Lar applikasjonen kontrollere maksimalt antall kjørende prosesser. "
+"Behøves aldri for vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_setTime"
@@ -3307,18 +3864,30 @@ msgstr "Lar applikasjonen sette størrelseshint for systemets bakgrunnsbilde."
 
 #, fuzzy
 msgctxt "permdesc_shutdown"
-msgid "Puts the activity manager into a shutdown state. Does not perform a complete shutdown."
-msgstr "Lar applikasjonen sette aktivitetshåndtereren i avslutningstilstand. Slår ikke systemet helt av."
+msgid ""
+"Puts the activity manager into a shutdown state. Does not perform a "
+"complete shutdown."
+msgstr ""
+"Lar applikasjonen sette aktivitetshåndtereren i avslutningstilstand. Slår"
+" ikke systemet helt av."
 
 #, fuzzy
 msgctxt "permdesc_signalPersistentProcesses"
-msgid "Allows application to request that the supplied signal be sent to all persistent processes."
-msgstr "Lar applikasjonen spørre om at et gitt signal blir sendt til alle varige prosesser."
+msgid ""
+"Allows application to request that the supplied signal be sent to all "
+"persistent processes."
+msgstr ""
+"Lar applikasjonen spørre om at et gitt signal blir sendt til alle varige "
+"prosesser."
 
 #, fuzzy
 msgctxt "permdesc_statusBar"
-msgid "Allows application to disable the status bar or add and remove system icons."
-msgstr "Lar applikasjonen deaktivere statusfeltet, samt legge til og fjerne systemikoner."
+msgid ""
+"Allows application to disable the status bar or add and remove system "
+"icons."
+msgstr ""
+"Lar applikasjonen deaktivere statusfeltet, samt legge til og fjerne "
+"systemikoner."
 
 #, fuzzy
 msgctxt "permdesc_statusBarService"
@@ -3337,13 +3906,22 @@ msgstr "Lar applikasjonen hente detaljer om hvilke nyhetskilder som synkronisere
 
 #, fuzzy
 msgctxt "permdesc_subscribedFeedsWrite"
-msgid "Allows an application to modify your currently synced feeds. This could allow a malicious application to change your synced feeds."
-msgstr "Lar applikasjonen redigere hvilke nyhetskilder som synkroniseres. Dette kan gi en ondsinnet applikasjon tilgang til å endre hvilke nyhetskilder som synkroniseres."
+msgid ""
+"Allows an application to modify your currently synced feeds. This could "
+"allow a malicious application to change your synced feeds."
+msgstr ""
+"Lar applikasjonen redigere hvilke nyhetskilder som synkroniseres. Dette "
+"kan gi en ondsinnet applikasjon tilgang til å endre hvilke nyhetskilder "
+"som synkroniseres."
 
 #, fuzzy
 msgctxt "permdesc_systemAlertWindow"
-msgid "Allows an application to show system alert windows. Malicious applications can take over the entire screen of the phone."
-msgstr "Lar applikasjonen vise systemadvarselvinduer. Ondsinnede applikasjoner kan ta over hele skjermen."
+msgid ""
+"Allows an application to show system alert windows. Malicious "
+"applications can take over the entire screen of the phone."
+msgstr ""
+"Lar applikasjonen vise systemadvarselvinduer. Ondsinnede applikasjoner "
+"kan ta over hele skjermen."
 
 #, fuzzy
 msgctxt "permdesc_useCredentials"
@@ -3352,8 +3930,12 @@ msgstr "Lar et program be om godkjenningsinformasjon"
 
 #, fuzzy
 msgctxt "permdesc_use_sip"
-msgid "Allows an application to use the SIP service to make/receive Internet calls."
-msgstr "Tillater et program å bruke SIP-tjenesten til å foreta og motta Internett-anrop."
+msgid ""
+"Allows an application to use the SIP service to make/receive Internet "
+"calls."
+msgstr ""
+"Tillater et program å bruke SIP-tjenesten til å foreta og motta "
+"Internett-anrop."
 
 #, fuzzy
 msgctxt "permdesc_vibrate"
@@ -3367,18 +3949,35 @@ msgstr "Lar applikasjonen forhindre telefonen fra å gå i hvilemodus."
 
 #, fuzzy
 msgctxt "permdesc_writeApnSettings"
-msgid "Allows an application to modify the APN settings, such as Proxy and Port of any APN."
-msgstr "Lar applikasjonen to endre APN-innstillinger slik som mellomtjener eller port for hvilket som helst aksesspunkt."
+msgid ""
+"Allows an application to modify the APN settings, such as Proxy and Port "
+"of any APN."
+msgstr ""
+"Lar applikasjonen to endre APN-innstillinger slik som mellomtjener eller "
+"port for hvilket som helst aksesspunkt."
 
 #, fuzzy
 msgctxt "permdesc_writeCalendar"
-msgid "Allows an application to add or change the events on your calendar, which may send email to guests. Malicious applications can use this to erase or modify your calendar events or to send email to guests."
-msgstr "Gir et program tillatelse til å legge til eller endre aktiviteter i kalenderen. Dette kan medføre at det sendes e-postmelding til deltakerne. Skadelige programmer kan bruke dette til å slette eller endre kalenderaktiviteter eller sende e-postmeldinger til deltakerne."
+msgid ""
+"Allows an application to add or change the events on your calendar, which"
+" may send email to guests. Malicious applications can use this to erase "
+"or modify your calendar events or to send email to guests."
+msgstr ""
+"Gir et program tillatelse til å legge til eller endre aktiviteter i "
+"kalenderen. Dette kan medføre at det sendes e-postmelding til deltakerne."
+" Skadelige programmer kan bruke dette til å slette eller endre "
+"kalenderaktiviteter eller sende e-postmeldinger til deltakerne."
 
 #, fuzzy
 msgctxt "permdesc_writeContacts"
-msgid "Allows an application to modify the contact (address) data stored on your phone. Malicious applications can use this to erase or modify your contact data."
-msgstr "Lar applikasjonen endre kontakt- og adresseinformasjon lagret på telefonen. Ondsinnede applikasjoner kan bruke dette til å redigere eller endre kontaktinformasjonen."
+msgid ""
+"Allows an application to modify the contact (address) data stored on your"
+" phone. Malicious applications can use this to erase or modify your "
+"contact data."
+msgstr ""
+"Lar applikasjonen endre kontakt- og adresseinformasjon lagret på "
+"telefonen. Ondsinnede applikasjoner kan bruke dette til å redigere eller "
+"endre kontaktinformasjonen."
 
 #, fuzzy
 msgctxt "permdesc_writeDictionary"
@@ -3387,38 +3986,70 @@ msgstr "Lar applikasjonen skrive nye ord til den brukerdefinerte ordlisten."
 
 #, fuzzy
 msgctxt "permdesc_writeGeolocationPermissions"
-msgid "Allows an application to modify the Browser's geolocation permissions. Malicious applications can use this to allow sending location information to arbitrary web sites."
-msgstr "Tillater programmet å endre nettleserens tillatelser for geografisk posisjonering. Skadelige programmer kan bruke denne funksjonen til å sende posisjonsopplysninger til vilkårlige nettsteder."
+msgid ""
+"Allows an application to modify the Browser's geolocation permissions. "
+"Malicious applications can use this to allow sending location information"
+" to arbitrary web sites."
+msgstr ""
+"Tillater programmet å endre nettleserens tillatelser for geografisk "
+"posisjonering. Skadelige programmer kan bruke denne funksjonen til å "
+"sende posisjonsopplysninger til vilkårlige nettsteder."
 
 #, fuzzy
 msgctxt "permdesc_writeGservices"
-msgid "Allows an application to modify the Google services map. Not for use by normal applications."
-msgstr "Lar applikasjonen redigere Google-tjenestekartet. Ikke ment for bruk av vanlige applikasjoner."
+msgid ""
+"Allows an application to modify the Google services map. Not for use by "
+"normal applications."
+msgstr ""
+"Lar applikasjonen redigere Google-tjenestekartet. Ikke ment for bruk av "
+"vanlige applikasjoner."
 
 #, fuzzy
 msgctxt "permdesc_writeHistoryBookmarks"
-msgid "Allows an application to modify the Browser's history or bookmarks stored on your phone. Malicious applications can use this to erase or modify your Browser's data."
-msgstr "Lar applikasjonen endre nettleserens logg og bokmerker lagret på telefonen. Ondsinnede applikasjoner kan bruke dette til å fjerne eller redigere nettleserens data."
+msgid ""
+"Allows an application to modify the Browser's history or bookmarks stored"
+" on your phone. Malicious applications can use this to erase or modify "
+"your Browser's data."
+msgstr ""
+"Lar applikasjonen endre nettleserens logg og bokmerker lagret på "
+"telefonen. Ondsinnede applikasjoner kan bruke dette til å fjerne eller "
+"redigere nettleserens data."
 
 #, fuzzy
 msgctxt "permdesc_writeSecureSettings"
-msgid "Allows an application to modify the system's secure settings data. Not for use by normal applications."
-msgstr "Gir programmet tillatelse til å endre systemets data for sikkerhetsinnstilling. Ikke ment for vanlige programmer."
+msgid ""
+"Allows an application to modify the system's secure settings data. Not "
+"for use by normal applications."
+msgstr ""
+"Gir programmet tillatelse til å endre systemets data for "
+"sikkerhetsinnstilling. Ikke ment for vanlige programmer."
 
 #, fuzzy
 msgctxt "permdesc_writeSettings"
-msgid "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration."
-msgstr "Lar applikasjonen endre systemets innstillingsdata. Ondsinnede applikasjoner kan skade systemets innstillinger."
+msgid ""
+"Allows an application to modify the system's settings data. Malicious "
+"applications can corrupt your system's configuration."
+msgstr ""
+"Lar applikasjonen endre systemets innstillingsdata. Ondsinnede "
+"applikasjoner kan skade systemets innstillinger."
 
 #, fuzzy
 msgctxt "permdesc_writeSms"
-msgid "Allows application to write to SMS messages stored on your phone or SIM card. Malicious applications may delete your messages."
-msgstr "Lar applikasjonen skrive til SMS-meldinger lagret i telefonen eller på SIM-kortet. Ondsinnede applikasjoner kan slette meldinger."
+msgid ""
+"Allows application to write to SMS messages stored on your phone or SIM "
+"card. Malicious applications may delete your messages."
+msgstr ""
+"Lar applikasjonen skrive til SMS-meldinger lagret i telefonen eller på "
+"SIM-kortet. Ondsinnede applikasjoner kan slette meldinger."
 
 #, fuzzy
 msgctxt "permdesc_writeSyncSettings"
-msgid "Allows an application to modify the sync settings, such as whether sync is enabled for Contacts."
-msgstr "Lar applikasjonen to endre på synkroniseringsinnstillingene, som for eksempel om kontakter blir synkronisert."
+msgid ""
+"Allows an application to modify the sync settings, such as whether sync "
+"is enabled for Contacts."
+msgstr ""
+"Lar applikasjonen to endre på synkroniseringsinnstillingene, som for "
+"eksempel om kontakter blir synkronisert."
 
 #, fuzzy
 msgctxt "permgroupdesc_accounts"
@@ -3533,7 +4164,11 @@ msgstr "Systemverktøy"
 #, fuzzy
 msgctxt "permissions_format"
 msgid "%1$s, %2$s"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, <{urn:oasis:names:tc:xliff:document:1.2}g id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, "
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "permission_request_notification_title"
@@ -3547,7 +4182,8 @@ msgid ""
 "for account %s"
 msgstr ""
 "Trenger tillatelse\n"
-"for konto <{urn:oasis:names:tc:xliff:document:1.2}g id=\"ACCOUNT\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+"for konto <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"ACCOUNT\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "permlab_accessCoarseLocation"
@@ -3761,8 +4397,12 @@ msgstr "slette andre applikasjoners data"
 
 #, fuzzy
 msgctxt "permlab_copyProtectedData"
-msgid "Allows to invoke default container service to copy content. Not for use by normal applications."
-msgstr "Tillater bruk av standard meldingsbeholdertjeneste for kopiering av innhold. Brukes ikke for normale programmer."
+msgid ""
+"Allows to invoke default container service to copy content. Not for use "
+"by normal applications."
+msgstr ""
+"Tillater bruk av standard meldingsbeholdertjeneste for kopiering av "
+"innhold. Brukes ikke for normale programmer."
 
 #, fuzzy
 msgctxt "permlab_createNetworkSockets"
@@ -4172,7 +4812,9 @@ msgstr "skrive APN-innstillinger"
 #, fuzzy
 msgctxt "permlab_writeCalendar"
 msgid "add or modify calendar events and send email to guests"
-msgstr "legg til eller endre kalenderaktiviteter og send e-postmelding til gjestene"
+msgstr ""
+"legg til eller endre kalenderaktiviteter og send e-postmelding til "
+"gjestene"
 
 #, fuzzy
 msgctxt "permlab_writeContacts"
@@ -4360,18 +5002,26 @@ msgstr "Kontroller tillatt lengde og tegn i passord for opplåsing av skjerm"
 
 #, fuzzy
 msgctxt "policydesc_resetPassword"
-msgid "Force your password to a new value, requiring the administrator give it to you before you can log in."
+msgid ""
+"Force your password to a new value, requiring the administrator give it "
+"to you before you can log in."
 msgstr "Endre passord for opplåsing av skjerm"
 
 #, fuzzy
 msgctxt "policydesc_watchLogin"
 msgid "Monitor failed attempts to login to the device, to perform some action."
-msgstr "Overvåk antall feil passordforsøk ved opplåsing av skjerm. Lås telefonen eller slett alle data ved for mange feil passordforsøk"
+msgstr ""
+"Overvåk antall feil passordforsøk ved opplåsing av skjerm. Lås telefonen "
+"eller slett alle data ved for mange feil passordforsøk"
 
 #, fuzzy
 msgctxt "policydesc_wipeData"
-msgid "Perform a factory reset, deleting all of your data without any confirmation."
-msgstr "Tilbakestill telefonens data uten advarsel ved å utføre tilbakestilling til fabrikkstandard"
+msgid ""
+"Perform a factory reset, deleting all of your data without any "
+"confirmation."
+msgstr ""
+"Tilbakestill telefonens data uten advarsel ved å utføre tilbakestilling "
+"til fabrikkstandard"
 
 #, fuzzy
 msgctxt "policylab_forceLock"
@@ -4441,17 +5091,23 @@ msgstr "menyknapp+"
 #, fuzzy, python-format
 msgctxt "preposition_for_date"
 msgid "on %s"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"DATE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DATE\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy, python-format
 msgctxt "preposition_for_time"
 msgid "at %s"
-msgstr "kl. <{urn:oasis:names:tc:xliff:document:1.2}g id=\"TIME\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"kl. <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TIME\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy, python-format
 msgctxt "preposition_for_year"
 msgid "in %s"
-msgstr "i <{urn:oasis:names:tc:xliff:document:1.2}g id=\"YEAR\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"i <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"YEAR\">%s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "private_num"
@@ -4490,7 +5146,11 @@ msgstr "Nylig"
 #, fuzzy
 msgctxt "relative_time"
 msgid "%1$s, %2$s"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, <{urn:oasis:names:tc:xliff:document:1.2}g id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, "
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 #, fuzzy
 msgctxt "report"
@@ -4555,7 +5215,9 @@ msgstr "Standard ringetone"
 #, fuzzy
 msgctxt "ringtone_default_with_actual"
 msgid "Default ringtone (%1$s)"
-msgstr "Standard ringetone (<{urn:oasis:names:tc:xliff:document:1.2}g id=\"ACTUAL_RINGTONE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>)"
+msgstr ""
+"Standard ringetone (<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"ACTUAL_RINGTONE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>)"
 
 #, fuzzy
 msgctxt "ringtone_picker_title"
@@ -4911,8 +5573,12 @@ msgstr "Ukjent applikasjon"
 
 #, fuzzy
 msgctxt "sms_control_message"
-msgid "A large number of SMS messages are being sent. Select \"OK\" to continue, or \"Cancel\" to stop sending."
-msgstr "Et stort antall SMS-meldinger blir sendt. Velg «OK» for å fortsette, eller «Avbryt» for å avbryte sendingen."
+msgid ""
+"A large number of SMS messages are being sent. Select \"OK\" to continue,"
+" or \"Cancel\" to stop sending."
+msgstr ""
+"Et stort antall SMS-meldinger blir sendt. Velg «OK» for å fortsette, "
+"eller «Avbryt» for å avbryte sendingen."
 
 #, fuzzy
 msgctxt "sms_control_no"
@@ -4946,13 +5612,23 @@ msgstr ""
 
 #, fuzzy
 msgctxt "smv_application"
-msgid "The application %1$s (process %2$s) has violated its self-enforced StrictMode policy."
-msgstr "Programmet <{urn:oasis:names:tc:xliff:document:1.2}g id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> (prosessen <{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) har brutt de selvpålagte StrictMode-retningslinjene."
+msgid ""
+"The application %1$s (process %2$s) has violated its self-enforced "
+"StrictMode policy."
+msgstr ""
+"Programmet <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"APPLICATION\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> "
+"(prosessen <{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"PROCESS\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>) har brutt"
+" de selvpålagte StrictMode-retningslinjene."
 
 #, fuzzy
 msgctxt "smv_process"
 msgid "The process %1$s has has violated its self-enforced StrictMode policy."
-msgstr "Prosessen<{urn:oasis:names:tc:xliff:document:1.2}g id=\"PROCESS\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> har brutt de selvpålagte StrictMode-retningslinjene."
+msgstr ""
+"Prosessen<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"PROCESS\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g> har brutt "
+"de selvpålagte StrictMode-retningslinjene."
 
 msgctxt "status_bar_back_to_call"
 msgid "Touch here to return to the call"
@@ -5032,7 +5708,11 @@ msgstr ""
 #, fuzzy
 msgctxt "time_wday"
 msgid "%1$s, %2$s"
-msgstr "<{urn:oasis:names:tc:xliff:document:1.2}g id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, <{urn:oasis:names:tc:xliff:document:1.2}g id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
+msgstr ""
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"DATE\">%1$s</{urn:oasis:names:tc:xliff:document:1.2}g>, "
+"<{urn:oasis:names:tc:xliff:document:1.2}g "
+"id=\"TIME\">%2$s</{urn:oasis:names:tc:xliff:document:1.2}g>"
 
 msgctxt "time_wday_date"
 msgid "%1$s, %2$s, %3$s"
@@ -5120,8 +5800,13 @@ msgstr "Det oppstod et problem under USB-lagring for USB-enheten."
 
 #, fuzzy
 msgctxt "usb_storage_message"
-msgid "You have connected your phone to your computer via USB. Select the button below if you want to copy files between your computer and your Android's SD card."
-msgstr "Du har koblet telefonen til datamaskinen via USB. Velg knappen nedenfor hvis du vil kopiere filer mellom datamaskinen og USB-lagring for Android."
+msgid ""
+"You have connected your phone to your computer via USB. Select the button"
+" below if you want to copy files between your computer and your Android's"
+" SD card."
+msgstr ""
+"Du har koblet telefonen til datamaskinen via USB. Velg knappen nedenfor "
+"hvis du vil kopiere filer mellom datamaskinen og USB-lagring for Android."
 
 #, fuzzy
 msgctxt "usb_storage_notification_message"
@@ -5140,13 +5825,21 @@ msgstr "Slå av USB-lagring"
 
 #, fuzzy
 msgctxt "usb_storage_stop_error_message"
-msgid "There was a problem turning off USB storage. Check to make sure you have unmounted the USB host, then try again."
-msgstr "Det oppstod et problem ved deaktivering av USB-lagring. Kontroller at du har demontert USB-verten, og prøv på nytt."
+msgid ""
+"There was a problem turning off USB storage. Check to make sure you have "
+"unmounted the USB host, then try again."
+msgstr ""
+"Det oppstod et problem ved deaktivering av USB-lagring. Kontroller at du "
+"har demontert USB-verten, og prøv på nytt."
 
 #, fuzzy
 msgctxt "usb_storage_stop_message"
-msgid "Before turning off USB storage, make sure you have unmounted (“ejected”) your Android‘s SD card from your computer."
-msgstr "Før du slår av USB-lagring, må du kontrollere at du har koblet fra USB-lagringsenheten for Android fra datamaskinen."
+msgid ""
+"Before turning off USB storage, make sure you have unmounted (“ejected”) "
+"your Android‘s SD card from your computer."
+msgstr ""
+"Før du slår av USB-lagring, må du kontrollere at du har koblet fra USB-"
+"lagringsenheten for Android fra datamaskinen."
 
 #, fuzzy
 msgctxt "usb_storage_stop_notification_message"
@@ -5240,8 +5933,12 @@ msgstr ""
 
 #, python-format
 msgctxt "web_user_agent"
-msgid "Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
-msgstr "Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+msgid ""
+"Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) "
+"Version/4.0 Mobile Safari/533.1"
+msgstr ""
+"Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) "
+"Version/4.0 Mobile Safari/533.1"
 
 msgctxt "week"
 msgid "week"
@@ -5275,55 +5972,3 @@ msgctxt "yesterday"
 msgid "Yesterday"
 msgstr "I går"
 
-#~ msgctxt "am"
-
-#~ msgid "am"
-#~ msgstr ""
-#~ msgctxt "day_of_week_long_friday"
-
-#~ msgid "Friday"
-#~ msgstr ""
-#~ msgctxt "day_of_week_long_monday"
-
-#~ msgid "Monday"
-#~ msgstr ""
-#~ msgctxt "day_of_week_long_saturday"
-
-#~ msgid "Saturday"
-#~ msgstr ""
-#~ msgctxt "day_of_week_long_sunday"
-
-#~ msgid "Sunday"
-#~ msgstr ""
-#~ msgctxt "day_of_week_long_thursday"
-
-#~ msgid "Thursday"
-#~ msgstr ""
-#~ msgctxt "day_of_week_long_tuesday"
-
-#~ msgid "Tuesday"
-#~ msgstr ""
-#~ msgctxt "day_of_week_long_wednesday"
-
-#~ msgid "Wednesday"
-#~ msgstr ""
-#~ msgctxt "full_wday_month_day_no_year"
-
-#~ msgid "EEEE, MMMM d"
-#~ msgstr ""
-#~ msgctxt "lockscreen_pattern_wrong"
-
-#~ msgid "Sorry, try again"
-#~ msgstr "Beklager, prøv igjen:"
-#~ msgctxt "pm"
-
-#~ msgid "pm"
-#~ msgstr ""
-#~ msgctxt "selectAll"
-
-#~ msgid "Select all"
-#~ msgstr "Merk alt"
-#~ msgctxt "text_pastelist"
-
-#~ msgid "%d copied to clipboard"
-#~ msgstr "Kopierte tekst til utklippstavlen."

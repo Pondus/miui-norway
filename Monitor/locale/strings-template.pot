@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:27+0200\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Generated-By: Babel 1.0dev\n"
 
 msgctxt "all_apps"
-msgid "All Programs"
+msgid "All Applications"
 msgstr ""
 
 msgctxt "android_system"
@@ -26,7 +26,7 @@ msgid "Android System"
 msgstr ""
 
 msgctxt "app_detail"
-msgid "Program Details"
+msgid "Application Details"
 msgstr ""
 
 msgctxt "app_have_delete"
@@ -72,7 +72,7 @@ msgid ""
 msgstr ""
 
 msgctxt "day_unit"
-msgid "Day billing period commences"
+msgid "\\u0020day of the month, billing period commences"
 msgstr ""
 
 msgctxt "display_status_bar_notification"
@@ -80,7 +80,7 @@ msgid "Show in notification bar"
 msgstr ""
 
 msgctxt "display_system_app"
-msgid "Display system apps"
+msgid "Show system applications"
 msgstr ""
 
 msgctxt "download"
@@ -117,7 +117,7 @@ msgid "\\u0020Exceeded\\u0020"
 msgstr ""
 
 msgctxt "firewall_hint"
-msgid "Monitor the apps on the basis of data traffic"
+msgid "Monitor applications on the basis of data traffic"
 msgstr ""
 
 msgctxt "first_traffic_day"
@@ -137,7 +137,7 @@ msgid "Force Stop"
 msgstr ""
 
 msgctxt "incoming_call"
-msgid "Incoming call"
+msgid "Incoming"
 msgstr ""
 
 msgctxt "input_rules"
@@ -150,11 +150,11 @@ msgid "Last sent: %s"
 msgstr ""
 
 msgctxt "menu_display_system_app"
-msgid "Display system apps"
+msgid "Show system applications"
 msgstr ""
 
 msgctxt "menu_not_display_system_app"
-msgid "Hide system apps"
+msgid "Hide system applications"
 msgstr ""
 
 msgctxt "menu_refresh"
@@ -171,7 +171,7 @@ msgstr ""
 
 #, python-format
 msgctxt "message_amount"
-msgid "Messages: %s"
+msgid "Messages: %s\\u0020"
 msgstr ""
 
 msgctxt "mobile"

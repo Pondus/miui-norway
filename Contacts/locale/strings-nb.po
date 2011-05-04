@@ -3,17 +3,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:22+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
 msgctxt "account_phone"
-msgid "Phone-only (unsynced)"
+msgid "Phone-only (un-synced)"
 msgstr ""
 
 msgctxt "account_type_format"
@@ -67,7 +68,11 @@ msgid "Contact icon"
 msgstr ""
 
 msgctxt "belong_no_group"
-msgid "Not in Group"
+msgid "Not in group"
+msgstr ""
+
+msgctxt "birthday_picker_reminder"
+msgid "Birthday reminder"
 msgstr ""
 
 #, python-format
@@ -120,14 +125,6 @@ msgctxt "callDetailsDurationFormat"
 msgid "%1$s mins %2$s secs"
 msgstr ""
 
-msgctxt "callDetailsDurationFormat_incoming"
-msgid "\\u0020Incoming %1$s min %2$s seconds"
-msgstr ""
-
-msgctxt "callDetailsDurationFormat_outgoing"
-msgid "\\u0020Outgoing %1$s min %2$s seconds"
-msgstr ""
-
 msgctxt "callDetailTitle"
 msgid "Call details"
 msgstr ""
@@ -141,18 +138,31 @@ msgctxt "callrecordview_item_newcontact"
 msgid "New Contact"
 msgstr ""
 
+#, python-format
+msgctxt "callrecordview_item_op_time_minutes_seconds"
+msgid "%d minutes %d seconds"
+msgstr ""
+
 msgctxt "callrecordview_item_op_time_missed"
 msgid "Not connected"
 msgstr ""
 
 #, python-format
-msgctxt "callrecordview_item_op_time_short_incoming"
-msgid "Incoming %d seconds"
+msgctxt "callrecordview_item_op_time_only_minutes"
+msgid "%d mins"
 msgstr ""
 
 #, python-format
+msgctxt "callrecordview_item_op_time_only_seconds"
+msgid "%d seconds"
+msgstr ""
+
+msgctxt "callrecordview_item_op_time_short_incoming"
+msgid "Incoming\\u0020"
+msgstr ""
+
 msgctxt "callrecordview_item_op_time_short_outgoing"
-msgid "Outgoing %d seconds"
+msgid "Outgoing\\u0020"
 msgstr ""
 
 msgctxt "callrecordview_menu_delete_all"
@@ -172,7 +182,7 @@ msgid "Show all calls"
 msgstr ""
 
 msgctxt "callrecordview_menu_phone_missed"
-msgid "Show missed calls"
+msgid "Show only missed calls"
 msgstr ""
 
 msgctxt "callrecordview_menu_set"
@@ -241,6 +251,10 @@ msgstr ""
 #, python-format
 msgctxt "call_logs_show_all"
 msgid "Show all %d"
+msgstr ""
+
+msgctxt "call_log_note"
+msgid "View call notes"
 msgstr ""
 
 msgctxt "call_main"
@@ -358,7 +372,7 @@ msgid ""
 msgstr ""
 
 msgctxt "composer_not_initialized"
-msgid "The vCard composer is not correctly initialized"
+msgid "The vCard composer is not correctly initialised"
 msgstr ""
 
 msgctxt "config_export_dir"
@@ -379,7 +393,7 @@ msgstr ""
 
 #, python-format
 msgctxt "confirm_delete_message"
-msgid "%d contacts will be removed from call log"
+msgid "%d contact(s) will be removed from call log"
 msgstr ""
 
 msgctxt "confirm_delete_title"
@@ -408,7 +422,7 @@ msgid "Contact saved."
 msgstr ""
 
 msgctxt "contactsFavoritesLabel"
-msgid "Favorites"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "contactsGroupsLabel"
@@ -481,6 +495,14 @@ msgstr ""
 
 msgctxt "delete_all_call_logs"
 msgid "Delete all call logs"
+msgstr ""
+
+msgctxt "delete_all_call_logs_title"
+msgid "Delete all call logs"
+msgstr ""
+
+msgctxt "delete_call_log_title"
+msgid "Select call logs to delete"
 msgstr ""
 
 msgctxt "delete_sigle_call_log"
@@ -579,6 +601,14 @@ msgctxt "dialerKeyboardHintText"
 msgid "Use keyboard to dial"
 msgstr ""
 
+msgctxt "dialer_empty_text_no_call_log"
+msgid "No calls"
+msgstr ""
+
+msgctxt "dialer_empty_text_no_search_result"
+msgid "No contacts found"
+msgstr ""
+
 msgctxt "dialog_import_export"
 msgid "Import/Export contacts"
 msgstr ""
@@ -596,7 +626,7 @@ msgid "Download Images"
 msgstr ""
 
 msgctxt "duplicatedGroupNameHelpText"
-msgid "Group name must be unique."
+msgid "Group name must be unique"
 msgstr ""
 
 msgctxt "editContactDescription"
@@ -613,6 +643,10 @@ msgstr ""
 
 msgctxt "edit_contact_card_delete"
 msgid "Delete contact"
+msgstr ""
+
+msgctxt "edit_group_name"
+msgid "Edit group name"
 msgstr ""
 
 msgctxt "edit_read_only"
@@ -680,6 +714,15 @@ msgctxt "exporting_contact_list_title"
 msgid "Exporting contact data"
 msgstr ""
 
+#, python-format
+msgctxt "export_success_message"
+msgid "Exported %d contacts"
+msgstr ""
+
+msgctxt "export_success_title"
+msgid "Export successful"
+msgstr ""
+
 msgctxt "export_to_sdcard"
 msgid "Export to SD card"
 msgstr ""
@@ -699,7 +742,7 @@ msgstr ""
 
 #, python-format
 msgctxt "fail_reason_could_not_initialize_exporter"
-msgid "Could not initialize the exporter: \"%s\""
+msgid "Could not initialise the exporter: \"%s\""
 msgstr ""
 
 msgctxt "fail_reason_could_not_open_file"
@@ -708,7 +751,7 @@ msgstr ""
 
 #, python-format
 msgctxt "fail_reason_error_occurred_during_export"
-msgid "Error occured during export: \"%s\""
+msgid "Error occurred during export: \"%s\""
 msgstr ""
 
 #, python-format
@@ -756,7 +799,7 @@ msgid "\\#ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 msgstr ""
 
 msgctxt "favoriteContactDescription"
-msgid "Favorites"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "favoritesFrquentSeparator"
@@ -808,7 +851,7 @@ msgid "Go to album"
 msgstr ""
 
 msgctxt "groupsDefaultText"
-msgid "Syncronize groups"
+msgid "Synchronise groups"
 msgstr ""
 
 #, python-format
@@ -817,7 +860,7 @@ msgid "(%d)"
 msgstr ""
 
 msgctxt "group_delete_confirmation"
-msgid "The selected group will be deleted"
+msgid "The selected group will be deleted\\u0020"
 msgstr ""
 
 msgctxt "group_name_black_list"
@@ -858,7 +901,7 @@ msgid "%s member(s)"
 msgstr ""
 
 msgctxt "hasBeenFavoriteContactDescription"
-msgid "Favorites"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "imei"
@@ -902,11 +945,11 @@ msgid "Use photo"
 msgstr ""
 
 msgctxt "incoming_call_photo_saving"
-msgid "Saving Caller ID"
+msgid "Saving photo..."
 msgstr ""
 
 msgctxt "incoming_call_photo_title"
-msgid "Zoom or Move Photo"
+msgid "Zoom or Move or Rotate Photo"
 msgstr ""
 
 msgctxt "input_group_name_hint"
@@ -1026,11 +1069,11 @@ msgid "Add"
 msgstr ""
 
 msgctxt "menu_addStar"
-msgid "Add to Favorites"
+msgid "Add to Favourites"
 msgstr ""
 
 msgctxt "menu_add_favorite_contact"
-msgid "Add contact(s) to favorites"
+msgid "Add contact(s) to favourites"
 msgstr ""
 
 msgctxt "menu_add_member"
@@ -1076,7 +1119,7 @@ msgid "Show all contacts"
 msgstr ""
 
 msgctxt "menu_display_only_phones"
-msgid "Display contacts with phone number"
+msgid "Only show contacts with phone number"
 msgstr ""
 
 msgctxt "menu_done"
@@ -1128,11 +1171,15 @@ msgid "Remove"
 msgstr ""
 
 msgctxt "menu_removeStar"
-msgid "Remove from favorites"
+msgid "Remove from Favourites"
 msgstr ""
 
 msgctxt "menu_remove_member"
 msgid "Remove contact(s)"
+msgstr ""
+
+msgctxt "menu_remove_duplicate"
+msgid "Remove duplicates"
 msgstr ""
 
 msgctxt "menu_search"
@@ -1193,7 +1240,7 @@ msgid "Family name"
 msgstr ""
 
 msgctxt "name_full"
-msgid "Fullname"
+msgid "Full name"
 msgstr ""
 
 msgctxt "name_given"
@@ -1253,7 +1300,7 @@ msgid "Add to group"
 msgstr ""
 
 msgctxt "noContactHelpTextAddStarred"
-msgid "Add to favorites"
+msgid "Add to favourites"
 msgstr ""
 
 msgctxt "noContactHelpTextImportSD"
@@ -1273,15 +1320,15 @@ msgid "No contacts with phone numbers."
 msgstr ""
 
 msgctxt "noFavoriteHelpText"
-msgid "No Favorites, you can:"
+msgid "No Favourites, you can:"
+msgstr ""
+
+msgctxt "noGroupHelpText"
+msgid "No group"
 msgstr ""
 
 msgctxt "noGroupMemberHelpText"
 msgid "There is no group member, you can:"
-msgstr ""
-
-msgctxt "noGroupHelpText"
-msgid "No Group"
 msgstr ""
 
 msgctxt "noMatchingContacts"
@@ -1292,6 +1339,10 @@ msgctxt "notification_invalid_group_name"
 msgid "The group name cannot be blank"
 msgstr ""
 
+msgctxt "not_applied"
+msgid "Not supported"
+msgstr ""
+
 msgctxt "no_availablePhone"
 msgid "Phone number unavailable for the group"
 msgstr ""
@@ -1300,8 +1351,12 @@ msgctxt "no_contact_details"
 msgid "No additional information for this contact"
 msgstr ""
 
+msgctxt "no_duplicate_contacts"
+msgid "No duplicate contacts"
+msgstr ""
+
 msgctxt "no_member"
-msgid "The group is empty, no members found"
+msgid "Group contains no contacts"
 msgstr ""
 
 msgctxt "no_sdcard_message"
@@ -1322,11 +1377,11 @@ msgid "%s numbers"
 msgstr ""
 
 msgctxt "openDialKeyboard"
-msgid "Dialpad"
+msgid "Dial pad"
 msgstr ""
 
 msgctxt "organizationLabelsGroup"
-msgid "Organization"
+msgid "Organisation"
 msgstr ""
 
 msgctxt "payphone"
@@ -1511,7 +1566,7 @@ msgid "Contact has multiple numbers, select a number to use"
 msgstr ""
 
 msgctxt "recommneded_photos"
-msgid "Favorite photos"
+msgid "Favourite photos"
 msgstr ""
 
 msgctxt "remove"
@@ -1524,6 +1579,15 @@ msgstr ""
 
 msgctxt "removePicture"
 msgid "Remove icon"
+msgstr ""
+
+msgctxt "remove_duplicate_contacts"
+msgid "Deleting duplicate contacts..."
+msgstr ""
+
+#, python-format
+msgctxt "remove_duplicate_contacts_title"
+msgid "Delete %d duplicate contacts from the contacts list?"
 msgstr ""
 
 msgctxt "returnCall"
@@ -1557,6 +1621,10 @@ msgstr ""
 
 msgctxt "scanning_sdcard_failed_title"
 msgid "Scanning SD card failed"
+msgstr ""
+
+msgctxt "scan_duplicate_contacts"
+msgid "Searching for duplicate contacts..."
 msgstr ""
 
 msgctxt "searchHint"
@@ -1641,7 +1709,7 @@ msgid "Choose a contact shortcut"
 msgstr ""
 
 msgctxt "shortcutContact"
-msgid "Contact"
+msgid "Contacts"
 msgstr ""
 
 msgctxt "shortcutDialContact"
@@ -1796,7 +1864,7 @@ msgid "Starred"
 msgstr ""
 
 msgctxt "strequentList"
-msgid "Favorites"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "success_message_import_from_account"
@@ -1868,7 +1936,7 @@ msgid "W"
 msgstr ""
 
 msgctxt "unfavoriteContactDescription"
-msgid "Remove from Favorites"
+msgid "Remove from Favourites"
 msgstr ""
 
 msgctxt "unknown"
@@ -1899,6 +1967,10 @@ msgstr ""
 
 msgctxt "upgrade_out_of_memory_uninstall"
 msgid "Uninstall some applications"
+msgstr ""
+
+msgctxt "use_lunar_birthday"
+msgid "Lunar calendar"
 msgstr ""
 
 msgctxt "use_photo_as_primary"

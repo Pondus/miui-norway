@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:25+0200\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,5 +47,37 @@ msgstr ""
 
 msgctxt "animation:7"
 msgid "Cover Flow"
+msgstr ""
+
+msgctxt "animation_value:0"
+msgid "0"
+msgstr ""
+
+msgctxt "animation_value:1"
+msgid "1"
+msgstr ""
+
+msgctxt "animation_value:2"
+msgid "2"
+msgstr ""
+
+msgctxt "animation_value:3"
+msgid "3"
+msgstr ""
+
+msgctxt "animation_value:4"
+msgid "4"
+msgstr ""
+
+msgctxt "animation_value:5"
+msgid "5"
+msgstr ""
+
+msgctxt "animation_value:6"
+msgid "6"
+msgstr ""
+
+msgctxt "animation_value:7"
+msgid "7"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:25+0200\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,9 +21,22 @@ msgctxt "absence_of_sdcard"
 msgid "SD card is unmounted!"
 msgstr ""
 
+msgctxt "add_bookmark"
+msgid "Add to Favourites"
+msgstr ""
+
+msgctxt "add_hidden"
+msgid "Hide album"
+msgstr ""
+
 #, python-format
 msgctxt "already_saved"
 msgid "Photo already saved in %s"
+msgstr ""
+
+#, python-format
+msgctxt "already_select"
+msgid "Selected %s"
 msgstr ""
 
 msgctxt "animation_set"
@@ -35,7 +48,11 @@ msgid "Set as:"
 msgstr ""
 
 msgctxt "app_name"
-msgid "MIUI Gallery"
+msgid "Gallery"
+msgstr ""
+
+msgctxt "bookmark"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "caixin_content"
@@ -50,12 +67,28 @@ msgctxt "cancel"
 msgid "Cancel"
 msgstr ""
 
-msgctxt "cancel_hide"
+msgctxt "cancel_bookmark"
+msgid "Remove from Favourites"
+msgstr ""
+
+msgctxt "cancel_folder_cover"
+msgid "Remove album cover"
+msgstr ""
+
+msgctxt "cancel_hidden"
 msgid "Unhide"
+msgstr ""
+
+msgctxt "category_title"
+msgid "Categories"
 msgstr ""
 
 msgctxt "clear_cache_file"
 msgid "Empty cache files"
+msgstr ""
+
+msgctxt "confirm"
+msgid "OK"
 msgstr ""
 
 msgctxt "confirm_delete_file"
@@ -72,6 +105,10 @@ msgctxt "confirm_delete_selected_files"
 msgid "Selected files will be permanently deleted from the SD card"
 msgstr ""
 
+msgctxt "confirm_know"
+msgid "OK"
+msgstr ""
+
 msgctxt "contact_photo"
 msgid "Contact photo"
 msgstr ""
@@ -86,6 +123,10 @@ msgstr ""
 
 msgctxt "delete"
 msgid "Delete"
+msgstr ""
+
+msgctxt "delete_folder"
+msgid "Delete album"
 msgstr ""
 
 msgctxt "deleting_files"
@@ -112,12 +153,24 @@ msgctxt "email_attachment"
 msgid "E-mail attachment"
 msgstr ""
 
+msgctxt "enable_sd_card"
+msgid "Enable SD card"
+msgstr ""
+
+msgctxt "enter_selection"
+msgid "Editor"
+msgstr ""
+
 msgctxt "error"
 msgid "Error"
 msgstr ""
 
 msgctxt "failure_external_storage_not_writable"
 msgid "External storage is not writable!"
+msgstr ""
+
+msgctxt "favorite"
+msgid "Favourites"
 msgstr ""
 
 msgctxt "file"
@@ -128,8 +181,48 @@ msgctxt "file_create_time"
 msgid "Created:"
 msgstr ""
 
+msgctxt "file_info_create_time"
+msgid "Created:"
+msgstr ""
+
+msgctxt "file_info_dimension"
+msgid "Res:"
+msgstr ""
+
+msgctxt "file_info_duration"
+msgid "Duration:"
+msgstr ""
+
+msgctxt "file_info_geo_location"
+msgid "Location:"
+msgstr ""
+
+msgctxt "file_info_location"
+msgid "Location:"
+msgstr ""
+
+msgctxt "file_info_modified"
+msgid "Modified:"
+msgstr ""
+
+msgctxt "file_info_path"
+msgid "Path:"
+msgstr ""
+
+msgctxt "file_info_size"
+msgid "Size:"
+msgstr ""
+
+msgctxt "file_info_title"
+msgid "Title:"
+msgstr ""
+
 msgctxt "file_path"
 msgid "Path:"
+msgstr ""
+
+msgctxt "file_property"
+msgid "Properties"
 msgstr ""
 
 msgctxt "file_size"
@@ -137,7 +230,7 @@ msgid "Size:"
 msgstr ""
 
 msgctxt "file_title"
-msgid "Title:"
+msgid "Name:"
 msgstr ""
 
 msgctxt "file_width_height"
@@ -145,23 +238,11 @@ msgid "Resolution:"
 msgstr ""
 
 msgctxt "filter_small_image"
-msgid "Filter small image(s)"
+msgid "Filter small images"
 msgstr ""
 
 msgctxt "folder"
 msgid "Folder"
-msgstr ""
-
-msgctxt "folder_animation_set"
-msgid "Set animation in folder page"
-msgstr ""
-
-msgctxt "frontpage_animation_set"
-msgid "Set animation in home page"
-msgstr ""
-
-msgctxt "front_title"
-msgid "Gallery"
 msgstr ""
 
 msgctxt "gadget22_title"
@@ -180,12 +261,35 @@ msgctxt "gallery_save_folder"
 msgid "/MIUI/MIUIGallery"
 msgstr ""
 
+msgctxt "general_category"
+msgid "General settings"
+msgstr ""
+
 msgctxt "global_setting"
 msgid "Settings"
 msgstr ""
 
-msgctxt "hide_this_folder"
-msgid "Hide folder"
+msgctxt "go_parent_folder"
+msgid "Back"
+msgstr ""
+
+#, python-format
+msgctxt "how_many_pics"
+msgid "%d Photos"
+msgstr ""
+
+#, python-format
+msgctxt "how_many_sub_folders"
+msgid "%d Folders"
+msgstr ""
+
+#, python-format
+msgctxt "how_many_videos"
+msgid "%d Videos"
+msgstr ""
+
+msgctxt "image_property"
+msgid "Photo properties"
 msgstr ""
 
 msgctxt "image_size_threshold"
@@ -228,6 +332,26 @@ msgctxt "media_file_format_support"
 msgid "Media format"
 msgstr ""
 
+msgctxt "menu_item_sort"
+msgid "Sort"
+msgstr ""
+
+msgctxt "menu_item_sort_date"
+msgid "Date"
+msgstr ""
+
+msgctxt "menu_item_sort_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "menu_item_sort_size"
+msgid "Size"
+msgstr ""
+
+msgctxt "menu_item_sort_type"
+msgid "Type"
+msgstr ""
+
 msgctxt "miui_capture_screen_folder_display_name"
 msgid "MIUI Screenshots"
 msgstr ""
@@ -248,8 +372,16 @@ msgctxt "must_pick_file"
 msgid "Select an image"
 msgstr ""
 
-msgctxt "not_show_hidden"
-msgid "Do not show hidden files"
+msgctxt "new_folder_name"
+msgid "New folder"
+msgstr ""
+
+msgctxt "no"
+msgid "None"
+msgstr ""
+
+msgctxt "no_file"
+msgid "No files found"
 msgstr ""
 
 msgctxt "no_files"
@@ -260,12 +392,96 @@ msgctxt "ok"
 msgid "OK"
 msgstr ""
 
+msgctxt "open_map"
+msgid "Open map"
+msgstr ""
+
 msgctxt "open_single_image_failure"
 msgid "Failed to load image"
 msgstr ""
 
-msgctxt "page_preference"
-msgid "Page preferences"
+msgctxt "operation_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "operation_cancel_selectall"
+msgid "Deselect all"
+msgstr ""
+
+msgctxt "operation_copy"
+msgid "Copy"
+msgstr ""
+
+msgctxt "operation_create_folder"
+msgid "Create folder"
+msgstr ""
+
+msgctxt "operation_create_folder_message"
+msgid "Enter folder name"
+msgstr ""
+
+msgctxt "operation_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "operation_delete_confirm_message"
+msgid "Are you sure you wish to delete?"
+msgstr ""
+
+msgctxt "operation_deleting"
+msgid "Deleting..."
+msgstr ""
+
+msgctxt "operation_info"
+msgid "Details"
+msgstr ""
+
+msgctxt "operation_install"
+msgid "Install"
+msgstr ""
+
+msgctxt "operation_move"
+msgid "Move"
+msgstr ""
+
+msgctxt "operation_moving"
+msgid "Moving..."
+msgstr ""
+
+msgctxt "operation_paste"
+msgid "Paste"
+msgstr ""
+
+msgctxt "operation_pasting"
+msgid "Pasting..."
+msgstr ""
+
+msgctxt "operation_refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "operation_remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "operation_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "operation_rename_message"
+msgid "Enter new name"
+msgstr ""
+
+msgctxt "operation_selectall"
+msgid "Select all"
+msgstr ""
+
+msgctxt "operation_send"
+msgid "Send"
+msgstr ""
+
+msgctxt "page_category"
+msgid "Categories"
 msgstr ""
 
 msgctxt "pick_camera_app"
@@ -276,8 +492,16 @@ msgctxt "play_video"
 msgid "Play video"
 msgstr ""
 
+msgctxt "random_play"
+msgid "Random play"
+msgstr ""
+
 msgctxt "rescan_sdcard"
 msgid "Rescan SD card"
+msgstr ""
+
+msgctxt "reset_folder_cover"
+msgid "Restore default cover"
 msgstr ""
 
 #, python-format
@@ -295,6 +519,10 @@ msgstr ""
 
 msgctxt "resume_playing_title"
 msgid "Resume video"
+msgstr ""
+
+msgctxt "root_folder"
+msgid "Parent"
 msgstr ""
 
 msgctxt "running_face_detection"
@@ -317,6 +545,11 @@ msgctxt "save_pic_to_success"
 msgid "Picture successfully saved!"
 msgstr ""
 
+#, python-format
+msgctxt "save_to_hint"
+msgid "Saved to %s"
+msgstr ""
+
 msgctxt "save_to_sdcard"
 msgid "Save to SD card"
 msgstr ""
@@ -326,27 +559,76 @@ msgid "Saving picture..."
 msgstr ""
 
 msgctxt "saving_lockscreen"
-msgid "Setting lockscreen wallpaper, please wait..."
+msgid "Setting lockscreen wallpaper..."
 msgstr ""
 
 msgctxt "saving_wallpaper"
-msgid "Setting wallpaper, please wait..."
+msgid "Setting wallpaper..."
+msgstr ""
+
+msgctxt "scanning_folder"
+msgid "Scanning folders..."
 msgstr ""
 
 msgctxt "screen_saver_wallpaper"
 msgid "Lockscreen wallpaper"
 msgstr ""
 
+msgctxt "sdcard_busy_note"
+msgid "SD card busy, some features will be unavailable"
+msgstr ""
+
+msgctxt "sd_folder"
+msgid "SD card folder"
+msgstr ""
+
 msgctxt "select_all"
 msgid "Select all"
+msgstr ""
+
+msgctxt "select_file_hint"
+msgid "Select file(s)"
+msgstr ""
+
+msgctxt "select_photo_hint"
+msgid "Select a photo"
 msgstr ""
 
 msgctxt "send"
 msgid "Send"
 msgstr ""
 
+#, python-format
+msgctxt "sending_image_title"
+msgid "Send photo (%s)"
+msgstr ""
+
+#, python-format
+msgctxt "sending_video_title"
+msgid "Send video (%s)"
+msgstr ""
+
 msgctxt "send_method"
 msgid "Share"
+msgstr ""
+
+#, python-format
+msgctxt "send_multiple_files_hint_format"
+msgid "Send multiple files (%s)"
+msgstr ""
+
+#, python-format
+msgctxt "send_single_image_hint_format"
+msgid "Send photo (%s)"
+msgstr ""
+
+#, python-format
+msgctxt "send_single_video_hint_format"
+msgid "Send video (%s)"
+msgstr ""
+
+msgctxt "set_as_folder_cover"
+msgid "Set as album cover"
 msgstr ""
 
 msgctxt "set_contact_photo"
@@ -365,8 +647,12 @@ msgctxt "set_lockscreen_success"
 msgid "Successfully set lockscreen wallpaper!"
 msgstr ""
 
+msgctxt "set_lock_or_wallpaper"
+msgid "Set as wallpaper"
+msgstr ""
+
 msgctxt "set_wallpaper"
-msgid "Set as desktop wallpaper"
+msgid "Set as home screen wallpaper"
 msgstr ""
 
 msgctxt "set_wallpaper_failure"
@@ -377,12 +663,16 @@ msgctxt "set_wallpaper_success"
 msgid "Successfully set wallpaper!"
 msgstr ""
 
-msgctxt "show_hidden"
-msgid "Show hidden files"
+msgctxt "show_hidden_album"
+msgid "Show hidden album(s)"
 msgstr ""
 
 msgctxt "singleview_animation_set"
 msgid "Set animation to full screen image"
+msgstr ""
+
+msgctxt "slideshow_category"
+msgid "Slideshow"
 msgstr ""
 
 msgctxt "slideshow_interval"
@@ -393,8 +683,12 @@ msgctxt "slideshow_interval_dialog_title"
 msgid "Time interval must be greater than 0 seconds"
 msgstr ""
 
-msgctxt "slideshow_preference"
-msgid "Slideshow settings"
+msgctxt "slideshow_repeat_mode"
+msgid "Repeat"
+msgstr ""
+
+msgctxt "sort"
+msgid "Sort by"
 msgstr ""
 
 msgctxt "sort_by_create_time"
@@ -407,6 +701,42 @@ msgstr ""
 
 msgctxt "sort_by_file_size"
 msgid "Sort by size"
+msgstr ""
+
+msgctxt "sort_by_freq"
+msgid "Frequency ascending"
+msgstr ""
+
+msgctxt "sort_by_freq_reverse"
+msgid "Frequency descending"
+msgstr ""
+
+msgctxt "sort_by_name"
+msgid "By name (A-Z)"
+msgstr ""
+
+msgctxt "sort_by_name_reverse"
+msgid "By name (Z-A)"
+msgstr ""
+
+msgctxt "sort_by_size"
+msgid "Size ascending"
+msgstr ""
+
+msgctxt "sort_by_size_reverse"
+msgid "Size descending"
+msgstr ""
+
+msgctxt "sort_by_update_time"
+msgid "Date ascending"
+msgstr ""
+
+msgctxt "sort_by_update_time_reverse"
+msgid "Date descending"
+msgstr ""
+
+msgctxt "storage_warning"
+msgid "External storage not present or unavailable"
 msgstr ""
 
 msgctxt "support_gif_animation"
@@ -423,6 +753,18 @@ msgctxt "support_reflection"
 msgid "Enable reflection"
 msgstr ""
 
+msgctxt "tab_all_folders_title"
+msgid "All folders"
+msgstr ""
+
+msgctxt "tab_favorite_title"
+msgid "Favourites"
+msgstr ""
+
+msgctxt "tab_folder_tree_title"
+msgid "SD card"
+msgstr ""
+
 msgctxt "turn_left"
 msgid "Rotate left"
 msgstr ""
@@ -431,8 +773,20 @@ msgctxt "turn_right"
 msgid "Rotate right"
 msgstr ""
 
+msgctxt "unknown_location"
+msgid "Unknown location"
+msgstr ""
+
+msgctxt "unselect_all"
+msgid "Clear all"
+msgstr ""
+
 msgctxt "video_err"
 msgid "Unable to play video"
+msgstr ""
+
+msgctxt "video_property"
+msgid "Video properties"
 msgstr ""
 
 msgctxt "view_preference"
@@ -452,8 +806,10 @@ msgid "Warning"
 msgstr ""
 
 msgctxt "warning_rescan_sdcard"
-msgid ""
-"Rescan SD card? Warning: operation may take several minutes to complete! "
-"Are you sure?"
+msgid "Rescan SD card? Warning: Operation may take several minutes to complete!"
+msgstr ""
+
+msgctxt "yes"
+msgid "Yes"
 msgstr ""
 

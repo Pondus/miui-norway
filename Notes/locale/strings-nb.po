@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# Norwegian Bokmål translations for PROJECT.
 # Copyright (C) 2011 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
@@ -8,33 +8,31 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:28+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
 msgctxt "alert_message_delete_folder"
-msgid "Are you sure you wish to delete the folder and its notes?"
+msgid "Are you sure you wish to delete the folder and its note(s)?"
 msgstr ""
 
+msgctxt "alert_message_delete_note"
+msgid "Are you sure you wish to delete this note?"
+msgstr ""
+
+#, python-format
 msgctxt "alert_message_delete_notes"
-msgid "Are you sure you wish to delete?"
+msgid "Are you sure you wish to delete the selected %d note(s)?"
 msgstr ""
 
-msgctxt "alert_title_delete_folder"
-msgid "Delete selected folder(s)"
-msgstr ""
-
-msgctxt "alert_title_delete_note"
-msgid "Delete note"
-msgstr ""
-
-msgctxt "alert_title_delete_notes"
-msgid "Delete selected note(s)"
+msgctxt "alert_title_delete"
+msgid "Delete"
 msgstr ""
 
 msgctxt "app_name"
@@ -49,13 +47,16 @@ msgctxt "app_widget4x4"
 msgid "Notes 4x4"
 msgstr ""
 
-#, python-format
-msgctxt "btn_delete_with_number"
-msgid "Delete (%d)"
-msgstr ""
-
 msgctxt "button_cancel"
 msgid "Cancel"
+msgstr ""
+
+msgctxt "button_check"
+msgid "Select all"
+msgstr ""
+
+msgctxt "button_check_none"
+msgid "Deselect all"
 msgstr ""
 
 msgctxt "button_clear"
@@ -64,6 +65,10 @@ msgstr ""
 
 msgctxt "button_delete"
 msgid "Delete"
+msgstr ""
+
+msgctxt "button_move"
+msgid "Move"
 msgstr ""
 
 msgctxt "button_set"
@@ -78,8 +83,12 @@ msgctxt "error_note_empty_for_clock"
 msgid "Sorry, can not set clock on empty note"
 msgstr ""
 
+msgctxt "error_note_empty_for_send_to_desktop"
+msgid "Sorry, can not send and empty note to home screen"
+msgstr ""
+
 msgctxt "error_note_not_exist"
-msgid "The note is not exist"
+msgid "The note does not exist"
 msgstr ""
 
 msgctxt "error_sdcard_export"
@@ -95,7 +104,7 @@ msgid "Sync is canceled"
 msgstr ""
 
 msgctxt "error_sync_internal"
-msgid "Internal error occurs"
+msgid "Internal error occurred!"
 msgstr ""
 
 msgctxt "error_sync_network"
@@ -103,11 +112,7 @@ msgid "Sync failed, please check network and account settings"
 msgstr ""
 
 msgctxt "failed_sdcard_export"
-msgid "Export fail"
-msgstr ""
-
-msgctxt "failed_sync"
-msgid "Sync fail"
+msgid "Export failed"
 msgstr ""
 
 #, python-format
@@ -119,8 +124,8 @@ msgctxt "file_path"
 msgid "/MIUI/notes/"
 msgstr ""
 
-msgctxt "formate_sync_account"
-msgid "Sync is successful with account (%1$s)"
+msgctxt "folder_exist"
+msgid "The folder %1$s already exists, please rename"
 msgstr ""
 
 msgctxt "format_datetime_mdhm"
@@ -140,19 +145,19 @@ msgctxt "format_folder_files_count"
 msgid "(%d)"
 msgstr ""
 
+msgctxt "format_move_notes_to_folder"
+msgid "Moved %1$d note(s) to %2$s folder"
+msgstr ""
+
 msgctxt "hint_foler_name"
-msgid "Input name"
+msgid "Enter folder name"
 msgstr ""
 
 msgctxt "info_note_enter_desktop"
-msgid "Note added to home"
+msgid "Note added to home screen"
 msgstr ""
 
 msgctxt "menu_alert"
-msgid "Reminder"
-msgstr ""
-
-msgctxt "menu_alert_me"
 msgid "Remind me"
 msgstr ""
 
@@ -162,6 +167,10 @@ msgstr ""
 
 msgctxt "menu_delete"
 msgid "Delete"
+msgstr ""
+
+msgctxt "menu_edit"
+msgid "Editor"
 msgstr ""
 
 msgctxt "menu_export_text"
@@ -204,12 +213,16 @@ msgctxt "menu_list_mode"
 msgid "Enter check list"
 msgstr ""
 
+msgctxt "menu_move_parent_folder"
+msgid "Parent folder"
+msgstr ""
+
 msgctxt "menu_normal_mode"
 msgid "Leave check list"
 msgstr ""
 
 msgctxt "menu_send_to_desktop"
-msgid "Send to home"
+msgid "Send to home screen"
 msgstr ""
 
 msgctxt "menu_setting"
@@ -222,6 +235,14 @@ msgstr ""
 
 msgctxt "menu_sync"
 msgid "Sync"
+msgstr ""
+
+msgctxt "menu_sync_cancel"
+msgid "Cancel syncing"
+msgstr ""
+
+msgctxt "menu_title_select_folder"
+msgid "Select folder"
 msgstr ""
 
 msgctxt "notealert_enter"
@@ -264,20 +285,48 @@ msgctxt "note_link_web"
 msgid "Browse web"
 msgstr ""
 
-msgctxt "preferences_account_key"
-msgid "pref_sync_account_key"
+msgctxt "preferences_account_summary"
+msgid "Sync notes with Google Task"
 msgstr ""
 
 msgctxt "preferences_account_title"
-msgid "Sync account setting"
+msgid "Sync account"
 msgstr ""
 
 msgctxt "preferences_add_account"
 msgid "Add account"
 msgstr ""
 
-msgctxt "preferences_default_account"
-msgid "Default account"
+msgctxt "preferences_bg_random_appear_title"
+msgid "Random note color"
+msgstr ""
+
+msgctxt "preferences_button_sync_cancel"
+msgid "Cancel syncing"
+msgstr ""
+
+msgctxt "preferences_button_sync_immediately"
+msgid "Sync immediately"
+msgstr ""
+
+msgctxt "preferences_dialog_change_account_title"
+msgid "Current account %1$s"
+msgstr ""
+
+msgctxt "preferences_dialog_change_account_warn_msg"
+msgid ""
+"All sync related information will be deleted, which sometimes may result "
+"in duplicated items"
+msgstr ""
+
+msgctxt "preferences_dialog_select_account_tips"
+msgid ""
+"Please select a Google account. Local notes will be synced with Google "
+"Task"
+msgstr ""
+
+msgctxt "preferences_dialog_select_account_title"
+msgid "Sync notes"
 msgstr ""
 
 msgctxt "preferences_last_sync_time"
@@ -288,16 +337,40 @@ msgctxt "preferences_last_sync_time_format"
 msgid "yyyy-MM-dd hh:mm:ss"
 msgstr ""
 
+msgctxt "preferences_menu_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "preferences_menu_change_account"
+msgid "Change sync account"
+msgstr ""
+
+msgctxt "preferences_set_password_summary"
+msgid "Global password is required when starting notes application"
+msgstr ""
+
+msgctxt "preferences_set_password_title"
+msgid "Set personal password"
+msgstr ""
+
 msgctxt "preferences_title"
 msgid "Settings"
+msgstr ""
+
+msgctxt "preferences_toast_cannot_change_account"
+msgid "Cannot change the account because sync is in progress"
+msgstr ""
+
+msgctxt "preferences_toast_success_set_accout"
+msgid "%1$s has been set as the sync account"
 msgstr ""
 
 msgctxt "success_sdcard_export"
 msgid "Export successful"
 msgstr ""
 
-msgctxt "success_sync"
-msgid "Sync successful"
+msgctxt "success_sync_account"
+msgid "Sync is successful with account %1$s"
 msgstr ""
 
 msgctxt "sync_progress_init_list"
@@ -305,14 +378,126 @@ msgid "Getting remote note list..."
 msgstr ""
 
 msgctxt "sync_progress_login"
-msgid "Logging into Google Task..."
+msgid "Logging into %1$s..."
 msgstr ""
 
 msgctxt "sync_progress_syncing"
-msgid "Synchronize local notes with Google Task..."
+msgid "Synchronise local notes with Google Task..."
+msgstr ""
+
+msgctxt "ticker_cancel"
+msgid "Sync is canceled"
+msgstr ""
+
+msgctxt "ticker_fail"
+msgid "Failed to sync"
+msgstr ""
+
+msgctxt "ticker_success"
+msgid "Successfully synced"
+msgstr ""
+
+msgctxt "ticker_syncing"
+msgid "Syncing notes..."
 msgstr ""
 
 msgctxt "widget_havenot_content"
 msgid "No associated note found, click to create associated note."
 msgstr ""
+
+msgctxt "widget_under_visit_mode"
+msgid "Visitor mode, note content will be hidden"
+msgstr ""
+
+msgctxt "preferences_bg_random_appear_summary"
+msgid "Random backgrounds for notes"
+msgstr ""
+
+#~ msgctxt "alert_message_delete_folder"
+#~ msgid "Are you sure you wish to delete the folder and its notes?"
+#~ msgstr ""
+
+#~ msgctxt "alert_message_delete_notes"
+#~ msgid "Are you sure you wish to delete?"
+#~ msgstr ""
+
+#~ msgctxt "alert_title_delete_folder"
+#~ msgid "Delete selected folder(s)"
+#~ msgstr ""
+
+#~ msgctxt "alert_title_delete_note"
+#~ msgid "Delete note"
+#~ msgstr ""
+
+#~ msgctxt "alert_title_delete_notes"
+#~ msgid "Delete selected note(s)"
+#~ msgstr ""
+
+#~ msgctxt "btn_delete_with_number"
+#~ msgid "Delete (%d)"
+#~ msgstr ""
+
+#~ msgctxt "error_note_not_exist"
+#~ msgid "The note is not exist"
+#~ msgstr ""
+
+#~ msgctxt "error_sync_internal"
+#~ msgid "Internal error occurs"
+#~ msgstr ""
+
+#~ msgctxt "failed_sdcard_export"
+#~ msgid "Export fail"
+#~ msgstr ""
+
+#~ msgctxt "failed_sync"
+#~ msgid "Sync fail"
+#~ msgstr ""
+
+#~ msgctxt "formate_sync_account"
+#~ msgid "Sync is successful with account (%1$s)"
+#~ msgstr ""
+
+#~ msgctxt "hint_foler_name"
+#~ msgid "Input name"
+#~ msgstr ""
+
+#~ msgctxt "info_note_enter_desktop"
+#~ msgid "Note added to home"
+#~ msgstr ""
+
+#~ msgctxt "menu_alert"
+#~ msgid "Reminder"
+#~ msgstr ""
+
+#~ msgctxt "menu_alert_me"
+#~ msgid "Remind me"
+#~ msgstr ""
+
+#~ msgctxt "menu_send_to_desktop"
+#~ msgid "Send to home"
+#~ msgstr ""
+
+#~ msgctxt "preferences_account_key"
+#~ msgid "pref_sync_account_key"
+#~ msgstr ""
+
+#~ msgctxt "preferences_account_title"
+#~ msgid "Sync account setting"
+#~ msgstr ""
+
+#~ msgctxt "preferences_default_account"
+#~ msgid "Default account"
+#~ msgstr ""
+
+#~ msgctxt "success_sync"
+#~ msgid "Sync successful"
+#~ msgstr ""
+
+#~ msgctxt "sync_progress_login"
+#~ msgid "Logging into Google Task..."
+#~ msgstr ""
+
+#~ msgctxt "sync_progress_syncing"
+#~ msgid "Synchronize local notes with Google Task..."
+#~ msgstr ""
 
