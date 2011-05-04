@@ -1,0 +1,485 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "anti_shake"
+msgid "Anti shake"
+msgstr ""
+
+msgctxt "burst"
+msgid "Burst"
+msgstr ""
+
+msgctxt "camera_error_title"
+msgid "Camera error"
+msgstr ""
+
+msgctxt "camera_label"
+msgid "Camera"
+msgstr ""
+
+msgctxt "camera_settings"
+msgid "Camera Settings"
+msgstr ""
+
+msgctxt "cannot_connect_camera"
+msgid "Cannot connect to camera."
+msgstr ""
+
+msgctxt "color_effect"
+msgid "Color effect"
+msgstr ""
+
+msgctxt "confirm_delete_image_message"
+msgid "Are you sure you wish to delete this image?"
+msgstr ""
+
+msgctxt "delay_snap"
+msgid "Delay snap"
+msgstr ""
+
+msgctxt "details_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "disable_silence"
+msgid "Disable silence"
+msgstr ""
+
+msgctxt "flash_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "flash_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "flash_on"
+msgid "On"
+msgstr ""
+
+msgctxt "gallery_camera_bucket_name"
+msgid "Camera pictures"
+msgstr ""
+
+msgctxt "gallery_camera_videos_bucket_name"
+msgid "Camera videos"
+msgstr ""
+
+msgctxt "image_file_name_format"
+msgid "'IMG'_yyyyMMdd_HHmmss"
+msgstr ""
+
+msgctxt "key_camera_antishake"
+msgid "CAMERA_ANTI_SHAKE"
+msgstr ""
+
+msgctxt "key_camera_autofocus"
+msgid "CAMERA_AUTO_FOCUS"
+msgstr ""
+
+msgctxt "key_camera_exposure"
+msgid "CAMERA_EXPOSURE"
+msgstr ""
+
+msgctxt "key_camera_flashmode"
+msgid "CAMERA_FLASH_MODE"
+msgstr ""
+
+msgctxt "key_camera_jpegquality"
+msgid "CAMERA_JPEG_QUALITY"
+msgstr ""
+
+msgctxt "key_camera_picturesize_height"
+msgid "CAMERA_PICTURE_SIZE_HEIGHT"
+msgstr ""
+
+msgctxt "key_camera_picturesize_width"
+msgid "CAMERA_PICTURE_SIZE_WIDTH"
+msgstr ""
+
+msgctxt "key_camera_playback"
+msgid "CAMERA_PLAYBACK"
+msgstr ""
+
+msgctxt "key_camera_recordlocation"
+msgid "CAMERA_RECORD_LOCATION"
+msgstr ""
+
+msgctxt "key_camera_referenceline"
+msgid "CAMERA_REFERENCE_LINE"
+msgstr ""
+
+msgctxt "key_camera_screenshutter"
+msgid "CAMERA_SCREEN_SHUTTER"
+msgstr ""
+
+msgctxt "key_camera_sound"
+msgid "CAMERA_SOUND"
+msgstr ""
+
+msgctxt "key_video_flashmode"
+msgid "VIDEO_FLASH_MODE"
+msgstr ""
+
+msgctxt "key_video_quality"
+msgid "VIDEO_QUALITY"
+msgstr ""
+
+msgctxt "key_video_screenshutter"
+msgid "VIDEO_SCREEN_SHUTTER"
+msgstr ""
+
+msgctxt "not_enough_space"
+msgid "Your SD card is full."
+msgstr ""
+
+msgctxt "no_storage"
+msgid "Please insert an SD card before using the camera."
+msgstr ""
+
+msgctxt "pref_camera_autofocus"
+msgid "Auto focus"
+msgstr ""
+
+msgctxt "pref_camera_capturespeed_10latency"
+msgid "10s latency"
+msgstr ""
+
+msgctxt "pref_camera_capturespeed_single"
+msgid "Single"
+msgstr ""
+
+msgctxt "pref_camera_capturespeed_three"
+msgid "Continuous"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_aqua"
+msgid "Aqua"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_bluetint"
+msgid "Blue tint"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_greentint"
+msgid "Green tint"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_mono"
+msgid "Mono"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_mosaic"
+msgid "Mosaic"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_negative"
+msgid "Negative"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_none"
+msgid "None"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_pastel"
+msgid "Pastel"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_posterize"
+msgid "Posterize"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_redtint"
+msgid "Red tint"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_sepia"
+msgid "Sepia"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_solarize"
+msgid "Solarize"
+msgstr ""
+
+msgctxt "pref_camera_delaysnap_long"
+msgid "15s"
+msgstr ""
+
+msgctxt "pref_camera_delaysnap_off"
+msgid "None"
+msgstr ""
+
+msgctxt "pref_camera_delaysnap_short"
+msgid "5s"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_infinity"
+msgid "Infinity"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_macro"
+msgid "Macro"
+msgstr ""
+
+msgctxt "pref_camera_jpegquality_fine"
+msgid "Fine"
+msgstr ""
+
+msgctxt "pref_camera_jpegquality_normal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "pref_camera_jpegquality_superfine"
+msgid "Super fine"
+msgstr ""
+
+msgctxt "pref_camera_picturesize"
+msgid "Picture size"
+msgstr ""
+
+msgctxt "pref_camera_playback"
+msgid "Play back"
+msgstr ""
+
+msgctxt "pref_camera_playback_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "pref_camera_playback_on"
+msgid "On"
+msgstr ""
+
+msgctxt "pref_camera_quickcapture_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "pref_camera_quickcapture_on"
+msgid "On"
+msgstr ""
+
+msgctxt "pref_camera_recordlocation"
+msgid "Save location"
+msgstr ""
+
+msgctxt "pref_camera_recordlocation_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "pref_camera_recordlocation_on"
+msgid "On"
+msgstr ""
+
+msgctxt "pref_camera_referenceline"
+msgid "Composition grid"
+msgstr ""
+
+msgctxt "pref_camera_referenceline_goldenratio"
+msgid "Frame"
+msgstr ""
+
+msgctxt "pref_camera_referenceline_magicsquare"
+msgid "3x3"
+msgstr ""
+
+msgctxt "pref_camera_referenceline_none"
+msgid "None"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_action"
+msgid "Action"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_beach"
+msgid "Beach"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_fireworks"
+msgid "Fireworks"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_landscape"
+msgid "Landscape"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_night"
+msgid "Night"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_night_portrait"
+msgid "Night portrait"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_portrait"
+msgid "Portrait"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_snow"
+msgid "Snow"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_steadyphoto"
+msgid "Steady photo"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_sunset"
+msgid "Sunset"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_theatre"
+msgid "Theatre"
+msgstr ""
+
+msgctxt "pref_camera_shuttersound_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "pref_camera_shuttersound_on"
+msgid "On"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_cloudy"
+msgid "Cloudy"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_daylight"
+msgid "Daylight"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_fluorescent"
+msgid "Fluorescent"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_incandescent"
+msgid "Incandescent"
+msgstr ""
+
+msgctxt "pref_video_quality"
+msgid "Video Quality"
+msgstr ""
+
+msgctxt "pref_video_quality_720p"
+msgid "720P (30m)"
+msgstr ""
+
+msgctxt "pref_video_quality_high"
+msgid "High (30m)"
+msgstr ""
+
+msgctxt "pref_video_quality_low"
+msgid "Low (30m)"
+msgstr ""
+
+msgctxt "pref_video_quality_mms"
+msgid "MMS (Low, 30s)"
+msgstr ""
+
+msgctxt "preparing_sd"
+msgid "Preparing SD card..."
+msgstr ""
+
+msgctxt "review_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "review_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "review_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "review_retake"
+msgid "Retake"
+msgstr ""
+
+msgctxt "screen_shutter"
+msgid "Screen shutter"
+msgstr ""
+
+msgctxt "send_method"
+msgid "Send to"
+msgstr ""
+
+msgctxt "setting"
+msgid "Settings"
+msgstr ""
+
+msgctxt "silence"
+msgid "Silence"
+msgstr ""
+
+msgctxt "spaceIsLow_content"
+msgid ""
+"Your SD card is running out of space. Change the quality setting or "
+"delete items from Gallery."
+msgstr ""
+
+msgctxt "switch_to_camera"
+msgid "Camera"
+msgstr ""
+
+msgctxt "switch_to_camera_lable"
+msgid "Switch to camera"
+msgstr ""
+
+msgctxt "switch_to_video"
+msgid "Video"
+msgstr ""
+
+msgctxt "switch_to_video_lable"
+msgid "Switch to video"
+msgstr ""
+
+msgctxt "tag_coloreffect"
+msgid "COLOR_EFFECT_INDEX"
+msgstr ""
+
+msgctxt "video_camera_label"
+msgid "Camcorder"
+msgstr ""
+
+msgctxt "video_file_name_format"
+msgid "'VID'_yyyyMMdd_HHmmss"
+msgstr ""
+
+msgctxt "video_reach_size_limit"
+msgid "Size limit reached."
+msgstr ""
+
+msgctxt "wait"
+msgid "Please wait..."
+msgstr ""
+
+msgctxt "warning"
+msgid "Warning"
+msgstr ""
+
