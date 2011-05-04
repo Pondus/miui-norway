@@ -2135,9 +2135,13 @@
   <string name="year">år</string>
   <string name="years">år</string>
   <string name="yes">OK</string>
+<<<<<<< HEAD
 <<<<<<< .merge_file_a01688
 >>>>>>> 2f0a01dc662dc44016639980bce0485a2db679dc
 =======
   <string name="yesterday">I går</string>
 >>>>>>> .merge_file_a07892
+=======
+  <string name="yesterday">I går</string>
+>>>>>>> 24d1c2d896b95fb350ac11002ac4d65e3327fde1
 </resources>
