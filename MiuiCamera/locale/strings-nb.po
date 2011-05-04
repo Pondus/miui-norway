@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-04 20:07+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -18,37 +17,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
+#, fuzzy
 msgctxt "anti_shake"
 msgid "Anti shake"
-msgstr ""
+msgstr "Anti rist"
 
+#, fuzzy
 msgctxt "burst"
 msgid "Burst"
-msgstr ""
+msgstr "Burst"
 
 msgctxt "camera_error_title"
 msgid "Camera error"
-msgstr ""
+msgstr "Kamera feil"
 
 msgctxt "camera_label"
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 msgctxt "camera_settings"
 msgid "Camera Settings"
-msgstr ""
+msgstr "Kamera innstillinger"
 
 msgctxt "cannot_connect_camera"
 msgid "Cannot connect to camera."
-msgstr ""
+msgstr "Kan ikke koble til kamera."
 
 msgctxt "color_effect"
 msgid "Color effect"
-msgstr ""
+msgstr "Farge effekt"
 
 msgctxt "confirm_delete_image_message"
 msgid "Are you sure you wish to delete this image?"
-msgstr ""
+msgstr "Er du sikker på at du vil slette dette bildet?"
 
 msgctxt "delay_snap"
 msgid "Delay snap"
@@ -56,107 +57,107 @@ msgstr ""
 
 msgctxt "details_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "disable_silence"
 msgid "Disable silence"
-msgstr ""
+msgstr "Deaktiver stillhet"
 
 msgctxt "flash_auto"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgctxt "flash_off"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "flash_on"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgctxt "gallery_camera_bucket_name"
 msgid "Camera pictures"
-msgstr ""
+msgstr "Kamera bilder"
 
 msgctxt "gallery_camera_videos_bucket_name"
 msgid "Camera videos"
-msgstr ""
+msgstr "Kamera videoer"
 
 msgctxt "image_file_name_format"
 msgid "'IMG'_yyyyMMdd_HHmmss"
-msgstr ""
+msgstr "'IMG'_yyyyMMdd_HHmmss"
 
 msgctxt "key_camera_antishake"
 msgid "CAMERA_ANTI_SHAKE"
-msgstr ""
+msgstr "CAMERA_ANTI_SHAKE"
 
 msgctxt "key_camera_autofocus"
 msgid "CAMERA_AUTO_FOCUS"
-msgstr ""
+msgstr "CAMERA_AUTO_FOCUS"
 
 msgctxt "key_camera_exposure"
 msgid "CAMERA_EXPOSURE"
-msgstr ""
+msgstr "CAMERA_EXPOSURE"
 
 msgctxt "key_camera_flashmode"
 msgid "CAMERA_FLASH_MODE"
-msgstr ""
+msgstr "CAMERA_FLASH_MODE"
 
 msgctxt "key_camera_jpegquality"
 msgid "CAMERA_JPEG_QUALITY"
-msgstr ""
+msgstr "CAMERA_JPEG_QUALITY"
 
 msgctxt "key_camera_picturesize_height"
 msgid "CAMERA_PICTURE_SIZE_HEIGHT"
-msgstr ""
+msgstr "CAMERA_PICTURE_SIZE_HEIGHT"
 
 msgctxt "key_camera_picturesize_width"
 msgid "CAMERA_PICTURE_SIZE_WIDTH"
-msgstr ""
+msgstr "CAMERA_PICTURE_SIZE_WIDTH"
 
 msgctxt "key_camera_playback"
 msgid "CAMERA_PLAYBACK"
-msgstr ""
+msgstr "CAMERA_PLAYBACK"
 
 msgctxt "key_camera_recordlocation"
 msgid "CAMERA_RECORD_LOCATION"
-msgstr ""
+msgstr "CAMERA_RECORD_LOCATION"
 
 msgctxt "key_camera_referenceline"
 msgid "CAMERA_REFERENCE_LINE"
-msgstr ""
+msgstr "CAMERA_REFERENCE_LINE"
 
 msgctxt "key_camera_screenshutter"
 msgid "CAMERA_SCREEN_SHUTTER"
-msgstr ""
+msgstr "CAMERA_SCREEN_SHUTTER"
 
 msgctxt "key_camera_sound"
 msgid "CAMERA_SOUND"
-msgstr ""
+msgstr "CAMERA_SOUND"
 
 msgctxt "key_video_flashmode"
 msgid "VIDEO_FLASH_MODE"
-msgstr ""
+msgstr "VIDEO_FLASH_MODE"
 
 msgctxt "key_video_quality"
 msgid "VIDEO_QUALITY"
-msgstr ""
+msgstr "VIDEO_QUALITY"
 
 msgctxt "key_video_screenshutter"
 msgid "VIDEO_SCREEN_SHUTTER"
-msgstr ""
+msgstr "VIDEO_SCREEN_SHUTTER"
 
 msgctxt "not_enough_space"
 msgid "Your SD card is full."
-msgstr ""
+msgstr "SD kortet er fullt"
 
 msgctxt "no_storage"
 msgid "Please insert an SD card before using the camera."
-msgstr ""
+msgstr "Vennligst sett inn et SD kort før du bruker kameraet."
 
 msgctxt "pref_camera_autofocus"
 msgid "Auto focus"
-msgstr ""
+msgstr "Auto fokus"
 
 msgctxt "pref_camera_capturespeed_10latency"
 msgid "10s latency"
@@ -172,7 +173,7 @@ msgstr ""
 
 msgctxt "pref_camera_coloreffect_aqua"
 msgid "Aqua"
-msgstr ""
+msgstr "Aqua"
 
 msgctxt "pref_camera_coloreffect_bluetint"
 msgid "Blue tint"
@@ -188,15 +189,15 @@ msgstr ""
 
 msgctxt "pref_camera_coloreffect_mosaic"
 msgid "Mosaic"
-msgstr ""
+msgstr "Mosaikk"
 
 msgctxt "pref_camera_coloreffect_negative"
 msgid "Negative"
-msgstr ""
+msgstr "Negativ"
 
 msgctxt "pref_camera_coloreffect_none"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "pref_camera_coloreffect_pastel"
 msgid "Pastel"
@@ -212,35 +213,35 @@ msgstr ""
 
 msgctxt "pref_camera_coloreffect_sepia"
 msgid "Sepia"
-msgstr ""
+msgstr "Sepia"
 
 msgctxt "pref_camera_coloreffect_solarize"
 msgid "Solarize"
-msgstr ""
+msgstr "Solaris"
 
 msgctxt "pref_camera_delaysnap_long"
 msgid "15s"
-msgstr ""
+msgstr "15s"
 
 msgctxt "pref_camera_delaysnap_off"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "pref_camera_delaysnap_short"
 msgid "5s"
-msgstr ""
+msgstr "5s"
 
 msgctxt "pref_camera_focusmode_auto"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgctxt "pref_camera_focusmode_infinity"
 msgid "Infinity"
-msgstr ""
+msgstr "Infinity"
 
 msgctxt "pref_camera_focusmode_macro"
 msgid "Macro"
-msgstr ""
+msgstr "Macro"
 
 msgctxt "pref_camera_jpegquality_fine"
 msgid "Fine"
@@ -248,7 +249,7 @@ msgstr ""
 
 msgctxt "pref_camera_jpegquality_normal"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "pref_camera_jpegquality_superfine"
 msgid "Super fine"
@@ -256,7 +257,7 @@ msgstr ""
 
 msgctxt "pref_camera_picturesize"
 msgid "Picture size"
-msgstr ""
+msgstr "Bilde størrelse"
 
 msgctxt "pref_camera_playback"
 msgid "Play back"
@@ -264,31 +265,31 @@ msgstr ""
 
 msgctxt "pref_camera_playback_off"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "pref_camera_playback_on"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgctxt "pref_camera_quickcapture_off"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "pref_camera_quickcapture_on"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgctxt "pref_camera_recordlocation"
 msgid "Save location"
-msgstr ""
+msgstr "Lagre plassering"
 
 msgctxt "pref_camera_recordlocation_off"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "pref_camera_recordlocation_on"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgctxt "pref_camera_referenceline"
 msgid "Composition grid"
@@ -296,51 +297,51 @@ msgstr ""
 
 msgctxt "pref_camera_referenceline_goldenratio"
 msgid "Frame"
-msgstr ""
+msgstr "Ramme"
 
 msgctxt "pref_camera_referenceline_magicsquare"
 msgid "3x3"
-msgstr ""
+msgstr "3x3"
 
 msgctxt "pref_camera_referenceline_none"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "pref_camera_scenemode_action"
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 msgctxt "pref_camera_scenemode_auto"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgctxt "pref_camera_scenemode_beach"
 msgid "Beach"
-msgstr ""
+msgstr "Strand"
 
 msgctxt "pref_camera_scenemode_fireworks"
 msgid "Fireworks"
-msgstr ""
+msgstr "Fyrverkeri"
 
 msgctxt "pref_camera_scenemode_landscape"
 msgid "Landscape"
-msgstr ""
+msgstr "Landskap"
 
 msgctxt "pref_camera_scenemode_night"
 msgid "Night"
-msgstr ""
+msgstr "Natt"
 
 msgctxt "pref_camera_scenemode_night_portrait"
 msgid "Night portrait"
-msgstr ""
+msgstr "Natt portrett"
 
 msgctxt "pref_camera_scenemode_portrait"
 msgid "Portrait"
-msgstr ""
+msgstr "Portrett"
 
 msgctxt "pref_camera_scenemode_snow"
 msgid "Snow"
-msgstr ""
+msgstr "Snø"
 
 msgctxt "pref_camera_scenemode_steadyphoto"
 msgid "Steady photo"
@@ -348,31 +349,31 @@ msgstr ""
 
 msgctxt "pref_camera_scenemode_sunset"
 msgid "Sunset"
-msgstr ""
+msgstr "Solnedgangen"
 
 msgctxt "pref_camera_scenemode_theatre"
 msgid "Theatre"
-msgstr ""
+msgstr "Theater"
 
 msgctxt "pref_camera_shuttersound_off"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "pref_camera_shuttersound_on"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgctxt "pref_camera_whitebalance_auto"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgctxt "pref_camera_whitebalance_cloudy"
 msgid "Cloudy"
-msgstr ""
+msgstr "Skyete"
 
 msgctxt "pref_camera_whitebalance_daylight"
 msgid "Daylight"
-msgstr ""
+msgstr "Dagslys"
 
 msgctxt "pref_camera_whitebalance_fluorescent"
 msgid "Fluorescent"
@@ -384,39 +385,39 @@ msgstr ""
 
 msgctxt "pref_video_quality"
 msgid "Video Quality"
-msgstr ""
+msgstr "Video kvalitet"
 
 msgctxt "pref_video_quality_720p"
 msgid "720P (30m)"
-msgstr ""
+msgstr "720P (30m)"
 
 msgctxt "pref_video_quality_high"
 msgid "High (30m)"
-msgstr ""
+msgstr "Høy (30m)"
 
 msgctxt "pref_video_quality_low"
 msgid "Low (30m)"
-msgstr ""
+msgstr "Lav (30m)"
 
 msgctxt "pref_video_quality_mms"
 msgid "MMS (Low, 30s)"
-msgstr ""
+msgstr "MMS (Lav, 30s)"
 
 msgctxt "preparing_sd"
 msgid "Preparing SD card..."
-msgstr ""
+msgstr "Forbereder SD kort..."
 
 msgctxt "review_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "review_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "review_play"
 msgid "Play"
-msgstr ""
+msgstr "Spill"
 
 msgctxt "review_retake"
 msgid "Retake"
@@ -428,59 +429,57 @@ msgstr ""
 
 msgctxt "send_method"
 msgid "Send to"
-msgstr ""
+msgstr "Send til"
 
 msgctxt "setting"
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgctxt "silence"
 msgid "Silence"
-msgstr ""
+msgstr "Stille"
 
 msgctxt "spaceIsLow_content"
-msgid ""
-"Your SD card is running out of space. Change the quality setting or "
-"delete items from Gallery."
-msgstr ""
+msgid "Your SD card is running out of space. Change the quality setting or delete items from Gallery."
+msgstr "SD kortet begynner å bli fullt. Endre kvalitetsinnstillingene eller fjern ting fra Galleriet."
 
 msgctxt "switch_to_camera"
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 msgctxt "switch_to_camera_lable"
 msgid "Switch to camera"
-msgstr ""
+msgstr "Bytt til kamera"
 
 msgctxt "switch_to_video"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "switch_to_video_lable"
 msgid "Switch to video"
-msgstr ""
+msgstr "Bytt til video"
 
 msgctxt "tag_coloreffect"
 msgid "COLOR_EFFECT_INDEX"
-msgstr ""
+msgstr "COLOR_EFFECT_INDEX"
 
 msgctxt "video_camera_label"
 msgid "Camcorder"
-msgstr ""
+msgstr "Videokamera"
 
 msgctxt "video_file_name_format"
 msgid "'VID'_yyyyMMdd_HHmmss"
-msgstr ""
+msgstr "'VID'_yyyyMMdd_HHmmss"
 
 msgctxt "video_reach_size_limit"
 msgid "Size limit reached."
-msgstr ""
+msgstr "Størrelsegrensen nådd."
 
 msgctxt "wait"
 msgid "Please wait..."
-msgstr ""
+msgstr "Vennligst vent.."
 
 msgctxt "warning"
 msgid "Warning"
-msgstr ""
+msgstr "Advarsel"
 
