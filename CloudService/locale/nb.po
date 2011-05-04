@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 20:14+0100\n"
+"PO-Revision-Date: 2011-05-04 20:18+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -59,7 +59,7 @@ msgstr "Logger inn..."
 
 msgctxt "login_account_suggestion"
 msgid "If you are having trouble signing up, visit: http://www.miui.com"
-msgstr "Hvis du har problemer med å registrere deg, besok: http://www.miui.com"
+msgstr "Hvis du har problemer med å registrere deg, besøk: http://www.miui.com"
 
 msgctxt "logon"
 msgid "Login"
@@ -89,19 +89,17 @@ msgctxt "registered_account"
 msgid "Account has been registered"
 msgstr "Konto ble registrert"
 
-#, fuzzy
 msgctxt "service_disabled"
 msgid "Service disabled"
-msgstr "Service avslått"
+msgstr "Tjeneste avslått"
 
 msgctxt "service_name"
 msgid "MIUI Account Manager"
 msgstr "MIUI Konto adminstrasjon"
 
-#, fuzzy
 msgctxt "service_unavailable"
 msgid "Service unavailable"
-msgstr "Service ikke tilgjengelig"
+msgstr "Tjeneste ikke tilgjengelig"
 
 msgctxt "terms_not_agreed"
 msgid "You must agree to our terms to register"

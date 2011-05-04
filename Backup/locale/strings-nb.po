@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:14+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-04 20:22+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -20,23 +19,23 @@ msgstr ""
 
 msgctxt "account_hint"
 msgid "MIUI Account:"
-msgstr ""
+msgstr "MIUI Konto:"
 
 msgctxt "app_name"
 msgid "Backup"
-msgstr ""
+msgstr "Sikkerhetskopi"
 
 msgctxt "auto_backup"
 msgid "Automatic Backup"
-msgstr ""
+msgstr "Automatisk sikkerhetskopi"
 
 msgctxt "backup_delete"
 msgid "Delete:"
-msgstr ""
+msgstr "Slett:"
 
 msgctxt "backup_empty"
 msgid "No backup files found"
-msgstr ""
+msgstr "Ingen sikkerkopierte filer funnet"
 
 msgctxt "backup_file_error"
 msgid "There was a problem with the backup, the operation was not valid."
@@ -56,11 +55,11 @@ msgstr ""
 
 msgctxt "backup_new"
 msgid "New:"
-msgstr ""
+msgstr "Ny:"
 
 msgctxt "backup_progress"
 msgid "Backing up..."
-msgstr ""
+msgstr "Sikkerhetskopierer..."
 
 msgctxt "backup_recently"
 msgid "\\u0020(Latest)"
@@ -68,11 +67,11 @@ msgstr ""
 
 msgctxt "backup_stores_hint"
 msgid "Back up:"
-msgstr ""
+msgstr "Sikkerhetskopier:"
 
 msgctxt "backup_update"
 msgid "Update"
-msgstr ""
+msgstr "Oppdater"
 
 msgctxt "batch_delete_backup_confirm"
 msgid ""
@@ -82,35 +81,35 @@ msgstr ""
 
 msgctxt "btn_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "btn_done"
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 msgctxt "button_backup"
 msgid "Backup"
-msgstr ""
+msgstr "Sikkerhetskopier"
 
 msgctxt "button_backup_now"
 msgid "Backup now"
-msgstr ""
+msgstr "Sikkerhetskopier nå"
 
 msgctxt "button_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "button_finish"
 msgid "Finish"
-msgstr ""
+msgstr "Ferdig"
 
 msgctxt "button_next"
 msgid "Next"
-msgstr ""
+msgstr "Neste"
 
 msgctxt "button_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "button_restore_data"
 msgid "Restore data"
@@ -118,15 +117,15 @@ msgstr ""
 
 msgctxt "button_return"
 msgid "Back"
-msgstr ""
+msgstr "Tilbake"
 
 msgctxt "button_searching"
 msgid "Searching"
-msgstr ""
+msgstr "Søker"
 
 msgctxt "cancel_backup"
 msgid "Cancel Backup"
-msgstr ""
+msgstr "Stopp sikkerhetskopiering"
 
 msgctxt "cancel_restore"
 msgid "Cancel Restore"
@@ -190,7 +189,7 @@ msgstr ""
 
 msgctxt "local_app_name"
 msgid "Backup"
-msgstr ""
+msgstr "Sikkerhetskopi"
 
 msgctxt "local_backup_hint1"
 msgid "Backup contacts, call records and text messages"
@@ -222,11 +221,11 @@ msgstr ""
 
 msgctxt "local_select_sysdata"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgctxt "local_select_userapp"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 msgctxt "menu_debug_host"
 msgid "Test Server"
@@ -250,7 +249,7 @@ msgstr ""
 
 msgctxt "menu_reset_sms"
 msgid "Reset SMS"
-msgstr ""
+msgstr "Reset SMS"
 
 msgctxt "menu_reset_task"
 msgid "Reset background tasks"
@@ -297,9 +296,7 @@ msgid "Writing..."
 msgstr ""
 
 msgctxt "restore_contacts_hit"
-msgid ""
-"(Note: You need to manually restore Contacts established before the "
-"original account)"
+msgid "(Note: You need to manually restore Contacts established before the original account)"
 msgstr ""
 
 msgctxt "restore_counts"
@@ -396,7 +393,7 @@ msgstr ""
 
 msgctxt "task_pre_running"
 msgid "Preparing"
-msgstr ""
+msgstr "Forbereder"
 
 msgctxt "task_progress"
 msgid "Progress"
@@ -415,9 +412,7 @@ msgid "Background backup and recovery is in progress, view it, press OK"
 msgstr ""
 
 msgctxt "task_running_hint"
-msgid ""
-"Service is running in the background, please try again to restore this "
-"backup!"
+msgid "Service is running in the background, please try again to restore this backup!"
 msgstr ""
 
 msgctxt "task_service_not_launched"
@@ -438,5 +433,5 @@ msgstr ""
 
 msgctxt "welcome_cloud_backup"
 msgid "Cloud Backup"
-msgstr ""
+msgstr "Sky lagring"
 
