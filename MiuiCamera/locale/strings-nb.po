@@ -17,10 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-#, fuzzy
 msgctxt "anti_shake"
 msgid "Anti shake"
-msgstr "Anti rist"
+msgstr "Anti-risting"
 
 #, fuzzy
 msgctxt "burst"
@@ -37,7 +36,7 @@ msgstr "Kamera"
 
 msgctxt "camera_settings"
 msgid "Camera Settings"
-msgstr "Kamera innstillinger"
+msgstr "Kamerainnstillinger"
 
 msgctxt "cannot_connect_camera"
 msgid "Cannot connect to camera."
@@ -45,7 +44,7 @@ msgstr "Kan ikke koble til kamera."
 
 msgctxt "color_effect"
 msgid "Color effect"
-msgstr "Farge effekt"
+msgstr "Fargeeffekt"
 
 msgctxt "confirm_delete_image_message"
 msgid "Are you sure you wish to delete this image?"
@@ -53,7 +52,7 @@ msgstr "Er du sikker på at du vil slette dette bildet?"
 
 msgctxt "delay_snap"
 msgid "Delay snap"
-msgstr ""
+msgstr "Forsinket bilde"
 
 msgctxt "details_ok"
 msgid "OK"
@@ -77,11 +76,11 @@ msgstr "På"
 
 msgctxt "gallery_camera_bucket_name"
 msgid "Camera pictures"
-msgstr "Kamera bilder"
+msgstr "Kamerabilder"
 
 msgctxt "gallery_camera_videos_bucket_name"
 msgid "Camera videos"
-msgstr "Kamera videoer"
+msgstr "Kameravideoer"
 
 msgctxt "image_file_name_format"
 msgid "'IMG'_yyyyMMdd_HHmmss"
@@ -149,27 +148,27 @@ msgstr "VIDEO_SCREEN_SHUTTER"
 
 msgctxt "not_enough_space"
 msgid "Your SD card is full."
-msgstr "SD kortet er fullt"
+msgstr "Ditt SD-kort er fullt"
 
 msgctxt "no_storage"
 msgid "Please insert an SD card before using the camera."
-msgstr "Vennligst sett inn et SD kort før du bruker kameraet."
+msgstr "Vennligst sett inn et SD-kort før du bruker kameraet."
 
 msgctxt "pref_camera_autofocus"
 msgid "Auto focus"
-msgstr "Auto fokus"
+msgstr "Auto-fokus"
 
 msgctxt "pref_camera_capturespeed_10latency"
 msgid "10s latency"
-msgstr ""
+msgstr "10s forsinkelse"
 
 msgctxt "pref_camera_capturespeed_single"
 msgid "Single"
-msgstr ""
+msgstr "Enkel"
 
 msgctxt "pref_camera_capturespeed_three"
 msgid "Continuous"
-msgstr ""
+msgstr "Fortsettende"
 
 msgctxt "pref_camera_coloreffect_aqua"
 msgid "Aqua"
@@ -177,7 +176,7 @@ msgstr "Aqua"
 
 msgctxt "pref_camera_coloreffect_bluetint"
 msgid "Blue tint"
-msgstr "Blå tøne"
+msgstr "Blå tone"
 
 msgctxt "pref_camera_coloreffect_greentint"
 msgid "Green tint"
@@ -209,7 +208,7 @@ msgstr ""
 
 msgctxt "pref_camera_coloreffect_redtint"
 msgid "Red tint"
-msgstr "Red tone"
+msgstr "Rød tone"
 
 msgctxt "pref_camera_coloreffect_sepia"
 msgid "Sepia"
@@ -237,7 +236,7 @@ msgstr "Auto"
 
 msgctxt "pref_camera_focusmode_infinity"
 msgid "Infinity"
-msgstr "Infinity"
+msgstr "Uendelig"
 
 msgctxt "pref_camera_focusmode_macro"
 msgid "Macro"
@@ -245,7 +244,7 @@ msgstr "Macro"
 
 msgctxt "pref_camera_jpegquality_fine"
 msgid "Fine"
-msgstr ""
+msgstr "Skarp"
 
 msgctxt "pref_camera_jpegquality_normal"
 msgid "Normal"
@@ -253,11 +252,11 @@ msgstr "Normal"
 
 msgctxt "pref_camera_jpegquality_superfine"
 msgid "Super fine"
-msgstr ""
+msgstr "Ekstra skarp"
 
 msgctxt "pref_camera_picturesize"
 msgid "Picture size"
-msgstr "Bilde størrelse"
+msgstr "Bildestørrelse"
 
 msgctxt "pref_camera_playback"
 msgid "Play back"
@@ -309,7 +308,7 @@ msgstr "Ingen"
 
 msgctxt "pref_camera_scenemode_action"
 msgid "Action"
-msgstr "Action"
+msgstr "Handling"
 
 msgctxt "pref_camera_scenemode_auto"
 msgid "Auto"
@@ -333,7 +332,7 @@ msgstr "Natt"
 
 msgctxt "pref_camera_scenemode_night_portrait"
 msgid "Night portrait"
-msgstr "Natt portrett"
+msgstr "Natt-portrett"
 
 msgctxt "pref_camera_scenemode_portrait"
 msgid "Portrait"
@@ -345,15 +344,15 @@ msgstr "Snø"
 
 msgctxt "pref_camera_scenemode_steadyphoto"
 msgid "Steady photo"
-msgstr ""
+msgstr "Stødig bilde"
 
 msgctxt "pref_camera_scenemode_sunset"
 msgid "Sunset"
-msgstr "Solnedgangen"
+msgstr "Solnedgang"
 
 msgctxt "pref_camera_scenemode_theatre"
 msgid "Theatre"
-msgstr "Theater"
+msgstr "Teater"
 
 msgctxt "pref_camera_shuttersound_off"
 msgid "Off"
@@ -385,7 +384,7 @@ msgstr ""
 
 msgctxt "pref_video_quality"
 msgid "Video Quality"
-msgstr "Video kvalitet"
+msgstr "Videokvalitet"
 
 msgctxt "pref_video_quality_720p"
 msgid "720P (30m)"
@@ -405,7 +404,7 @@ msgstr "MMS (Lav, 30s)"
 
 msgctxt "preparing_sd"
 msgid "Preparing SD card..."
-msgstr "Forbereder SD kort..."
+msgstr "Forbereder SD-kort..."
 
 msgctxt "review_cancel"
 msgid "Cancel"
@@ -421,7 +420,7 @@ msgstr "Spill"
 
 msgctxt "review_retake"
 msgid "Retake"
-msgstr ""
+msgstr "Prøv på nytt"
 
 msgctxt "screen_shutter"
 msgid "Screen shutter"
@@ -437,11 +436,11 @@ msgstr "Innstillinger"
 
 msgctxt "silence"
 msgid "Silence"
-msgstr "Stille"
+msgstr "Stillhet"
 
 msgctxt "spaceIsLow_content"
 msgid "Your SD card is running out of space. Change the quality setting or delete items from Gallery."
-msgstr "SD kortet begynner å bli fullt. Endre kvalitetsinnstillingene eller fjern ting fra Galleriet."
+msgstr "SD-kortet begynner å bli fullt. Endre kvalitetsinnstillingene eller fjern elementer fra galleriet."
 
 msgctxt "switch_to_camera"
 msgid "Camera"
@@ -473,7 +472,7 @@ msgstr "'VID'_yyyyMMdd_HHmmss"
 
 msgctxt "video_reach_size_limit"
 msgid "Size limit reached."
-msgstr "Størrelsegrensen nådd."
+msgstr "Størrelsegrensen er nådd."
 
 msgctxt "wait"
 msgid "Please wait..."
