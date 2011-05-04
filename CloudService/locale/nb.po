@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:15+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-04 20:14+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -20,97 +19,99 @@ msgstr ""
 
 msgctxt "account_deleted"
 msgid "Account deleted"
-msgstr ""
+msgstr "Konto slettet"
 
 msgctxt "account_disabled"
 msgid "Account disabled"
-msgstr ""
+msgstr "Konto fjernet"
 
 msgctxt "app_name"
 msgid "MIUI Account Manager"
-msgstr ""
+msgstr "MIUI Konto adminstrasjon"
 
 msgctxt "authenticator_label"
 msgid "MIUI"
-msgstr ""
+msgstr "MIUI"
 
 msgctxt "bad_authentication"
 msgid "Your username and password do not match, please try again."
-msgstr ""
+msgstr "Brukernavnet og passordet ditt matcher ikke, prøv igjen."
 
 msgctxt "bad_username"
 msgid "The text entered is not a valid username"
-msgstr ""
+msgstr "Teksten du skrev inn er ikke et gyldig brukernavn"
 
 msgctxt "bad_verification"
 msgid "Registration error"
-msgstr ""
+msgstr "Registrasjons feil"
 
 msgctxt "email"
 msgid "E-mail:"
-msgstr ""
+msgstr "E-mail:"
 
 msgctxt "email_not_verified"
 msgid "E-mail account not yet verified"
-msgstr ""
+msgstr "E-mail kontoen er ikke verifisert enda"
 
 msgctxt "loging_on"
 msgid "Logging in..."
-msgstr ""
+msgstr "Logger inn..."
 
 msgctxt "login_account_suggestion"
 msgid "If you are having trouble signing up, visit: http://www.miui.com"
-msgstr ""
+msgstr "Hvis du har problemer med å registrere deg, besok: http://www.miui.com"
 
 msgctxt "logon"
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 msgctxt "must_input"
 msgid "Required field"
-msgstr ""
+msgstr "Obligatorisk felt"
 
 msgctxt "my_account"
 msgid "My MIUI Profile"
-msgstr ""
+msgstr "Min MIUI profil"
 
 msgctxt "network_error"
 msgid "Network connection error, please check mobile data is active and available"
-msgstr ""
+msgstr "Nettverks feil, sjekk at mobil data er aktiv og tilgjengelig"
 
 msgctxt "nickname"
 msgid "Name / Alias:"
-msgstr ""
+msgstr "Navn / Alias:"
 
 msgctxt "password"
 msgid "Password:"
-msgstr ""
+msgstr "Passord:"
 
 msgctxt "registered_account"
 msgid "Account has been registered"
-msgstr ""
+msgstr "Konto ble registrert"
 
+#, fuzzy
 msgctxt "service_disabled"
 msgid "Service disabled"
-msgstr ""
+msgstr "Service avslått"
 
 msgctxt "service_name"
 msgid "MIUI Account Manager"
-msgstr ""
+msgstr "MIUI Konto adminstrasjon"
 
+#, fuzzy
 msgctxt "service_unavailable"
 msgid "Service unavailable"
-msgstr ""
+msgstr "Service ikke tilgjengelig"
 
 msgctxt "terms_not_agreed"
 msgid "You must agree to our terms to register"
-msgstr ""
+msgstr "Du må godkjenne våre vilkår for å kunne registreres"
 
 msgctxt "unknown"
 msgid "Unknown error"
-msgstr ""
+msgstr "Ukjent feil"
 
 msgctxt "username"
 msgid "Username:"
-msgstr ""
+msgstr "Brukernavn:"
 
