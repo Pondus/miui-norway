@@ -1,22 +1,19 @@
+# Thor K.H. <nitrolinken@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-03 21:28+0200\n"
-"PO-Revision-Date: 2011-05-05 23:03+0100\n"
-"Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
-"Language-Team: MIUI Norway <nitrolinken@gmail.com>\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: nb <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"PO-Revision-Date: 2011-05-05 23:53+0100\n"
+"Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
+"Language-Team: MIUI Norway\n"
+"Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Virtaal 0.6.1\n"
 "Generated-By: Babel 1.0dev\n"
-"X-Poedit-Language: Norwegian Bokmal\n"
-"X-Poedit-Country: NORWAY\n"
 
 msgctxt "about_settings"
 msgid "About Phone"
@@ -55,12 +52,10 @@ msgctxt "accessibility_power_button_ends_call_summary"
 msgid "During a call, press the power button to end the call instead of turning off the screen"
 msgstr ""
 
-#, fuzzy
 msgctxt "accessibility_services_category"
 msgid "Accessibility services"
-msgstr "Tjenester for tilgjengelighet"
+msgstr "Tilgjengelighetstjenester"
 
-#, fuzzy
 msgctxt "accessibility_service_disable_warning"
 msgid "Disable accessibility?"
 msgstr "Slå av tilgjengelighetsstøtten?"
@@ -91,9 +86,8 @@ msgstr ""
 
 msgctxt "accessibility_settings"
 msgid "Accessibility Settings"
-msgstr "Tilgjengellighets innstillinger"
+msgstr "Tilgjengelighetsinnstillinger"
 
-#, fuzzy
 msgctxt "accessibility_settings_summary"
 msgid "Manage accessibility options"
 msgstr "Tilgjengelighetsvalg"
@@ -168,12 +162,10 @@ msgctxt "all_volume_title"
 msgid "Volume"
 msgstr "Volum"
 
-#, fuzzy
 msgctxt "animations_summary_off"
 msgid "Show animation when opening & closing windows"
 msgstr "Vis animasjoner når vinduer åpnes og lukkes"
 
-#, fuzzy
 msgctxt "animations_summary_on"
 msgid "Show animation when opening & closing windows"
 msgstr "Vis animasjoner når vinduer åpnes og lukkes"
@@ -186,7 +178,6 @@ msgctxt "apn_apn"
 msgid "APN"
 msgstr "APN"
 
-#, fuzzy
 msgctxt "apn_auth_type"
 msgid "Authentication type"
 msgstr "Autentiseringstype"
@@ -205,11 +196,11 @@ msgstr "PAP"
 
 msgctxt "apn_auth_type_pap_chap"
 msgid "PAP or CHAP"
-msgstr "PAP or CHAP"
+msgstr "PAP eller CHAP"
 
 msgctxt "apn_edit"
 msgid "Edit access point"
-msgstr "Endre aksess punkt"
+msgstr "Rediger tilgangspunkt"
 
 msgctxt "apn_http_port"
 msgid "Port"
@@ -5445,59 +5436,49 @@ msgctxt "status_roaming"
 msgid "Roaming"
 msgstr "Roamer"
 
-#, fuzzy
 msgctxt "status_service_state"
 msgid "Service state"
-msgstr "Servicestatus"
+msgstr "Tjenestestatus"
 
-#, fuzzy
 msgctxt "status_signal_strength"
 msgid "Signal strength"
 msgstr "Signalstyrke"
 
-#, fuzzy
 msgctxt "status_unavailable"
 msgid "Unavailable"
 msgstr "Ikke tilgjengelig"
 
-#, fuzzy
 msgctxt "status_up_time"
 msgid "Up time"
 msgstr "Oppetid"
 
-#, fuzzy
 msgctxt "status_wifi_mac_address"
 msgid "Wi-Fi MAC address"
 msgstr "MAC-adresse for WLAN"
 
-#, fuzzy
 msgctxt "storageuse_settings_summary"
 msgid "View storage used by applications"
 msgstr "Vis lagringsplass brukt av applikasjoner"
 
-#, fuzzy
 msgctxt "storageuse_settings_title"
 msgid "Storage use"
 msgstr "Bruk av lagringsplass"
 
-#, fuzzy
 msgctxt "storage_label"
 msgid "Storage"
 msgstr "Lagring"
 
-#, fuzzy
 msgctxt "storage_settings"
 msgid "SD card"
-msgstr "Formaterer USB-lagring"
+msgstr "SD-kort"
 
 msgctxt "storage_settings_summary"
 msgid "Unmount SD card, view available storage"
 msgstr ""
 
-#, fuzzy
 msgctxt "storage_settings_title"
 msgid "SD card Settings"
-msgstr "Formaterer USB-lagring"
+msgstr "USB-lagringsinnstillinger"
 
 msgctxt "summary_off_haptic_feedback_all"
 msgid "Do not use haptic feedback when making screen selections"
@@ -5515,7 +5496,6 @@ msgctxt "summary_on_haptic_feedback_up"
 msgid "Use haptic feedback on key release for softkeys and certain UI interactions"
 msgstr ""
 
-#, fuzzy
 msgctxt "sum_carrier_select"
 msgid "Select a network operator"
 msgstr "Velg en nettverksoperatør"
@@ -5525,7 +5505,6 @@ msgctxt "supplicant_state_label"
 msgid "Supplicant State :"
 msgstr "Eksplisitt tilstand"
 
-#, fuzzy
 msgctxt "sync_settings"
 msgid "Accounts & Sync"
 msgstr "Kontoer/synkronisering"
@@ -5535,47 +5514,38 @@ msgctxt "sync_settings_summary"
 msgid "Add or remove accounts and change account settings"
 msgstr "Legge til eller fjerne kontoer og endre kontoinnstillinger"
 
-#, fuzzy
 msgctxt "sync_settings_title"
 msgid "Accounts & Sync Settings"
-msgstr "lese synkroniseringsinnstillinger"
+msgstr "Kontoer/synkroniserings-innstillinger"
 
-#, fuzzy
 msgctxt "system_hardware_category"
 msgid "System & Hardware"
 msgstr "Maskinvarekontroll"
 
-#, fuzzy
 msgctxt "system_package"
 msgid "System updates cannot be installed on external media."
 msgstr "Systemoppdateringer kan ikke installeres på eksterne medier."
 
-#, fuzzy
 msgctxt "system_settings_tab"
 msgid "System"
 msgstr "System"
 
-#, fuzzy
 msgctxt "system_tutorial_list_item_summary"
 msgid "Learn how to use your phone"
 msgstr "Lær om bruk av telefonen"
 
-#, fuzzy
 msgctxt "system_tutorial_list_item_title"
 msgid "System tutorial"
 msgstr "Systemopplæring"
 
-#, fuzzy
 msgctxt "system_update_settings_list_item_title"
 msgid "System updates"
 msgstr "Systemoppdateringer"
 
-#, fuzzy
 msgctxt "system_update_settings_title"
 msgid "System Update"
 msgstr "Inkrementell oppdatering"
 
-#, fuzzy
 msgctxt "terms_title"
 msgid "Terms & Conditions"
 msgstr "Betingelser"
@@ -6636,7 +6606,7 @@ msgstr "Legg til Wi-Fi nettverk"
 
 msgctxt "wifi_advanced_mac_address_title"
 msgid "MAC Address"
-msgstr "MAC adresse"
+msgstr "MAC-adresse"
 
 msgctxt "wifi_advanced_settings"
 msgid "Advanced"
@@ -6681,7 +6651,7 @@ msgstr "Anonym identitet"
 
 msgctxt "wifi_eap_ca_cert"
 msgid "CA certificate"
-msgstr "CA sertifikat"
+msgstr "CA-sertifikat"
 
 msgctxt "wifi_eap_identity"
 msgid "Identity"
@@ -6694,7 +6664,7 @@ msgstr "EAP-metode"
 
 msgctxt "wifi_eap_user_cert"
 msgid "User certificate"
-msgstr "Bruke sertifikat"
+msgstr "Klientsertifikat"
 
 msgctxt "wifi_error"
 msgid "Error"
@@ -6722,7 +6692,7 @@ msgstr "IP adresse"
 
 msgctxt "wifi_ip_settings_invalid_ip"
 msgid "Please type a valid IP address."
-msgstr "Vennligst skriv en gyldig IP adresse."
+msgstr "Vennligst skriv en gyldig IP-adresse."
 
 msgctxt "wifi_ip_settings_menu_cancel"
 msgid "Cancel"
@@ -6734,7 +6704,7 @@ msgstr "Lagre"
 
 msgctxt "wifi_ip_settings_titlebar"
 msgid "IP Settings"
-msgstr "IP innstillinger"
+msgstr "IP-innstillinger"
 
 msgctxt "wifi_menu_advanced"
 msgid "Advanced"
@@ -6742,7 +6712,7 @@ msgstr "Avansert"
 
 msgctxt "wifi_menu_connect"
 msgid "Connect to network"
-msgstr "Koble til nettverk"
+msgstr "Koble til nettverket"
 
 msgctxt "wifi_menu_forget"
 msgid "Forget network"
@@ -6758,7 +6728,7 @@ msgstr "Skann"
 
 msgctxt "wifi_netmask"
 msgid "Netmask"
-msgstr "Netmask"
+msgstr "Nettmaske"
 
 #, fuzzy
 msgctxt "wifi_notify_open_networks"
@@ -6772,7 +6742,7 @@ msgstr "Varsle når et åpent nettverk er tilgjengelig"
 
 msgctxt "wifi_not_in_range"
 msgid "Not in range"
-msgstr "Ikke innenfor dekningsområde"
+msgstr "Utenfor dekningsområde"
 
 #, fuzzy
 msgctxt "wifi_on_time"
@@ -6785,11 +6755,11 @@ msgstr "Passord"
 
 msgctxt "wifi_quick_toggle_summary"
 msgid "Turn on Wi-Fi"
-msgstr "Skru på Wi-Fi"
+msgstr "Slå på trådløst nett"
 
 msgctxt "wifi_quick_toggle_title"
 msgid "Wi-Fi"
-msgstr "Wi-Fi"
+msgstr "Trådløst nett"
 
 msgctxt "wifi_remembered"
 msgid "Remembered"
@@ -6813,19 +6783,19 @@ msgstr "Sikkerhet"
 
 msgctxt "wifi_settings"
 msgid "Wi-Fi Settings"
-msgstr "Wi-Fi innstillinger"
+msgstr "Innstillinger for trådløst nett"
 
 msgctxt "wifi_settings_category"
 msgid "Wi-Fi Settings"
-msgstr "Wi-Fi innstillinger"
+msgstr "Innstillinger for trådløst nett"
 
 msgctxt "wifi_settings_summary"
 msgid "Set up & manage wireless access points"
-msgstr "Sett opp og adminstrer trådløse aksesspunkter"
+msgstr "Sett opp og adminstrer trådløse aksesspunkt"
 
 msgctxt "wifi_settings_title"
 msgid "Wi-Fi Settings"
-msgstr "Wi-Fi innstillinger"
+msgstr "Innstillinger for trådløst nett"
 
 msgctxt "wifi_setting_num_channels_channel_phrase"
 msgid "%1$d channels"
@@ -6838,7 +6808,7 @@ msgstr "Kunne ikke velge juridisk område."
 
 msgctxt "wifi_setting_num_channels_summary"
 msgid "Set the number of channels to use"
-msgstr "Velg hvor mange kanaler som skal brukes"
+msgstr "Velg antall kanaler som skal brukes"
 
 #, fuzzy
 msgctxt "wifi_setting_num_channels_title"
@@ -6866,7 +6836,7 @@ msgstr "Vis passord."
 
 msgctxt "wifi_signal"
 msgid "Signal strength"
-msgstr "Signal styrke"
+msgstr "Signalstyrke"
 
 #, fuzzy
 msgctxt "wifi_speed"
@@ -6875,7 +6845,7 @@ msgstr "Koblingshastighet"
 
 msgctxt "wifi_ssid"
 msgid "Network SSID"
-msgstr "Nettverk SSID"
+msgstr "SSID for nettverket"
 
 msgctxt "wifi_starting"
 msgid "Turning on..."
@@ -6895,7 +6865,7 @@ msgstr "Aktivert"
 
 msgctxt "wifi_state_enabling"
 msgid "Enabling"
-msgstr "Aktivert"
+msgstr "Aktiverer"
 
 #, fuzzy
 msgctxt "wifi_state_label"
@@ -6912,7 +6882,7 @@ msgstr "Status"
 
 msgctxt "wifi_status_test"
 msgid "Wifi Status"
-msgstr "Wifi Status"
+msgstr "WiFi-status"
 
 msgctxt "wifi_stop"
 msgid "Turn off Wi-Fi"
@@ -6929,7 +6899,7 @@ msgstr "Flyttbar trådløs sone"
 
 msgctxt "wifi_tether_configure_ap_text"
 msgid "Configure Wi-Fi hotspot"
-msgstr "Konfigurer Wi-Fi hotspot"
+msgstr "Konfigurer trådløs sone"
 
 #, fuzzy
 msgctxt "wifi_tether_configure_ssid_default"
@@ -6947,19 +6917,19 @@ msgstr "Portabelt nettverk %1$s aktivt"
 
 msgctxt "wifi_tether_failed_subtext"
 msgid "Portable Wi-Fi hotspot error"
-msgstr "Portabelt Wi-Fi nettverk feilet"
+msgstr "Flyttbar trådløs sone – feil oppstod"
 
 msgctxt "wifi_tether_settings_subtext"
 msgid "Set up & manage portable Wi-Fi hotspot"
-msgstr "Sett opp og adminstrer portabelt Wi-Fi nettverk"
+msgstr "Still inn og administrer flyttbar trådløs sone"
 
 msgctxt "wifi_tether_settings_text"
 msgid "Portable Wi-Fi hotspot Settings"
-msgstr "Portabelt Wi-Fi nettverk innstillinger"
+msgstr "Innstillinger for trådløs sone"
 
 msgctxt "wifi_tether_settings_title"
 msgid "Portable Wi-Fi hotspot Settings"
-msgstr "Portabelt Wi-Fi nettverk innstillinger"
+msgstr "Innstillinger for trådløs sone"
 
 msgctxt "wifi_unchanged"
 msgid "(unchanged)"
@@ -6967,7 +6937,7 @@ msgstr "(uendret)"
 
 msgctxt "wifi_unspecified"
 msgid "(unspecified)"
-msgstr "(uspesifisert)"
+msgstr "(ikke spesifisert)"
 
 msgctxt "wifi_update"
 msgid "Refresh Stats"
@@ -6975,7 +6945,7 @@ msgstr ""
 
 msgctxt "wifi_use_static_ip"
 msgid "Use static IP"
-msgstr "Bruk statisk IP"
+msgstr "Bruk statisk IP-adresse"
 
 msgctxt "wireless_networks_settings_title"
 msgid "Wireless & Network Settings"
