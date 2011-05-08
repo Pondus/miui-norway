@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-05 23:53+0100\n"
+"PO-Revision-Date: 2011-05-07 23:23+0100\n"
 "Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
 "Language-Team: MIUI Norway\n"
 "Language: no\n"
@@ -50,7 +50,7 @@ msgstr "Legg på med på/av"
 
 msgctxt "accessibility_power_button_ends_call_summary"
 msgid "During a call, press the power button to end the call instead of turning off the screen"
-msgstr ""
+msgstr "Ved å trykke på av-knappen under en samtale, avsluttes samtalen i stedet for at skjermen slås av"
 
 msgctxt "accessibility_services_category"
 msgid "Accessibility services"
@@ -82,7 +82,7 @@ msgstr "Finner ingen tilgjengelighetsprogrammer"
 
 msgctxt "accessibility_service_security_warning"
 msgid "This accessibility service may be able to collect all the text you type, including personal data credit card numbers except passwords. It may also log your user interface interactions. It comes from the application %1$s. Use this accessibility service?"
-msgstr ""
+msgstr "Denne tilgjengelighetstjenesten har tilgang til all tekst du skriver, inkludert personlig data som passord og kredittkortnummer. Den kan også loggføre alt som skjer i brukergrensesnittet. Det kommer fra programmet <xliff:g id=\"ACCESSIBILITY_SERVICE_NAME\">%1$s</xliff:g>. Vil du aktivere denne tjenesten?"
 
 msgctxt "accessibility_settings"
 msgid "Accessibility Settings"
@@ -298,7 +298,7 @@ msgstr "Denne applikasjon er kopibeskyttet"
 
 msgctxt "app_icon_background_title"
 msgid "Icon Backgrounds on Homescreen"
-msgstr ""
+msgstr "Ikon-bakgrunner på hjemmeskjermen"
 
 #, fuzzy
 msgctxt "app_install_location_summary"
@@ -355,9 +355,10 @@ msgctxt "automatic_brightness"
 msgid "Automatic brightness"
 msgstr "Automatisk lysstryke"
 
+#, fuzzy
 msgctxt "automatic_brightness_summary"
 msgid "Automatic brightness will adjust to the ambient conditions or you can manually use the slider to adjust the screen brightness."
-msgstr ""
+msgstr "Automatisk lysstyrke tilpasser seg til lysforholdene, eller du kan forandre skjermens lysstyrke manuelt."
 
 #, fuzzy
 msgctxt "auto_caps"
@@ -405,7 +406,7 @@ msgstr "Rett opp stavefeil"
 
 msgctxt "auto_restore_summary"
 msgid "Restore backed up settings and other data on re-installation of application."
-msgstr ""
+msgstr "Gjenopprett sikkerhetskopierte innstillinger og andre data hvis jeg installerer et program på nytt."
 
 #, fuzzy
 msgctxt "auto_restore_title"
@@ -424,7 +425,7 @@ msgstr "Denne er en gammel programprosess som beholdes for økt hastighet ved be
 
 msgctxt "backlight_summary"
 msgid "Tweak levels and filtering"
-msgstr ""
+msgstr "Juster lysnivåer og filter"
 
 msgctxt "backlight_title"
 msgid "Automatic Backlight"
@@ -440,7 +441,7 @@ msgstr "Sikkerhetskopier mine data"
 
 msgctxt "backup_erase_dialog_message"
 msgid "Are you sure you want to stop backing up your settings and application data and erase all copies on Google servers?"
-msgstr ""
+msgstr "Er du sikker på at du ønsker å avslutte sikkerhetskopiering av dine innstillinger og programdata og slette alle kopier på Googles tjenere?"
 
 msgctxt "backup_erase_dialog_title"
 msgid "Backup"
@@ -513,15 +514,15 @@ msgstr "Wi-Fi Innstillinger"
 
 msgctxt "battery_auto_saving"
 msgid "Auto power saving mode"
-msgstr ""
+msgstr "Automatisk strømsparingsmodus"
 
 msgctxt "battery_auto_saving_category_general"
 msgid "Changes will come into effect on the next time power saving mode is activated"
-msgstr ""
+msgstr "Forandringer vil ta effekt neste gang strømsparingsmodusen er aktivert"
 
 msgctxt "battery_auto_saving_category_practise"
 msgid "Want to extend your battery life?"
-msgstr ""
+msgstr "Ønsker du å utvide strømmens varighet?"
 
 msgctxt "battery_auto_saving_category_rule"
 msgid "Power saving options"
@@ -529,7 +530,7 @@ msgstr "Strømsparings alternativer"
 
 msgctxt "battery_auto_saving_practise"
 msgid "Tips on Maximizing Battery Life"
-msgstr ""
+msgstr "Tips for å minimere batteribruk"
 
 msgctxt "battery_auto_saving_practise_more"
 msgid "More power saving tips..."
@@ -541,6 +542,9 @@ msgid ""
 "2.Unless under bright light, there is no need for maximum brightness. \n"
 "3.Consider activating Flight Mode at night."
 msgstr ""
+"1. Begrens antall bakgrunnsprogrammer. \n"
+"2. Demp lysstyrken, med mindre du oppholder deg under lyse lysforhold. \n"
+"3. Vurder aktivering av flymodus om natten."
 
 msgctxt "battery_auto_saving_rule_apn"
 msgid "Disable mobile data"
@@ -548,7 +552,7 @@ msgstr "Skru av mobil data"
 
 msgctxt "battery_auto_saving_rule_apn_summary"
 msgid "Disable mobile networks such as GPRS and 3G."
-msgstr ""
+msgstr "Deaktiver datanettverk som GPRS og 3G."
 
 msgctxt "battery_auto_saving_rule_auto_sync"
 msgid "Disable sync"
@@ -564,7 +568,7 @@ msgstr "Skru av bakgrunnsoverføring"
 
 msgctxt "battery_auto_saving_rule_background_data_summary"
 msgid "Reduces power draw and data charges."
-msgstr ""
+msgstr "Reduserer strømbruken og datakostnader."
 
 msgctxt "battery_auto_saving_rule_bluetooth"
 msgid "Disable bluetooth"
@@ -572,7 +576,7 @@ msgstr "Skru av bluetooth"
 
 msgctxt "battery_auto_saving_rule_bluetooth_summary"
 msgid "Can drastically reduce power draw."
-msgstr ""
+msgstr "Kan drastisk redusere strømbruken."
 
 msgctxt "battery_auto_saving_rule_brightness"
 msgid "Reduce brightness"
@@ -580,7 +584,7 @@ msgstr "Reduser lysstryke"
 
 msgctxt "battery_auto_saving_rule_brightness_summary"
 msgid "Screen brightness will be set to minimum. Can drastically decrease power draw."
-msgstr ""
+msgstr "Skjermens lysstyrke vil bli justert ned til et minimum. Kan drastisk redusere strømbruken."
 
 msgctxt "battery_auto_saving_rule_cpu"
 msgid "Reduce CPU speed"
@@ -588,7 +592,7 @@ msgstr "Reduser CPU hastighet"
 
 msgctxt "battery_auto_saving_rule_cpu_summary"
 msgid "May reduce power draw from rogue applications while the screen is locked."
-msgstr ""
+msgstr "Mulighet for å redusere strømbruken til grådige programmer mens skjermen er låst."
 
 msgctxt "battery_auto_saving_rule_gps"
 msgid "Disable GPS"
@@ -615,7 +619,7 @@ msgstr "snu skjermen"
 
 msgctxt "battery_auto_saving_rule_screen_time_out_summary"
 msgid "Reduces screen timeout interval to minimum. May help with battery life."
-msgstr ""
+msgstr "Justerer skjermens tidsavbrudd ned til et minimum. Kan redusere strømbruk."
 
 msgctxt "battery_auto_saving_rule_vibrate"
 msgid "Disable vibrations"
@@ -623,7 +627,7 @@ msgstr "Skru av vibrasjoner"
 
 msgctxt "battery_auto_saving_rule_vibrate_summary"
 msgid "Vibrations do not consume much power under normal usage."
-msgstr ""
+msgstr "Vibrasjoner bruker ikke mye strøm under normale forhold."
 
 msgctxt "battery_auto_saving_rule_wallpaper"
 msgid "Disable live wallpapers"
@@ -631,7 +635,7 @@ msgstr "Skru av live wallpapers"
 
 msgctxt "battery_auto_saving_rule_wallpaper_summary"
 msgid "Live Wallpapers are significant source of power draw and may cause system lag."
-msgstr ""
+msgstr "Live Wallpapers merkes kraftig på strømbruken og kan skape grensesnittforsinkelser."
 
 msgctxt "battery_auto_saving_rule_wifi"
 msgid "Disable Wi-Fi"
@@ -639,7 +643,7 @@ msgstr "Skru av Wi-Fi"
 
 msgctxt "battery_auto_saving_rule_wifi_summary"
 msgid "Can drastically reduce power draw."
-msgstr ""
+msgstr "Reduserer strømbruken og datakostnader."
 
 msgctxt "battery_auto_saving_summary"
 msgid "Automatically activates power saving mode when the battery is running low."
@@ -683,7 +687,7 @@ msgstr "Batteri brukt av Wi-Fi"
 
 msgctxt "battery_history_awake"
 msgid "Time spent without sleeping:"
-msgstr ""
+msgstr "Tid brukt uten å gå i sovemodus:"
 
 msgctxt "battery_history_awake_label"
 msgid "Running"
@@ -708,7 +712,7 @@ msgstr "Bruk av CPU for %1$s:"
 
 msgctxt "battery_history_days"
 msgid "%1$dd %2$dh %3$dm %4$ds"
-msgstr ""
+msgstr "%1$dd %2$dh %3$dm %4$ds"
 
 #, python-format
 msgctxt "battery_history_details_for"
@@ -734,15 +738,15 @@ msgstr ""
 
 msgctxt "battery_history_no_data"
 msgid "No battery usage data available"
-msgstr ""
+msgstr "Ingen statistikk for strømbruk er tilgjengelig"
 
 msgctxt "battery_history_packages_sharing_this_uid"
 msgid "Packages sharing this UID:"
-msgstr ""
+msgstr "Pakker som deler denne UID-en:"
 
 msgctxt "battery_history_phone_on"
 msgid "Time spent with phone on:"
-msgstr ""
+msgstr "Tid brukt med telefonen slått på:"
 
 msgctxt "battery_history_phone_on_label"
 msgid "Phone on"
@@ -750,7 +754,7 @@ msgstr "Telefon på"
 
 msgctxt "battery_history_screen_on"
 msgid "Time spent with screen on:"
-msgstr ""
+msgstr "Tid brukt med skjermen slått på:"
 
 #, fuzzy
 msgctxt "battery_history_screen_on_battery"
@@ -784,7 +788,7 @@ msgstr "Batteri brukt av Bluetooth"
 
 msgctxt "battery_history_starts"
 msgid "Starts: %1$d"
-msgstr ""
+msgstr "Starter: %1$d"
 
 msgctxt "battery_history_system_time"
 msgid "System time:"
@@ -972,11 +976,11 @@ msgstr "Batterinivå"
 
 msgctxt "battery_low_level"
 msgid "Alarm level for low battery"
-msgstr ""
+msgstr "Kritisk lavt batterinivå"
 
 msgctxt "battery_saving_rules_summary"
 msgid "Settings when battery level is below alarm level"
-msgstr ""
+msgstr "Innstillinger for når batteriets nivå er kritisk lavt"
 
 msgctxt "battery_saving_rules_title"
 msgid "Power saving mode"
@@ -1023,11 +1027,11 @@ msgstr "GPS er på"
 
 msgctxt "battery_stats_on_battery"
 msgid "Battery has been lasting for %1$s now"
-msgstr ""
+msgstr "Batteriet har nå holdt strøm for %1$s "
 
 msgctxt "battery_stats_phone_signal_label"
 msgid "Phone signal strength [black:pilot blue:scanning]"
-msgstr ""
+msgstr "Telefonens signalstyrke [svart:pilot blå:søker]"
 
 msgctxt "battery_stats_screen_on_label"
 msgid "Screen is on"
@@ -1110,7 +1114,7 @@ msgstr "En applikasjon på telefonen din spør om tillatelse til å skru på Blu
 
 msgctxt "bluetooth_confirm_passkey_msg"
 msgid "To pair with \"%1$s\", confirm that it is showing the passkey: %2$s."
-msgstr ""
+msgstr "Hvis du vil pare med «<xliff:g id=\"DEVICE_NAME\">%1$s</xliff:g>», må du kontrollere at enheten viser passordet: <xliff:g id=\"PASSKEY\">%2$s</xliff:g>"
 
 msgctxt "bluetooth_connected"
 msgid "Connected"
@@ -1262,6 +1266,8 @@ msgid ""
 "\n"
 "Type PIN to pair with \"%1$s\". (Try 0000 or 1234.)"
 msgstr ""
+"\n"
+"Skriv PIN-kode for å pare med «<xliff:g id=\"DEVICE_NAME\">%1$s</xliff:g>». (Prøv 0000 eller 1234.)"
 
 msgctxt "bluetooth_error_title"
 msgid "Attention"
@@ -1352,7 +1358,7 @@ msgstr "Paret"
 
 msgctxt "bluetooth_pairing"
 msgid "Pairing…"
-msgstr ""
+msgstr "Parer…"
 
 #, fuzzy
 msgctxt "bluetooth_pairing_accept"
@@ -1375,7 +1381,7 @@ msgstr "Kunne ikke velge juridisk område."
 
 msgctxt "bluetooth_pairing_pin_error_message"
 msgid "There was a problem pairing with %1$s because the PIN or Passkey is incorrect."
-msgstr ""
+msgstr "Det oppsto et problem under paring med <xliff:g id=\"DEVICE_NAME\">%1$s</xliff:g> fordi PIN-koden eller passordet er feil."
 
 #, fuzzy
 msgctxt "bluetooth_pairing_rejected_error_message"
@@ -3877,19 +3883,19 @@ msgstr ""
 
 msgctxt "miui_copyright_title"
 msgid "Copyright"
-msgstr "Copyright"
+msgstr "Opphavsrett"
 
 msgctxt "miui_license_title"
 msgid "MIUI license information"
-msgstr "MIUI lisens informasjon"
+msgstr "MIUI lisensinformasjon"
 
 msgctxt "mms_settings_title"
 msgid "MMS Settings"
-msgstr "MMS innstillinger"
+msgstr "MMS-innstillinger"
 
 msgctxt "model_number"
 msgid "Model number"
-msgstr "Modell nummer"
+msgstr "Modellnummer"
 
 #, fuzzy
 msgctxt "monitor_history"
@@ -3918,7 +3924,7 @@ msgstr "Flytt til telefon"
 
 msgctxt "move_app_to_sdcard"
 msgid "Move to SD card"
-msgstr "Flytt til SD kort"
+msgstr "Flytt til SD-kort"
 
 msgctxt "moving"
 msgid "Moving"
@@ -3926,7 +3932,7 @@ msgstr "Flytter"
 
 msgctxt "networkid_label"
 msgid "Network ID:"
-msgstr "Nettverk ID:"
+msgstr "Nettverks-ID:"
 
 msgctxt "networks"
 msgid "Operator selection"
