@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-22 14:13+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +23,11 @@ msgstr ""
 
 msgctxt "default_web_search_engine_baidu"
 msgid "http://m.baidu.com/ssid=0/from=0/bd_page_type=1/s?word="
-msgstr ""
+msgstr "http://m.baidu.com/ssid=0/from=0/bd_page_type=1/s?word="
 
 msgctxt "default_web_search_engine_google"
 msgid "http://www.google.com/m/search?q="
-msgstr ""
+msgstr "http://www.google.com/m/search?q="
 
 msgctxt "delete_input_history"
 msgid "Clear Search History"
@@ -40,11 +39,11 @@ msgstr ""
 
 msgctxt "input_history"
 msgid "Search History"
-msgstr ""
+msgstr "Søkehistorikk"
 
 msgctxt "menu_history"
 msgid "Search History"
-msgstr ""
+msgstr "Søkehistorikk"
 
 msgctxt "menu_preferences"
 msgid "Search Settings"
@@ -66,15 +65,15 @@ msgstr ""
 
 msgctxt "search_engine_baidu"
 msgid "Baidu"
-msgstr ""
+msgstr "Baidu"
 
 msgctxt "search_engine_google"
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 msgctxt "search_engine_title"
 msgid "Select search engine"
-msgstr ""
+msgstr "Velg søkermotor"
 
 msgctxt "search_hint"
 msgid "Enter Keyword(s) To Search"
@@ -83,7 +82,7 @@ msgstr ""
 #, python-format
 msgctxt "search_no_result_hint"
 msgid "No Result Found For \"%s\"."
-msgstr ""
+msgstr "Ingen resultater funnet for \"%s\"."
 
 msgctxt "search_no_result_hint_line1"
 msgid "Check that the words are correctly spelled"
@@ -99,7 +98,7 @@ msgstr ""
 
 msgctxt "search_no_result_hint_suggistion"
 msgid "Search Tips:"
-msgstr ""
+msgstr "Søketips:"
 
 msgctxt "search_recent_hint"
 msgid "Recently Searched"
@@ -117,7 +116,7 @@ msgstr ""
 
 msgctxt "search_sources"
 msgid "Search Settings"
-msgstr ""
+msgstr "Søkeinnstillinger"
 
 msgctxt "search_sources_summary"
 msgid "Choose the content to search on the device"
@@ -125,15 +124,15 @@ msgstr ""
 
 msgctxt "search_threshold_infinite"
 msgid "Unlimited"
-msgstr ""
+msgstr "Ubegrenset"
 
 msgctxt "search_threshold_ten"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgctxt "search_threshold_thirty"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgctxt "search_threshold_title"
 msgid "Maximum amount of search results per source"

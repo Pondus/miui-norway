@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-22 14:32+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -20,15 +19,15 @@ msgstr ""
 
 msgctxt "add_songs"
 msgid "Add song(s)"
-msgstr ""
+msgstr "Legg til sang(er)"
 
 msgctxt "add_to_favorite"
 msgid "Add to Favourites"
-msgstr ""
+msgstr "Legg til i favoritter"
 
 msgctxt "add_to_playlist"
 msgid "Add to Playlist"
-msgstr ""
+msgstr "Legg til i spilleliste"
 
 msgctxt "albumPickerNotFoundText"
 msgid "Gallery not found on the device"
@@ -36,15 +35,15 @@ msgstr ""
 
 msgctxt "albumsongseparator"
 msgid ","
-msgstr ""
+msgstr ","
 
 msgctxt "albums_menu"
 msgid "Albums"
-msgstr ""
+msgstr "Album"
 
 msgctxt "albums_title"
 msgid "Albums"
-msgstr ""
+msgstr "Album"
 
 msgctxt "album_display_settings"
 msgid "Album art settings"
@@ -56,7 +55,7 @@ msgstr ""
 
 msgctxt "album_downloading"
 msgid "Downloading..."
-msgstr ""
+msgstr "Laster ned..."
 
 msgctxt "album_search_failed"
 msgid "Album art not found!"
@@ -80,11 +79,11 @@ msgstr ""
 
 msgctxt "app_name"
 msgid "Music"
-msgstr ""
+msgstr "Musikk"
 
 msgctxt "artists_title"
 msgid "Artist"
-msgstr ""
+msgstr "Artist"
 
 msgctxt "buffering"
 msgid "Buffering..."
@@ -92,7 +91,7 @@ msgstr ""
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "cancel_sleep_mode"
 msgid "Sleep mode cancelled"
@@ -113,7 +112,7 @@ msgstr ""
 
 msgctxt "confirm"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #, python-format
 msgctxt "confirm_with_count"
@@ -122,11 +121,11 @@ msgstr ""
 
 msgctxt "context_menu_status_local"
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 msgctxt "context_menu_status_online"
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 msgctxt "continue_when_wifi_disconnect"
 msgid "Continue listening to online music via mobile network."
@@ -134,7 +133,7 @@ msgstr ""
 
 msgctxt "create_playlist_create_text"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "create_playlist_create_text_prompt"
 msgid "Playlist name"
@@ -142,7 +141,7 @@ msgstr ""
 
 msgctxt "create_playlist_overwrite_text"
 msgid "Cover"
-msgstr ""
+msgstr "Cover"
 
 msgctxt "current_playlist"
 msgid "Current Playlist"
@@ -155,7 +154,7 @@ msgstr ""
 
 msgctxt "default_time"
 msgid "30 minutes"
-msgstr ""
+msgstr "30 minutter"
 
 #, python-format
 msgctxt "delete_album_desc"
@@ -169,32 +168,32 @@ msgstr ""
 
 msgctxt "delete_confirm_button_text"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "delete_from_favorite"
 msgid "Delete Favourite"
-msgstr ""
+msgstr "Slett favoritt"
 
 msgctxt "delete_item"
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 msgctxt "delete_playlist_menu"
 msgid "Delete Playlist"
-msgstr ""
+msgstr "Slett spilleliste"
 
 #, python-format
 msgctxt "delete_song_desc"
 msgid "%s will be permanently deleted from the SD card."
-msgstr ""
+msgstr "%s vil bli slettet permanent fra SD kortet."
 
 msgctxt "delete_song_item"
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 msgctxt "donot_ask_me_agaion"
 msgid "Don't ask again"
-msgstr ""
+msgstr "Ikke spør igjen"
 
 msgctxt "doubletap_trackball_next_summary"
 msgid "Double tap trackball to skip song on lockscreen"
@@ -206,7 +205,7 @@ msgstr ""
 
 msgctxt "download"
 msgid "Download"
-msgstr ""
+msgstr "Last ned"
 
 msgctxt "downloading_queue"
 msgid "Download queue"
@@ -223,11 +222,11 @@ msgstr ""
 
 msgctxt "download_action_start"
 msgid "Start download"
-msgstr ""
+msgstr "Start nedlastning"
 
 msgctxt "download_action_waiting"
 msgid "Waiting"
-msgstr ""
+msgstr "Venter"
 
 msgctxt "download_album_helper"
 msgid "Download album art for your song(s) library"
@@ -259,7 +258,7 @@ msgstr ""
 
 msgctxt "download_cancel_in_button"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "download_delete_task"
 msgid "Delete task"
@@ -279,7 +278,7 @@ msgstr ""
 
 msgctxt "download_done"
 msgid "Downloaded"
-msgstr ""
+msgstr "Nedlastet"
 
 #, python-format
 msgctxt "download_info_count_deleted_tasks"
@@ -297,7 +296,7 @@ msgstr ""
 
 msgctxt "download_lyric_settings"
 msgid "Download lyrics"
-msgstr ""
+msgstr "Last ned tekst"
 
 msgctxt "download_lyric_summary"
 msgid "May take longer on mobile network, please consider using Wi-Fi"
@@ -305,7 +304,7 @@ msgstr ""
 
 msgctxt "download_music_settings"
 msgid "Download music"
-msgstr ""
+msgstr "Last ned musikk"
 
 msgctxt "download_music_summary"
 msgid "May take longer on mobile network, please consider using Wi-Fi"
@@ -313,7 +312,7 @@ msgstr ""
 
 msgctxt "download_processing"
 msgid "Downloading"
-msgstr ""
+msgstr "Laster ned"
 
 msgctxt "download_retry_task"
 msgid "Re-try download"
@@ -357,7 +356,7 @@ msgstr ""
 
 msgctxt "durationformatlong"
 msgid "%1$d:%3$02d:%5$02d"
-msgstr ""
+msgstr "%1$d:%3$02d:%5$02d"
 
 msgctxt "durationformatshort"
 msgid "%2$2d:%5$02d"
@@ -369,7 +368,7 @@ msgstr ""
 
 msgctxt "edit_playlist_menu"
 msgid "Edit Playlist"
-msgstr ""
+msgstr "Endre spilleliste"
 
 msgctxt "edit_song_list"
 msgid "Edit song list"
@@ -377,7 +376,7 @@ msgstr ""
 
 msgctxt "email_optional"
 msgid "E-mail (Optional)"
-msgstr ""
+msgstr "E-post (Valgfritt)"
 
 msgctxt "emptyplaylist"
 msgid "The Playlist is empty."
@@ -389,15 +388,15 @@ msgstr ""
 
 msgctxt "fast_scroll_alphabet"
 msgid "\\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-msgstr ""
+msgstr "\\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 msgctxt "favorite_playlist"
 msgid "Favourites"
-msgstr ""
+msgstr "Favoritter"
 
 msgctxt "favorite_playlist_item"
 msgid "Favourites"
-msgstr ""
+msgstr "Favoritter"
 
 msgctxt "feedback"
 msgid "Feedback"
@@ -421,16 +420,14 @@ msgstr ""
 
 msgctxt "filter_max"
 msgid "2MB"
-msgstr ""
+msgstr "2MB"
 
 msgctxt "filter_min"
 msgid "0K"
-msgstr ""
+msgstr "0K"
 
 msgctxt "filter_notification"
-msgid ""
-"Filter has been filtered, you can change these settings in the filter "
-"settings."
+msgid "Filter has been filtered, you can change these settings in the filter settings."
 msgstr ""
 
 msgctxt "flow_save_hint"
@@ -443,7 +440,7 @@ msgstr ""
 
 msgctxt "folder"
 msgid "Folders"
-msgstr ""
+msgstr "Mapper"
 
 msgctxt "folder_renamed_message"
 msgid "Folder has been renamed"
@@ -456,15 +453,15 @@ msgstr ""
 
 msgctxt "goto_playback"
 msgid "Play"
-msgstr ""
+msgstr "Spill"
 
 msgctxt "goto_start"
 msgid "Library"
-msgstr ""
+msgstr "Bibliotek"
 
 msgctxt "id3_edit"
 msgid "Edit ID3 information"
-msgstr ""
+msgstr "Endre ID3 informasjon"
 
 msgctxt "id3_edit_failed"
 msgid "Failed to edit ID3 information"
@@ -489,7 +486,7 @@ msgstr ""
 
 msgctxt "listen_to_music_online_settings"
 msgid "Listen to online music"
-msgstr ""
+msgstr "Hør på musikk online"
 
 msgctxt "listen_to_online_summary"
 msgid "Listen to music via mobile network or Wi-Fi"
@@ -497,7 +494,7 @@ msgstr ""
 
 msgctxt "loading"
 msgid "Loading..."
-msgstr ""
+msgstr "Laster..."
 
 msgctxt "load_category_failed"
 msgid "Failed to load category list, please try again"
@@ -529,7 +526,7 @@ msgstr ""
 
 msgctxt "lrc_select"
 msgid "Select lyrics"
-msgstr ""
+msgstr "Velg tekst"
 
 msgctxt "lyricPickerNotFoundText"
 msgid "File Manager not found on the device"
@@ -541,7 +538,7 @@ msgstr ""
 
 msgctxt "lyric_download"
 msgid "Download lyrics"
-msgstr ""
+msgstr "Last ned tekst"
 
 msgctxt "lyric_open_other_connect"
 msgid "Download lyrics using mobile internet connection"
@@ -553,11 +550,11 @@ msgstr ""
 
 msgctxt "mediapickerlabel"
 msgid "Music"
-msgstr ""
+msgstr "Musikk"
 
 msgctxt "mediaplaybacklabel"
 msgid "Music"
-msgstr ""
+msgstr "Musikk"
 
 #, python-format
 msgctxt "mediasearch"
@@ -566,11 +563,11 @@ msgstr ""
 
 msgctxt "media_player_quit"
 msgid "Exit"
-msgstr ""
+msgstr "Avslutt"
 
 msgctxt "media_player_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgctxt "menu_download_manager"
 msgid "Download manager"
@@ -586,7 +583,7 @@ msgstr ""
 
 msgctxt "min_time"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "miui_folder"
 msgid "MIUI-Downloads"
@@ -609,10 +606,7 @@ msgid "Music Playlists"
 msgstr ""
 
 msgctxt "music_filter_helper"
-msgid ""
-"In order to hide files which are not music, a size filter of 800K has "
-"been applied to hide these files from being displayed. The threshold can "
-"be adjusted in Settings / File filter."
+msgid "In order to hide files which are not music, a size filter of 800K has been applied to hide these files from being displayed. The threshold can be adjusted in Settings / File filter."
 msgstr ""
 
 msgctxt "music_picker_title"
@@ -621,7 +615,7 @@ msgstr ""
 
 msgctxt "my_music"
 msgid "My Music"
-msgstr ""
+msgstr "Min musikk"
 
 msgctxt "network_error"
 msgid "No network connection, please check your network settings"
@@ -659,11 +653,11 @@ msgstr ""
 
 msgctxt "nowplaying_mebu"
 msgid "Playing"
-msgstr ""
+msgstr "Spiller"
 
 msgctxt "nowplaying_title"
 msgid "Playing"
-msgstr ""
+msgstr "Spiller"
 
 #, python-format
 msgctxt "no_enough_sdcard_space"
@@ -692,17 +686,14 @@ msgstr ""
 
 msgctxt "others"
 msgid "Others"
-msgstr ""
+msgstr "Andre"
 
 msgctxt "other_connect"
 msgid "Mobile network"
-msgstr ""
+msgstr "Mobilt nettverk"
 
 msgctxt "permdesc_downloadCompletedIntent"
-msgid ""
-"Allows the application to send notifications about completed downloads. "
-"Malicious applications can use this to confuse other applications that "
-"download files."
+msgid "Allows the application to send notifications about completed downloads. Malicious applications can use this to confuse other applications that download files."
 msgstr ""
 
 msgctxt "permlab_downloadCompletedIntent"
@@ -716,7 +707,7 @@ msgstr ""
 
 msgctxt "picker_song_list"
 msgid "Select a song"
-msgstr ""
+msgstr "Velg en sang"
 
 msgctxt "playback_failed"
 msgid "Sorry, the player does not support this type of audio file."
@@ -728,15 +719,15 @@ msgstr ""
 
 msgctxt "playlists_header"
 msgid "Playlists"
-msgstr ""
+msgstr "Spillelister"
 
 msgctxt "playlists_menu"
 msgid "Playlists"
-msgstr ""
+msgstr "Spillelister"
 
 msgctxt "playlists_title"
 msgid "Playlists"
-msgstr ""
+msgstr "Spillelister"
 
 msgctxt "playlist_clear"
 msgid "Clear Playlist"
@@ -752,7 +743,7 @@ msgstr ""
 
 msgctxt "play_all"
 msgid "Play all"
-msgstr ""
+msgstr "Spill alle"
 
 msgctxt "play_and_download"
 msgid "Listen and download"
@@ -769,7 +760,7 @@ msgstr ""
 #, python-format
 msgctxt "popup_time"
 msgid "%d minute(s)"
-msgstr ""
+msgstr "%d minutt(er)"
 
 msgctxt "prepare_launch"
 msgid "Starting up, please wait..."
@@ -777,7 +768,7 @@ msgstr ""
 
 msgctxt "queue"
 msgid "Queue"
-msgstr ""
+msgstr "Kø"
 
 #, python-format
 msgctxt "quit_warining"
@@ -790,7 +781,7 @@ msgstr ""
 
 msgctxt "recentlyadded_title"
 msgid "Song(s)"
-msgstr ""
+msgstr "Sang(er)"
 
 #, python-format
 msgctxt "record_count"
@@ -815,7 +806,7 @@ msgstr ""
 
 msgctxt "remove_from"
 msgid "Remove"
-msgstr ""
+msgstr "Fjern"
 
 msgctxt "remove_from_playlist"
 msgid "Remove from the Playlist"
@@ -853,15 +844,15 @@ msgstr ""
 
 msgctxt "ringtone_menu"
 msgid "Set as ringtone"
-msgstr ""
+msgstr "Velg som ringetone"
 
 msgctxt "ringtone_menu_short"
 msgid "Use song as ringtone"
-msgstr ""
+msgstr "Bruk sang som ringetone"
 
 msgctxt "ringtone_picker"
 msgid "Ringtone"
-msgstr ""
+msgstr "Ringetone"
 
 #, python-format
 msgctxt "ringtone_set"
@@ -870,11 +861,11 @@ msgstr ""
 
 msgctxt "save"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "save_as_playlist"
 msgid "Save as Playlist"
-msgstr ""
+msgstr "Lagre som spilleliste"
 
 msgctxt "scanning"
 msgid "Scanning SD card..."
@@ -926,7 +917,7 @@ msgstr ""
 
 msgctxt "search_failed_report"
 msgid "Nothing found"
-msgstr ""
+msgstr "Ingenting funnet"
 
 #, python-format
 msgctxt "search_from_local_to_online"
@@ -943,7 +934,7 @@ msgstr ""
 
 msgctxt "search_in_process"
 msgid "Searching"
-msgstr ""
+msgstr "Søker"
 
 msgctxt "search_online_hint"
 msgid "Search for online music"
@@ -1062,10 +1053,7 @@ msgid "Random shuffle"
 msgstr ""
 
 msgctxt "stop_when_wifi_disconnect"
-msgid ""
-"Wi-Fi connection has been lost, online songs have been stopped. If you "
-"want to listen to online songs using the operator's network, you can "
-"modify the settings."
+msgid "Wi-Fi connection has been lost, online songs have been stopped. If you want to listen to online songs using the operator's network, you can modify the settings."
 msgstr ""
 
 #, python-format
@@ -1095,31 +1083,31 @@ msgstr ""
 
 msgctxt "to_search"
 msgid "Search"
-msgstr ""
+msgstr "Søk"
 
 msgctxt "to_track"
 msgid "Songs"
-msgstr ""
+msgstr "Sanger"
 
 msgctxt "tracks_menu"
 msgid "Song"
-msgstr ""
+msgstr "Sang"
 
 msgctxt "tracks_name"
 msgid "Title"
-msgstr ""
+msgstr "Tittel"
 
 msgctxt "tracks_title"
 msgid "All Songs"
-msgstr ""
+msgstr "Alle sanger"
 
 msgctxt "unknown_album_name"
 msgid "Unknown Album"
-msgstr ""
+msgstr "Ukjent album"
 
 msgctxt "unknown_artist_name"
 msgid "Unknown Artist"
-msgstr ""
+msgstr "Ukjent artist"
 
 msgctxt "unpause_on_headset_plug_summary"
 msgid "Un-pause the player when a headset is connected"
@@ -1132,7 +1120,7 @@ msgstr ""
 #, python-format
 msgctxt "update_now"
 msgid "Updating %d %%"
-msgstr ""
+msgstr "Oppdaterer %d %%"
 
 msgctxt "update_prepare"
 msgid "Ready to update"
@@ -1144,19 +1132,19 @@ msgstr ""
 
 msgctxt "update_title"
 msgid "Update"
-msgstr ""
+msgstr "Oppdater"
 
 msgctxt "upgrade_check"
 msgid "Check for update"
-msgstr ""
+msgstr "Sjekk for oppdatering"
 
 msgctxt "upgrade_detail"
 msgid "New version found, please update"
-msgstr ""
+msgstr "Ny versjon funnet, vennligst oppdater"
 
 msgctxt "upgrade_downloading"
 msgid "Downloading update..."
-msgstr ""
+msgstr "Laster ned oppdatering..."
 
 msgctxt "upgrade_failed"
 msgid "Update failed, please try again"
@@ -1164,35 +1152,35 @@ msgstr ""
 
 msgctxt "upgrade_no"
 msgid "Update later"
-msgstr ""
+msgstr "Oppdater senere"
 
 msgctxt "upgrade_title"
 msgid "Update"
-msgstr ""
+msgstr "Oppdater"
 
 msgctxt "upgrade_yes"
 msgid "Update now"
-msgstr ""
+msgstr "Oppdater nå"
 
 msgctxt "url_album"
 msgid "http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&album=%1$s&artist=%2$s"
-msgstr ""
+msgstr "http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&album=%1$s&artist=%2$s"
 
 msgctxt "url_debug_update"
 msgid "http://intranet.xiaomi.com/player"
-msgstr ""
+msgstr "http://intranet.xiaomi.com/player"
 
 msgctxt "url_default_lyric"
 msgid "http://120.195.13.122/q?title=%1$s&artist=%2$s"
-msgstr ""
+msgstr "http://120.195.13.122/q?title=%1$s&artist=%2$s"
 
 msgctxt "url_feedback"
 msgid "http://sj.xiaomi.com/miniphp/ajax.php"
-msgstr ""
+msgstr "http://sj.xiaomi.com/miniphp/ajax.php"
 
 msgctxt "url_update"
 msgid "http://xshare.api.xiaomi.com/player"
-msgstr ""
+msgstr "http://xshare.api.xiaomi.com/player"
 
 msgctxt "use_local_album"
 msgid "Use saved album art"
@@ -1204,7 +1192,7 @@ msgstr ""
 
 msgctxt "videobrowserlabel"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "weekpicker_set"
 msgid "Completed"
@@ -1228,73 +1216,74 @@ msgstr ""
 
 msgctxt "working_albums"
 msgid "Albums..."
-msgstr ""
+msgstr "Album..."
 
 msgctxt "working_artists"
 msgid "Artists..."
-msgstr ""
+msgstr "Artister..."
 
 msgctxt "working_playlists"
 msgid "Playlists..."
-msgstr ""
+msgstr "Spillelister..."
 
 msgctxt "working_songs"
 msgid "Songs..."
-msgstr ""
+msgstr "Sanger..."
 
 msgctxt "zero_count"
 msgid "(0)"
-msgstr ""
+msgstr "(0)"
 
 #~ msgctxt "albumPickerNotFoundText"
+
 #~ msgid "Album selector not found"
 #~ msgstr ""
-
 #~ msgctxt "albums_title"
+
 #~ msgid "Title"
 #~ msgstr ""
-
 #~ msgctxt "album_download"
+
 #~ msgid "Searching for album art..."
 #~ msgstr ""
-
 #~ msgctxt "android_album_settings"
+
 #~ msgid "Use embedded album art"
 #~ msgstr ""
-
 #~ msgctxt "favorite_playlist"
+
 #~ msgid "Favorites"
 #~ msgstr ""
-
 #~ msgctxt "favorite_playlist_item"
+
 #~ msgid "Favorites"
 #~ msgstr ""
-
 #~ msgctxt "folder"
+
 #~ msgid "Folder"
 #~ msgstr ""
-
 #~ msgctxt "id3_edit"
+
 #~ msgid "Edit ID3 info"
 #~ msgstr ""
-
 #~ msgctxt "id3_edit_failed"
+
 #~ msgid "Failed to edit ID3 info"
 #~ msgstr ""
-
 #~ msgctxt "id3_modify_confirm"
+
 #~ msgid "Are you sure you wish to modify ID3 info?"
 #~ msgstr ""
-
 #~ msgctxt "lyricPickerNotFoundText"
+
 #~ msgid "Lyric picker not installed on device."
 #~ msgstr ""
-
 #~ msgctxt "modify_meta"
+
 #~ msgid "Edit song info"
 #~ msgstr ""
-
 #~ msgctxt "music_filter_helper"
+
 #~ msgid ""
 #~ "In order to hide files which are"
 #~ " not of mp3 format, a size "
@@ -1303,32 +1292,31 @@ msgstr ""
 #~ "displayed. The threshold can be adjusted"
 #~ " in Settings / File filter."
 #~ msgstr ""
-
 #~ msgctxt "music_picker"
+
 #~ msgid "Select Song(s)"
 #~ msgstr ""
-
 #~ msgctxt "repeat_none"
+
 #~ msgid "Don't repeat"
 #~ msgstr ""
-
 #~ msgctxt "shake_sensitivity_helper"
+
 #~ msgid "Shake left for higher sensitivity, right for lower."
 #~ msgstr ""
-
 #~ msgctxt "shuffle"
+
 #~ msgid "Shuffle"
 #~ msgstr ""
-
 #~ msgctxt "shuffle_cancel"
+
 #~ msgid "Stop shuffle"
 #~ msgstr ""
-
 #~ msgctxt "sync_now"
+
 #~ msgid "Synchronizing..."
 #~ msgstr ""
-
 #~ msgctxt "tracks_name"
+
 #~ msgid "Song name"
 #~ msgstr ""
-

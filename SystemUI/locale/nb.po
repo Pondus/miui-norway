@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-22 14:10+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +19,7 @@ msgstr ""
 
 msgctxt "apps_clean_current_memory"
 msgid "Available memory %1$s"
-msgstr ""
+msgstr "Tilgjengelig minne %1$s"
 
 msgctxt "apps_clean_result"
 msgid "%1$s released, current available memory is now: %2$s"
@@ -53,11 +52,11 @@ msgstr ""
 
 msgctxt "status_bar_button_apn"
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgctxt "status_bar_button_bluetooth"
 msgid "BT"
-msgstr ""
+msgstr "BT"
 
 msgctxt "status_bar_button_brightness"
 msgid "Backlight"
@@ -65,15 +64,15 @@ msgstr ""
 
 msgctxt "status_bar_button_cpu"
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgctxt "status_bar_button_flight_mode"
 msgid "Airplane"
-msgstr ""
+msgstr "Flymodus"
 
 msgctxt "status_bar_button_gps"
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 msgctxt "status_bar_button_lock"
 msgid "Lock"
@@ -81,7 +80,7 @@ msgstr ""
 
 msgctxt "status_bar_button_reboot"
 msgid "Reboot"
-msgstr ""
+msgstr "Restart"
 
 msgctxt "status_bar_button_ringer_mute"
 msgid "Silent"
@@ -89,7 +88,7 @@ msgstr ""
 
 msgctxt "status_bar_button_ringer_normal"
 msgid "Volume"
-msgstr ""
+msgstr "Volum"
 
 msgctxt "status_bar_button_ringer_vibrate"
 msgid "Vibrate"
@@ -103,9 +102,10 @@ msgctxt "status_bar_button_shutdown"
 msgid "Power"
 msgstr ""
 
+# Theres not enough space for "Synkronisering"
 msgctxt "status_bar_button_sync"
 msgid "Sync"
-msgstr ""
+msgstr "Synkronisering"
 
 msgctxt "status_bar_button_torch"
 msgid "Torch"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "status_bar_button_wifi"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 msgctxt "status_bar_clear_all_button"
 msgid "Clear"
@@ -125,19 +125,19 @@ msgstr ""
 
 msgctxt "status_bar_date_format"
 msgid "MMM d,"
-msgstr ""
+msgstr "MMM d,"
 
 msgctxt "status_bar_date_format_lock"
 msgid "E, MMM d"
-msgstr ""
+msgstr "E, MMM d"
 
 msgctxt "status_bar_latest_events_title"
 msgid "Notifications"
-msgstr ""
+msgstr "Varsler"
 
 msgctxt "status_bar_no_notifications_title"
 msgid "No notifications"
-msgstr ""
+msgstr "Ingen varsler"
 
 msgctxt "status_bar_ongoing_events_title"
 msgid "On-going"
@@ -145,33 +145,33 @@ msgstr ""
 
 msgctxt "status_bar_time_format_12"
 msgid "h:mma"
-msgstr ""
+msgstr "h:mma"
 
 msgctxt "status_bar_time_format_24"
 msgid "HH:mm"
-msgstr ""
+msgstr "HH:mm"
 
 msgctxt "tab_apps_lable"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 msgctxt "tab_notifications_lable"
 msgid "Notifications"
-msgstr ""
+msgstr "Varsler"
 
 msgctxt "tab_toggles_lable"
 msgid "Toggles"
 msgstr ""
 
 #~ msgctxt "apps_clean_result"
+
 #~ msgid "%1$s released, current available memory now: %2$s"
 #~ msgstr ""
-
 #~ msgctxt "status_bar_ongoing_events_title"
+
 #~ msgid "Ongoing"
 #~ msgstr ""
-
 #~ msgctxt "tab_notifications_lable"
+
 #~ msgid "Notices"
 #~ msgstr ""
-

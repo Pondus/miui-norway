@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-22 14:17+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +75,7 @@ msgstr ""
 
 msgctxt "advanced_settings_title"
 msgid "Advanced settings"
-msgstr ""
+msgstr "Avanserte innstillinger"
 
 msgctxt "advertisements_disable"
 msgid "Advertisements disabled"
@@ -100,15 +99,15 @@ msgstr ""
 
 msgctxt "alert_dialog_no"
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 msgctxt "alert_dialog_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "alert_dialog_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgctxt "allow_3rd_app_listen_phone_event_summary"
 msgid "Enable to allow third-party phone application monitoring"
@@ -128,7 +127,7 @@ msgstr ""
 
 msgctxt "answer"
 msgid "Answer"
-msgstr ""
+msgstr "Svar"
 
 msgctxt "apn_settings"
 msgid "Access Point Names"
@@ -216,11 +215,11 @@ msgstr ""
 
 msgctxt "buttonTxtContinue"
 msgid "Continue"
-msgstr ""
+msgstr "Fortsett"
 
 msgctxt "button_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Tøm"
 
 msgctxt "button_query"
 msgid "Look up"
@@ -515,11 +514,11 @@ msgstr ""
 
 msgctxt "close_dialog"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "close_profile"
 msgid "Close"
-msgstr ""
+msgstr "Lukk"
 
 msgctxt "confCall"
 msgid "Conference call"
@@ -543,11 +542,11 @@ msgstr ""
 
 msgctxt "contactsFavoritesLabel"
 msgid "Favorites"
-msgstr ""
+msgstr "Favoritter"
 
 msgctxt "contactsIconLabel"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakter"
 
 #, python-format
 msgctxt "count_of_persons_in_conference"
@@ -567,9 +566,7 @@ msgid "Current area code"
 msgstr ""
 
 msgctxt "current_areacode_sum"
-msgid ""
-"Area code of current location, or roaming area code if you are roaming. "
-"For example: 010"
+msgid "Area code of current location, or roaming area code if you are roaming. For example: 010"
 msgstr ""
 
 msgctxt "data_enabled"
@@ -630,11 +627,11 @@ msgstr ""
 
 msgctxt "dialer_emptyListWorking"
 msgid "Loading…"
-msgstr ""
+msgstr "Laster..."
 
 msgctxt "dial_button_label"
 msgid "Dial"
-msgstr ""
+msgstr "Ring"
 
 msgctxt "dial_emergency_empty_error"
 msgid "Call not sent, please dial an emergency number!"
@@ -650,21 +647,15 @@ msgid "Disable"
 msgstr ""
 
 msgctxt "disable_cfb_forbidden"
-msgid ""
-"Your carrier does not support disabling call-forwarding when your phone "
-"is busy."
+msgid "Your carrier does not support disabling call-forwarding when your phone is busy."
 msgstr ""
 
 msgctxt "disable_cfnrc_forbidden"
-msgid ""
-"Your carrier does not support disabling call-forwarding when your phone "
-"is unreachable."
+msgid "Your carrier does not support disabling call-forwarding when your phone is unreachable."
 msgstr ""
 
 msgctxt "disable_cfnry_forbidden"
-msgid ""
-"Your carrier does not support disabling call-forwarding when your phone "
-"doesn't answer."
+msgid "Your carrier does not support disabling call-forwarding when your phone doesn't answer."
 msgstr ""
 
 msgctxt "disable_fdn"
@@ -762,7 +753,7 @@ msgstr ""
 
 msgctxt "empty_networks_list"
 msgid "No networks found."
-msgstr ""
+msgstr "Ingen nettverk funnet."
 
 msgctxt "enable"
 msgid "Enable"
@@ -898,7 +889,7 @@ msgstr ""
 
 msgctxt "enter_pin2_text"
 msgid "PIN2"
-msgstr ""
+msgstr "PIN2"
 
 msgctxt "enter_pin_text"
 msgid "SIM PIN:"
@@ -930,7 +921,7 @@ msgstr ""
 
 msgctxt "fake_phone_activity_phoneNumber_text"
 msgid "(650) 555-1234"
-msgstr ""
+msgstr "(650) 555-1234"
 
 msgctxt "fake_phone_activity_placeCall_text"
 msgid "Fake Incoming Call"
@@ -1042,7 +1033,7 @@ msgstr ""
 
 msgctxt "hangup"
 msgid "Hangup"
-msgstr ""
+msgstr "Legg på"
 
 msgctxt "hangup_sms"
 msgid "Reject with SMS"
@@ -1050,11 +1041,11 @@ msgstr ""
 
 msgctxt "ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorer"
 
 msgctxt "imei"
 msgid "IMEI"
-msgstr ""
+msgstr "IMEI"
 
 msgctxt "importAllSimEntries"
 msgid "Import all"
@@ -1239,7 +1230,7 @@ msgstr ""
 
 msgctxt "load_networks_progress"
 msgid "Searching..."
-msgstr ""
+msgstr "Søker..."
 
 msgctxt "local_disable"
 msgid "Local news disabled"
@@ -1327,7 +1318,7 @@ msgstr ""
 
 msgctxt "menu_endCall"
 msgid "End call"
-msgstr ""
+msgstr "Avslutt samtalen"
 
 msgctxt "menu_hideDialpad"
 msgid "Hide dialpad"
@@ -1351,7 +1342,7 @@ msgstr ""
 
 msgctxt "menu_mute"
 msgid "Mute"
-msgstr ""
+msgstr "Demp"
 
 msgctxt "menu_rejectCallAndSms"
 msgid "Reject Call and reply by SMS"
@@ -1561,9 +1552,7 @@ msgid "Internet calling not supported"
 msgstr ""
 
 msgctxt "no_wifi_available"
-msgid ""
-"You must be connected to a Wi-Fi network for Internet calls (use the "
-"Wireless & Network settings)"
+msgid "You must be connected to a Wi-Fi network for Internet calls (use the Wireless & Network settings)"
 msgstr ""
 
 msgctxt "no_wifi_available_title"
@@ -1576,7 +1565,7 @@ msgstr ""
 
 msgctxt "ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "oldPin2Label"
 msgid "Old PIN2"
@@ -1696,11 +1685,11 @@ msgstr ""
 
 msgctxt "ota_back"
 msgid "Back"
-msgstr ""
+msgstr "Tilbake"
 
 msgctxt "ota_call_end"
 msgid "Back"
-msgstr ""
+msgstr "Tilbake"
 
 msgctxt "ota_dialpad"
 msgid "Keypad"
@@ -1716,7 +1705,7 @@ msgstr ""
 
 msgctxt "ota_next"
 msgid "Next"
-msgstr ""
+msgstr "Neste"
 
 msgctxt "ota_progress"
 msgid "Please wait while your phone is being programmed."
@@ -1724,13 +1713,10 @@ msgstr ""
 
 msgctxt "ota_skip_activation_dialog_continue_label"
 msgid "Activate"
-msgstr ""
+msgstr "Aktiver"
 
 msgctxt "ota_skip_activation_dialog_message"
-msgid ""
-"If you skip activation, you can't place calls or connect to mobile data "
-"networks (though you can connect to Wi-Fi networks). Until you activate "
-"your phone, you are asked to activate it each time you turn it on."
+msgid "If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on."
 msgstr ""
 
 msgctxt "ota_skip_activation_dialog_skip_label"
@@ -1750,9 +1736,7 @@ msgid "Speaker"
 msgstr ""
 
 msgctxt "ota_successful"
-msgid ""
-"Your phone is now activated. It may take up to 15 minutes for service to "
-"start."
+msgid "Your phone is now activated. It may take up to 15 minutes for service to start."
 msgstr ""
 
 msgctxt "ota_title_activate"
@@ -1771,26 +1755,21 @@ msgctxt "ota_touch_activate"
 msgid ""
 "A special call needs to be made to activate your phone service. \n"
 "\n"
-"After pressing Activate, listen to the instructions provided to activate "
-"your phone."
+"After pressing Activate, listen to the instructions provided to activate your phone."
 msgstr ""
 
 msgctxt "ota_touch_activate_new"
-msgid ""
-"Touch Activate to place a special call that activates your phone on your "
-"carrier's mobile network, so you can place calls and connect to mobile "
-"data networks."
+msgid "Touch Activate to place a special call that activates your phone on your carrier's mobile network, so you can place calls and connect to mobile data networks."
 msgstr ""
 
 msgctxt "ota_try_again"
 msgid "Try again"
-msgstr ""
+msgstr "Prøv igjen"
 
 msgctxt "ota_unsuccessful"
 msgid ""
 "Your phone did not activate. \n"
-"You may need to find an area with better coverage (near a window, or "
-"outside). \n"
+"You may need to find an area with better coverage (near a window, or outside). \n"
 "\n"
 "Try again or call customer service for more options."
 msgstr ""
@@ -1801,15 +1780,15 @@ msgstr ""
 
 msgctxt "password"
 msgid "Password"
-msgstr ""
+msgstr "Passord"
 
 msgctxt "password_title"
 msgid "Password"
-msgstr ""
+msgstr "Passord"
 
 msgctxt "pause_prompt_no"
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 msgctxt "pause_prompt_str"
 msgid "Sending Tones\n"
@@ -1817,7 +1796,7 @@ msgstr ""
 
 msgctxt "pause_prompt_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgctxt "payphone"
 msgid "Pay phone"
@@ -2079,10 +2058,7 @@ msgid "Requesting network unlock..."
 msgstr ""
 
 msgctxt "reset_my_choice_hint"
-msgid ""
-"You can use the Call Settings to change which Internet calling account to"
-" use by default when placing calls, by selecting a different account "
-"under Internet call settings"
+msgid "You can use the Call Settings to change which Internet calling account to use by default when placing calls, by selecting a different account under Internet call settings"
 msgstr ""
 
 msgctxt "response_error"
@@ -2107,7 +2083,7 @@ msgstr ""
 
 msgctxt "retry"
 msgid "Retry"
-msgstr ""
+msgstr "Prøv igjen"
 
 msgctxt "reverting_settings"
 msgid "Reverting settings…"
@@ -2126,9 +2102,7 @@ msgid "Connect to data services when roaming"
 msgstr ""
 
 msgctxt "roaming_reenable_message"
-msgid ""
-"You have lost data connectivity because you left your home network with "
-"data roaming turned off."
+msgid "You have lost data connectivity because you left your home network with data roaming turned off."
 msgstr ""
 
 msgctxt "roaming_warning"
@@ -2137,7 +2111,7 @@ msgstr ""
 
 msgctxt "save"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "saving_account"
 msgid "Saving the account..."
@@ -2161,7 +2135,7 @@ msgstr ""
 
 msgctxt "send_button"
 msgid "Send"
-msgstr ""
+msgstr "Send"
 
 msgctxt "send_keepalive"
 msgid "SendKeepAlive"
@@ -2337,7 +2311,7 @@ msgstr ""
 
 msgctxt "sip_menu_save"
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 msgctxt "sip_receive_calls"
 msgid "Receive incoming calls"
@@ -2379,7 +2353,7 @@ msgstr ""
 
 msgctxt "slide_to_answer_hint"
 msgid "Answer"
-msgstr ""
+msgstr "Svar"
 
 msgctxt "slide_to_decline"
 msgid "Drag left to decline"
@@ -2738,50 +2712,50 @@ msgid "Replace the wild character with"
 msgstr ""
 
 #~ msgctxt "allow_3rd_app_listen_phone_event_summary"
+
 #~ msgid "Allow third-party phone app monitoring"
 #~ msgstr ""
-
 #~ msgctxt "allow_3rd_app_listen_phone_event_title"
+
 #~ msgid "Third-party phone options"
 #~ msgstr ""
-
 #~ msgctxt "auto_dialpad_pref_summary"
+
 #~ msgid "Automatically display dialpad"
 #~ msgstr ""
-
 #~ msgctxt "auto_dialpad_pref_title"
+
 #~ msgid "Show dial pad"
 #~ msgstr ""
-
 #~ msgctxt "current_areacode"
+
 #~ msgid "Current Area Code"
 #~ msgstr ""
-
 #~ msgctxt "enforce_proximity_summary"
+
 #~ msgid "Enable proximity sensor enforcement option"
 #~ msgstr ""
-
 #~ msgctxt "enforce_proximity_title"
+
 #~ msgid "Enforce proximity sensor"
 #~ msgstr ""
-
 #~ msgctxt "hangup_sms"
+
 #~ msgid "Press \"Menu\" to reject and reply with SMS"
 #~ msgstr ""
-
 #~ msgctxt "hangup_sms_body"
+
 #~ msgid "Currently not available, will call back later"
 #~ msgstr ""
-
 #~ msgctxt "query_telocation_sum"
+
 #~ msgid "Look up for mobile or landline number's location"
 #~ msgstr ""
-
 #~ msgctxt "query_telocation_title"
+
 #~ msgid "Look up for number's location"
 #~ msgstr ""
-
 #~ msgctxt "show_quick_contact_badge_title"
+
 #~ msgid "Display picture"
 #~ msgstr ""
-
