@@ -1,11 +1,10 @@
-
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-04 12:15+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-22 13:50+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -19,39 +18,39 @@ msgstr ""
 
 msgctxt "add_clock"
 msgid "Clock"
-msgstr ""
+msgstr "Klokke"
 
 msgctxt "add_folder"
 msgid "Folder"
-msgstr ""
+msgstr "Mappe"
 
 msgctxt "add_photo_frame"
 msgid "Picture frame"
-msgstr ""
+msgstr "Bilderamme"
 
 msgctxt "all_apps_button_label"
 msgid "All applications"
-msgstr ""
+msgstr "Alle programmer"
 
 msgctxt "all_apps_home_button_label"
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 msgctxt "application_name"
 msgid "Launcher"
-msgstr ""
+msgstr "Launcher"
 
 msgctxt "buffering"
 msgid "Buffering..."
-msgstr ""
+msgstr "Bufrer..."
 
 msgctxt "cancel_action"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "cancel_btn_label"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "cant_remove_folder"
 msgid "Unable to remove non-empty folder"
@@ -63,47 +62,47 @@ msgstr ""
 
 msgctxt "chooser_wallpaper"
 msgid "Select wallpaper from"
-msgstr ""
+msgstr "Velg bakgrunn fra"
 
 msgctxt "configure_wallpaper"
 msgid "Configure..."
-msgstr ""
+msgstr "Konfigurer..."
 
 msgctxt "confirm_btn_label"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "durationformatlong"
 msgid "%1$d:%3$02d:%5$02d"
-msgstr ""
+msgstr "%1$d:%3$02d:%5$02d"
 
 msgctxt "durationformatshort"
 msgid "%2$2d:%5$02d"
-msgstr ""
+msgstr "%2$2d:%5$02d"
 
 msgctxt "durationformatshort_padding_with_0"
 msgid "%2$02d:%5$02d"
-msgstr ""
+msgstr "%2$02d:%5$02d"
 
 msgctxt "edit_folder_label"
 msgid "Modify the folder name"
-msgstr ""
+msgstr "Endre mappenavnet"
 
 msgctxt "edit_folder_title"
 msgid "Edit folder"
-msgstr ""
+msgstr "Endre mappe"
 
 msgctxt "emptyplaylist"
 msgid "Playlist is empty"
-msgstr ""
+msgstr "Spilleliste er tom"
 
 msgctxt "enable_hidden"
 msgid "Hide applications"
-msgstr ""
+msgstr "Skjul applikasjoner"
 
 msgctxt "encryption"
 msgid "Encryption"
-msgstr ""
+msgstr "Kryptering"
 
 msgctxt "failed_to_delete_temporary"
 msgid "Failed to delete, please try again."
@@ -123,7 +122,7 @@ msgstr ""
 
 msgctxt "folder_name"
 msgid "Folder"
-msgstr ""
+msgstr "Mappe"
 
 msgctxt "gadget_error_text"
 msgid "Problem loading widget"
@@ -135,27 +134,27 @@ msgstr ""
 
 msgctxt "group_applications"
 msgid "Applications"
-msgstr ""
+msgstr "Programmer"
 
 msgctxt "group_folder"
 msgid "New folder"
-msgstr ""
+msgstr "Ny mappe"
 
 msgctxt "group_live_folders"
 msgid "Folders"
-msgstr ""
+msgstr "Mapper"
 
 msgctxt "group_shortcuts"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Snarveier"
 
 msgctxt "group_wallpapers"
 msgid "Wallpapers"
-msgstr ""
+msgstr "Bakgrunner"
 
 msgctxt "group_widgets"
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 msgctxt "lockscreenwallpaper_instructions"
 msgid "Set Lockscreen wallpaper"
@@ -163,11 +162,11 @@ msgstr ""
 
 msgctxt "menu_add"
 msgid "Add"
-msgstr ""
+msgstr "Legg til"
 
 msgctxt "menu_edit"
 msgid "Editing mode"
-msgstr ""
+msgstr "Redigeringsmodus"
 
 msgctxt "menu_gestures"
 msgid "Gestures"
@@ -175,7 +174,7 @@ msgstr ""
 
 msgctxt "menu_item_add_item"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Legg til hjem skjermen"
 
 msgctxt "menu_launcher_setting"
 msgid "Launcher settings"
@@ -183,15 +182,15 @@ msgstr ""
 
 msgctxt "menu_notifications"
 msgid "Notifications"
-msgstr ""
+msgstr "Varsler"
 
 msgctxt "menu_search"
 msgid "Search"
-msgstr ""
+msgstr "Søk"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgctxt "menu_sort"
 msgid "Sort desktop icons"
@@ -199,11 +198,11 @@ msgstr ""
 
 msgctxt "menu_wallpaper"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Bakgrunn"
 
 msgctxt "out_of_space"
 msgid "No more room on this Home screen."
-msgstr ""
+msgstr "Ikke mer plass på denne Hjem skjermen."
 
 msgctxt "permdesc_install_shortcut"
 msgid "Allows an application to add shortcuts without user intervention."
@@ -223,7 +222,7 @@ msgstr ""
 
 msgctxt "permlab_install_shortcut"
 msgid "install shortcuts"
-msgstr ""
+msgstr "installer snarveier"
 
 msgctxt "permlab_read_settings"
 msgid "read home settings and shortcuts"
@@ -239,11 +238,11 @@ msgstr ""
 
 msgctxt "pick_lockscreenwallpaper"
 msgid "Lockscreen wallpaper"
-msgstr ""
+msgstr "Låseskjerm bakgrunn"
 
 msgctxt "pick_wallpaper"
 msgid "Wallpapers"
-msgstr ""
+msgstr "Bakgrunner"
 
 msgctxt "preferences_general_title"
 msgid "Performance settings"
@@ -267,7 +266,7 @@ msgstr ""
 
 msgctxt "pref_icon_shadow_title"
 msgid "Icon shadow"
-msgstr ""
+msgstr "Ikon skygge"
 
 msgctxt "pref_keep_in_memory_summary"
 msgid "Keep application in memory. App will not exit."
@@ -275,39 +274,39 @@ msgstr ""
 
 msgctxt "pref_keep_in_memory_title"
 msgid "Keep in memory"
-msgstr ""
+msgstr "Behold i minne"
 
 msgctxt "pref_render_in_truecolor_summary"
 msgid "Turn on to enhance graphics."
-msgstr ""
+msgstr "Skru på for å forbedre grafikk."
 
 msgctxt "pref_render_in_truecolor_title"
 msgid "Hi-res graphics"
-msgstr ""
+msgstr "Høyoppløslig grafikk"
 
 msgctxt "pref_screen_transformation_type_title"
 msgid "Transition effects"
-msgstr ""
+msgstr "Overgangseffekter"
 
 msgctxt "rename_action"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "rename_folder_label"
 msgid "Folder name"
-msgstr ""
+msgstr "Mappe navn"
 
 msgctxt "rename_folder_title"
 msgid "Rename folder"
-msgstr ""
+msgstr "Endre navn på mappe"
 
 msgctxt "sdcard_busy_title"
 msgid "SD card is not available or busy"
-msgstr ""
+msgstr "SD kortet er ikke tilgjengelig eller opptat"
 
 msgctxt "sdcard_missing_title"
 msgid "SD card not found"
-msgstr ""
+msgstr "SD kort ikke funnet"
 
 msgctxt "set_password"
 msgid "Set password"
@@ -316,25 +315,25 @@ msgstr ""
 #, python-format
 msgctxt "shortcut_duplicate"
 msgid "Shortcut \"%s\" already exists."
-msgstr ""
+msgstr "Snarveien \"%s\" eksisterer allerede."
 
 #, python-format
 msgctxt "shortcut_installed"
 msgid "Shortcut \"%s\" created."
-msgstr ""
+msgstr "Snarvei \"%s\" opprettet."
 
 #, python-format
 msgctxt "shortcut_uninstalled"
 msgid "Shortcut \"%s\" was removed."
-msgstr ""
+msgstr "Snarvei \"%s\" ble fjernet."
 
 msgctxt "show_hidden"
 msgid "Show hidden apps"
-msgstr ""
+msgstr "Vis skjulte apps"
 
 msgctxt "sort_by_abc"
 msgid "Sort by app name"
-msgstr ""
+msgstr "Sorter etter app navn"
 
 msgctxt "sort_by_frequency"
 msgid "Sort by frequency of use"
@@ -346,19 +345,19 @@ msgstr ""
 
 msgctxt "start_activity_failed"
 msgid "Failed to start, please try again"
-msgstr ""
+msgstr "Startet ikke, prøv igjen"
 
 msgctxt "title_select_live_folder"
 msgid "Select folder"
-msgstr ""
+msgstr "Velg mappe"
 
 msgctxt "title_select_shortcut"
 msgid "Select shortcut"
-msgstr ""
+msgstr "Velg snarvei"
 
 msgctxt "transformation_type_classic"
 msgid "Classic"
-msgstr ""
+msgstr "Klassisk"
 
 msgctxt "transformation_type_classic_no_overshoot"
 msgid "Classic (No overshoot)"
@@ -370,7 +369,7 @@ msgstr ""
 
 msgctxt "transformation_type_cube"
 msgid "3D Cube"
-msgstr ""
+msgstr "3D Kube"
 
 msgctxt "transformation_type_falldown"
 msgid "Falldown"
@@ -394,16 +393,16 @@ msgstr ""
 
 msgctxt "uninstall"
 msgid "Uninstall"
-msgstr ""
+msgstr "Avinstaller"
 
 #, python-format
 msgctxt "uninstall_body_format"
 msgid "Remove application \"%s\"?"
-msgstr ""
+msgstr "Fjern programmet \"%s\"?"
 
 msgctxt "unknown_artist_name"
 msgid "Unknown Artist"
-msgstr ""
+msgstr "Ukjent artist"
 
 msgctxt "wallpaper_instructions"
 msgid "Set wallpaper"
@@ -415,7 +414,7 @@ msgstr ""
 
 msgctxt "widget_favorite_contacts_edit"
 msgid "Edit"
-msgstr ""
+msgstr "Endre"
 
 msgctxt "widget_favorite_contacts_lable"
 msgid "Favorite Contacts"
@@ -423,11 +422,11 @@ msgstr ""
 
 msgctxt "widget_favorite_contacts_style"
 msgid "Switch size"
-msgstr ""
+msgstr "Bytt størrelse"
 
 msgctxt "widget_gadget_player"
 msgid "Music_4x"
-msgstr ""
+msgstr "Music_4x"
 
 msgctxt "widget_global_search"
 msgid "Global Search"
