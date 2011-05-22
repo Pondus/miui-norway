@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-04 12:17+0200\n"
-"PO-Revision-Date: 2011-05-22 00:07+0200\n"
-"Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
+"PO-Revision-Date: 2011-05-22 13:41+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: MIUI Norway\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
@@ -95,7 +95,7 @@ msgstr "Enhets adminstrator"
 
 msgctxt "activity_picker_label"
 msgid "Select activity"
-msgstr "Velg aktivtet"
+msgstr "Velg aktivitet"
 
 msgctxt "adb_warning_message"
 msgid "USB debugging is intended for development purposes only. It can be used to copy data between your computer and your device, install applications on your device without notification, and read log data."
@@ -340,9 +340,7 @@ msgstr "Automatisk lysstryke"
 
 msgctxt "automatic_brightness_summary"
 msgid "Automatic brightness will adjust to the ambient conditions or you can manually use the slider to adjust the screen brightness."
-msgstr ""
-"Automatisk lysstyrke tilpasser seg til lysforholdene, eller du kan forandre "
-"skjermens lysstyrke manuelt."
+msgstr "Automatisk lysstyrke tilpasser seg til lysforholdene, eller du kan forandre skjermens lysstyrke manuelt."
 
 msgctxt "auto_caps"
 msgid "Auto-cap"
@@ -948,9 +946,7 @@ msgstr "Varsel om lite strøm"
 
 msgctxt "battery_setting_quick_entry_summary"
 msgid "Notification will be shown when the battery is running low. Click on the notification to enter power settings."
-msgstr ""
-"En varsling vil vises når batterinivået er lavt. Trykk på varslingen for å "
-"gå til strøminnstillingene."
+msgstr "En varsling vil vises når batterinivået er lavt. Trykk på varslingen for å gå til strøminnstillingene."
 
 msgctxt "battery_since_reset"
 msgid "Battery use since reset"
@@ -1054,10 +1050,7 @@ msgstr "En applikasjon på telefonen din spør om tillatelse til å skru på Blu
 
 msgctxt "bluetooth_confirm_passkey_msg"
 msgid "To pair with \"%1$s\", confirm that it is showing the passkey: %2$s."
-msgstr ""
-"Hvis du vil koble sammen med «<xliff:g id=\"DEVICE_NAME\">%1$s</xliff:g>», må "
-"du kontrollere at enheten viser passordet: <xliff:g id=\"PASSKEY\">%"
-"2$s</xliff:g>"
+msgstr "Hvis du vil koble sammen med «<xliff:g id=\"DEVICE_NAME\">%1$s</xliff:g>», må du kontrollere at enheten viser passordet: <xliff:g id=\"PASSKEY\">%2$s</xliff:g>"
 
 msgctxt "bluetooth_connected"
 msgid "Connected"
@@ -1205,8 +1198,7 @@ msgid ""
 "Type PIN to pair with \"%1$s\". (Try 0000 or 1234.)"
 msgstr ""
 "\n"
-"Tast inn PIN-kode for å sammenkoble med «<xliff:g id=\"DEVICE_NAME\">%"
-"1$s</xliff:g>». (Prøv 0000 eller 1234.)"
+"Tast inn PIN-kode for å sammenkoble med «<xliff:g id=\"DEVICE_NAME\">%1$s</xliff:g>». (Prøv 0000 eller 1234.)"
 
 msgctxt "bluetooth_error_title"
 msgid "Attention"
@@ -1307,9 +1299,7 @@ msgstr "Det oppstop et problem under sammenkobling med %1$s."
 
 msgctxt "bluetooth_pairing_pin_error_message"
 msgid "There was a problem pairing with %1$s because the PIN or Passkey is incorrect."
-msgstr ""
-"Det oppsto et problem under sammenkobling med <xliff:g id=\"DEVICE_NAME\">%"
-"1$s</xliff:g> fordi PIN-koden eller passordet er feil."
+msgstr "Det oppsto et problem under sammenkobling med <xliff:g id=\"DEVICE_NAME\">%1$s</xliff:g> fordi PIN-koden eller passordet er feil."
 
 #, fuzzy
 msgctxt "bluetooth_pairing_rejected_error_message"
@@ -2736,9 +2726,7 @@ msgstr "Tving avslutning"
 
 msgctxt "force_stop_dlg_text"
 msgid "This application will be restarted right way. Are you sure you want to force stop?"
-msgstr ""
-"Dette programmet vil umiddelbart startes på nytt. Er du sikker på at du "
-"ønsker å tvinge det til å avslutte? "
+msgstr "Dette programmet vil umiddelbart startes på nytt. Er du sikker på at du ønsker å tvinge det til å avslutte? "
 
 msgctxt "force_stop_dlg_title"
 msgid "Force stop"
@@ -2778,9 +2766,7 @@ msgstr "NTP server adresse:"
 
 msgctxt "gps_config_summary"
 msgid "Adjust GPS configuration settings to improve accuracy of positioning"
-msgstr ""
-"Juster GPS-konfigurasjonsinnstillingene for å forbedre "
-"posisjoneringsnøyaktigheten"
+msgstr "Juster GPS-konfigurasjonsinnstillingene for å forbedre posisjoneringsnøyaktigheten"
 
 msgctxt "gps_config_supl_host"
 msgid "SUPL server address:"
@@ -2865,9 +2851,7 @@ msgstr "Justerer taktil tilbakemeldingsverdier for LONG-PRESSES"
 
 msgctxt "haptic_plus_minus_desc"
 msgid "Press the Plus or Minus Buttons to add or remove steps in the sequence."
-msgstr ""
-"Trykk på pluss- eller minusknappene for å legge til eller fjerne trinn fra "
-"sekvensen."
+msgstr "Trykk på pluss- eller minusknappene for å legge til eller fjerne trinn fra sekvensen."
 
 msgctxt "haptic_revert_toast"
 msgid "Restoring last-used values"
@@ -2907,9 +2891,7 @@ msgstr "Innstillinger for fysisk tastatur"
 
 msgctxt "heavy_weight_stop_description"
 msgid "This application can not safely be stopped. Doing so may lose some of your current work."
-msgstr ""
-"Dette programmet kan ikke stoppes på en trygg måte. Noe av arbeidet ditt kan "
-"gå tapt."
+msgstr "Dette programmet kan ikke stoppes på en trygg måte. Noe av arbeidet ditt kan gå tapt."
 
 msgctxt "hidden_ssid_label"
 msgid "Hidden SSID :"
@@ -2917,11 +2899,7 @@ msgstr "Skjult SSID :"
 
 msgctxt "ime_security_warning"
 msgid "This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the application %1$s. Use this input method?"
-msgstr ""
-"Inndatametoden har mulighet til å samle inn all tekst du skriver, inkludert "
-"personlige data som passord og kredittkortnummer. Den kommer fra "
-"applikasjonen <xliff:g id=\"IME_APPLICATION_NAME\">%1$s</xliff:g>. Aktiver "
-"inndatametoden?"
+msgstr "Inndatametoden har mulighet til å samle inn all tekst du skriver, inkludert personlige data som passord og kredittkortnummer. Den kommer fra applikasjonen <xliff:g id=\"IME_APPLICATION_NAME\">%1$s</xliff:g>. Aktiver inndatametoden?"
 
 msgctxt "incoming_call"
 msgid "Phone calls"
@@ -2949,11 +2927,7 @@ msgstr "Tegnsett"
 
 msgctxt "install_all_warning"
 msgid "Your phone and personal data are more vulnerable to attack by applications from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these applications."
-msgstr ""
-"Telefonen og dine personlige data er mer sårbare mot angrep fra "
-"applikasjoner som kommer fra ukjente kilder. Du godtar at du selv er "
-"ansvarlig for enhver skade på telefonen eller tap av data som måtte oppstå "
-"fra bruk av slike applikasjoner."
+msgstr "Telefonen og dine personlige data er mer sårbare mot angrep fra applikasjoner som kommer fra ukjente kilder. Du godtar at du selv er ansvarlig for enhver skade på telefonen eller tap av data som måtte oppstå fra bruk av slike applikasjoner."
 
 msgctxt "install_applications"
 msgid "Unknown sources"
@@ -3057,9 +3031,7 @@ msgstr "Språk og tastatur"
 
 msgctxt "language_settings_summary"
 msgid "Set locale (language & region), text input and auto-correction options"
-msgstr ""
-"Angi språk, region, inndatametoder og innstillinger for automatisk "
-"korrigering"
+msgstr "Angi språk, region, inndatametoder og innstillinger for automatisk korrigering"
 
 msgctxt "language_settings_title"
 msgid "Language & Input Settings"
@@ -3103,9 +3075,7 @@ msgstr "Lisens"
 
 msgctxt "light_decrease_enabled_summary"
 msgid "Enable to allow lights to decrease. Use hysteresis to reduce flicker."
-msgstr ""
-"Slå på for å tillate senkende lysnivå. Bruk hysterese for å redusere "
-"flimmer."
+msgstr "Slå på for å tillate senkende lysnivå. Bruk hysterese for å redusere flimmer."
 
 msgctxt "light_decrease_enabled_title"
 msgid "Allow lights to decrease"
@@ -3121,9 +3091,7 @@ msgstr "Reduser hysterese"
 
 msgctxt "light_filter_enabled_summary"
 msgid "Allow moving average filtered value to sense data to reduce flicker"
-msgstr ""
-"Tillater en flytende gjennomsnittsfiltrert verdi av sensordata for å "
-"redusere flimmer"
+msgstr "Tillater en flytende gjennomsnittsfiltrert verdi av sensordata for å redusere flimmer"
 
 msgctxt "light_filter_enabled_title"
 msgid "Enabled"
@@ -3139,9 +3107,7 @@ msgstr "Prøve-intervall"
 
 msgctxt "light_filter_reset_summary"
 msgid "Samples that are deviating much from the current average value resets the filter"
-msgstr ""
-"Prøver som avviker for mye fra den gjennomsnittsfiltrerte verdien "
-"tilbakestiller filteret"
+msgstr "Prøver som avviker for mye fra den gjennomsnittsfiltrerte verdien tilbakestiller filteret"
 
 msgctxt "light_filter_reset_title"
 msgid "Reset threshold"
@@ -3153,9 +3119,7 @@ msgstr "Lyssensor-filter"
 
 msgctxt "light_filter_window_summary"
 msgid "Filtered value is the average sensor value during this period"
-msgstr ""
-"Filtrert verdi er gjennomsnittsverdien fra sensordataene gjennom denne "
-"perioden"
+msgstr "Filtrert verdi er gjennomsnittsverdien fra sensordataene gjennom denne perioden"
 
 msgctxt "light_filter_window_title"
 msgid "Window length"
@@ -3255,9 +3219,7 @@ msgstr "Bruk GPS-satelitter"
 
 msgctxt "location_gps_disabled"
 msgid "Locate to street-level (requires more battery plus view of sky)"
-msgstr ""
-"Finn plassering ned til gatenivå (bruker mer batteri, og trenger fri sikt "
-"til himmelen)"
+msgstr "Finn plassering ned til gatenivå (bruker mer batteri, og trenger fri sikt til himmelen)"
 
 msgctxt "location_neighborhood_level"
 msgid "Location determined by Wi-Fi and/or mobile networks"
@@ -3277,8 +3239,7 @@ msgstr "Sikkerhet og personvern"
 
 msgctxt "location_street_level"
 msgid "When locating, accurate to street level (uncheck to conserve battery)"
-msgstr ""
-"Ved posisjonering, nøyaktig ned til gatenivå (slå av for å spare batteri)"
+msgstr "Ved posisjonering, nøyaktig ned til gatenivå (slå av for å spare batteri)"
 
 msgctxt "location_title"
 msgid "My Location"
@@ -3510,15 +3471,11 @@ msgid ""
 "<font height=\"3\">\n"
 "</font>To leave your phone unprotected, touch “Cancel”.</font>\\u0020"
 msgstr ""
-"<font size=\"17\">Beskytt telefonen fra uautorisert bruk ved å lage et "
-"personlig opplåsingsmønster for skjermen.\n"
+"<font size=\"17\">Beskytt telefonen fra uautorisert bruk ved å lage et personlig opplåsingsmønster for skjermen.\n"
 "<font height=\"17\">\n"
-"</font><b>1</b>  På den neste skjermen, se på mens et eksempelmønster blir "
-"tegnet.\n"
+"</font><b>1</b>  På den neste skjermen, se på mens et eksempelmønster blir tegnet.\n"
 "<font height=\"17\">\n"
-"</font><b>2</b>  Når du er klar, tegn ditt eget personlige "
-"opplåsingsmønster. Prøv med forskjellige mønster, men tegn over minst fire "
-"punkter. \n"
+"</font><b>2</b>  Når du er klar, tegn ditt eget personlige opplåsingsmønster. Prøv med forskjellige mønster, men tegn over minst fire punkter. \n"
 "<font height=\"17\">\n"
 "</font><b>3</b>  Tegn mønsteret på nytt for å bekrefte.\n"
 "<font height=\"17\">\n"
@@ -3606,9 +3563,7 @@ msgstr ""
 
 msgctxt "master_clear_failed"
 msgid "No reset was performed because the System Clear service is not available."
-msgstr ""
-"Telefonen ble ikke tilbakestilt fordi tilbakestillingstjenesten ikke er "
-"tilgjengelig."
+msgstr "Telefonen ble ikke tilbakestilt fordi tilbakestillingstjenesten ikke er tilgjengelig."
 
 msgctxt "master_clear_final_button_text"
 msgid "Erase everything"
@@ -3616,14 +3571,11 @@ msgstr "Fjern alt"
 
 msgctxt "master_clear_final_desc"
 msgid "Erase all of your personal information and any downloaded applications? It is impossible to reverse this action!"
-msgstr ""
-"Fjern all personlig informasjon og nedlastede applikasjoner? Dette kan ikke "
-"gjøres om!"
+msgstr "Fjern all personlig informasjon og nedlastede applikasjoner? Dette kan ikke gjøres om!"
 
 msgctxt "master_clear_gesture_explanation"
 msgid "You must draw your unlock pattern to confirm a phone reset."
-msgstr ""
-"Du må tegne opplåsingsmønsteret for å bekrefte tilbakestilling av telefonen."
+msgstr "Du må tegne opplåsingsmønsteret for å bekrefte tilbakestilling av telefonen."
 
 msgctxt "master_clear_gesture_prompt"
 msgid "Draw your unlock pattern"
@@ -3647,8 +3599,7 @@ msgstr "Formater SD kort"
 
 msgctxt "media_format_desc"
 msgid "This action will erase the SD card in the phone. You will lose ALL data on the card!"
-msgstr ""
-"Handlingen formaterer SD-kortet. <b>Alle</b> data på kortet vil gå tapt!"
+msgstr "Handlingen formaterer SD-kortet. <b>Alle</b> data på kortet vil gå tapt!"
 
 msgctxt "media_format_final_button_text"
 msgid "Erase everything"
@@ -3660,8 +3611,7 @@ msgstr "Formater SD kortet, og fjern alle dine medier? Handlingen kan ikke rever
 
 msgctxt "media_format_gesture_explanation"
 msgid "You must draw your unlock pattern to confirm an SD card format."
-msgstr ""
-"Du må tegne opplåsingsmønsteret for å bekrefte formateringen av SD-kortet."
+msgstr "Du må tegne opplåsingsmønsteret for å bekrefte formateringen av SD-kortet."
 
 msgctxt "media_format_gesture_prompt"
 msgid "Draw your unlock pattern"
@@ -3938,9 +3888,7 @@ msgstr "Passord-gjennomgang"
 
 msgctxt "password_guide_desc1"
 msgid "Set a password to protect your personal security, to do this select Password Security in Settings."
-msgstr ""
-"Angi et passord for å beskytte din personlige sikkerhet. For å gjøre dette, "
-"velg "
+msgstr "Angi et passord for å beskytte din personlige sikkerhet. For å gjøre dette, velg "
 
 msgctxt "password_guide_desc2"
 msgid "If you do not want to set a password, please click the Cancel button."
@@ -4228,9 +4176,7 @@ msgstr "Avbryt"
 
 msgctxt "quick_launch_clear_dialog_message"
 msgid "Your shortcut for %1$s (%2$s) will be cleared."
-msgstr ""
-"Snarveien for <xliff:g id=\"SHORTCUT_LETTER\">%1$s</xliff:g> (<xliff:g "
-"id=\"APPLICATION_NAME\">%2$s</xliff:g>) will be fjernet."
+msgstr "Snarveien for <xliff:g id=\"SHORTCUT_LETTER\">%1$s</xliff:g> (<xliff:g id=\"APPLICATION_NAME\">%2$s</xliff:g>) will be fjernet."
 
 msgctxt "quick_launch_clear_dialog_title"
 msgid "Clear"
@@ -4498,8 +4444,7 @@ msgid ""
 "\n"
 "Do you want to restart the phone now?"
 msgstr ""
-"Vennligst lukk alle applikasjoner og start telefonen på nytt for at "
-"endringene skal ta effekt.\n"
+"Vennligst lukk alle applikasjoner og start telefonen på nytt for at endringene skal ta effekt.\n"
 "\n"
 "Ønsker du å starte telefonen på nytt nå?"
 
@@ -6756,81 +6701,82 @@ msgid "Sort by Timezone"
 msgstr "Sorter etter Tidssone"
 
 #~ msgctxt "add_new_backup"
+
 #~ msgid "Add a new backup"
 #~ msgstr ""
-
 #~ msgctxt "disable_power_key_long_press_under_keyguard"
+
 #~ msgid "Disable long-press on lockscreen"
 #~ msgstr ""
-
 #~ msgctxt "electron_beam_animation_off"
+
 #~ msgid "Turn off animation"
 #~ msgstr ""
-
 #~ msgctxt "electron_beam_animation_on"
+
 #~ msgid "Turn on animation"
 #~ msgstr ""
-
 #~ msgctxt "light_decrease_enabled_title"
+
 #~ msgid "Allow light decrease"
 #~ msgstr ""
-
 #~ msgctxt "ll_disabled"
+
 #~ msgid "disabled"
 #~ msgstr ""
-
 #~ msgctxt "lock_settings_title"
+
 #~ msgid "Screen unlock"
 #~ msgstr ""
-
 #~ msgctxt "more_info"
+
 #~ msgid "More info"
 #~ msgstr ""
-
 #~ msgctxt "personal_password_for_firewall_summary"
+
 #~ msgid "Requires password to enter DND mode"
 #~ msgstr ""
-
 #~ msgctxt "personal_password_for_notes_summary"
+
 #~ msgid "Notes requires password to view"
 #~ msgstr ""
-
 #~ msgctxt "power_key"
+
 #~ msgid "Power button action"
 #~ msgstr ""
-
 #~ msgctxt "preferred_app_title"
+
 #~ msgid "Default Music Player for lockscreen"
 #~ msgstr ""
-
 #~ msgctxt "preferred_media_app_summary"
+
 #~ msgid "Music Player used for lockscreen controls"
 #~ msgstr ""
-
 #~ msgctxt "process_provider_in_use_description"
+
 #~ msgid "Provider %1$s is in use."
 #~ msgstr ""
-
 #~ msgctxt "process_service_in_use_description"
+
 #~ msgid "Service %1$s is in use."
 #~ msgstr ""
-
 #~ msgctxt "sort_order_alpha"
+
 #~ msgid "Sort"
 #~ msgstr ""
-
 #~ msgctxt "title_haptic_feedback_all"
+
 #~ msgid "Haptic screen items"
 #~ msgstr ""
-
 #~ msgctxt "unlock_set_unlock_password_summary"
+
 #~ msgid "Enter a password to unlock screen"
 #~ msgstr ""
-
 #~ msgctxt "unlock_set_unlock_pattern_summary"
+
 #~ msgid "Draw pattern to unlock screen"
 #~ msgstr ""
-
 #~ msgctxt "unlock_set_unlock_pin_summary"
+
 #~ msgid "Enter a numeric PIN to unlock screen"
 #~ msgstr ""
