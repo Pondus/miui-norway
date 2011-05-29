@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,6 +71,7 @@ msgctxt "sync_menu_sync_cancel"
 msgid "Cancel sync"
 msgstr ""
 
+#, c-format
 msgctxt "sync_one_time_sync"
 msgid ""
 "Touch to sync now\n"
@@ -89,6 +90,7 @@ msgctxt "sync_contacts"
 msgid "Contacts"
 msgstr ""
 
+#, c-format
 msgctxt "sync_too_many_deletes_desc"
 msgid ""
 "There are %1$d deleted items for %2$s, account %3$s. What would you like "
@@ -115,7 +117,7 @@ msgctxt "sync_plug"
 msgid ""
 "<font fgcolor=\"#ffffffff\">Welcome to Google sync!</font> \n"
 "A Google approach to synchronizing data to allow access to your contacts,"
-" appointments, and more from wherever you are.\\u0020"
+" appointments, and more from wherever you are. "
 msgstr ""
 
 msgctxt "header_application_sync_settings"
@@ -126,12 +128,12 @@ msgctxt "header_manage_accounts"
 msgid "Manage accounts"
 msgstr ""
 
-msgctxt "header_general_sync_settings"
-msgid "General sync settings"
-msgstr ""
-
 msgctxt "header_manage_default_accounts"
 msgid "Default accounts"
+msgstr ""
+
+msgctxt "header_general_sync_settings"
+msgid "General sync settings"
 msgstr ""
 
 msgctxt "sync_enabled"
@@ -196,7 +198,7 @@ msgctxt "provider_label"
 msgid "Push subscriptions"
 msgstr ""
 
-#, python-format
+#, c-format
 msgctxt "sync_item_title"
 msgid "Sync %s"
 msgstr ""

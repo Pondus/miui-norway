@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,40 +17,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "all_resources"
-msgid "%1$s"
-msgstr ""
-
-msgctxt "apply_theme_content_caution"
-msgid ""
-"This theme contains: %1$s\n"
-"\n"
-msgstr ""
-
-msgctxt "apply_theme_no_select_message"
-msgid "Please select a theme!"
-msgstr ""
-
-msgctxt "apply_theme_reboot_confirm_message"
-msgid "Phone will be restarted to apply theme changes"
-msgstr ""
-
 msgctxt "app_name"
 msgid "Themes"
+msgstr ""
+
+msgctxt "theme_sdcard_missed_dialog_title"
+msgid "SD card is not accessible!"
+msgstr ""
+
+msgctxt "theme_sdcard_missed_dialog_message"
+msgid ""
+"Make sure the SD card card is inserted, and the phone is not in data "
+"transfer mode."
+msgstr ""
+
+msgctxt "theme_changing_dialog_title"
+msgid "Applying new theme, please wait..."
+msgstr ""
+
+msgctxt "theme_changed_message"
+msgid "Theme successfully applied!"
+msgstr ""
+
+msgctxt "theme_changed_failed_message"
+msgid "Failed to apply theme!"
+msgstr ""
+
+msgctxt "theme_activity_lable"
+msgid "Themes"
+msgstr ""
+
+msgctxt "theme_unknow_author"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "component_category_title"
+msgid "Edit theme"
 msgstr ""
 
 msgctxt "backup_preference_title"
 msgid "Backup Theme"
 msgstr ""
 
+msgctxt "backup_theme_dialog_ok"
+msgid "Backup"
+msgstr ""
+
 msgctxt "backup_theme_dialog_message"
 msgid ""
 "Backup the current theme to SD card:\n"
 "\\MIUI\\theme\\backup\\backup.mtz"
-msgstr ""
-
-msgctxt "backup_theme_dialog_ok"
-msgid "Backup"
 msgstr ""
 
 msgctxt "backup_theme_progress_message"
@@ -61,48 +77,139 @@ msgctxt "backup_theme_success_message"
 msgid "Theme backed up successfully"
 msgstr ""
 
-msgctxt "cancel"
-msgid "Cancel"
+msgctxt "theme_description_missed"
+msgid "No"
 msgstr ""
 
-msgctxt "cancel_all_download_task"
-msgid "Cancel all"
+msgctxt "theme_description_title_default"
+msgid "Default theme"
 msgstr ""
 
-msgctxt "component_category_title"
-msgid "Edit theme"
+msgctxt "theme_description_picker_default"
+msgid "Default ringtone"
 msgstr ""
 
-msgctxt "component_include_title"
-msgid "Contains %1$s Components"
+msgctxt "theme_description_ringtone_title_default"
+msgid "System ringtones"
 msgstr ""
 
-msgctxt "component_screen_title"
+msgctxt "theme_description_notification_title_default"
+msgid "Notification ringtone"
+msgstr ""
+
+msgctxt "theme_description_alarm_title_default"
+msgid "Alarm"
+msgstr ""
+
+msgctxt "theme_description_title_customized"
+msgid "Custom theme"
+msgstr ""
+
+msgctxt "theme_description_title_mute"
+msgid "Mute"
+msgstr ""
+
+msgctxt "theme_description_author"
+msgid "Author:"
+msgstr ""
+
+msgctxt "theme_description_size"
+msgid "Size:"
+msgstr ""
+
+msgctxt "theme_description_addtime"
+msgid "Added:"
+msgstr ""
+
+msgctxt "theme_description_download"
+msgid "Downloads:"
+msgstr ""
+
+msgctxt "theme_description_version"
+msgid "Version:"
+msgstr ""
+
+msgctxt "theme_component_title_framework"
+msgid "Themes"
+msgstr ""
+
+msgctxt "theme_component_title_mms"
+msgid "Text Style"
+msgstr ""
+
+msgctxt "theme_component_title_wallpaper"
 msgid "Wallpaper"
 msgstr ""
 
-msgctxt "component_select_title"
-msgid "Selected %1$s Components"
+msgctxt "theme_component_title_lockwallpaper"
+msgid "Lockscreen"
 msgstr ""
 
-msgctxt "component_settings_title"
-msgid "Customize Theme"
+msgctxt "theme_component_title_icon"
+msgid "Icon"
 msgstr ""
 
-msgctxt "confirm"
-msgid "OK"
+msgctxt "theme_component_title_boot_animation"
+msgid "Boot Animation"
 msgstr ""
 
-msgctxt "desktop_wallpaper"
-msgid "Desktop wallpaper"
+msgctxt "theme_component_title_boot_audio"
+msgid "Boot Audio"
 msgstr ""
 
-msgctxt "download_failed"
-msgid "Download failed"
+msgctxt "theme_component_title_font"
+msgid "Font"
 msgstr ""
 
-msgctxt "invalid_url"
-msgid "Invalid file:"
+msgctxt "theme_component_title_ringtone"
+msgid "Ringtone"
+msgstr ""
+
+msgctxt "theme_component_title_notification"
+msgid "Notification"
+msgstr ""
+
+msgctxt "theme_component_title_alarm"
+msgid "Alarm"
+msgstr ""
+
+msgctxt "theme_component_title_contact"
+msgid "Dialer Style"
+msgstr ""
+
+msgctxt "theme_component_title_lockstyle"
+msgid "Lockscreen Style"
+msgstr ""
+
+msgctxt "theme_component_title_statusbar"
+msgid "Status Bar"
+msgstr ""
+
+msgctxt "theme_component_title_others"
+msgid "Other"
+msgstr ""
+
+msgctxt "theme_component_title_all"
+msgid "Theme"
+msgstr ""
+
+msgctxt "pick_theme_title"
+msgid "Choose theme"
+msgstr ""
+
+#, c-format
+msgctxt "apply_theme_content_caution"
+msgid ""
+"This theme contains: %1$s\n"
+"\n"
+msgstr ""
+
+msgctxt "apply_theme_reboot_confirm_message"
+msgid "Phone will be restarted to apply theme changes"
+msgstr ""
+
+msgctxt "apply_theme_no_select_message"
+msgid "Please select a theme!"
 msgstr ""
 
 msgctxt "list_section_header_backup"
@@ -114,43 +221,34 @@ msgid "MIUI"
 msgstr ""
 
 msgctxt "list_section_header_downloaded"
-msgid "Downloaded\\u0020"
+msgid "Downloaded "
 msgstr ""
 
-msgctxt "live_wallpaper"
-msgid "Live wallpaper"
+#, c-format
+msgctxt "theme_local"
+msgid "Local %1$s"
 msgstr ""
 
-msgctxt "lockscreen_wallpaper"
-msgid "Lockscreen wallpaper"
+#, c-format
+msgctxt "theme_online"
+msgid "Online %1$s"
 msgstr ""
 
-msgctxt "online_hotest"
-msgid "Featured"
+msgctxt "theme_import"
+msgid "Import Theme"
 msgstr ""
 
-msgctxt "online_hotest_short"
-msgid "Hot"
+msgctxt "theme_select_others"
+msgid "Other"
 msgstr ""
 
-msgctxt "online_latest"
-msgid "Latest"
+#, c-format
+msgctxt "third_party_pickers_activity_title"
+msgid "Set %1$s"
 msgstr ""
 
-msgctxt "online_latest_short"
-msgid "New"
-msgstr ""
-
-msgctxt "online_loading"
-msgid "Loading"
-msgstr ""
-
-msgctxt "online_no_network"
-msgid "Network or Wi-Fi connection unavailable"
-msgstr ""
-
-msgctxt "online_resource_apply"
-msgid "Apply"
+msgctxt "online_title"
+msgid "List"
 msgstr ""
 
 msgctxt "online_resource_download"
@@ -161,181 +259,106 @@ msgctxt "online_resource_downloading"
 msgid "Downloading"
 msgstr ""
 
-msgctxt "online_resource_select"
-msgid "Select"
+msgctxt "online_resource_apply"
+msgid "Apply"
 msgstr ""
 
 msgctxt "online_resource_update"
 msgid "Update"
 msgstr ""
 
-msgctxt "online_title"
-msgid "List"
+msgctxt "online_resource_select"
+msgid "Select"
 msgstr ""
 
-msgctxt "pick_theme_title"
-msgid "Choose theme"
+msgctxt "online_hotest"
+msgid "Featured"
+msgstr ""
+
+msgctxt "online_latest"
+msgid "Latest"
+msgstr ""
+
+msgctxt "online_hotest_short"
+msgid "Hot"
+msgstr ""
+
+msgctxt "online_latest_short"
+msgid "New"
+msgstr ""
+
+msgctxt "online_no_network"
+msgid "Network or Wi-Fi connection unavailable"
+msgstr ""
+
+msgctxt "online_loading"
+msgid "Loading"
+msgstr ""
+
+msgctxt "download_failed"
+msgid "Download failed"
+msgstr ""
+
+msgctxt "invalid_url"
+msgid "Invalid file:"
+msgstr ""
+
+msgctxt "cancel_all_download_task"
+msgid "Cancel all"
 msgstr ""
 
 msgctxt "resource_delete_confirm"
-msgid "Are you sure you wish to delete?"
+msgid "Are you sure you wish to delete this theme?"
 msgstr ""
 
-msgctxt "resource_detail"
-msgid "More information"
+msgctxt "confirm"
+msgid "OK"
 msgstr ""
 
-msgctxt "theme_activity_lable"
-msgid "Theme Manager"
+msgctxt "cancel"
+msgid "Cancel"
 msgstr ""
 
-msgctxt "theme_changed_failed_message"
-msgid "Failed to apply theme!"
-msgstr ""
-
-msgctxt "theme_changed_message"
-msgid "Theme successfully applied!"
-msgstr ""
-
-msgctxt "theme_changing_dialog_title"
-msgid "Applying new theme, please wait..."
-msgstr ""
-
-msgctxt "theme_component_title_alarm"
-msgid "Alarm"
-msgstr ""
-
-msgctxt "theme_component_title_all"
-msgid "Theme"
-msgstr ""
-
-msgctxt "theme_component_title_boot_animation"
-msgid "Boot Animation"
-msgstr ""
-
-msgctxt "theme_component_title_boot_audio"
-msgid "Boot Audio"
-msgstr ""
-
-msgctxt "theme_component_title_contact"
-msgid "Dialer Style"
-msgstr ""
-
-msgctxt "theme_component_title_font"
-msgid "Font"
-msgstr ""
-
-msgctxt "theme_component_title_framework"
-msgid "Themes"
-msgstr ""
-
-msgctxt "theme_component_title_icon"
-msgid "Icon"
-msgstr ""
-
-msgctxt "theme_component_title_lockstyle"
-msgid "Lockscreen Style"
-msgstr ""
-
-msgctxt "theme_component_title_lockwallpaper"
-msgid "Lockscreen"
-msgstr ""
-
-msgctxt "theme_component_title_mms"
-msgid "Text Style"
-msgstr ""
-
-msgctxt "theme_component_title_notification"
-msgid "Notification"
-msgstr ""
-
-msgctxt "theme_component_title_others"
-msgid "Other"
-msgstr ""
-
-msgctxt "theme_component_title_ringtone"
-msgid "Ringtone"
-msgstr ""
-
-msgctxt "theme_component_title_statusbar"
-msgid "Notification Bar"
-msgstr ""
-
-msgctxt "theme_component_title_wallpaper"
-msgid "Wallpaper"
-msgstr ""
-
-msgctxt "theme_description_addtime"
-msgid "Uploaded:"
-msgstr ""
-
-msgctxt "theme_description_author"
-msgid "Author:"
-msgstr ""
-
-msgctxt "theme_description_download"
-msgid "Downloads:"
-msgstr ""
-
-msgctxt "theme_description_missed"
-msgid "No"
-msgstr ""
-
-msgctxt "theme_description_size"
-msgid "Size:"
-msgstr ""
-
-msgctxt "theme_description_title_customized"
-msgid "Custom theme"
-msgstr ""
-
-msgctxt "theme_description_title_default"
-msgid "Default theme"
-msgstr ""
-
-msgctxt "theme_description_title_mute"
-msgid "Mute"
-msgstr ""
-
-msgctxt "theme_description_version"
-msgid "Version:"
-msgstr ""
-
-msgctxt "theme_import"
-msgid "Import Theme"
-msgstr ""
-
-msgctxt "theme_local"
-msgid "Local %1$s"
-msgstr ""
-
-msgctxt "theme_online"
-msgid "Online %1$s"
-msgstr ""
-
-msgctxt "theme_sdcard_missed_dialog_message"
-msgid ""
-"Make sure the SD card card is inserted, and the phone is not in data "
-"transfer mode."
-msgstr ""
-
-msgctxt "theme_sdcard_missed_dialog_title"
-msgid "SD card is not accessible!"
-msgstr ""
-
-msgctxt "theme_select_others"
-msgid "Other"
-msgstr ""
-
-msgctxt "theme_unknow_author"
-msgid "Unknown"
-msgstr ""
-
-msgctxt "third_party_pickers_activity_title"
-msgid "Set %1$s"
+#, c-format
+msgctxt "all_resources"
+msgid "%1$s"
 msgstr ""
 
 msgctxt "wallpaper_settings"
 msgid "Wallpaper settings"
+msgstr ""
+
+msgctxt "desktop_wallpaper"
+msgid "Home screen wallpaper"
+msgstr ""
+
+msgctxt "live_wallpaper"
+msgid "Live wallpaper"
+msgstr ""
+
+msgctxt "lockscreen_wallpaper"
+msgid "Lockscreen wallpaper"
+msgstr ""
+
+msgctxt "component_settings_title"
+msgid "Customize Theme"
+msgstr ""
+
+#, c-format
+msgctxt "component_select_title"
+msgid "Selected %1$s Components"
+msgstr ""
+
+#, c-format
+msgctxt "component_include_title"
+msgid "Contains %1$s Components"
+msgstr ""
+
+msgctxt "component_screen_title"
+msgid "Wallpaper"
+msgstr ""
+
+msgctxt "resource_detail"
+msgid "More information"
 msgstr ""
 

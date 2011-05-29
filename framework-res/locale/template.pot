@@ -1,9 +1,14 @@
-
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,275 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "abbrev_month"
-msgid "%-b"
-msgstr ""
-
-#, python-format
-msgctxt "abbrev_month_day"
-msgid "%b %-e"
-msgstr ""
-
-#, python-format
-msgctxt "abbrev_month_day_year"
-msgid "%b %-e, %Y"
-msgstr ""
-
-msgctxt "abbrev_month_year"
-msgid "%b %Y"
-msgstr ""
-
-msgctxt "abbrev_wday_month_day_year"
-msgid "EEE, MMM d, yyyy"
-msgstr ""
-
-msgctxt "accessibility_binding_label"
-msgid "Accessibility"
-msgstr ""
-
-msgctxt "accessibility_compound_button_selected"
-msgid "checked"
-msgstr ""
-
-msgctxt "accessibility_compound_button_unselected"
-msgid "not checked"
-msgstr ""
-
-msgctxt "activity_list_empty"
-msgid "No matching activities found"
-msgstr ""
-
-msgctxt "adb_active_notification_message"
-msgid "Select to disable USB debugging."
-msgstr ""
-
-msgctxt "adb_active_notification_title"
-msgid "USB debugging connected"
-msgstr ""
-
-#, python-format
-msgctxt "addToDictionary"
-msgid "Add \"%s\" to dictionary"
-msgstr ""
-
-msgctxt "aerr_application"
-msgid ""
-"The application %1$s (process %2$s) has stopped unexpectedly. Please try "
-"again."
-msgstr ""
-
-msgctxt "aerr_process"
-msgid "The process %1$s has stopped unexpectedly. Please try again."
-msgstr ""
-
-msgctxt "aerr_title"
-msgid "Sorry!"
-msgstr ""
-
-msgctxt "allow"
-msgid "Allow"
-msgstr ""
-
-msgctxt "alternate_eri_file"
-msgid "/data/eri.xml"
-msgstr ""
-
-msgctxt "alwaysUse"
-msgid "Use by default for this action."
-msgstr ""
-
-msgctxt "am"
-msgid "AM"
-msgstr ""
-
-msgctxt "android_system_label"
-msgid "Android System"
-msgstr ""
-
-msgctxt "anr_activity_application"
-msgid "Activity %1$s (in application %2$s) is not responding."
-msgstr ""
-
-msgctxt "anr_activity_process"
-msgid "Activity %1$s (in process %2$s) is not responding."
-msgstr ""
-
-msgctxt "anr_application_process"
-msgid "Application %1$s (in process %2$s) is not responding."
-msgstr ""
-
-msgctxt "anr_process"
-msgid "Process %1$s is not responding."
-msgstr ""
-
-msgctxt "anr_title"
-msgid "Sorry!"
-msgstr ""
-
-msgctxt "badPin"
-msgid "The old PIN you typed is not correct."
-msgstr ""
-
-msgctxt "badPuk"
-msgid "The PUK you typed is not correct."
-msgstr ""
-
-msgctxt "BaMmi"
-msgid "Call barring"
-msgstr ""
-
-msgctxt "beforeOneMonthDurationPast"
-msgid "Before 1 month ago"
-msgstr ""
-
-msgctxt "byteShort"
-msgid "B"
-msgstr ""
-
-msgctxt "callDetailsDurationFormat"
-msgid "%1$s minutes %2$s seconds"
-msgstr ""
-
-#, python-format
-msgctxt "callNoAnswerTimeFormat"
-msgid "Ring %s times"
-msgstr ""
-
 msgctxt "cancel"
 msgid "Cancel"
-msgstr ""
-
-msgctxt "candidates_style"
-msgid "<u>candidates</u>"
-msgstr ""
-
-msgctxt "capital_off"
-msgid "OFF"
-msgstr ""
-
-msgctxt "capital_on"
-msgid "ON"
-msgstr ""
-
-msgctxt "car_mode_disable_notification_message"
-msgid "Select to exit car mode."
-msgstr ""
-
-msgctxt "car_mode_disable_notification_title"
-msgid "Car mode enabled"
-msgstr ""
-
-msgctxt "CfMmi"
-msgid "Call forwarding"
-msgstr ""
-
-msgctxt "cfTemplateForwarded"
-msgid "{0}: {1}"
-msgstr ""
-
-msgctxt "cfTemplateForwardedTime"
-msgid "{0}: {1} after {2} seconds"
-msgstr ""
-
-msgctxt "cfTemplateNotForwarded"
-msgid "{0}: Not forwarded"
-msgstr ""
-
-msgctxt "cfTemplateRegistered"
-msgid "{0}: Not forwarded"
-msgstr ""
-
-msgctxt "cfTemplateRegisteredTime"
-msgid "{0}: Not forwarded"
-msgstr ""
-
-msgctxt "chooseActivity"
-msgid "Select an action"
-msgstr ""
-
-msgctxt "chooser_wallpaper"
-msgid "Change wallpaper"
-msgstr ""
-
-msgctxt "clearDefaultHintMsg"
-msgid "Clear default in Home Settings &gt; Applications &gt; Manage applications."
-msgstr ""
-
-msgctxt "ClipMmi"
-msgid "Incoming Caller ID"
-msgstr ""
-
-msgctxt "CLIRDefaultOffNextCallOff"
-msgid "Caller ID defaults to not restricted. Next call: Not restricted"
-msgstr ""
-
-msgctxt "CLIRDefaultOffNextCallOn"
-msgid "Caller ID defaults to not restricted. Next call: Restricted"
-msgstr ""
-
-msgctxt "CLIRDefaultOnNextCallOff"
-msgid "Caller ID defaults to restricted. Next call: Not restricted"
-msgstr ""
-
-msgctxt "CLIRDefaultOnNextCallOn"
-msgid "Caller ID defaults to restricted. Next call: Restricted"
-msgstr ""
-
-msgctxt "ClirMmi"
-msgid "Outgoing Caller ID"
-msgstr ""
-
-msgctxt "CLIRPermanent"
-msgid "The caller ID setting cannot be changed."
-msgstr ""
-
-msgctxt "CndMmi"
-msgid "Calling number delivery"
-msgstr ""
-
-msgctxt "CnipMmi"
-msgid "Calling number present"
-msgstr ""
-
-msgctxt "CnirMmi"
-msgid "Calling number restricted"
-msgstr ""
-
-msgctxt "config_datause_iface"
-msgid "rmnet0"
-msgstr ""
-
-msgctxt "config_geocodeProvider"
-msgid "com.google.android.location.GeocodeProvider"
-msgstr ""
-
-msgctxt "config_networkLocationProvider"
-msgid "com.google.android.location.NetworkLocationProvider"
-msgstr ""
-
-msgctxt "config_statusBarComponent"
-msgid "com.android.systemui/com.android.systemui.statusbar.StatusBarService"
-msgstr ""
-
-msgctxt "contact_status_update_attribution"
-msgid "via %1$s"
-msgstr ""
-
-msgctxt "contact_status_update_attribution_with_date"
-msgid "%1$s via %2$s"
-msgstr ""
-
-msgctxt "contentServiceSync"
-msgid "Sync"
-msgstr ""
-
-msgctxt "contentServiceSyncNotificationTitle"
-msgid "Sync"
-msgstr ""
-
-#, python-format
-msgctxt "contentServiceTooManyDeletesNotificationDesc"
-msgid "Too many %s deletes."
 msgstr ""
 
 msgctxt "copy"
@@ -291,820 +29,296 @@ msgctxt "copyUrl"
 msgid "Copy URL"
 msgstr ""
 
-msgctxt "country_name_ac"
-msgid "Ascension"
-msgstr ""
-
-msgctxt "country_name_ad"
-msgid "Andorra"
-msgstr ""
-
-msgctxt "country_name_ae"
-msgid "United Arab Emirates"
-msgstr ""
-
-msgctxt "country_name_af"
-msgid "Afghanistan"
-msgstr ""
-
-msgctxt "country_name_ag"
-msgid "Antigua and Barbuda"
-msgstr ""
-
-msgctxt "country_name_ai"
-msgid "Anguilla"
-msgstr ""
-
-msgctxt "country_name_al"
-msgid "Albania"
-msgstr ""
-
-msgctxt "country_name_am"
-msgid "Armenia"
-msgstr ""
-
-msgctxt "country_name_an"
-msgid "Netherlands Antilles"
-msgstr ""
-
-msgctxt "country_name_ao"
-msgid "Angola"
-msgstr ""
-
-msgctxt "country_name_ar"
-msgid "Argentina"
-msgstr ""
-
-msgctxt "country_name_as"
-msgid "East Samoa (U.S.)"
-msgstr ""
-
-msgctxt "country_name_at"
-msgid "Austria"
-msgstr ""
-
-msgctxt "country_name_au"
-msgid "Australia"
-msgstr ""
-
-msgctxt "country_name_az"
-msgid "Azerbaijan"
-msgstr ""
-
-msgctxt "country_name_bb"
-msgid "Barbados"
-msgstr ""
-
-msgctxt "country_name_bd"
-msgid "Bangladesh"
-msgstr ""
-
-msgctxt "country_name_be"
-msgid "Belgium"
-msgstr ""
-
-msgctxt "country_name_bf"
-msgid "Burkina Faso"
-msgstr ""
-
-msgctxt "country_name_bg"
-msgid "Bulgarian"
-msgstr ""
-
-msgctxt "country_name_bh"
-msgid "Bahrain"
-msgstr ""
-
-msgctxt "country_name_bi"
-msgid "Burundi"
-msgstr ""
-
-msgctxt "country_name_bj"
-msgid "Benin"
-msgstr ""
-
-msgctxt "country_name_bm"
-msgid "Bermuda"
-msgstr ""
-
-msgctxt "country_name_bn"
-msgid "Brunei"
-msgstr ""
-
-msgctxt "country_name_bo"
-msgid "Bolivia"
-msgstr ""
-
-msgctxt "country_name_br"
-msgid "Brazil"
-msgstr ""
-
-msgctxt "country_name_bw"
-msgid "Botswana"
-msgstr ""
-
-msgctxt "country_name_by"
-msgid "Belarus"
-msgstr ""
-
-msgctxt "country_name_bz"
-msgid "Belize"
-msgstr ""
-
-msgctxt "country_name_cf"
-msgid "Central African Republic"
-msgstr ""
-
-msgctxt "country_name_cg"
-msgid "Congo"
-msgstr ""
-
-msgctxt "country_name_ch"
-msgid "Switzerland"
-msgstr ""
-
-msgctxt "country_name_ci"
-msgid "Côte d'Ivoire"
-msgstr ""
-
-msgctxt "country_name_ck"
-msgid "Cook Islands"
-msgstr ""
-
-msgctxt "country_name_cl"
-msgid "Chile"
-msgstr ""
-
-msgctxt "country_name_cm"
-msgid "Cameroon"
-msgstr ""
-
-msgctxt "country_name_cn"
-msgid "China"
-msgstr ""
-
-msgctxt "country_name_co"
-msgid "Colombia"
-msgstr ""
-
-msgctxt "country_name_cr"
-msgid "Costa Rica"
-msgstr ""
-
-msgctxt "country_name_cu"
-msgid "Cuba"
-msgstr ""
-
-msgctxt "country_name_cy"
-msgid "Cyprus"
-msgstr ""
-
-msgctxt "country_name_cz"
-msgid "Czech Republic"
-msgstr ""
-
-msgctxt "country_name_de"
-msgid "German"
-msgstr ""
-
-msgctxt "country_name_dj"
-msgid "Djibouti"
-msgstr ""
-
-msgctxt "country_name_dk"
-msgid "Denmark"
-msgstr ""
-
-msgctxt "country_name_do"
-msgid "Dominican Republic"
-msgstr ""
-
-msgctxt "country_name_dz"
-msgid "Algeria"
-msgstr ""
-
-msgctxt "country_name_ec"
-msgid "Ecuador"
-msgstr ""
-
-msgctxt "country_name_ee"
-msgid "Estonia"
-msgstr ""
-
-msgctxt "country_name_eg"
-msgid "Egypt"
-msgstr ""
-
-msgctxt "country_name_eh"
-msgid "Western Samoa"
-msgstr ""
-
-msgctxt "country_name_es"
-msgid "Spain"
-msgstr ""
-
-msgctxt "country_name_et"
-msgid "Ethiopia"
-msgstr ""
-
-msgctxt "country_name_fi"
-msgid "Finland"
-msgstr ""
-
-msgctxt "country_name_fj"
-msgid "Fiji"
-msgstr ""
-
-msgctxt "country_name_fr"
-msgid "French"
-msgstr ""
-
-msgctxt "country_name_ga"
-msgid "Gabon"
-msgstr ""
-
-msgctxt "country_name_gb"
-msgid "English"
-msgstr ""
-
-msgctxt "country_name_gd_tt"
-msgid "Grenada / Trinidad and Tobago"
-msgstr ""
-
-msgctxt "country_name_ge"
-msgid "Georgia"
-msgstr ""
-
-msgctxt "country_name_gf"
-msgid "French Guiana"
-msgstr ""
-
-msgctxt "country_name_gh"
-msgid "Ghana"
-msgstr ""
-
-msgctxt "country_name_gi"
-msgid "Gibraltar"
-msgstr ""
-
-msgctxt "country_name_gm"
-msgid "Gambia"
-msgstr ""
-
-msgctxt "country_name_gn"
-msgid "Guinea"
-msgstr ""
-
-msgctxt "country_name_gr"
-msgid "Greece"
-msgstr ""
-
-msgctxt "country_name_gt"
-msgid "Guatemala"
-msgstr ""
-
-msgctxt "country_name_gu"
-msgid "Guam"
-msgstr ""
-
-msgctxt "country_name_gy"
-msgid "Guyana"
-msgstr ""
-
-msgctxt "country_name_hk"
-msgid "Hong Kong, China"
-msgstr ""
-
-msgctxt "country_name_hn"
-msgid "Honduras"
-msgstr ""
-
-msgctxt "country_name_ht"
-msgid "Haiti"
-msgstr ""
-
-msgctxt "country_name_hu"
-msgid "Hungary"
-msgstr ""
-
-msgctxt "country_name_id"
-msgid "Indonesia"
-msgstr ""
-
-msgctxt "country_name_ie"
-msgid "Ireland"
-msgstr ""
-
-msgctxt "country_name_il"
-msgid "Israel"
-msgstr ""
-
-msgctxt "country_name_in"
-msgid "India"
-msgstr ""
-
-msgctxt "country_name_iq"
-msgid "Iraq"
-msgstr ""
-
-msgctxt "country_name_ir"
-msgid "Iran"
-msgstr ""
-
-msgctxt "country_name_is"
-msgid "Iceland"
-msgstr ""
-
-msgctxt "country_name_it"
-msgid "Italy"
-msgstr ""
-
-msgctxt "country_name_jm"
-msgid "Jamaica"
-msgstr ""
-
-msgctxt "country_name_jo"
-msgid "Jordan"
-msgstr ""
-
-msgctxt "country_name_jp"
-msgid "Japan"
-msgstr ""
-
-msgctxt "country_name_ke"
-msgid "Kenya"
-msgstr ""
-
-msgctxt "country_name_kg"
-msgid "Kyrgyzstan"
-msgstr ""
-
-msgctxt "country_name_kh"
-msgid "Cambodia"
-msgstr ""
-
-msgctxt "country_name_kp"
-msgid "North Korea"
-msgstr ""
-
-msgctxt "country_name_kr"
-msgid "South Korea"
-msgstr ""
-
-msgctxt "country_name_kw"
-msgid "Kuwait"
-msgstr ""
-
-msgctxt "country_name_ky"
-msgid "Cayman Islands"
-msgstr ""
-
-msgctxt "country_name_kz"
-msgid "Kazakhstan"
-msgstr ""
-
-msgctxt "country_name_la"
-msgid "Laos"
-msgstr ""
-
-msgctxt "country_name_lb"
-msgid "Lebanon"
-msgstr ""
-
-msgctxt "country_name_lc"
-msgid "Saint Lucia"
-msgstr ""
-
-msgctxt "country_name_li"
-msgid "Liechtenstein"
-msgstr ""
-
-msgctxt "country_name_lk"
-msgid "Sri Lanka"
-msgstr ""
-
-msgctxt "country_name_lr"
-msgid "Liberia"
-msgstr ""
-
-msgctxt "country_name_ls"
-msgid "Lesotho"
-msgstr ""
-
-msgctxt "country_name_lt"
-msgid "Lithuania"
-msgstr ""
-
-msgctxt "country_name_lu"
-msgid "Luxembourg"
-msgstr ""
-
-msgctxt "country_name_lv"
-msgid "Latvia"
-msgstr ""
-
-msgctxt "country_name_ly"
-msgid "Libya"
-msgstr ""
-
-msgctxt "country_name_ma"
-msgid "Morocco"
-msgstr ""
-
-msgctxt "country_name_mc"
-msgid "Monaco"
-msgstr ""
-
-msgctxt "country_name_md"
-msgid "Moldova"
-msgstr ""
-
-msgctxt "country_name_mg"
-msgid "Madagascar"
-msgstr ""
-
-msgctxt "country_name_ml"
-msgid "Mali"
-msgstr ""
-
-msgctxt "country_name_mm"
-msgid "Myanmar"
-msgstr ""
-
-msgctxt "country_name_mn"
-msgid "Mongolia"
-msgstr ""
-
-msgctxt "country_name_mo"
-msgid "Macao, China"
-msgstr ""
-
-msgctxt "country_name_mp"
-msgid "Northern Mariana Islands"
-msgstr ""
-
-msgctxt "country_name_mq"
-msgid "Martinique"
-msgstr ""
-
-msgctxt "country_name_ms"
-msgid "Montserrat"
-msgstr ""
-
-msgctxt "country_name_mt"
-msgid "Malta"
-msgstr ""
-
-msgctxt "country_name_mu"
-msgid "Mauritius"
-msgstr ""
-
-msgctxt "country_name_mv"
-msgid "Maldives"
-msgstr ""
-
-msgctxt "country_name_mw"
-msgid "Malawi"
-msgstr ""
-
-msgctxt "country_name_mx"
-msgid "Mexico"
-msgstr ""
-
-msgctxt "country_name_my"
-msgid "Malaysia"
-msgstr ""
-
-msgctxt "country_name_mz"
-msgid "Mozambique"
-msgstr ""
-
-msgctxt "country_name_na"
-msgid "Namibia"
-msgstr ""
-
-msgctxt "country_name_ne"
-msgid "Niger"
-msgstr ""
-
-msgctxt "country_name_ng"
-msgid "Nigeria"
-msgstr ""
-
-msgctxt "country_name_ni"
-msgid "Nicaragua"
-msgstr ""
-
-msgctxt "country_name_nl"
-msgid "Netherlands"
-msgstr ""
-
-msgctxt "country_name_no"
-msgid "Norway"
-msgstr ""
-
-msgctxt "country_name_np"
-msgid "Nepal"
-msgstr ""
-
-msgctxt "country_name_nr"
-msgid "Nauru"
-msgstr ""
-
-msgctxt "country_name_nz"
-msgid "New Zealand"
-msgstr ""
-
-msgctxt "country_name_om"
-msgid "Oman"
-msgstr ""
-
-msgctxt "country_name_pa"
-msgid "Panama"
-msgstr ""
-
-msgctxt "country_name_pe"
-msgid "Peru"
-msgstr ""
-
-msgctxt "country_name_pf"
-msgid "French Polynesia"
-msgstr ""
-
-msgctxt "country_name_pg"
-msgid "Papua New Guinea"
-msgstr ""
-
-msgctxt "country_name_ph"
-msgid "Philippines"
-msgstr ""
-
-msgctxt "country_name_pk"
-msgid "Pakistan"
-msgstr ""
-
-msgctxt "country_name_pl"
-msgid "Poland"
-msgstr ""
-
-msgctxt "country_name_pr"
-msgid "Puerto Rico"
-msgstr ""
-
-msgctxt "country_name_pt"
-msgid "Portugal"
-msgstr ""
-
-msgctxt "country_name_py"
-msgid "Paraguay"
-msgstr ""
-
-msgctxt "country_name_qa"
-msgid "Qatar"
-msgstr ""
-
-msgctxt "country_name_re"
-msgid "Reunion"
-msgstr ""
-
-msgctxt "country_name_ro"
-msgid "Romania"
-msgstr ""
-
-msgctxt "country_name_ru"
-msgid "Russia"
-msgstr ""
-
-msgctxt "country_name_sa"
-msgid "Saudi Arabia"
-msgstr ""
-
-msgctxt "country_name_sb"
-msgid "Solomon Islands"
-msgstr ""
-
-msgctxt "country_name_sc"
-msgid "Seychelles"
-msgstr ""
-
-msgctxt "country_name_sd"
-msgid "Sudan"
-msgstr ""
-
-msgctxt "country_name_se"
-msgid "Sweden"
-msgstr ""
-
-msgctxt "country_name_sg"
-msgid "Singapore"
-msgstr ""
-
-msgctxt "country_name_si"
-msgid "Slovenia"
-msgstr ""
-
-msgctxt "country_name_sk"
-msgid "Slovakia"
-msgstr ""
-
-msgctxt "country_name_sl"
-msgid "Sierra Leone"
-msgstr ""
-
-msgctxt "country_name_sm"
-msgid "San Marino"
-msgstr ""
-
-msgctxt "country_name_sn"
-msgid "Senegal"
-msgstr ""
-
-msgctxt "country_name_so"
-msgid "Somalia"
-msgstr ""
-
-msgctxt "country_name_sr"
-msgid "Suriname"
-msgstr ""
-
-msgctxt "country_name_st"
-msgid "Sao Tome and Principe"
-msgstr ""
-
-msgctxt "country_name_sv"
-msgid "El Salvador"
-msgstr ""
-
-msgctxt "country_name_sy"
-msgid "Syria"
-msgstr ""
-
-msgctxt "country_name_sz"
-msgid "Swaziland"
-msgstr ""
-
-msgctxt "country_name_td"
-msgid "Chad"
-msgstr ""
-
-msgctxt "country_name_tg"
-msgid "Togo"
-msgstr ""
-
-msgctxt "country_name_th"
-msgid "Thailand"
-msgstr ""
-
-msgctxt "country_name_tj"
-msgid "Tajikistan"
-msgstr ""
-
-msgctxt "country_name_tm"
-msgid "Turkmenistan"
-msgstr ""
-
-msgctxt "country_name_tn"
-msgid "Tunisia"
-msgstr ""
-
-msgctxt "country_name_to"
-msgid "Tonga"
-msgstr ""
-
-msgctxt "country_name_tr"
-msgid "Turkey"
-msgstr ""
-
-msgctxt "country_name_tw"
-msgid "China Taiwan"
-msgstr ""
-
-msgctxt "country_name_tz"
-msgid "Tanzania"
-msgstr ""
-
-msgctxt "country_name_ua"
-msgid "Ukraine"
-msgstr ""
-
-msgctxt "country_name_ug"
-msgid "Uganda"
-msgstr ""
-
-msgctxt "country_name_us_ca"
-msgid "United States / Canada"
-msgstr ""
-
-msgctxt "country_name_uy"
-msgid "Uruguay"
-msgstr ""
-
-msgctxt "country_name_uz"
-msgid "Uzbekistan"
-msgstr ""
-
-msgctxt "country_name_vc"
-msgid "Saint Vincent"
-msgstr ""
-
-msgctxt "country_name_ve"
-msgid "Venezuela"
-msgstr ""
-
-msgctxt "country_name_vn"
-msgid "Vietnam"
-msgstr ""
-
-msgctxt "country_name_ye"
-msgid "Yemen"
-msgstr ""
-
-msgctxt "country_name_yu"
-msgid "Yugoslavia"
-msgstr ""
-
-msgctxt "country_name_za"
-msgid "South Africa"
-msgstr ""
-
-msgctxt "country_name_zm"
-msgid "Zambia"
-msgstr ""
-
-msgctxt "country_name_zr"
-msgid "Zaire"
-msgstr ""
-
-msgctxt "country_name_zw"
-msgid "Zimbabwe"
-msgstr ""
-
-#, python-format
-msgctxt "create_contact_using"
-msgid ""
-"Create contact\n"
-"using %s"
-msgstr ""
-
 msgctxt "cut"
 msgid "Cut"
 msgstr ""
 
-msgctxt "CwMmi"
-msgid "Call waiting"
+msgctxt "defaultVoiceMailAlphaTag"
+msgid "Voicemail"
 msgstr ""
 
-msgctxt "date1_date2"
-msgid "%2$s – %5$s"
+msgctxt "defaultMsisdnAlphaTag"
+msgid "MSISDN1"
 msgstr ""
 
-msgctxt "date1_time1_date2_time2"
-msgid "%2$s, %3$s – %5$s, %6$s"
+msgctxt "emptyPhoneNumber"
+msgid "(No phone number)"
 msgstr ""
 
-#, python-format
-msgctxt "date_and_time"
-msgid "%b %-e, %Y, %-l:%M:%S %p"
+msgctxt "httpErrorBadUrl"
+msgid "The page could not be opened because the URL is invalid."
 msgstr ""
 
-msgctxt "date_day"
-msgid "Date"
+msgctxt "httpErrorUnsupportedScheme"
+msgid "The protocol is not supported."
 msgstr ""
 
-msgctxt "date_time"
-msgid "%1$s, %2$s"
+msgctxt "no"
+msgid "Cancel"
 msgstr ""
 
-msgctxt "date_time_set"
-msgid "Set"
+msgctxt "ok"
+msgid "OK"
 msgstr ""
 
-msgctxt "day"
-msgid "day"
+msgctxt "paste"
+msgid "Paste"
 msgstr ""
 
-msgctxt "days"
-msgid "days"
+msgctxt "search_go"
+msgid "Search"
 msgstr ""
 
-msgctxt "day_of_week_long_friday"
-msgid "Fri"
+msgctxt "selectAll"
+msgid "All"
 msgstr ""
 
-msgctxt "day_of_week_long_monday"
-msgid "Mon"
+msgctxt "unknownName"
+msgid "(Unknown)"
 msgstr ""
 
-msgctxt "day_of_week_long_saturday"
-msgid "Sat"
+msgctxt "untitled"
+msgid "Untitled"
+msgstr ""
+
+msgctxt "VideoView_error_button"
+msgid "OK"
+msgstr ""
+
+msgctxt "VideoView_error_text_unknown"
+msgid "Sorry, this video cannot be played."
+msgstr ""
+
+msgctxt "VideoView_error_title"
+msgid "Cannot play video"
+msgstr ""
+
+msgctxt "yes"
+msgid "OK"
+msgstr ""
+
+msgctxt "dialog_alert_title"
+msgid "Attention"
+msgstr ""
+
+msgctxt "VideoView_error_text_invalid_progressive_playback"
+msgid "Sorry, this video is not valid for streaming to this device."
+msgstr ""
+
+msgctxt "config_statusBarComponent"
+msgid "com.android.systemui/com.android.systemui.statusbar.StatusBarService"
+msgstr ""
+
+msgctxt "config_networkLocationProvider"
+msgid "com.google.android.location.NetworkLocationProvider"
+msgstr ""
+
+msgctxt "config_geocodeProvider"
+msgid "com.google.android.location.GeocodeProvider"
+msgstr ""
+
+msgctxt "config_datause_iface"
+msgid "rmnet0"
+msgstr ""
+
+msgctxt "month_long_standalone_january"
+msgid "January"
+msgstr ""
+
+msgctxt "month_long_standalone_february"
+msgid "February"
+msgstr ""
+
+msgctxt "month_long_standalone_march"
+msgid "March"
+msgstr ""
+
+msgctxt "month_long_standalone_april"
+msgid "April"
+msgstr ""
+
+msgctxt "month_long_standalone_may"
+msgid "May"
+msgstr ""
+
+msgctxt "month_long_standalone_june"
+msgid "June"
+msgstr ""
+
+msgctxt "month_long_standalone_july"
+msgid "July"
+msgstr ""
+
+msgctxt "month_long_standalone_august"
+msgid "August"
+msgstr ""
+
+msgctxt "month_long_standalone_september"
+msgid "September"
+msgstr ""
+
+msgctxt "month_long_standalone_october"
+msgid "October"
+msgstr ""
+
+msgctxt "month_long_standalone_november"
+msgid "November"
+msgstr ""
+
+msgctxt "month_long_standalone_december"
+msgid "December"
+msgstr ""
+
+msgctxt "month_long_january"
+msgid "January"
+msgstr ""
+
+msgctxt "month_long_february"
+msgid "February"
+msgstr ""
+
+msgctxt "month_long_march"
+msgid "March"
+msgstr ""
+
+msgctxt "month_long_april"
+msgid "April"
+msgstr ""
+
+msgctxt "month_long_may"
+msgid "May"
+msgstr ""
+
+msgctxt "month_long_june"
+msgid "June"
+msgstr ""
+
+msgctxt "month_long_july"
+msgid "July"
+msgstr ""
+
+msgctxt "month_long_august"
+msgid "August"
+msgstr ""
+
+msgctxt "month_long_september"
+msgid "September"
+msgstr ""
+
+msgctxt "month_long_october"
+msgid "October"
+msgstr ""
+
+msgctxt "month_long_november"
+msgid "November"
+msgstr ""
+
+msgctxt "month_long_december"
+msgid "December"
+msgstr ""
+
+msgctxt "month_medium_january"
+msgid "Jan"
+msgstr ""
+
+msgctxt "month_medium_february"
+msgid "Feb"
+msgstr ""
+
+msgctxt "month_medium_march"
+msgid "Mar"
+msgstr ""
+
+msgctxt "month_medium_april"
+msgid "Apr"
+msgstr ""
+
+msgctxt "month_medium_may"
+msgid "May"
+msgstr ""
+
+msgctxt "month_medium_june"
+msgid "Jun"
+msgstr ""
+
+msgctxt "month_medium_july"
+msgid "Jul"
+msgstr ""
+
+msgctxt "month_medium_august"
+msgid "Aug"
+msgstr ""
+
+msgctxt "month_medium_september"
+msgid "Sep"
+msgstr ""
+
+msgctxt "month_medium_october"
+msgid "Oct"
+msgstr ""
+
+msgctxt "month_medium_november"
+msgid "Nov"
+msgstr ""
+
+msgctxt "month_medium_december"
+msgid "Dec"
+msgstr ""
+
+msgctxt "month_shortest_january"
+msgid "J"
+msgstr ""
+
+msgctxt "month_shortest_february"
+msgid "F"
+msgstr ""
+
+msgctxt "month_shortest_march"
+msgid "M"
+msgstr ""
+
+msgctxt "month_shortest_april"
+msgid "A"
+msgstr ""
+
+msgctxt "month_shortest_may"
+msgid "M"
+msgstr ""
+
+msgctxt "month_shortest_june"
+msgid "J"
+msgstr ""
+
+msgctxt "month_shortest_july"
+msgid "J"
+msgstr ""
+
+msgctxt "month_shortest_august"
+msgid "A"
+msgstr ""
+
+msgctxt "month_shortest_september"
+msgid "S"
+msgstr ""
+
+msgctxt "month_shortest_october"
+msgid "O"
+msgstr ""
+
+msgctxt "month_shortest_november"
+msgid "N"
+msgstr ""
+
+msgctxt "month_shortest_december"
+msgid "D"
 msgstr ""
 
 msgctxt "day_of_week_long_sunday"
 msgid "Sun"
 msgstr ""
 
-msgctxt "day_of_week_long_thursday"
-msgid "Thu"
+msgctxt "day_of_week_long_monday"
+msgid "Mon"
 msgstr ""
 
 msgctxt "day_of_week_long_tuesday"
@@ -1115,15 +329,15 @@ msgctxt "day_of_week_long_wednesday"
 msgid "Wed"
 msgstr ""
 
-msgctxt "day_of_week_medium_friday"
+msgctxt "day_of_week_long_thursday"
+msgid "Thu"
+msgstr ""
+
+msgctxt "day_of_week_long_friday"
 msgid "Fri"
 msgstr ""
 
-msgctxt "day_of_week_medium_monday"
-msgid "Mon"
-msgstr ""
-
-msgctxt "day_of_week_medium_saturday"
+msgctxt "day_of_week_long_saturday"
 msgid "Sat"
 msgstr ""
 
@@ -1131,8 +345,8 @@ msgctxt "day_of_week_medium_sunday"
 msgid "Sun"
 msgstr ""
 
-msgctxt "day_of_week_medium_thursday"
-msgid "Thu"
+msgctxt "day_of_week_medium_monday"
+msgid "Mon"
 msgstr ""
 
 msgctxt "day_of_week_medium_tuesday"
@@ -1143,52 +357,24 @@ msgctxt "day_of_week_medium_wednesday"
 msgid "Wed"
 msgstr ""
 
-msgctxt "day_of_week_shortest_friday"
-msgid "F"
+msgctxt "day_of_week_medium_thursday"
+msgid "Thu"
 msgstr ""
 
-msgctxt "day_of_week_shortest_monday"
-msgid "M"
+msgctxt "day_of_week_medium_friday"
+msgid "Fri"
 msgstr ""
 
-msgctxt "day_of_week_shortest_saturday"
-msgid "S"
-msgstr ""
-
-msgctxt "day_of_week_shortest_sunday"
-msgid "S"
-msgstr ""
-
-msgctxt "day_of_week_shortest_thursday"
-msgid "T"
-msgstr ""
-
-msgctxt "day_of_week_shortest_tuesday"
-msgid "T"
-msgstr ""
-
-msgctxt "day_of_week_shortest_wednesday"
-msgid "W"
-msgstr ""
-
-msgctxt "day_of_week_short_friday"
-msgid "Fr"
-msgstr ""
-
-msgctxt "day_of_week_short_monday"
-msgid "Mo"
-msgstr ""
-
-msgctxt "day_of_week_short_saturday"
-msgid "Sa"
+msgctxt "day_of_week_medium_saturday"
+msgid "Sat"
 msgstr ""
 
 msgctxt "day_of_week_short_sunday"
 msgid "Su"
 msgstr ""
 
-msgctxt "day_of_week_short_thursday"
-msgid "Th"
+msgctxt "day_of_week_short_monday"
+msgid "Mo"
 msgstr ""
 
 msgctxt "day_of_week_short_tuesday"
@@ -1199,891 +385,375 @@ msgctxt "day_of_week_short_wednesday"
 msgid "We"
 msgstr ""
 
-msgctxt "defaultMsisdnAlphaTag"
-msgid "MSISDN1"
+msgctxt "day_of_week_short_thursday"
+msgid "Th"
 msgstr ""
 
-msgctxt "defaultVoiceMailAlphaTag"
-msgid "Voicemail"
+msgctxt "day_of_week_short_friday"
+msgid "Fr"
 msgstr ""
 
-msgctxt "default_permission_group"
-msgid "Default"
+msgctxt "day_of_week_short_saturday"
+msgid "Sa"
 msgstr ""
 
-msgctxt "default_text_encoding"
-msgid "Latin-1"
+msgctxt "day_of_week_shortest_sunday"
+msgid "S"
 msgstr ""
 
-msgctxt "deny"
-msgid "Deny"
+msgctxt "day_of_week_shortest_monday"
+msgid "M"
 msgstr ""
 
-msgctxt "description_star"
-msgid "favorite"
+msgctxt "day_of_week_shortest_tuesday"
+msgid "T"
 msgstr ""
 
-msgctxt "dialog_alert_title"
-msgid "Attention"
+msgctxt "day_of_week_shortest_wednesday"
+msgid "W"
 msgstr ""
 
-#, python-format
-msgctxt "dial_number_using"
-msgid ""
-"Dial number\n"
-"using %s"
+msgctxt "day_of_week_shortest_thursday"
+msgid "T"
 msgstr ""
 
-msgctxt "dlg_confirm_kill_storage_users_text"
-msgid ""
-"If you turn on USB storage, some applications you are using will stop and"
-" may be unavailable until you turn off USB storage."
+msgctxt "day_of_week_shortest_friday"
+msgid "F"
 msgstr ""
 
-msgctxt "dlg_confirm_kill_storage_users_title"
-msgid "Turn on USB storage"
+msgctxt "day_of_week_shortest_saturday"
+msgid "S"
 msgstr ""
 
-msgctxt "dlg_error_title"
-msgid "USB operation failed"
+msgctxt "am"
+msgid "AM"
 msgstr ""
 
-msgctxt "dlg_ok"
-msgid "OK"
+msgctxt "pm"
+msgid "PM"
 msgstr ""
 
-msgctxt "DndMmi"
-msgid "Do not disturb"
+msgctxt "yesterday"
+msgid "Yesterday"
 msgstr ""
 
-msgctxt "double_tap_toast"
-msgid "Tip: double-tap to zoom in and out."
+msgctxt "today"
+msgid "Today"
 msgstr ""
 
-msgctxt "editTextMenuTitle"
-msgid "Edit text"
+msgctxt "tomorrow"
+msgid "Tomorrow"
 msgstr ""
 
-msgctxt "elapsed_time_short_format_h_mm_ss"
-msgid "%1$d:%2$02d:%3$02d"
+#, c-format
+msgctxt "hour_minute_24"
+msgid "%H:%M"
 msgstr ""
 
-msgctxt "elapsed_time_short_format_mm_ss"
-msgid "%1$02d:%2$02d"
+#, c-format
+msgctxt "hour_minute_ampm"
+msgid "%-l:%M%p"
 msgstr ""
 
-msgctxt "ellipsis"
-msgid "…"
+#, c-format
+msgctxt "hour_minute_cap_ampm"
+msgid "%-l:%M%^p"
 msgstr ""
 
-msgctxt "emailTypeCustom"
-msgid "Custom"
+msgctxt "twelve_hour_time_format"
+msgid "h:mm a"
 msgstr ""
 
-msgctxt "emailTypeHome"
-msgid "Home"
+msgctxt "twenty_four_hour_time_format"
+msgid "HH:mm"
 msgstr ""
 
-msgctxt "emailTypeMobile"
-msgid "Mobile"
+#, c-format
+msgctxt "numeric_date"
+msgid "%-m/%-e/%Y"
 msgstr ""
 
-msgctxt "emailTypeOther"
-msgid "Other"
+msgctxt "numeric_date_format"
+msgid "M/d/yyyy"
 msgstr ""
 
-msgctxt "emailTypeWork"
-msgid "Work"
+#, c-format
+msgctxt "numeric_date_template"
+msgid "%s/%s/%s"
 msgstr ""
 
-msgctxt "emergency_calls_only"
-msgid "Emergency calls only"
+#, c-format
+msgctxt "month_day_year"
+msgid "%B %-e, %Y"
 msgstr ""
 
-msgctxt "emergency_call_dialog_number_for_display"
-msgid "Emergency number"
+#, c-format
+msgctxt "time_of_day"
+msgid "%-l:%M:%S %p"
 msgstr ""
 
-msgctxt "emptyPhoneNumber"
-msgid "(No phone number)"
+#, c-format
+msgctxt "date_and_time"
+msgid "%b %-e, %Y, %-l:%M:%S %p"
 msgstr ""
 
-msgctxt "eventTypeAnniversary"
-msgid "Anniversary"
+#, c-format
+msgctxt "date_time"
+msgid "%1$s, %2$s"
 msgstr ""
 
-msgctxt "eventTypeBirthday"
-msgid "Birthday"
+#, c-format
+msgctxt "time_date"
+msgid "%1$s, %3$s"
 msgstr ""
 
-msgctxt "eventTypeLunarBirthday"
-msgid "Lunar Birthday"
+#, c-format
+msgctxt "abbrev_month_day_year"
+msgid "%b %-e, %Y"
 msgstr ""
 
-msgctxt "eventTypeOther"
-msgid "Event"
+#, c-format
+msgctxt "month_day"
+msgid "%B %-e"
 msgstr ""
 
-msgctxt "extmedia_format_button_format"
-msgid "Format"
+#, c-format
+msgctxt "month"
+msgid "%-B"
 msgstr ""
 
-msgctxt "extmedia_format_message"
-msgid ""
-"Are you sure you want to format the SD card? All data on your card will "
-"be lost."
+#, c-format
+msgctxt "month_year"
+msgid "%B %Y"
 msgstr ""
 
-msgctxt "extmedia_format_title"
-msgid "Format SD card"
+#, c-format
+msgctxt "abbrev_month_day"
+msgid "%b %-e"
 msgstr ""
 
-msgctxt "ext_media_badremoval_notification_message"
-msgid "Unmount SD card before removing to avoid data loss."
+#, c-format
+msgctxt "abbrev_month"
+msgid "%-b"
 msgstr ""
 
-msgctxt "ext_media_badremoval_notification_title"
-msgid "SD card unexpectedly removed"
+#, c-format
+msgctxt "abbrev_month_year"
+msgid "%b %Y"
 msgstr ""
 
-msgctxt "ext_media_checking_notification_message"
-msgid "Checking for errors."
+#, c-format
+msgctxt "time1_time2"
+msgid "%1$s – %2$s"
 msgstr ""
 
-msgctxt "ext_media_checking_notification_title"
-msgid "Preparing SD card"
+#, c-format
+msgctxt "date1_date2"
+msgid "%2$s – %5$s"
 msgstr ""
 
-msgctxt "ext_media_nofs_notification_message"
-msgid "SD card blank or has unsupported filesystem."
+#, c-format
+msgctxt "numeric_md1_md2"
+msgid "%2$s/%3$s – %7$s/%8$s"
 msgstr ""
 
-msgctxt "ext_media_nofs_notification_title"
-msgid "Blank SD card"
+#, c-format
+msgctxt "numeric_wday1_md1_wday2_md2"
+msgid "%1$s, %2$s/%3$s – %6$s, %7$s/%8$s"
 msgstr ""
 
-msgctxt "ext_media_nomedia_notification_message"
-msgid "SD card removed. Insert a new one."
+#, c-format
+msgctxt "numeric_mdy1_mdy2"
+msgid "%2$s/%3$s/%4$s – %7$s/%8$s/%9$s"
 msgstr ""
 
-msgctxt "ext_media_nomedia_notification_title"
-msgid "Removed SD card"
+#, c-format
+msgctxt "numeric_wday1_mdy1_wday2_mdy2"
+msgid "%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s"
 msgstr ""
 
-msgctxt "ext_media_safe_unmount_notification_message"
-msgid "You can safely remove SD card."
+#, c-format
+msgctxt "numeric_wday1_mdy1_time1_wday2_mdy2_time2"
+msgid "%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s"
 msgstr ""
 
-msgctxt "ext_media_safe_unmount_notification_title"
-msgid "SD card safe to remove"
+#, c-format
+msgctxt "numeric_md1_time1_md2_time2"
+msgid "%2$s/%3$s, %5$s – %7$s/%8$s, %10$s"
 msgstr ""
 
-msgctxt "ext_media_unmountable_notification_message"
-msgid "SD card damaged. You may have to reformat it."
+#, c-format
+msgctxt "numeric_wday1_md1_time1_wday2_md2_time2"
+msgid "%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s"
 msgstr ""
 
-msgctxt "ext_media_unmountable_notification_title"
-msgid "Damaged SD card"
+#, c-format
+msgctxt "numeric_mdy1_time1_mdy2_time2"
+msgid "%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s"
 msgstr ""
 
-msgctxt "factorytest_failed"
-msgid "Factory test failed"
+#, c-format
+msgctxt "wday1_date1_time1_wday2_date2_time2"
+msgid "%1$s, %2$s, %3$s – %4$s, %5$s, %6$s"
 msgstr ""
 
-msgctxt "factorytest_not_system"
-msgid ""
-"The FACTORY_TEST action is only supported for packages installed in "
-"/system/app."
+#, c-format
+msgctxt "wday1_date1_wday2_date2"
+msgid "%1$s, %2$s – %4$s, %5$s"
 msgstr ""
 
-msgctxt "factorytest_no_action"
-msgid "No package was found that provides the FACTORY_TEST action."
+#, c-format
+msgctxt "date1_time1_date2_time2"
+msgid "%2$s, %3$s – %5$s, %6$s"
 msgstr ""
 
-msgctxt "factorytest_reboot"
-msgid "Reboot"
+#, c-format
+msgctxt "time_wday_date"
+msgid "%1$s, %2$s, %3$s"
 msgstr ""
 
-msgctxt "fast_scroll_alphabet"
-msgid "\\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+#, c-format
+msgctxt "wday_date"
+msgid "%2$s, %3$s"
 msgstr ""
 
-msgctxt "fast_scroll_numeric_alphabet"
-msgid "\\u00200123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+#, c-format
+msgctxt "time_wday"
+msgid "%1$s, %2$s"
 msgstr ""
 
-msgctxt "fcComplete"
-msgid "Feature code complete."
+#, c-format
+msgctxt "same_year_md1_md2"
+msgid "%2$s %3$s – %7$s %8$s"
 msgstr ""
 
-msgctxt "fcError"
-msgid "Connection problem or invalid feature code."
+#, c-format
+msgctxt "same_year_wday1_md1_wday2_md2"
+msgid "%1$s, %2$s %3$s – %6$s, %7$s %8$s"
 msgstr ""
 
-msgctxt "fileSizeSuffix"
-msgid "%1$s%2$s"
+#, c-format
+msgctxt "same_year_md1_time1_md2_time2"
+msgid "%2$s %3$s, %5$s – %7$s %8$s, %10$s"
 msgstr ""
 
-msgctxt "firewall_setting"
-msgid "DND Mode"
+#, c-format
+msgctxt "same_month_md1_time1_md2_time2"
+msgid "%2$s %3$s, %5$s – %7$s %8$s, %10$s"
 msgstr ""
 
-msgctxt "first_back_long_press_message"
-msgid ""
-"Do you want to enable the function of long-pressing the back key to kill "
-"the current process and its background services? \n"
-"\n"
-"Enable via Settings &gt; System &gt; Button Settings"
+#, c-format
+msgctxt "same_year_wday1_md1_time1_wday2_md2_time2"
+msgid "%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s"
 msgstr ""
 
-msgctxt "first_back_long_press_title"
-msgid "Press Return Key Behavior"
+#, c-format
+msgctxt "same_month_wday1_md1_time1_wday2_md2_time2"
+msgid "%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s"
 msgstr ""
 
-msgctxt "force_close"
-msgid "Force close"
+#, c-format
+msgctxt "same_year_mdy1_time1_mdy2_time2"
+msgid "%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s"
 msgstr ""
 
-msgctxt "force_exit_message"
-msgid "Successfully closed \"%1$s\""
+#, c-format
+msgctxt "same_month_mdy1_time1_mdy2_time2"
+msgid "%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s"
 msgstr ""
 
-msgctxt "format_error"
-msgid "Failed to erase USB storage."
+#, c-format
+msgctxt "same_year_wday1_mdy1_time1_wday2_mdy2_time2"
+msgid "%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s"
+msgstr ""
+
+#, c-format
+msgctxt "same_month_wday1_mdy1_time1_wday2_mdy2_time2"
+msgid "%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s"
+msgstr ""
+
+#, c-format
+msgctxt "same_month_wday1_mdy1_wday2_mdy2"
+msgid "%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s"
+msgstr ""
+
+#, c-format
+msgctxt "same_month_md1_md2"
+msgid "%2$s %3$s – %8$s"
+msgstr ""
+
+#, c-format
+msgctxt "same_month_wday1_md1_wday2_md2"
+msgid "%1$s, %2$s %3$s – %6$s, %7$s %8$s"
+msgstr ""
+
+#, c-format
+msgctxt "same_year_mdy1_mdy2"
+msgid "%2$s %3$s – %7$s %8$s, %9$s"
+msgstr ""
+
+#, c-format
+msgctxt "same_month_mdy1_mdy2"
+msgid "%2$s %3$s – %8$s, %9$s"
+msgstr ""
+
+#, c-format
+msgctxt "same_year_wday1_mdy1_wday2_mdy2"
+msgid "%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s"
+msgstr ""
+
+#, c-format
+msgctxt "short_format_month"
+msgid "%b"
 msgstr ""
 
 msgctxt "full_wday_month_day_no_year"
 msgid "EEE, MMM d"
 msgstr ""
 
-msgctxt "gadget_host_error_inflating"
-msgid "Error inflating widget"
+msgctxt "abbrev_wday_month_day_year"
+msgid "EEE, MMM d, yyyy"
 msgstr ""
 
-msgctxt "gigabyteShort"
-msgid "GB"
-msgstr ""
-
-msgctxt "global_actions"
-msgid "Phone options"
-msgstr ""
-
-msgctxt "global_actions_airplane_mode_off_status"
-msgid "Airplane mode is OFF"
-msgstr ""
-
-msgctxt "global_actions_airplane_mode_on_status"
-msgid "Airplane mode is ON"
-msgstr ""
-
-msgctxt "global_actions_toggle_airplane_mode"
-msgid "Airplane mode"
-msgstr ""
-
-msgctxt "global_action_lock"
-msgid "Screen lock"
-msgstr ""
-
-msgctxt "global_action_power_off"
-msgid "Power off"
-msgstr ""
-
-msgctxt "global_action_privacy_mode_dialog_message"
-msgid ""
-"In Visitor mode, calls and text messages will be hidden and launcher will"
-" not be able to enter editing mode."
-msgstr ""
-
-msgctxt "global_action_privacy_mode_off_status"
-msgid "Visitor mode is OFF"
-msgstr ""
-
-msgctxt "global_action_privacy_mode_on_status"
-msgid "Visitor mode is ON"
-msgstr ""
-
-msgctxt "global_action_privacy_mode_on_toast"
-msgid ""
-"Visitor mode is turned on. Calls and text messages are hidden and "
-"launcher cannot enter editing mode."
-msgstr ""
-
-msgctxt "global_action_silent_mode_off_status"
-msgid "Sound is ON"
-msgstr ""
-
-msgctxt "global_action_silent_mode_on_status"
-msgid "Sound is OFF"
-msgstr ""
-
-msgctxt "global_action_toggle_privacy_mode"
-msgid "Visitor mode"
-msgstr ""
-
-msgctxt "global_action_toggle_silent_mode"
-msgid "Silent mode"
-msgstr ""
-
-msgctxt "grant_credentials_permission_message_footer"
-msgid "Do you want to allow this request?"
-msgstr ""
-
-msgctxt "grant_credentials_permission_message_header"
-msgid ""
-"The following one or more applications request permission to access your "
-"account, now and in the future."
-msgstr ""
-
-msgctxt "grant_permissions_header_text"
-msgid "Access Request"
-msgstr ""
-
-msgctxt "heavy_weight_notification"
-msgid "%1$s running"
-msgstr ""
-
-msgctxt "heavy_weight_notification_detail"
-msgid "Select to switch to application"
-msgstr ""
-
-msgctxt "heavy_weight_switcher_text"
-msgid ""
-"Another application is already running that must be stopped before you "
-"can start a new one."
-msgstr ""
-
-msgctxt "heavy_weight_switcher_title"
-msgid "Switch applications?"
-msgstr ""
-
-msgctxt "hour"
-msgid "hour"
-msgstr ""
-
-msgctxt "hours"
-msgid "hours"
-msgstr ""
-
-#, python-format
-msgctxt "hour_ampm"
-msgid "%-l%P"
-msgstr ""
-
-#, python-format
-msgctxt "hour_cap_ampm"
-msgid "%-l%p"
-msgstr ""
-
-msgctxt "hour_minute_24"
-msgid "%H:%M"
-msgstr ""
-
-msgctxt "hour_minute_ampm"
-msgid "%-l:%M%p"
-msgstr ""
-
-msgctxt "hour_minute_cap_ampm"
-msgid "%-l:%M%^p"
-msgstr ""
-
-msgctxt "httpError"
-msgid "The Web page contains an error."
-msgstr ""
-
-msgctxt "httpErrorAuth"
-msgid "Authentication was unsuccessful."
-msgstr ""
-
-msgctxt "httpErrorBadUrl"
-msgid "The page could not be opened because the URL is invalid."
-msgstr ""
-
-msgctxt "httpErrorConnect"
-msgid "The connection to the server was unsuccessful."
-msgstr ""
-
-msgctxt "httpErrorFailedSslHandshake"
-msgid "A secure connection could not be established."
-msgstr ""
-
-msgctxt "httpErrorFile"
-msgid "The file could not be accessed."
-msgstr ""
-
-msgctxt "httpErrorFileNotFound"
-msgid "The requested file was not found."
-msgstr ""
-
-msgctxt "httpErrorIO"
-msgid "The server failed to communicate. Try again later."
-msgstr ""
-
-msgctxt "httpErrorLookup"
-msgid "The URL could not be found."
-msgstr ""
-
-msgctxt "httpErrorOk"
-msgid "OK"
-msgstr ""
-
-msgctxt "httpErrorProxyAuth"
-msgid "Authentication via the proxy server was unsuccessful."
-msgstr ""
-
-msgctxt "httpErrorRedirectLoop"
-msgid "The page contains too many server redirects."
-msgstr ""
-
-msgctxt "httpErrorTimeout"
-msgid "The connection to the server timed out."
-msgstr ""
-
-msgctxt "httpErrorTooManyRequests"
-msgid "Too many requests are being processed. Try again later."
-msgstr ""
-
-msgctxt "httpErrorUnsupportedAuthScheme"
-msgid "The site authentication scheme is not supported."
-msgstr ""
-
-msgctxt "httpErrorUnsupportedScheme"
-msgid "The protocol is not supported."
-msgstr ""
-
-msgctxt "ignore"
-msgid "Ignore"
-msgstr ""
-
-msgctxt "ime_action_default"
-msgid "Execute"
-msgstr ""
-
-msgctxt "ime_action_done"
-msgid "Done"
-msgstr ""
-
-msgctxt "ime_action_go"
-msgid "Go"
-msgstr ""
-
-msgctxt "ime_action_next"
-msgid "Next"
-msgstr ""
-
-msgctxt "ime_action_search"
-msgid "Search"
-msgstr ""
-
-msgctxt "ime_action_send"
-msgid "Send"
-msgstr ""
-
-msgctxt "imProtocolAim"
-msgid "AIM"
-msgstr ""
-
-msgctxt "imProtocolCustom"
-msgid "Custom"
-msgstr ""
-
-msgctxt "imProtocolGoogleTalk"
-msgid "Google Talk"
-msgstr ""
-
-msgctxt "imProtocolIcq"
-msgid "ICQ"
-msgstr ""
-
-msgctxt "imProtocolJabber"
-msgid "Jabber"
-msgstr ""
-
-msgctxt "imProtocolMsn"
-msgid "Windows Live"
-msgstr ""
-
-msgctxt "imProtocolNetMeeting"
-msgid "NetMeeting"
-msgstr ""
-
-msgctxt "imProtocolQq"
-msgid "QQ"
-msgstr ""
-
-msgctxt "imProtocolSkype"
-msgid "Skype"
-msgstr ""
-
-msgctxt "imProtocolYahoo"
-msgid "Yahoo"
-msgstr ""
-
-msgctxt "imTypeCustom"
-msgid "Custom"
-msgstr ""
-
-msgctxt "imTypeHome"
-msgid "Home"
-msgstr ""
-
-msgctxt "imTypeOther"
-msgid "Other"
-msgstr ""
-
-msgctxt "imTypeWork"
-msgid "Work"
-msgstr ""
-
-msgctxt "inputMethod"
-msgid "Input method"
-msgstr ""
-
-msgctxt "input_method_binding_label"
-msgid "Input method"
-msgstr ""
-
-msgctxt "invalidPin"
-msgid "Type a PIN that is 4 to 8 numbers."
-msgstr ""
-
-#, python-format
-msgctxt "js_dialog_before_unload"
-msgid ""
-"Navigate away from this page?\n"
-"\n"
-"%s\n"
-"\n"
-"Select OK to continue, or Cancel to stay on the current page."
-msgstr ""
-
-#, python-format
-msgctxt "js_dialog_title"
-msgid "The page at '%s' says:"
-msgstr ""
-
-msgctxt "js_dialog_title_default"
-msgid "JavaScript"
-msgstr ""
-
-msgctxt "keyguard_label_text"
-msgid "To unlock, press Menu then 0."
-msgstr ""
-
-msgctxt "keyguard_password_enter_password_code"
-msgid "Enter password to unlock"
-msgstr ""
-
-msgctxt "keyguard_password_enter_pin_code"
-msgid "Enter PIN code"
-msgstr ""
-
-msgctxt "keyguard_password_wrong_pin_code"
-msgid "Incorrect PIN code!"
-msgstr ""
-
-msgctxt "kilobyteShort"
-msgid "KB"
-msgstr ""
-
-msgctxt "l2tp_ipsec_crt_vpn_description"
-msgid "Certificate based L2TP/IPSec VPN"
-msgstr ""
-
-msgctxt "l2tp_ipsec_psk_vpn_description"
-msgid "Pre-shared key based L2TP/IPSec VPN"
-msgstr ""
-
-msgctxt "l2tp_vpn_description"
-msgid "Layer 2 Tunneling Protocol"
-msgstr ""
-
-msgctxt "last_month"
-msgid "Last month"
-msgstr ""
-
-msgctxt "launch_warning_original"
-msgid "%1$s was originally launched."
-msgstr ""
-
-msgctxt "launch_warning_replace"
-msgid "%1$s is now running."
-msgstr ""
-
-msgctxt "launch_warning_title"
-msgid "Application redirected"
-msgstr ""
-
-#, python-format
-msgctxt "lockscreen_battery_short"
-msgid "%d%%"
-msgstr ""
-
-msgctxt "lockscreen_call_bottom_hint"
-msgid "Slide down to open Dialer"
-msgstr ""
-
-msgctxt "lockscreen_carrier_default"
-msgid "(No service)"
-msgstr ""
-
-msgctxt "lockscreen_charged"
-msgid "Charged."
-msgstr ""
-
-msgctxt "lockscreen_dial_label"
-msgid "Open Dialer"
-msgstr ""
-
-msgctxt "lockscreen_emergency_call"
-msgid "Emergency call"
-msgstr ""
-
-#, python-format
-msgctxt "lockscreen_failed_attempts_almost_glogin"
-msgid ""
-"You have inputted wrong password %d times. After %d more unsuccessful "
-"attempts, you will be asked to unlock your phone using your Google sign-"
-"in.\n"
-"\n"
-" Please try again in %d seconds."
-msgstr ""
-
-msgctxt "lockscreen_forgot_pattern_button_text"
-msgid "Forgot pattern?"
-msgstr ""
-
-msgctxt "lockscreen_glogin_checking_password"
-msgid "Checking..."
-msgstr ""
-
-msgctxt "lockscreen_glogin_forgot_pattern"
-msgid "Account unlock"
-msgstr ""
-
-msgctxt "lockscreen_glogin_instructions"
-msgid "To unlock, sign in with your Google account"
-msgstr ""
-
-msgctxt "lockscreen_glogin_invalid_input"
-msgid "Invalid username or password."
-msgstr ""
-
-msgctxt "lockscreen_glogin_password_hint"
-msgid "Password"
-msgstr ""
-
-msgctxt "lockscreen_glogin_submit_button"
-msgid "Sign in"
-msgstr ""
-
-msgctxt "lockscreen_glogin_too_many_attempts"
-msgid "Too many pattern attempts!"
-msgstr ""
-
-msgctxt "lockscreen_glogin_username_hint"
-msgid "Username (E-mail)"
-msgstr ""
-
-msgctxt "lockscreen_instructions_when_pattern_disabled"
-msgid "Press Menu to unlock."
-msgstr ""
-
-msgctxt "lockscreen_instructions_when_pattern_enabled"
-msgid "Press Menu to unlock or place emergency call."
-msgstr ""
-
-msgctxt "lockscreen_low_battery"
-msgid "Connect your charger."
-msgstr ""
-
-msgctxt "lockscreen_missing_sim_instructions"
-msgid "Please insert a SIM card."
-msgstr ""
-
-msgctxt "lockscreen_missing_sim_message"
-msgid "No SIM card in phone."
-msgstr ""
-
-msgctxt "lockscreen_missing_sim_message_short"
-msgid "No SIM card."
-msgstr ""
-
-msgctxt "lockscreen_mms_label"
-msgid "Open SMS"
-msgstr ""
-
-msgctxt "lockscreen_network_locked_message"
-msgid "Network locked"
-msgstr ""
-
-msgctxt "lockscreen_pattern_correct"
-msgid "Correct!"
-msgstr ""
-
-msgctxt "lockscreen_pattern_instructions"
-msgid "Draw pattern to unlock"
-msgstr ""
-
-msgctxt "lockscreen_pattern_wrong"
-msgid "Wrong pattern, please try again!"
-msgstr ""
-
-#, python-format
-msgctxt "lockscreen_plugged_in"
-msgid "Charging (%d%%)"
-msgstr ""
-
-msgctxt "lockscreen_return_to_call"
-msgid "Return to call"
-msgstr ""
-
-msgctxt "lockscreen_screen_locked"
-msgid "Screen locked."
-msgstr ""
-
-msgctxt "lockscreen_sim_locked_message"
-msgid "SIM card is locked."
-msgstr ""
-
-msgctxt "lockscreen_sim_puk_locked_instructions"
-msgid "Please see the User Guide or contact Customer Care."
-msgstr ""
-
-msgctxt "lockscreen_sim_puk_locked_message"
-msgid "SIM card is PUK-locked."
-msgstr ""
-
-msgctxt "lockscreen_sim_unlock_progress_dialog_message"
-msgid "Unlocking SIM card…"
-msgstr ""
-
-msgctxt "lockscreen_sms_bottom_hint"
-msgid "Slide down to open SMS"
-msgstr ""
-
-msgctxt "lockscreen_sound_off_label"
-msgid "Sound off"
-msgstr ""
-
-msgctxt "lockscreen_sound_on_label"
-msgid "Sound on"
-msgstr ""
-
-msgctxt "lockscreen_time_bottom_hint"
-msgid "Slide down to unlock"
-msgstr ""
-
-#, python-format
-msgctxt "lockscreen_too_many_failed_attempts_countdown"
-msgid "Try again in %d seconds."
-msgstr ""
-
-#, python-format
-msgctxt "lockscreen_too_many_failed_attempts_dialog_message"
-msgid ""
-"You have inputted wrong password %d times. \n"
-"\n"
-"Please try again in %d seconds."
-msgstr ""
-
-msgctxt "lockscreen_unlock_hint"
-msgid "Slide down to unlock"
-msgstr ""
-
-msgctxt "lockscreen_unlock_label"
-msgid "Unlock"
+msgctxt "default_text_encoding"
+msgid "Latin-1"
 msgstr ""
 
 msgctxt "lock_pattern_view_aspect"
 msgid "square"
 msgstr ""
 
-msgctxt "low_internal_storage_view_text"
-msgid "Phone storage space is getting low."
+msgctxt "byteShort"
+msgid "B"
 msgstr ""
 
-msgctxt "low_internal_storage_view_title"
-msgid "Low on space"
-msgstr ""
-
-msgctxt "low_memory"
-msgid "Phone storage is full! Delete some files to free space."
-msgstr ""
-
-msgctxt "lunar_calendar"
-msgid "Lunar calendar"
-msgstr ""
-
-msgctxt "lunar_ling"
-msgid "O"
-msgstr ""
-
-msgctxt "lunar_year"
-msgid "Year"
-msgstr ""
-
-msgctxt "me"
-msgid "Me"
-msgstr ""
-
-msgctxt "media_bad_removal"
-msgid "SD card was removed before being unmounted."
-msgstr ""
-
-msgctxt "media_checking"
-msgid "USB storage is currently being checked."
-msgstr ""
-
-msgctxt "media_removed"
-msgid "SD card has been removed."
-msgstr ""
-
-msgctxt "media_shared"
-msgid "USB storage is currently in use by a computer."
-msgstr ""
-
-msgctxt "media_unknown_state"
-msgid "External media in unknown state."
+msgctxt "kilobyteShort"
+msgid "KB"
 msgstr ""
 
 msgctxt "megabyteShort"
 msgid "MB"
 msgstr ""
 
-msgctxt "menu_delete_shortcut_label"
-msgid "Delete"
+msgctxt "gigabyteShort"
+msgid "GB"
 msgstr ""
 
-msgctxt "menu_enter_shortcut_label"
-msgid "Enter"
+msgctxt "terabyteShort"
+msgid "TB"
 msgstr ""
 
-msgctxt "menu_space_shortcut_label"
-msgid "Space"
+msgctxt "petabyteShort"
+msgid "PB"
 msgstr ""
 
-msgctxt "Midnight"
-msgid "Midnight"
+#, c-format
+msgctxt "fileSizeSuffix"
+msgid "%1$s%2$s"
 msgstr ""
 
-msgctxt "midnight"
-msgid "midnight"
-msgstr ""
-
-msgctxt "minute"
-msgid "min"
-msgstr ""
-
-msgctxt "minutes"
-msgid "mins"
-msgstr ""
-
-msgctxt "mismatchPin"
-msgid "The PINs you entered do not match."
-msgstr ""
-
-msgctxt "mmiComplete"
-msgid "MMI complete."
+msgctxt "ellipsis"
+msgid "…"
 msgstr ""
 
 msgctxt "mmiError"
@@ -2094,237 +764,48 @@ msgctxt "mmiFdnError"
 msgid "Operation is restricted to fixed dialing numbers only."
 msgstr ""
 
-#, python-format
-msgctxt "mobile_exceeded"
-msgid "Mobile Internet transfer limit exceeded by %sMB"
+msgctxt "serviceEnabled"
+msgid "Service was enabled."
 msgstr ""
 
-#, python-format
-msgctxt "mobile_traffic"
-msgid "%sMB has been used this month"
+msgctxt "serviceEnabledFor"
+msgid "Service was enabled for:"
 msgstr ""
 
-#, python-format
-msgctxt "mobile_traffic_exceeded"
-msgid "Mobile internet traffic limit exceeded by %sMB"
+msgctxt "serviceDisabled"
+msgid "Service has been disabled."
 msgstr ""
 
-msgctxt "monitor_traffic_title"
-msgid "Call Traffic Monitor"
+msgctxt "serviceRegistered"
+msgid "Registration was successful."
 msgstr ""
 
-msgctxt "month"
-msgid "%-B"
+msgctxt "serviceErased"
+msgid "Erasure was successful."
 msgstr ""
 
-#, python-format
-msgctxt "month_day"
-msgid "%B %-e"
+msgctxt "passwordIncorrect"
+msgid "Incorrect password."
 msgstr ""
 
-#, python-format
-msgctxt "month_day_year"
-msgid "%B %-e, %Y"
+msgctxt "mmiComplete"
+msgid "MMI complete."
 msgstr ""
 
-msgctxt "month_long_april"
-msgid "April"
+msgctxt "badPin"
+msgid "The old PIN you typed is not correct."
 msgstr ""
 
-msgctxt "month_long_august"
-msgid "August"
+msgctxt "badPuk"
+msgid "The PUK you typed is not correct."
 msgstr ""
 
-msgctxt "month_long_december"
-msgid "December"
+msgctxt "mismatchPin"
+msgid "The PINs you entered do not match."
 msgstr ""
 
-msgctxt "month_long_february"
-msgid "February"
-msgstr ""
-
-msgctxt "month_long_january"
-msgid "January"
-msgstr ""
-
-msgctxt "month_long_july"
-msgid "July"
-msgstr ""
-
-msgctxt "month_long_june"
-msgid "June"
-msgstr ""
-
-msgctxt "month_long_march"
-msgid "March"
-msgstr ""
-
-msgctxt "month_long_may"
-msgid "May"
-msgstr ""
-
-msgctxt "month_long_november"
-msgid "November"
-msgstr ""
-
-msgctxt "month_long_october"
-msgid "October"
-msgstr ""
-
-msgctxt "month_long_september"
-msgid "September"
-msgstr ""
-
-msgctxt "month_long_standalone_april"
-msgid "April"
-msgstr ""
-
-msgctxt "month_long_standalone_august"
-msgid "August"
-msgstr ""
-
-msgctxt "month_long_standalone_december"
-msgid "December"
-msgstr ""
-
-msgctxt "month_long_standalone_february"
-msgid "February"
-msgstr ""
-
-msgctxt "month_long_standalone_january"
-msgid "January"
-msgstr ""
-
-msgctxt "month_long_standalone_july"
-msgid "July"
-msgstr ""
-
-msgctxt "month_long_standalone_june"
-msgid "June"
-msgstr ""
-
-msgctxt "month_long_standalone_march"
-msgid "March"
-msgstr ""
-
-msgctxt "month_long_standalone_may"
-msgid "May"
-msgstr ""
-
-msgctxt "month_long_standalone_november"
-msgid "November"
-msgstr ""
-
-msgctxt "month_long_standalone_october"
-msgid "October"
-msgstr ""
-
-msgctxt "month_long_standalone_september"
-msgid "September"
-msgstr ""
-
-msgctxt "month_medium_april"
-msgid "Apr"
-msgstr ""
-
-msgctxt "month_medium_august"
-msgid "Aug"
-msgstr ""
-
-msgctxt "month_medium_december"
-msgid "Dec"
-msgstr ""
-
-msgctxt "month_medium_february"
-msgid "Feb"
-msgstr ""
-
-msgctxt "month_medium_january"
-msgid "Jan"
-msgstr ""
-
-msgctxt "month_medium_july"
-msgid "Jul"
-msgstr ""
-
-msgctxt "month_medium_june"
-msgid "Jun"
-msgstr ""
-
-msgctxt "month_medium_march"
-msgid "Mar"
-msgstr ""
-
-msgctxt "month_medium_may"
-msgid "May"
-msgstr ""
-
-msgctxt "month_medium_november"
-msgid "Nov"
-msgstr ""
-
-msgctxt "month_medium_october"
-msgid "Oct"
-msgstr ""
-
-msgctxt "month_medium_september"
-msgid "Sep"
-msgstr ""
-
-msgctxt "month_shortest_april"
-msgid "A"
-msgstr ""
-
-msgctxt "month_shortest_august"
-msgid "A"
-msgstr ""
-
-msgctxt "month_shortest_december"
-msgid "D"
-msgstr ""
-
-msgctxt "month_shortest_february"
-msgid "F"
-msgstr ""
-
-msgctxt "month_shortest_january"
-msgid "J"
-msgstr ""
-
-msgctxt "month_shortest_july"
-msgid "J"
-msgstr ""
-
-msgctxt "month_shortest_june"
-msgid "J"
-msgstr ""
-
-msgctxt "month_shortest_march"
-msgid "M"
-msgstr ""
-
-msgctxt "month_shortest_may"
-msgid "M"
-msgstr ""
-
-msgctxt "month_shortest_november"
-msgid "N"
-msgstr ""
-
-msgctxt "month_shortest_october"
-msgid "O"
-msgstr ""
-
-msgctxt "month_shortest_september"
-msgid "S"
-msgstr ""
-
-msgctxt "month_year"
-msgid "%B %Y"
-msgstr ""
-
-msgctxt "more_item_label"
-msgid "More"
+msgctxt "invalidPin"
+msgid "Type a PIN that is 4 to 8 numbers."
 msgstr ""
 
 msgctxt "needPuk"
@@ -2335,1817 +816,84 @@ msgctxt "needPuk2"
 msgid "Type PUK2 to unblock SIM card."
 msgstr ""
 
-msgctxt "new_app_action"
-msgid "Start %1$s"
+msgctxt "ClipMmi"
+msgid "Incoming Caller ID"
 msgstr ""
 
-msgctxt "new_app_description"
-msgid "Stop the old application without saving."
+msgctxt "ClirMmi"
+msgid "Outgoing Caller ID"
 msgstr ""
 
-msgctxt "no"
-msgid "Cancel"
+msgctxt "CfMmi"
+msgid "Call forwarding"
 msgstr ""
 
-msgctxt "noApplications"
-msgid "No applications can perform this action."
+msgctxt "CwMmi"
+msgid "Call waiting"
 msgstr ""
 
-msgctxt "Noon"
-msgid "Noon"
-msgstr ""
-
-msgctxt "noon"
-msgid "noon"
-msgstr ""
-
-msgctxt "notification_title"
-msgid "Sign-in error for %1$s"
-msgstr ""
-
-msgctxt "no_permissions"
-msgid "No permissions required"
-msgstr ""
-
-msgctxt "no_recent_tasks"
-msgid "No recent applications."
-msgstr ""
-
-#, python-format
-msgctxt "numeric_date"
-msgid "%-m/%-e/%Y"
-msgstr ""
-
-msgctxt "numeric_date_format"
-msgid "M/d/yyyy"
-msgstr ""
-
-#, python-format
-msgctxt "numeric_date_template"
-msgid "%s/%s/%s"
-msgstr ""
-
-msgctxt "numeric_md1_md2"
-msgid "%2$s/%3$s – %7$s/%8$s"
-msgstr ""
-
-msgctxt "numeric_md1_time1_md2_time2"
-msgid "%2$s/%3$s, %5$s – %7$s/%8$s, %10$s"
-msgstr ""
-
-msgctxt "numeric_mdy1_mdy2"
-msgid "%2$s/%3$s/%4$s – %7$s/%8$s/%9$s"
-msgstr ""
-
-msgctxt "numeric_mdy1_time1_mdy2_time2"
-msgid "%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s"
-msgstr ""
-
-msgctxt "numeric_wday1_md1_time1_wday2_md2_time2"
-msgid "%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s"
-msgstr ""
-
-msgctxt "numeric_wday1_md1_wday2_md2"
-msgid "%1$s, %2$s/%3$s – %6$s, %7$s/%8$s"
-msgstr ""
-
-msgctxt "numeric_wday1_mdy1_time1_wday2_mdy2_time2"
-msgid "%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s"
-msgstr ""
-
-msgctxt "numeric_wday1_mdy1_wday2_mdy2"
-msgid "%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s"
-msgstr ""
-
-msgctxt "ok"
-msgid "OK"
-msgstr ""
-
-msgctxt "older"
-msgid "Older"
-msgstr ""
-
-msgctxt "old_app_action"
-msgid "Return to %1$s"
-msgstr ""
-
-msgctxt "old_app_description"
-msgid "Don't start the new application."
-msgstr ""
-
-msgctxt "oneMonthDurationPast"
-msgid "1 month ago"
-msgstr ""
-
-msgctxt "openvpn_vpn_description"
-msgid "OpenVPN SSL VPN"
-msgstr ""
-
-msgctxt "open_permission_deny"
-msgid "You do not have permission to open this page."
-msgstr ""
-
-msgctxt "orgTypeCustom"
-msgid "Custom"
-msgstr ""
-
-msgctxt "orgTypeOther"
-msgid "Other"
-msgstr ""
-
-msgctxt "orgTypeWork"
-msgid "Work"
-msgstr ""
-
-msgctxt "passwordIncorrect"
-msgid "Incorrect password."
-msgstr ""
-
-msgctxt "password_keyboard_label_alpha_key"
-msgid "ABC"
-msgstr ""
-
-msgctxt "password_keyboard_label_alt_key"
-msgid "ALT"
-msgstr ""
-
-msgctxt "password_keyboard_label_symbol_key"
-msgid "\\?123"
-msgstr ""
-
-msgctxt "paste"
-msgid "Paste"
-msgstr ""
-
-msgctxt "payphone"
-msgid "Payphone"
-msgstr ""
-
-msgctxt "permdesc_accessCoarseLocation"
-msgid ""
-"Access coarse location sources such as the cellular network database to "
-"determine an approximate phone location, where available. Malicious "
-"applications can use this to determine approximately where you are."
-msgstr ""
-
-msgctxt "permdesc_accessFineLocation"
-msgid ""
-"Access fine location sources such as the Global Positioning System on the"
-" phone, where available. Malicious applications can use this to determine"
-" where you are, and may consume additional battery power."
-msgstr ""
-
-msgctxt "permdesc_accessLocationExtraCommands"
-msgid ""
-"Access extra location provider commands. Malicious applications could use"
-" this to interfere with the operation of the GPS or other location "
-"sources."
-msgstr ""
-
-msgctxt "permdesc_accessMockLocation"
-msgid ""
-"Create mock location sources for testing. Malicious applications can use "
-"this to override the location and/or status returned by real location "
-"sources such as GPS or Network providers."
-msgstr ""
-
-msgctxt "permdesc_accessNetworkState"
-msgid "Allows an application to view the state of all networks."
-msgstr ""
-
-msgctxt "permdesc_accessSurfaceFlinger"
-msgid "Allows application to use SurfaceFlinger low-level features."
-msgstr ""
-
-msgctxt "permdesc_accessUsb"
-msgid "Allows the application to access USB devices."
-msgstr ""
-
-msgctxt "permdesc_accessWifiState"
-msgid "Allows an application to view the information about the state of Wi-Fi."
-msgstr ""
-
-msgctxt "permdesc_accountManagerService"
-msgid "Allows an application to make calls to AccountAuthenticators"
-msgstr ""
-
-msgctxt "permdesc_asec_access"
-msgid "Allows the application to get information on secure storage."
-msgstr ""
-
-msgctxt "permdesc_asec_create"
-msgid "Allows the application to create secure storage."
-msgstr ""
-
-msgctxt "permdesc_asec_destroy"
-msgid "Allows the application to destroy secure storage."
-msgstr ""
-
-msgctxt "permdesc_asec_mount_unmount"
-msgid "Allows the application to mount / unmount secure storage."
-msgstr ""
-
-msgctxt "permdesc_asec_rename"
-msgid "Allows the application to rename secure storage."
-msgstr ""
-
-msgctxt "permdesc_authenticateAccounts"
-msgid ""
-"Allows an application to use the account authenticator capabilities of "
-"the AccountManager, including creating accounts and getting and setting "
-"their passwords."
-msgstr ""
-
-msgctxt "permdesc_backup"
-msgid ""
-"Allows the application to control the system's backup and restore "
-"mechanism. Not for use by normal applications."
-msgstr ""
-
-msgctxt "permdesc_batteryStats"
-msgid ""
-"Allows the modification of collected battery statistics. Not for use by "
-"normal applications."
-msgstr ""
-
-msgctxt "permdesc_bindDeviceAdmin"
-msgid ""
-"Allows the holder to send intents to a device administrator. Should never"
-" be needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_bindGadget"
-msgid ""
-"Allows the application to tell the system which widgets can be used by "
-"which application. With this permission, applications can give access to "
-"personal data to other applications. Not for use by normal applications."
-msgstr ""
-
-msgctxt "permdesc_bindInputMethod"
-msgid ""
-"Allows the holder to bind to the top-level interface of an input method. "
-"Should never be needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_bindWallpaper"
-msgid ""
-"Allows the holder to bind to the top-level interface of a wallpaper. "
-"Should never be needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_bluetooth"
-msgid ""
-"Allows an application to view configuration of the local Bluetooth phone,"
-" and to make and accept connections with paired devices."
-msgstr ""
-
-msgctxt "permdesc_bluetoothAdmin"
-msgid ""
-"Allows an application to configure the local Bluetooth phone, and to "
-"discover and pair with remote devices."
-msgstr ""
-
-msgctxt "permdesc_brick"
-msgid ""
-"Allows the application to disable the entire phone permanently. This is "
-"very dangerous."
-msgstr ""
-
-msgctxt "permdesc_broadcastPackageRemoved"
-msgid ""
-"Allows an application to broadcast a notification that an application "
-"package has been removed. Malicious applications may use this to kill any"
-" other running application."
-msgstr ""
-
-msgctxt "permdesc_broadcastSmsReceived"
-msgid ""
-"Allows an application to broadcast a notification that an SMS message has"
-" been received. Malicious applications may use this to forge incoming SMS"
-" messages."
-msgstr ""
-
-msgctxt "permdesc_broadcastSticky"
-msgid ""
-"Allows an application to send sticky broadcasts, which remain after the "
-"broadcast ends. Malicious applications can make the phone slow or "
-"unstable by causing it to use too much memory."
-msgstr ""
-
-msgctxt "permdesc_broadcastWapPush"
-msgid ""
-"Allows an application to broadcast a notification that a WAP PUSH message"
-" has been received. Malicious applications may use this to forge MMS "
-"message receipt or to silently replace the content of any web page with "
-"malicious variants."
-msgstr ""
-
-msgctxt "permdesc_cache_filesystem"
-msgid "Allows an application to read and write the cache filesystem."
-msgstr ""
-
-msgctxt "permdesc_callPhone"
-msgid ""
-"Allows the application to call phone numbers without your intervention. "
-"Malicious applications may cause unexpected calls on your phone bill. "
-"Note that this does not allow the application to call emergency numbers."
-msgstr ""
-
-msgctxt "permdesc_callPrivileged"
-msgid ""
-"Allows the application to call any phone number, including emergency "
-"numbers, without your intervention. Malicious applications may place "
-"unnecessary and illegal calls to emergency services."
-msgstr ""
-
-msgctxt "permdesc_camera"
-msgid ""
-"Allows application to take pictures with the camera. This allows the "
-"application at any time to collect images the camera is seeing."
-msgstr ""
-
-msgctxt "permdesc_changeBackgroundDataSetting"
-msgid "Allows an application to change the background data usage setting."
-msgstr ""
-
-msgctxt "permdesc_changeComponentState"
-msgid ""
-"Allows an application to change whether a component of another "
-"application is enabled or not. Malicious applications can use this to "
-"disable important phone capabilities. Care must be used with permission, "
-"as it is possible to get application components into an unusable, "
-"inconsistent, or unstable state."
-msgstr ""
-
-msgctxt "permdesc_changeConfiguration"
-msgid ""
-"Allows an application to change the current configuration, such as the "
-"locale or overall font size."
-msgstr ""
-
-msgctxt "permdesc_changeNetworkState"
-msgid "Allows an application to change the state of network connectivity."
-msgstr ""
-
-msgctxt "permdesc_changeTetherState"
-msgid ""
-"Allows an application to change the state of tethered network "
-"connectivity."
-msgstr ""
-
-msgctxt "permdesc_changeWifiMulticastState"
-msgid ""
-"Allows an application to receive packets not directly addressed to your "
-"device. This can be useful when discovering services offered near by. It "
-"uses more power than the non-multicast mode."
-msgstr ""
-
-msgctxt "permdesc_changeWifiState"
-msgid ""
-"Allows an application to connect to and disconnect from Wi-Fi access "
-"points, and to make changes to configured Wi-Fi networks."
-msgstr ""
-
-msgctxt "permdesc_checkinProperties"
-msgid ""
-"Allows read/write access to properties uploaded by the checkin service. "
-"Not for use by normal applications."
-msgstr ""
-
-msgctxt "permdesc_clearAppCache"
-msgid ""
-"Allows an application to free phone storage by deleting files in "
-"application cache directory. Access is very restricted usually to system "
-"process."
-msgstr ""
-
-msgctxt "permdesc_clearAppUserData"
-msgid "Allows an application to clear user data."
-msgstr ""
-
-msgctxt "permdesc_copyProtectedData"
-msgid ""
-"Allows to invoke default container service to copy content. Not for use "
-"by normal applications."
-msgstr ""
-
-msgctxt "permdesc_createNetworkSockets"
-msgid "Allows an application to create network sockets."
-msgstr ""
-
-msgctxt "permdesc_deleteCacheFiles"
-msgid "Allows an application to delete cache files."
-msgstr ""
-
-msgctxt "permdesc_deletePackages"
-msgid ""
-"Allows an application to delete Android packages. Malicious applications "
-"can use this to delete important applications."
-msgstr ""
-
-msgctxt "permdesc_devicePower"
-msgid "Allows the application to turn the phone on or off."
-msgstr ""
-
-msgctxt "permdesc_diagnostic"
-msgid ""
-"Allows an application to read and write to any resource owned by the diag"
-" group; for example, files in /dev. This could potentially affect system "
-"stability and security. This should be ONLY be used for hardware-specific"
-" diagnostics by the manufacturer or operator."
-msgstr ""
-
-msgctxt "permdesc_disableKeyguard"
-msgid ""
-"Allows an application to disable the keylock and any associated password "
-"security. A legitimate example of this is the phone disabling the keylock"
-" when receiving an incoming phone call, then re-enabling the keylock when"
-" the call is finished."
-msgstr ""
-
-msgctxt "permdesc_dump"
-msgid ""
-"Allows application to retrieve internal state of the system. Malicious "
-"applications may retrieve a wide variety of private and secure "
-"information that they should never normally need."
-msgstr ""
-
-msgctxt "permdesc_enableCarMode"
-msgid "Allows an application to enable the car mode."
-msgstr ""
-
-msgctxt "permdesc_expandStatusBar"
-msgid "Allows application to expand or collapse the status bar."
-msgstr ""
-
-msgctxt "permdesc_factoryTest"
-msgid ""
-"Run as a low-level manufacturer test, allowing complete access to the "
-"phone hardware. Only available when a phone is running in manufacturer "
-"test mode."
-msgstr ""
-
-msgctxt "permdesc_flashlight"
-msgid "Allows the application to control the flashlight."
-msgstr ""
-
-msgctxt "permdesc_forceBack"
-msgid ""
-"Allows an application to force any activity that is in the foreground to "
-"close and go back. Should never be needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_forceStopPackages"
-msgid "Allows an application to forcibly stop other applications."
-msgstr ""
-
-msgctxt "permdesc_getAccounts"
-msgid "Allows an application to get the list of accounts known by the phone."
-msgstr ""
-
-msgctxt "permdesc_getPackageSize"
-msgid "Allows an application to retrieve its code, data, and cache sizes"
-msgstr ""
-
-msgctxt "permdesc_getTasks"
-msgid ""
-"Allows application to retrieve information about currently and recently "
-"running tasks. May allow malicious applications to discover private "
-"information about other applications."
-msgstr ""
-
-msgctxt "permdesc_hardware_test"
-msgid ""
-"Allows the application to control various peripherals for the purpose of "
-"hardware testing."
-msgstr ""
-
-msgctxt "permdesc_injectEvents"
-msgid ""
-"Allows an application to deliver its own input events (key presses, etc.)"
-" to other applications. Malicious applications can use this to take over "
-"the phone."
-msgstr ""
-
-msgctxt "permdesc_installLocationProvider"
-msgid ""
-"Create mock location sources for testing. Malicious applications can use "
-"this to override the location and/or status returned by real location "
-"sources such as GPS or Network providers or monitor and report your "
-"location to an external source."
-msgstr ""
-
-msgctxt "permdesc_installPackages"
-msgid ""
-"Allows an application to install new or updated Android packages. "
-"Malicious applications can use this to add new applications with "
-"arbitrarily powerful permissions."
-msgstr ""
-
-msgctxt "permdesc_internalSystemWindow"
-msgid ""
-"Allows the creation of windows that are intended to be used by the "
-"internal system user interface. Not for use by normal applications."
-msgstr ""
-
-msgctxt "permdesc_killBackgroundProcesses"
-msgid ""
-"Allows an application to kill background processes of other applications,"
-" even if memory isn't low."
-msgstr ""
-
-msgctxt "permdesc_locationUpdates"
-msgid ""
-"Allows enabling/disabling location update notifications from the radio. "
-"Not for use by normal applications."
-msgstr ""
-
-msgctxt "permdesc_manageAccounts"
-msgid ""
-"Allows an application to perform operations like adding, and removing "
-"accounts and deleting their password."
-msgstr ""
-
-msgctxt "permdesc_manageAppTokens"
-msgid ""
-"Allows applications to create and manage their own tokens, bypassing "
-"their normal Z-ordering. Should never be needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_masterClear"
-msgid ""
-"Allows an application to completely reset the system to its factory "
-"settings, erasing all data, configuration, and installed applications."
-msgstr ""
-
-msgctxt "permdesc_modifyAudioSettings"
-msgid ""
-"Allows application to modify global audio settings such as volume and "
-"routing."
-msgstr ""
-
-msgctxt "permdesc_modifyPhoneState"
-msgid ""
-"Allows the application to control the phone features of the device. An "
-"application with this permission can switch networks, turn the phone "
-"radio on and off and the like without ever notifying you."
-msgstr ""
-
-msgctxt "permdesc_mount_format_filesystems"
-msgid "Allows the application to format removable storage."
-msgstr ""
-
-msgctxt "permdesc_mount_unmount_filesystems"
-msgid ""
-"Allows the application to mount and unmount filesystems for removable "
-"storage."
-msgstr ""
-
-msgctxt "permdesc_movePackage"
-msgid ""
-"Allows an application to move application resources from internal to "
-"external media and vice versa."
-msgstr ""
-
-msgctxt "permdesc_nfc"
-msgid ""
-"Allows an application to communicate with Near Field Communication (NFC) "
-"tags, cards, and readers."
-msgstr ""
-
-msgctxt "permdesc_performCdmaProvisioning"
-msgid ""
-"Allows the application to start CDMA provisioning. Malicious applications"
-" may unnecessarily start CDMA provisioning"
-msgstr ""
-
-msgctxt "permdesc_persistentActivity"
-msgid ""
-"Allows an application to make parts of itself persistent, so the system "
-"can't use it for other applications."
-msgstr ""
-
-msgctxt "permdesc_pkgUsageStats"
-msgid ""
-"Allows the modification of collected component usage statistics. Not for "
-"use by normal applications."
-msgstr ""
-
-msgctxt "permdesc_processOutgoingCalls"
-msgid ""
-"Allows application to process outgoing calls and change the number to be "
-"dialed. Malicious applications may monitor, redirect, or prevent outgoing"
-" calls."
-msgstr ""
-
-msgctxt "permdesc_readCalendar"
-msgid ""
-"Allows an application to read all of the calendar events stored on your "
-"phone. Malicious applications can use this to send your calendar events "
-"to other people."
-msgstr ""
-
-msgctxt "permdesc_readContacts"
-msgid ""
-"Allows an application to read all of the contact (address) data stored on"
-" your phone. Malicious applications can use this to send your data to "
-"other people."
-msgstr ""
-
-msgctxt "permdesc_readDictionary"
-msgid ""
-"Allows an application to read any private words, names and phrases that "
-"the user may have stored in the user dictionary."
-msgstr ""
-
-msgctxt "permdesc_readFrameBuffer"
-msgid "Allows application to read the content of the frame buffer."
-msgstr ""
-
-msgctxt "permdesc_readHistoryBookmarks"
-msgid ""
-"Allows the application to read all the URLs that the Browser has visited,"
-" and all of the Browser's bookmarks."
-msgstr ""
-
-msgctxt "permdesc_readInputState"
-msgid ""
-"Allows applications to watch the keys you press even when interacting "
-"with another application (such as entering a password). Should never be "
-"needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_readLogs"
-msgid ""
-"Allows an application to read from the system's various log files. This "
-"allows it to discover general information about what you are doing with "
-"the phone, but they should not contain any personal or private "
-"information."
-msgstr ""
-
-msgctxt "permdesc_readPhoneState"
-msgid ""
-"Allows the application to access the phone features of the device. An "
-"application with this permission can determine the phone number and "
-"serial number of this phone, whether a call is active, the number that "
-"call is connected to and the like."
-msgstr ""
-
-msgctxt "permdesc_readSms"
-msgid ""
-"Allows application to read SMS messages stored on your phone or SIM card."
-" Malicious applications may read your confidential messages."
-msgstr ""
-
-msgctxt "permdesc_readSyncSettings"
-msgid ""
-"Allows an application to read the sync settings, such as whether sync is "
-"enabled for Contacts."
-msgstr ""
-
-msgctxt "permdesc_readSyncStats"
-msgid ""
-"Allows an application to read the sync stats; e.g., the history of syncs "
-"that have occurred."
-msgstr ""
-
-msgctxt "permdesc_reboot"
-msgid "Allows the application to force the phone to reboot."
-msgstr ""
-
-msgctxt "permdesc_receiveBootCompleted"
-msgid ""
-"Allows an application to have itself started as soon as the system has "
-"finished booting. This can make it take longer to start the phone and "
-"allow the application to slow down the overall phone by always running."
-msgstr ""
-
-msgctxt "permdesc_receiveMms"
-msgid ""
-"Allows application to receive and process MMS messages. Malicious "
-"applications may monitor your messages or delete them without showing "
-"them to you."
-msgstr ""
-
-msgctxt "permdesc_receiveSms"
-msgid ""
-"Allows application to receive and process SMS messages. Malicious "
-"applications may monitor your messages or delete them without showing "
-"them to you."
-msgstr ""
-
-msgctxt "permdesc_receiveWapPush"
-msgid ""
-"Allows application to receive and process WAP messages. Malicious "
-"applications may monitor your messages or delete them without showing "
-"them to you."
-msgstr ""
-
-msgctxt "permdesc_recordAudio"
-msgid "Allows application to access the audio record path."
-msgstr ""
-
-msgctxt "permdesc_reorderTasks"
-msgid ""
-"Allows an application to move tasks to the foreground and background. "
-"Malicious applications can force themselves to the front without your "
-"control."
-msgstr ""
-
-msgctxt "permdesc_runSetActivityWatcher"
-msgid ""
-"Allows an application to monitor and control how the system launches "
-"activities. Malicious applications may completely compromise the system. "
-"This permission is only needed for development, never for normal phone "
-"usage."
-msgstr ""
-
-msgctxt "permdesc_sdcardWrite"
-msgid "Allows an application to write to the SD card."
-msgstr ""
-
-msgctxt "permdesc_sendSms"
-msgid ""
-"Allows application to send SMS messages. Malicious applications may cost "
-"you money by sending messages without your confirmation."
-msgstr ""
-
-msgctxt "permdesc_setAlarm"
-msgid ""
-"Allows the application to set an alarm in an installed alarm clock "
-"application. Some alarm clock applications may not implement this "
-"feature."
-msgstr ""
-
-msgctxt "permdesc_setAlwaysFinish"
-msgid ""
-"Allows an application to control whether activities are always finished "
-"as soon as they go to the background. Never needed for normal "
-"applications."
-msgstr ""
-
-msgctxt "permdesc_setAnimationScale"
-msgid ""
-"Allows an application to change the global animation speed (faster or "
-"slower animations) at any time."
-msgstr ""
-
-msgctxt "permdesc_setDebugApp"
-msgid ""
-"Allows an application to turn on debugging for another application. "
-"Malicious applications can use this to kill other applications."
-msgstr ""
-
-msgctxt "permdesc_setOrientation"
-msgid ""
-"Allows an application to change the rotation of the screen at any time. "
-"Should never be needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_setPreferredApplications"
-msgid ""
-"Allows an application to modify your preferred applications. This can "
-"allow malicious applications to silently change the applications that are"
-" run, spoofing your existing applications to collect private data from "
-"you."
-msgstr ""
-
-msgctxt "permdesc_setProcessLimit"
-msgid ""
-"Allows an application to control the maximum number of processes that "
-"will run. Never needed for normal applications."
-msgstr ""
-
-msgctxt "permdesc_setTime"
-msgid "Allows an application to change the phone's clock time."
-msgstr ""
-
-msgctxt "permdesc_setTimeZone"
-msgid "Allows an application to change the phone's time zone."
-msgstr ""
-
-msgctxt "permdesc_setWallpaper"
-msgid "Allows the application to set the system wallpaper."
-msgstr ""
-
-msgctxt "permdesc_setWallpaperHints"
-msgid "Allows the application to set the system wallpaper size hints."
-msgstr ""
-
-msgctxt "permdesc_shutdown"
-msgid ""
-"Puts the activity manager into a shutdown state. Does not perform a "
-"complete shutdown."
-msgstr ""
-
-msgctxt "permdesc_signalPersistentProcesses"
-msgid ""
-"Allows application to request that the supplied signal be sent to all "
-"persistent processes."
-msgstr ""
-
-msgctxt "permdesc_statusBar"
-msgid ""
-"Allows application to disable the status bar or add and remove system "
-"icons."
-msgstr ""
-
-msgctxt "permdesc_statusBarService"
-msgid "Allows the application to be the status bar."
-msgstr ""
-
-msgctxt "permdesc_stopAppSwitches"
-msgid "Prevents the user from switching to another application."
-msgstr ""
-
-msgctxt "permdesc_subscribedFeedsRead"
-msgid "Allows an application to get details about the currently synced feeds."
-msgstr ""
-
-msgctxt "permdesc_subscribedFeedsWrite"
-msgid ""
-"Allows an application to modify your currently synced feeds. This could "
-"allow a malicious application to change your synced feeds."
-msgstr ""
-
-msgctxt "permdesc_systemAlertWindow"
-msgid ""
-"Allows an application to show system alert windows. Malicious "
-"applications can take over the entire screen of the phone."
-msgstr ""
-
-msgctxt "permdesc_useCredentials"
-msgid "Allows an application to request authentication tokens."
-msgstr ""
-
-msgctxt "permdesc_use_sip"
-msgid ""
-"Allows an application to use the SIP service to make/receive Internet "
-"calls."
-msgstr ""
-
-msgctxt "permdesc_vibrate"
-msgid "Allows the application to control the vibrator."
-msgstr ""
-
-msgctxt "permdesc_wakeLock"
-msgid "Allows an application to prevent the phone from going to sleep."
-msgstr ""
-
-msgctxt "permdesc_writeApnSettings"
-msgid ""
-"Allows an application to modify the APN settings, such as Proxy and Port "
-"of any APN."
-msgstr ""
-
-msgctxt "permdesc_writeCalendar"
-msgid ""
-"Allows an application to add or change the events on your calendar, which"
-" may send email to guests. Malicious applications can use this to erase "
-"or modify your calendar events or to send email to guests."
-msgstr ""
-
-msgctxt "permdesc_writeContacts"
-msgid ""
-"Allows an application to modify the contact (address) data stored on your"
-" phone. Malicious applications can use this to erase or modify your "
-"contact data."
-msgstr ""
-
-msgctxt "permdesc_writeDictionary"
-msgid "Allows an application to write new words into the user dictionary."
-msgstr ""
-
-msgctxt "permdesc_writeGeolocationPermissions"
-msgid ""
-"Allows an application to modify the Browser's geolocation permissions. "
-"Malicious applications can use this to allow sending location information"
-" to arbitrary web sites."
-msgstr ""
-
-msgctxt "permdesc_writeGservices"
-msgid ""
-"Allows an application to modify the Google services map. Not for use by "
-"normal applications."
-msgstr ""
-
-msgctxt "permdesc_writeHistoryBookmarks"
-msgid ""
-"Allows an application to modify the Browser's history or bookmarks stored"
-" on your phone. Malicious applications can use this to erase or modify "
-"your Browser's data."
-msgstr ""
-
-msgctxt "permdesc_writeSecureSettings"
-msgid ""
-"Allows an application to modify the system's secure settings data. Not "
-"for use by normal applications."
-msgstr ""
-
-msgctxt "permdesc_writeSettings"
-msgid ""
-"Allows an application to modify the system's settings data. Malicious "
-"applications can corrupt your system's configuration."
-msgstr ""
-
-msgctxt "permdesc_writeSms"
-msgid ""
-"Allows application to write to SMS messages stored on your phone or SIM "
-"card. Malicious applications may delete your messages."
-msgstr ""
-
-msgctxt "permdesc_writeSyncSettings"
-msgid ""
-"Allows an application to modify the sync settings, such as whether sync "
-"is enabled for Contacts."
-msgstr ""
-
-msgctxt "permgroupdesc_accounts"
-msgid "Access the available accounts."
-msgstr ""
-
-msgctxt "permgroupdesc_costMoney"
-msgid "Allow applications to do things that can cost you money."
-msgstr ""
-
-msgctxt "permgroupdesc_developmentTools"
-msgid "Features only needed for application developers."
-msgstr ""
-
-msgctxt "permgroupdesc_hardwareControls"
-msgid "Direct access to hardware on the handset."
-msgstr ""
-
-msgctxt "permgroupdesc_location"
-msgid "Monitor your physical location"
-msgstr ""
-
-msgctxt "permgroupdesc_messages"
-msgid "Read and write your SMS, e-mail, and other messages."
-msgstr ""
-
-msgctxt "permgroupdesc_network"
-msgid "Allow applications to access various network features."
-msgstr ""
-
-msgctxt "permgroupdesc_personalInfo"
-msgid "Direct access to your contacts and calendar stored on the phone."
-msgstr ""
-
-msgctxt "permgroupdesc_phoneCalls"
-msgid "Monitor, record, and process phone calls."
-msgstr ""
-
-msgctxt "permgroupdesc_storage"
-msgid "Access the SD card."
-msgstr ""
-
-msgctxt "permgroupdesc_systemTools"
-msgid "Lower-level access and control of the system."
-msgstr ""
-
-msgctxt "permgrouplab_accounts"
-msgid "Your accounts"
-msgstr ""
-
-msgctxt "permgrouplab_costMoney"
-msgid "Services that cost you money"
-msgstr ""
-
-msgctxt "permgrouplab_developmentTools"
-msgid "Development tools"
-msgstr ""
-
-msgctxt "permgrouplab_hardwareControls"
-msgid "Hardware controls"
-msgstr ""
-
-msgctxt "permgrouplab_location"
-msgid "Your location"
-msgstr ""
-
-msgctxt "permgrouplab_messages"
-msgid "Your messages"
-msgstr ""
-
-msgctxt "permgrouplab_network"
-msgid "Network communication"
-msgstr ""
-
-msgctxt "permgrouplab_personalInfo"
-msgid "Your personal information"
-msgstr ""
-
-msgctxt "permgrouplab_phoneCalls"
-msgid "Phone calls"
-msgstr ""
-
-msgctxt "permgrouplab_storage"
-msgid "Storage"
-msgstr ""
-
-msgctxt "permgrouplab_systemTools"
-msgid "System tools"
-msgstr ""
-
-msgctxt "permissions_format"
-msgid "%1$s, %2$s"
-msgstr ""
-
-msgctxt "permission_request_notification_title"
-msgid "Permission Requested"
-msgstr ""
-
-#, python-format
-msgctxt "permission_request_notification_with_subtitle"
-msgid ""
-"Permission Requested\n"
-"for account %s"
-msgstr ""
-
-msgctxt "permlab_accessCoarseLocation"
-msgid "coarse (network-based) location"
-msgstr ""
-
-msgctxt "permlab_accessFineLocation"
-msgid "fine (GPS) location"
-msgstr ""
-
-msgctxt "permlab_accessLocationExtraCommands"
-msgid "access extra location provider commands"
-msgstr ""
-
-msgctxt "permlab_accessMockLocation"
-msgid "mock location sources for testing"
-msgstr ""
-
-msgctxt "permlab_accessNetworkState"
-msgid "view network state"
-msgstr ""
-
-msgctxt "permlab_accessSurfaceFlinger"
-msgid "access SurfaceFlinger"
-msgstr ""
-
-msgctxt "permlab_accessUsb"
-msgid "access USB devices"
-msgstr ""
-
-msgctxt "permlab_accessWifiState"
-msgid "view Wi-Fi state"
-msgstr ""
-
-msgctxt "permlab_accountManagerService"
-msgid "act as the AccountManagerService"
-msgstr ""
-
-msgctxt "permlab_asec_access"
-msgid "get information on secure storage"
-msgstr ""
-
-msgctxt "permlab_asec_create"
-msgid "create secure storage"
-msgstr ""
-
-msgctxt "permlab_asec_destroy"
-msgid "destroy secure storage"
-msgstr ""
-
-msgctxt "permlab_asec_mount_unmount"
-msgid "mount / unmount secure storage"
-msgstr ""
-
-msgctxt "permlab_asec_rename"
-msgid "rename secure storage"
-msgstr ""
-
-msgctxt "permlab_authenticateAccounts"
-msgid "act as an account authenticator"
-msgstr ""
-
-msgctxt "permlab_backup"
-msgid "control system backup and restore"
-msgstr ""
-
-msgctxt "permlab_batteryStats"
-msgid "modify battery statistics"
-msgstr ""
-
-msgctxt "permlab_bindDeviceAdmin"
-msgid "interact with a device admin"
-msgstr ""
-
-msgctxt "permlab_bindGadget"
-msgid "choose widgets"
-msgstr ""
-
-msgctxt "permlab_bindInputMethod"
-msgid "bind to an input method"
-msgstr ""
-
-msgctxt "permlab_bindWallpaper"
-msgid "bind to a wallpaper"
-msgstr ""
-
-msgctxt "permlab_bluetooth"
-msgid "create Bluetooth connections"
-msgstr ""
-
-msgctxt "permlab_bluetoothAdmin"
-msgid "bluetooth administration"
-msgstr ""
-
-msgctxt "permlab_brick"
-msgid "permanently disable phone"
-msgstr ""
-
-msgctxt "permlab_broadcastPackageRemoved"
-msgid "send package removed broadcast"
-msgstr ""
-
-msgctxt "permlab_broadcastSmsReceived"
-msgid "send SMS-received broadcast"
-msgstr ""
-
-msgctxt "permlab_broadcastSticky"
-msgid "send sticky broadcast"
-msgstr ""
-
-msgctxt "permlab_broadcastWapPush"
-msgid "send WAP-PUSH-received broadcast"
-msgstr ""
-
-msgctxt "permlab_cache_filesystem"
-msgid "access the cache filesystem"
-msgstr ""
-
-msgctxt "permlab_callPhone"
-msgid "directly call phone numbers"
-msgstr ""
-
-msgctxt "permlab_callPrivileged"
-msgid "directly call any phone numbers"
-msgstr ""
-
-msgctxt "permlab_camera"
-msgid "take pictures"
-msgstr ""
-
-msgctxt "permlab_changeBackgroundDataSetting"
-msgid "change background data usage setting"
-msgstr ""
-
-msgctxt "permlab_changeComponentState"
-msgid "enable or disable application components"
-msgstr ""
-
-msgctxt "permlab_changeConfiguration"
-msgid "change your UI settings"
-msgstr ""
-
-msgctxt "permlab_changeNetworkState"
-msgid "change network connectivity"
-msgstr ""
-
-msgctxt "permlab_changeTetherState"
-msgid "Change tethered connectivity"
-msgstr ""
-
-msgctxt "permlab_changeWifiMulticastState"
-msgid "allow Wi-Fi Multicast reception"
-msgstr ""
-
-msgctxt "permlab_changeWifiState"
-msgid "change Wi-Fi state"
-msgstr ""
-
-msgctxt "permlab_checkinProperties"
-msgid "access checkin properties"
-msgstr ""
-
-msgctxt "permlab_clearAppCache"
-msgid "delete all application cache data"
-msgstr ""
-
-msgctxt "permlab_clearAppUserData"
-msgid "delete other applications' data"
-msgstr ""
-
-msgctxt "permlab_copyProtectedData"
-msgid ""
-"Allows to invoke default container service to copy content. Not for use "
-"by normal applications."
-msgstr ""
-
-msgctxt "permlab_createNetworkSockets"
-msgid "full Internet access"
-msgstr ""
-
-msgctxt "permlab_deleteCacheFiles"
-msgid "delete other applications' caches"
-msgstr ""
-
-msgctxt "permlab_deletePackages"
-msgid "delete applications"
-msgstr ""
-
-msgctxt "permlab_devicePower"
-msgid "power phone on or off"
-msgstr ""
-
-msgctxt "permlab_diagnostic"
-msgid "read/write to resources owned by diag"
-msgstr ""
-
-msgctxt "permlab_disableKeyguard"
-msgid "disable keylock"
-msgstr ""
-
-msgctxt "permlab_dump"
-msgid "retrieve system internal state"
-msgstr ""
-
-msgctxt "permlab_enableCarMode"
-msgid "enable car mode"
-msgstr ""
-
-msgctxt "permlab_expandStatusBar"
-msgid "expand/collapse status bar"
-msgstr ""
-
-msgctxt "permlab_factoryTest"
-msgid "run in factory test mode"
-msgstr ""
-
-msgctxt "permlab_flashlight"
-msgid "control flashlight"
-msgstr ""
-
-msgctxt "permlab_forceBack"
-msgid "force application to close"
-msgstr ""
-
-msgctxt "permlab_forceStopPackages"
-msgid "force stop other applications"
-msgstr ""
-
-msgctxt "permlab_getAccounts"
-msgid "discover known accounts"
-msgstr ""
-
-msgctxt "permlab_getPackageSize"
-msgid "measure application storage space"
-msgstr ""
-
-msgctxt "permlab_getTasks"
-msgid "retrieve running applications"
-msgstr ""
-
-msgctxt "permlab_hardware_test"
-msgid "test hardware"
-msgstr ""
-
-msgctxt "permlab_injectEvents"
-msgid "press keys and control buttons"
-msgstr ""
-
-msgctxt "permlab_installLocationProvider"
-msgid "permission to install a location provider"
-msgstr ""
-
-msgctxt "permlab_installPackages"
-msgid "directly install applications"
-msgstr ""
-
-msgctxt "permlab_internalSystemWindow"
-msgid "display unauthorized windows"
-msgstr ""
-
-msgctxt "permlab_killBackgroundProcesses"
-msgid "kill background processes"
-msgstr ""
-
-msgctxt "permlab_locationUpdates"
-msgid "control location update notifications"
-msgstr ""
-
-msgctxt "permlab_manageAccounts"
-msgid "manage the accounts list"
-msgstr ""
-
-msgctxt "permlab_manageAppTokens"
-msgid "manage application tokens"
-msgstr ""
-
-msgctxt "permlab_masterClear"
-msgid "reset system to factory defaults"
-msgstr ""
-
-msgctxt "permlab_modifyAudioSettings"
-msgid "change your audio settings"
-msgstr ""
-
-msgctxt "permlab_modifyPhoneState"
-msgid "modify phone state"
-msgstr ""
-
-msgctxt "permlab_mount_format_filesystems"
-msgid "format external storage"
-msgstr ""
-
-msgctxt "permlab_mount_unmount_filesystems"
-msgid "mount and unmount filesystems"
-msgstr ""
-
-msgctxt "permlab_movePackage"
-msgid "Move application resources"
-msgstr ""
-
-msgctxt "permlab_nfc"
-msgid "control Near Field Communication"
-msgstr ""
-
-msgctxt "permlab_performCdmaProvisioning"
-msgid "directly start CDMA phone setup"
-msgstr ""
-
-msgctxt "permlab_persistentActivity"
-msgid "make application always run"
-msgstr ""
-
-msgctxt "permlab_pkgUsageStats"
-msgid "update component usage statistics"
-msgstr ""
-
-msgctxt "permlab_processOutgoingCalls"
-msgid "intercept outgoing calls"
-msgstr ""
-
-msgctxt "permlab_readCalendar"
-msgid "read calendar events"
-msgstr ""
-
-msgctxt "permlab_readContacts"
-msgid "read contact data"
-msgstr ""
-
-msgctxt "permlab_readDictionary"
-msgid "read user defined dictionary"
-msgstr ""
-
-msgctxt "permlab_readFrameBuffer"
-msgid "read frame buffer"
-msgstr ""
-
-msgctxt "permlab_readHistoryBookmarks"
-msgid "read Browser's history and bookmarks"
-msgstr ""
-
-msgctxt "permlab_readInputState"
-msgid "record what you type and actions you take"
-msgstr ""
-
-msgctxt "permlab_readLogs"
-msgid "read system log files"
-msgstr ""
-
-msgctxt "permlab_readPhoneState"
-msgid "read phone state and identity"
-msgstr ""
-
-msgctxt "permlab_readSms"
-msgid "read SMS or MMS"
-msgstr ""
-
-msgctxt "permlab_readSyncSettings"
-msgid "read sync settings"
-msgstr ""
-
-msgctxt "permlab_readSyncStats"
-msgid "read sync statistics"
-msgstr ""
-
-msgctxt "permlab_reboot"
-msgid "force phone reboot"
-msgstr ""
-
-msgctxt "permlab_receiveBootCompleted"
-msgid "automatically start at boot"
-msgstr ""
-
-msgctxt "permlab_receiveMms"
-msgid "receive MMS"
-msgstr ""
-
-msgctxt "permlab_receiveSms"
-msgid "receive SMS"
-msgstr ""
-
-msgctxt "permlab_receiveWapPush"
-msgid "receive WAP"
-msgstr ""
-
-msgctxt "permlab_recordAudio"
-msgid "record audio"
-msgstr ""
-
-msgctxt "permlab_reorderTasks"
-msgid "reorder running applications"
-msgstr ""
-
-msgctxt "permlab_runSetActivityWatcher"
-msgid "monitor and control all application launching"
-msgstr ""
-
-msgctxt "permlab_sdcardWrite"
-msgid "modify/delete SD card contents"
-msgstr ""
-
-msgctxt "permlab_sendSms"
-msgid "send SMS messages"
-msgstr ""
-
-msgctxt "permlab_setAlarm"
-msgid "set alarm in alarm clock"
-msgstr ""
-
-msgctxt "permlab_setAlwaysFinish"
-msgid "make all background applications close"
-msgstr ""
-
-msgctxt "permlab_setAnimationScale"
-msgid "modify global animation speed"
-msgstr ""
-
-msgctxt "permlab_setDebugApp"
-msgid "enable application debugging"
-msgstr ""
-
-msgctxt "permlab_setOrientation"
-msgid "change screen orientation"
-msgstr ""
-
-msgctxt "permlab_setPreferredApplications"
-msgid "set preferred applications"
-msgstr ""
-
-msgctxt "permlab_setProcessLimit"
-msgid "limit number of running processes"
-msgstr ""
-
-msgctxt "permlab_setTime"
-msgid "set time"
-msgstr ""
-
-msgctxt "permlab_setTimeZone"
-msgid "set time zone"
-msgstr ""
-
-msgctxt "permlab_setWallpaper"
-msgid "set wallpaper"
-msgstr ""
-
-msgctxt "permlab_setWallpaperHints"
-msgid "set wallpaper size hints"
-msgstr ""
-
-msgctxt "permlab_shutdown"
-msgid "partial shutdown"
-msgstr ""
-
-msgctxt "permlab_signalPersistentProcesses"
-msgid "send Linux signals to applications"
-msgstr ""
-
-msgctxt "permlab_statusBar"
-msgid "disable or modify status bar"
-msgstr ""
-
-msgctxt "permlab_statusBarService"
-msgid "status bar"
-msgstr ""
-
-msgctxt "permlab_stopAppSwitches"
-msgid "prevent app switches"
-msgstr ""
-
-msgctxt "permlab_subscribedFeedsRead"
-msgid "read subscribed feeds"
-msgstr ""
-
-msgctxt "permlab_subscribedFeedsWrite"
-msgid "write subscribed feeds"
-msgstr ""
-
-msgctxt "permlab_systemAlertWindow"
-msgid "display system-level alerts"
-msgstr ""
-
-msgctxt "permlab_useCredentials"
-msgid "use the authentication credentials of an account"
-msgstr ""
-
-msgctxt "permlab_use_sip"
-msgid "make/receive Internet calls"
-msgstr ""
-
-msgctxt "permlab_vibrate"
-msgid "control vibrator"
-msgstr ""
-
-msgctxt "permlab_wakeLock"
-msgid "prevent phone from sleeping"
-msgstr ""
-
-msgctxt "permlab_writeApnSettings"
-msgid "write Access Point Name settings"
-msgstr ""
-
-msgctxt "permlab_writeCalendar"
-msgid "add or modify calendar events and send email to guests"
-msgstr ""
-
-msgctxt "permlab_writeContacts"
-msgid "write contact data"
-msgstr ""
-
-msgctxt "permlab_writeDictionary"
-msgid "write to user defined dictionary"
-msgstr ""
-
-msgctxt "permlab_writeGeolocationPermissions"
-msgid "Modify Browser geolocation permissions"
-msgstr ""
-
-msgctxt "permlab_writeGservices"
-msgid "modify the Google services map"
-msgstr ""
-
-msgctxt "permlab_writeHistoryBookmarks"
-msgid "write Browser's history and bookmarks"
-msgstr ""
-
-msgctxt "permlab_writeSecureSettings"
-msgid "modify secure system settings"
-msgstr ""
-
-msgctxt "permlab_writeSettings"
-msgid "modify global system settings"
-msgstr ""
-
-msgctxt "permlab_writeSms"
-msgid "edit SMS or MMS"
-msgstr ""
-
-msgctxt "permlab_writeSyncSettings"
-msgid "write sync settings"
-msgstr ""
-
-msgctxt "perms_hide"
-msgid "<b>Hide</b>"
-msgstr ""
-
-msgctxt "perms_show_all"
-msgid "<b>Show all</b>"
-msgstr ""
-
-msgctxt "petabyteShort"
-msgid "PB"
-msgstr ""
-
-msgctxt "phoneTypeAssistant"
-msgid "Assistant"
-msgstr ""
-
-msgctxt "phoneTypeCallback"
-msgid "Callback"
-msgstr ""
-
-msgctxt "phoneTypeCar"
-msgid "Car"
-msgstr ""
-
-msgctxt "phoneTypeCompanyMain"
-msgid "Company Main"
-msgstr ""
-
-msgctxt "phoneTypeCustom"
-msgid "Custom"
-msgstr ""
-
-msgctxt "phoneTypeFaxHome"
-msgid "Home Fax"
-msgstr ""
-
-msgctxt "phoneTypeFaxWork"
-msgid "Work Fax"
-msgstr ""
-
-msgctxt "phoneTypeHome"
-msgid "Home"
-msgstr ""
-
-msgctxt "phoneTypeIsdn"
-msgid "ISDN"
-msgstr ""
-
-msgctxt "phoneTypeMain"
-msgid "Main"
-msgstr ""
-
-msgctxt "phoneTypeMms"
-msgid "MMS"
-msgstr ""
-
-msgctxt "phoneTypeMobile"
-msgid "Mobile"
-msgstr ""
-
-msgctxt "phoneTypeOther"
-msgid "Other"
-msgstr ""
-
-msgctxt "phoneTypeOtherFax"
-msgid "Other Fax"
-msgstr ""
-
-msgctxt "phoneTypePager"
-msgid "Pager"
-msgstr ""
-
-msgctxt "phoneTypeRadio"
-msgid "Radio"
-msgstr ""
-
-msgctxt "phoneTypeTelex"
-msgid "Telex"
-msgstr ""
-
-msgctxt "phoneTypeTtyTdd"
-msgid "TTY TDD"
-msgstr ""
-
-msgctxt "phoneTypeWork"
-msgid "Work"
-msgstr ""
-
-msgctxt "phoneTypeWorkMobile"
-msgid "Work Mobile"
-msgstr ""
-
-msgctxt "phoneTypeWorkPager"
-msgid "Work Pager"
-msgstr ""
-
-msgctxt "PinMmi"
-msgid "PIN change"
-msgstr ""
-
-msgctxt "pm"
-msgid "PM"
-msgstr ""
-
-msgctxt "policydesc_forceLock"
-msgid "Control when device locks, requiring you re-enter its password."
-msgstr ""
-
-msgctxt "policydesc_limitPassword"
-msgid "Restrict the types of passwords you are allowed to use."
-msgstr ""
-
-msgctxt "policydesc_resetPassword"
-msgid ""
-"Force your password to a new value, requiring the administrator give it "
-"to you before you can log in."
-msgstr ""
-
-msgctxt "policydesc_watchLogin"
-msgid "Monitor failed attempts to login to the device, to perform some action."
-msgstr ""
-
-msgctxt "policydesc_wipeData"
-msgid ""
-"Perform a factory reset, deleting all of your data without any "
-"confirmation."
-msgstr ""
-
-msgctxt "policylab_forceLock"
-msgid "Force lock"
-msgstr ""
-
-msgctxt "policylab_limitPassword"
-msgid "Limit password"
-msgstr ""
-
-msgctxt "policylab_resetPassword"
-msgid "Reset password"
-msgstr ""
-
-msgctxt "policylab_watchLogin"
-msgid "Watch login attempts"
-msgstr ""
-
-msgctxt "policylab_wipeData"
-msgid "Erase all data"
-msgstr ""
-
-msgctxt "postalTypeCustom"
-msgid "Custom"
-msgstr ""
-
-msgctxt "postalTypeHome"
-msgid "Home"
-msgstr ""
-
-msgctxt "postalTypeOther"
-msgid "Other"
-msgstr ""
-
-msgctxt "postalTypeWork"
-msgid "Work"
-msgstr ""
-
-msgctxt "power_dialog"
-msgid "Phone options"
-msgstr ""
-
-msgctxt "power_off"
-msgid "Power off"
-msgstr ""
-
-msgctxt "pptp_vpn_description"
-msgid "Point-to-Point Tunneling Protocol"
-msgstr ""
-
-msgctxt "prepend_shortcut_label"
-msgid "Menu+"
-msgstr ""
-
-#, python-format
-msgctxt "preposition_for_date"
-msgid "on %s"
-msgstr ""
-
-#, python-format
-msgctxt "preposition_for_time"
-msgid "at %s"
-msgstr ""
-
-#, python-format
-msgctxt "preposition_for_year"
-msgid "in %s"
-msgstr ""
-
-msgctxt "private_num"
-msgid "Private number"
-msgstr ""
-
-msgctxt "progress_erasing"
-msgid "Erasing USB storage..."
-msgstr ""
-
-msgctxt "progress_unmounting"
-msgid "Unmounting USB storage..."
+msgctxt "BaMmi"
+msgid "Call barring"
 msgstr ""
 
 msgctxt "PwdMmi"
 msgid "Password change"
 msgstr ""
 
-msgctxt "reboot_confirm"
-msgid "Phone will be restarted"
+msgctxt "PinMmi"
+msgid "PIN change"
 msgstr ""
 
-msgctxt "reboot_progress"
-msgid "Restarting..."
+msgctxt "CnipMmi"
+msgid "Calling number present"
 msgstr ""
 
-msgctxt "recent_tasks_title"
-msgid "Recent"
+msgctxt "CnirMmi"
+msgid "Calling number restricted"
 msgstr ""
 
-msgctxt "relative_time"
-msgid "%1$s, %2$s"
+msgctxt "ThreeWCMmi"
+msgid "Three way calling"
 msgstr ""
 
-msgctxt "report"
-msgid "Report"
+msgctxt "RuacMmi"
+msgid "Rejection of undesired annoying calls"
 msgstr ""
 
-msgctxt "reset"
-msgid "Reset"
+msgctxt "CndMmi"
+msgid "Calling number delivery"
+msgstr ""
+
+msgctxt "DndMmi"
+msgid "Do not disturb"
+msgstr ""
+
+msgctxt "CLIRDefaultOnNextCallOn"
+msgid "Caller ID defaults to restricted. Next call: Restricted"
+msgstr ""
+
+msgctxt "CLIRDefaultOnNextCallOff"
+msgid "Caller ID defaults to restricted. Next call: Not restricted"
+msgstr ""
+
+msgctxt "CLIRDefaultOffNextCallOn"
+msgid "Caller ID defaults to not restricted. Next call: Restricted"
+msgstr ""
+
+msgctxt "CLIRDefaultOffNextCallOff"
+msgid "Caller ID defaults to not restricted. Next call: Not restricted"
+msgstr ""
+
+msgctxt "serviceNotProvisioned"
+msgid "Service not provisioned."
+msgstr ""
+
+msgctxt "CLIRPermanent"
+msgid "The caller ID setting cannot be changed."
 msgstr ""
 
 msgctxt "RestrictedChangedTitle"
 msgid "Restricted access changed"
-msgstr ""
-
-msgctxt "RestrictedOnAll"
-msgid "All Voice/Data/SMS services are blocked."
-msgstr ""
-
-msgctxt "RestrictedOnAllVoice"
-msgid "All Voice services are blocked."
 msgstr ""
 
 msgctxt "RestrictedOnData"
@@ -4160,6 +908,10 @@ msgctxt "RestrictedOnNormal"
 msgid "Voice service is blocked."
 msgstr ""
 
+msgctxt "RestrictedOnAllVoice"
+msgid "All Voice services are blocked."
+msgstr ""
+
 msgctxt "RestrictedOnSms"
 msgid "SMS service is blocked."
 msgstr ""
@@ -4172,24 +924,40 @@ msgctxt "RestrictedOnVoiceSms"
 msgid "Voice/SMS services are blocked."
 msgstr ""
 
-msgctxt "ringtone_default"
-msgid "Default ringtone"
+msgctxt "RestrictedOnAll"
+msgid "All Voice/Data/SMS services are blocked."
 msgstr ""
 
-msgctxt "ringtone_default_with_actual"
-msgid "Default ringtone (%1$s)"
+msgctxt "serviceClassVoice"
+msgid "Voice"
 msgstr ""
 
-msgctxt "ringtone_picker_title"
-msgid "Ringtones"
+msgctxt "serviceClassData"
+msgid "Data"
 msgstr ""
 
-msgctxt "ringtone_silent"
-msgid "Silent"
+msgctxt "serviceClassFAX"
+msgid "FAX"
 msgstr ""
 
-msgctxt "ringtone_unknown"
-msgid "Unknown ringtone"
+msgctxt "serviceClassSMS"
+msgid "SMS"
+msgstr ""
+
+msgctxt "serviceClassDataAsync"
+msgid "Async"
+msgstr ""
+
+msgctxt "serviceClassDataSync"
+msgid "Sync"
+msgstr ""
+
+msgctxt "serviceClassPacket"
+msgid "Packet"
+msgstr ""
+
+msgctxt "serviceClassPAD"
+msgid "PAD"
 msgstr ""
 
 msgctxt "roamingText0"
@@ -4198,18 +966,6 @@ msgstr ""
 
 msgctxt "roamingText1"
 msgid "Roaming Indicator Off"
-msgstr ""
-
-msgctxt "roamingText10"
-msgid "Roaming - Partial Service Functionality"
-msgstr ""
-
-msgctxt "roamingText11"
-msgid "Roaming Banner On"
-msgstr ""
-
-msgctxt "roamingText12"
-msgid "Roaming Banner Off"
 msgstr ""
 
 msgctxt "roamingText2"
@@ -4244,216 +1000,1820 @@ msgctxt "roamingText9"
 msgid "Roaming - Full Service Functionality"
 msgstr ""
 
+msgctxt "roamingText10"
+msgid "Roaming - Partial Service Functionality"
+msgstr ""
+
+msgctxt "roamingText11"
+msgid "Roaming Banner On"
+msgstr ""
+
+msgctxt "roamingText12"
+msgid "Roaming Banner Off"
+msgstr ""
+
 msgctxt "roamingTextSearching"
 msgid "Searching for Service"
 msgstr ""
 
-msgctxt "RuacMmi"
-msgid "Rejection of undesired annoying calls"
+msgctxt "cfTemplateNotForwarded"
+msgid "{0}: Not forwarded"
 msgstr ""
 
-msgctxt "safeMode"
-msgid "Safe mode"
+msgctxt "cfTemplateForwarded"
+msgid "{0}: {1}"
 msgstr ""
 
-msgctxt "same_month_md1_md2"
-msgid "%2$s %3$s – %8$s"
+msgctxt "cfTemplateForwardedTime"
+msgid "{0}: {1} after {2} seconds"
 msgstr ""
 
-msgctxt "same_month_md1_time1_md2_time2"
-msgid "%2$s %3$s, %5$s – %7$s %8$s, %10$s"
+msgctxt "cfTemplateRegistered"
+msgid "{0}: Not forwarded"
 msgstr ""
 
-msgctxt "same_month_mdy1_mdy2"
-msgid "%2$s %3$s – %8$s, %9$s"
+msgctxt "cfTemplateRegisteredTime"
+msgid "{0}: Not forwarded"
 msgstr ""
 
-msgctxt "same_month_mdy1_time1_mdy2_time2"
-msgid "%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s"
+msgctxt "fcComplete"
+msgid "Feature code complete."
 msgstr ""
 
-msgctxt "same_month_wday1_md1_time1_wday2_md2_time2"
-msgid "%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s"
+msgctxt "fcError"
+msgid "Connection problem or invalid feature code."
 msgstr ""
 
-msgctxt "same_month_wday1_md1_wday2_md2"
-msgid "%1$s, %2$s %3$s – %6$s, %7$s %8$s"
+msgctxt "httpErrorOk"
+msgid "OK"
 msgstr ""
 
-msgctxt "same_month_wday1_mdy1_time1_wday2_mdy2_time2"
-msgid "%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s"
+msgctxt "httpError"
+msgid "The Web page contains an error."
 msgstr ""
 
-msgctxt "same_month_wday1_mdy1_wday2_mdy2"
-msgid "%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s"
+msgctxt "httpErrorLookup"
+msgid "The URL could not be found."
 msgstr ""
 
-msgctxt "same_year_md1_md2"
-msgid "%2$s %3$s – %7$s %8$s"
+msgctxt "httpErrorUnsupportedAuthScheme"
+msgid "The site authentication scheme is not supported."
 msgstr ""
 
-msgctxt "same_year_md1_time1_md2_time2"
-msgid "%2$s %3$s, %5$s – %7$s %8$s, %10$s"
+msgctxt "httpErrorAuth"
+msgid "Authentication was unsuccessful."
 msgstr ""
 
-msgctxt "same_year_mdy1_mdy2"
-msgid "%2$s %3$s – %7$s %8$s, %9$s"
+msgctxt "httpErrorProxyAuth"
+msgid "Authentication via the proxy server was unsuccessful."
 msgstr ""
 
-msgctxt "same_year_mdy1_time1_mdy2_time2"
-msgid "%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s"
+msgctxt "httpErrorConnect"
+msgid "The connection to the server was unsuccessful."
 msgstr ""
 
-msgctxt "same_year_wday1_md1_time1_wday2_md2_time2"
-msgid "%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s"
+msgctxt "httpErrorIO"
+msgid "The server failed to communicate. Try again later."
 msgstr ""
 
-msgctxt "same_year_wday1_md1_wday2_md2"
-msgid "%1$s, %2$s %3$s – %6$s, %7$s %8$s"
+msgctxt "httpErrorTimeout"
+msgid "The connection to the server timed out."
 msgstr ""
 
-msgctxt "same_year_wday1_mdy1_time1_wday2_mdy2_time2"
-msgid "%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s"
+msgctxt "httpErrorRedirectLoop"
+msgid "The page contains too many server redirects."
 msgstr ""
 
-msgctxt "same_year_wday1_mdy1_wday2_mdy2"
-msgid "%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s"
+msgctxt "httpErrorFailedSslHandshake"
+msgid "A secure connection could not be established."
 msgstr ""
 
-msgctxt "save_password_label"
-msgid "Confirm"
+msgctxt "httpErrorFile"
+msgid "The file could not be accessed."
 msgstr ""
 
-msgctxt "save_password_message"
-msgid "Do you want the browser to remember this password?"
+msgctxt "httpErrorFileNotFound"
+msgid "The requested file was not found."
 msgstr ""
 
-msgctxt "save_password_never"
-msgid "Never"
+msgctxt "httpErrorTooManyRequests"
+msgid "Too many requests are being processed. Try again later."
 msgstr ""
 
-msgctxt "save_password_notnow"
-msgid "Not now"
+#, c-format
+msgctxt "notification_title"
+msgid "Sign-in error for %1$s"
 msgstr ""
 
-msgctxt "save_password_remember"
-msgid "Remember"
+msgctxt "contentServiceSync"
+msgid "Sync"
+msgstr ""
+
+msgctxt "contentServiceSyncNotificationTitle"
+msgid "Sync"
+msgstr ""
+
+#, c-format
+msgctxt "contentServiceTooManyDeletesNotificationDesc"
+msgid "Too many %s deletes."
+msgstr ""
+
+msgctxt "low_memory"
+msgid "Phone storage is full! Delete some files to free space."
+msgstr ""
+
+msgctxt "me"
+msgid "Me"
+msgstr ""
+
+msgctxt "power_dialog"
+msgid "Phone options"
+msgstr ""
+
+msgctxt "silent_mode"
+msgid "Silent mode"
+msgstr ""
+
+msgctxt "turn_on_radio"
+msgid "Turn on wireless"
+msgstr ""
+
+msgctxt "turn_off_radio"
+msgid "Turn off wireless"
 msgstr ""
 
 msgctxt "screen_lock"
 msgid "Screen lock"
 msgstr ""
 
-msgctxt "search_go"
-msgid "Search"
-msgstr ""
-
-msgctxt "second"
-msgid "sec"
-msgstr ""
-
-msgctxt "seconds"
-msgid "secs"
-msgstr ""
-
-msgctxt "select"
-msgid "Select"
-msgstr ""
-
-msgctxt "selectAll"
-msgid "All"
-msgstr ""
-
-msgctxt "selectText"
-msgid "Select text"
-msgstr ""
-
-msgctxt "select_character"
-msgid "Insert character"
-msgstr ""
-
-msgctxt "select_input_method"
-msgid "Select input method"
-msgstr ""
-
-msgctxt "sendText"
-msgid "Select an action for text"
-msgstr ""
-
-msgctxt "serviceClassData"
-msgid "Data"
-msgstr ""
-
-msgctxt "serviceClassDataAsync"
-msgid "Async"
-msgstr ""
-
-msgctxt "serviceClassDataSync"
-msgid "Sync"
-msgstr ""
-
-msgctxt "serviceClassFAX"
-msgid "FAX"
-msgstr ""
-
-msgctxt "serviceClassPacket"
-msgid "Packet"
-msgstr ""
-
-msgctxt "serviceClassPAD"
-msgid "PAD"
-msgstr ""
-
-msgctxt "serviceClassSMS"
-msgid "SMS"
-msgstr ""
-
-msgctxt "serviceClassVoice"
-msgid "Voice"
-msgstr ""
-
-msgctxt "serviceDisabled"
-msgid "Service has been disabled."
-msgstr ""
-
-msgctxt "serviceEnabled"
-msgid "Service was enabled."
-msgstr ""
-
-msgctxt "serviceEnabledFor"
-msgid "Service was enabled for:"
-msgstr ""
-
-msgctxt "serviceErased"
-msgid "Erasure was successful."
-msgstr ""
-
-msgctxt "serviceNotProvisioned"
-msgid "Service not provisioned."
-msgstr ""
-
-msgctxt "serviceRegistered"
-msgid "Registration was successful."
-msgstr ""
-
-msgctxt "settings"
-msgid "Settings"
-msgstr ""
-
-msgctxt "short_format_month"
-msgid "%b"
-msgstr ""
-
-msgctxt "shutdown_confirm"
-msgid "Your phone will shut down."
+msgctxt "power_off"
+msgid "Power off"
 msgstr ""
 
 msgctxt "shutdown_progress"
 msgid "Shutting down…"
 msgstr ""
 
-msgctxt "silent_mode"
+msgctxt "shutdown_confirm"
+msgid "Your phone will shut down."
+msgstr ""
+
+msgctxt "recent_tasks_title"
+msgid "Recent"
+msgstr ""
+
+msgctxt "no_recent_tasks"
+msgid "No recent applications."
+msgstr ""
+
+msgctxt "global_actions"
+msgid "Phone options"
+msgstr ""
+
+msgctxt "global_action_lock"
+msgid "Screen lock"
+msgstr ""
+
+msgctxt "global_action_power_off"
+msgid "Power off"
+msgstr ""
+
+msgctxt "global_action_toggle_silent_mode"
 msgid "Silent mode"
+msgstr ""
+
+msgctxt "global_action_silent_mode_on_status"
+msgid "Sound is OFF"
+msgstr ""
+
+msgctxt "global_action_silent_mode_off_status"
+msgid "Sound is ON"
+msgstr ""
+
+msgctxt "global_actions_toggle_airplane_mode"
+msgid "Airplane mode"
+msgstr ""
+
+msgctxt "global_actions_airplane_mode_on_status"
+msgid "Airplane mode is ON"
+msgstr ""
+
+msgctxt "global_actions_airplane_mode_off_status"
+msgid "Airplane mode is OFF"
+msgstr ""
+
+msgctxt "safeMode"
+msgid "Safe mode"
+msgstr ""
+
+msgctxt "android_system_label"
+msgid "Android System"
+msgstr ""
+
+msgctxt "permgrouplab_costMoney"
+msgid "Services that cost you money"
+msgstr ""
+
+msgctxt "permgroupdesc_costMoney"
+msgid "Allow applications to do things that can cost you money."
+msgstr ""
+
+msgctxt "permgrouplab_messages"
+msgid "Your messages"
+msgstr ""
+
+msgctxt "permgroupdesc_messages"
+msgid "Read and write your SMS, e-mail, and other messages."
+msgstr ""
+
+msgctxt "permgrouplab_personalInfo"
+msgid "Your personal information"
+msgstr ""
+
+msgctxt "permgroupdesc_personalInfo"
+msgid "Direct access to your contacts and calendar stored on the phone."
+msgstr ""
+
+msgctxt "permgrouplab_location"
+msgid "Your location"
+msgstr ""
+
+msgctxt "permgroupdesc_location"
+msgid "Monitor your physical location"
+msgstr ""
+
+msgctxt "permgrouplab_network"
+msgid "Network communication"
+msgstr ""
+
+msgctxt "permgroupdesc_network"
+msgid "Allow applications to access various network features."
+msgstr ""
+
+msgctxt "permgrouplab_accounts"
+msgid "Your accounts"
+msgstr ""
+
+msgctxt "permgroupdesc_accounts"
+msgid "Access the available accounts."
+msgstr ""
+
+msgctxt "permgrouplab_hardwareControls"
+msgid "Hardware controls"
+msgstr ""
+
+msgctxt "permgroupdesc_hardwareControls"
+msgid "Direct access to hardware on the handset."
+msgstr ""
+
+msgctxt "permgrouplab_phoneCalls"
+msgid "Phone calls"
+msgstr ""
+
+msgctxt "permgroupdesc_phoneCalls"
+msgid "Monitor, record, and process phone calls."
+msgstr ""
+
+msgctxt "permgrouplab_systemTools"
+msgid "System tools"
+msgstr ""
+
+msgctxt "permgroupdesc_systemTools"
+msgid "Lower-level access and control of the system."
+msgstr ""
+
+msgctxt "permgrouplab_developmentTools"
+msgid "Development tools"
+msgstr ""
+
+msgctxt "permgroupdesc_developmentTools"
+msgid "Features only needed for application developers."
+msgstr ""
+
+msgctxt "permgrouplab_storage"
+msgid "Storage"
+msgstr ""
+
+msgctxt "permgroupdesc_storage"
+msgid "Access the SD card."
+msgstr ""
+
+msgctxt "permlab_statusBar"
+msgid "disable or modify status bar"
+msgstr ""
+
+msgctxt "permdesc_statusBar"
+msgid ""
+"Allows application to disable the status bar or add and remove system "
+"icons."
+msgstr ""
+
+msgctxt "permlab_statusBarService"
+msgid "status bar"
+msgstr ""
+
+msgctxt "permdesc_statusBarService"
+msgid "Allows the application to be the status bar."
+msgstr ""
+
+msgctxt "permlab_expandStatusBar"
+msgid "expand/collapse status bar"
+msgstr ""
+
+msgctxt "permdesc_expandStatusBar"
+msgid "Allows application to expand or collapse the status bar."
+msgstr ""
+
+msgctxt "permlab_processOutgoingCalls"
+msgid "intercept outgoing calls"
+msgstr ""
+
+msgctxt "permdesc_processOutgoingCalls"
+msgid ""
+"Allows application to process outgoing calls and change the number to be "
+"dialed. Malicious applications may monitor, redirect, or prevent outgoing"
+" calls."
+msgstr ""
+
+msgctxt "permlab_receiveSms"
+msgid "receive SMS"
+msgstr ""
+
+msgctxt "permdesc_receiveSms"
+msgid ""
+"Allows application to receive and process SMS messages. Malicious "
+"applications may monitor your messages or delete them without showing "
+"them to you."
+msgstr ""
+
+msgctxt "permlab_receiveMms"
+msgid "receive MMS"
+msgstr ""
+
+msgctxt "permdesc_receiveMms"
+msgid ""
+"Allows application to receive and process MMS messages. Malicious "
+"applications may monitor your messages or delete them without showing "
+"them to you."
+msgstr ""
+
+msgctxt "permlab_sendSms"
+msgid "send SMS messages"
+msgstr ""
+
+msgctxt "permdesc_sendSms"
+msgid ""
+"Allows application to send SMS messages. Malicious applications may cost "
+"you money by sending messages without your confirmation."
+msgstr ""
+
+msgctxt "permlab_readSms"
+msgid "read SMS or MMS"
+msgstr ""
+
+msgctxt "permdesc_readSms"
+msgid ""
+"Allows application to read SMS messages stored on your phone or SIM card."
+" Malicious applications may read your confidential messages."
+msgstr ""
+
+msgctxt "permlab_writeSms"
+msgid "edit SMS or MMS"
+msgstr ""
+
+msgctxt "permdesc_writeSms"
+msgid ""
+"Allows application to write to SMS messages stored on your phone or SIM "
+"card. Malicious applications may delete your messages."
+msgstr ""
+
+msgctxt "permlab_receiveWapPush"
+msgid "receive WAP"
+msgstr ""
+
+msgctxt "permdesc_receiveWapPush"
+msgid ""
+"Allows application to receive and process WAP messages. Malicious "
+"applications may monitor your messages or delete them without showing "
+"them to you."
+msgstr ""
+
+msgctxt "permlab_getTasks"
+msgid "retrieve running applications"
+msgstr ""
+
+msgctxt "permdesc_getTasks"
+msgid ""
+"Allows application to retrieve information about currently and recently "
+"running tasks. May allow malicious applications to discover private "
+"information about other applications."
+msgstr ""
+
+msgctxt "permlab_reorderTasks"
+msgid "reorder running applications"
+msgstr ""
+
+msgctxt "permdesc_reorderTasks"
+msgid ""
+"Allows an application to move tasks to the foreground and background. "
+"Malicious applications can force themselves to the front without your "
+"control."
+msgstr ""
+
+msgctxt "permlab_setDebugApp"
+msgid "enable application debugging"
+msgstr ""
+
+msgctxt "permdesc_setDebugApp"
+msgid ""
+"Allows an application to turn on debugging for another application. "
+"Malicious applications can use this to kill other applications."
+msgstr ""
+
+msgctxt "permlab_changeConfiguration"
+msgid "change your UI settings"
+msgstr ""
+
+msgctxt "permdesc_changeConfiguration"
+msgid ""
+"Allows an application to change the current configuration, such as the "
+"locale or overall font size."
+msgstr ""
+
+msgctxt "permlab_enableCarMode"
+msgid "enable car mode"
+msgstr ""
+
+msgctxt "permdesc_enableCarMode"
+msgid "Allows an application to enable the car mode."
+msgstr ""
+
+msgctxt "permlab_killBackgroundProcesses"
+msgid "kill background processes"
+msgstr ""
+
+msgctxt "permdesc_killBackgroundProcesses"
+msgid ""
+"Allows an application to kill background processes of other applications,"
+" even if memory isn't low."
+msgstr ""
+
+msgctxt "permlab_forceStopPackages"
+msgid "force stop other applications"
+msgstr ""
+
+msgctxt "permdesc_forceStopPackages"
+msgid "Allows an application to forcibly stop other applications."
+msgstr ""
+
+msgctxt "permlab_forceBack"
+msgid "force application to close"
+msgstr ""
+
+msgctxt "permdesc_forceBack"
+msgid ""
+"Allows an application to force any activity that is in the foreground to "
+"close and go back. Should never be needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_dump"
+msgid "retrieve system internal state"
+msgstr ""
+
+msgctxt "permdesc_dump"
+msgid ""
+"Allows application to retrieve internal state of the system. Malicious "
+"applications may retrieve a wide variety of private and secure "
+"information that they should never normally need."
+msgstr ""
+
+msgctxt "permlab_shutdown"
+msgid "partial shutdown"
+msgstr ""
+
+msgctxt "permdesc_shutdown"
+msgid ""
+"Puts the activity manager into a shutdown state. Does not perform a "
+"complete shutdown."
+msgstr ""
+
+msgctxt "permlab_stopAppSwitches"
+msgid "prevent app switches"
+msgstr ""
+
+msgctxt "permdesc_stopAppSwitches"
+msgid "Prevents the user from switching to another application."
+msgstr ""
+
+msgctxt "permlab_runSetActivityWatcher"
+msgid "monitor and control all application launching"
+msgstr ""
+
+msgctxt "permdesc_runSetActivityWatcher"
+msgid ""
+"Allows an application to monitor and control how the system launches "
+"activities. Malicious applications may completely compromise the system. "
+"This permission is only needed for development, never for normal phone "
+"usage."
+msgstr ""
+
+msgctxt "permlab_broadcastPackageRemoved"
+msgid "send package removed broadcast"
+msgstr ""
+
+msgctxt "permdesc_broadcastPackageRemoved"
+msgid ""
+"Allows an application to broadcast a notification that an application "
+"package has been removed. Malicious applications may use this to kill any"
+" other running application."
+msgstr ""
+
+msgctxt "permlab_broadcastSmsReceived"
+msgid "send SMS-received broadcast"
+msgstr ""
+
+msgctxt "permdesc_broadcastSmsReceived"
+msgid ""
+"Allows an application to broadcast a notification that an SMS message has"
+" been received. Malicious applications may use this to forge incoming SMS"
+" messages."
+msgstr ""
+
+msgctxt "permlab_broadcastWapPush"
+msgid "send WAP-PUSH-received broadcast"
+msgstr ""
+
+msgctxt "permdesc_broadcastWapPush"
+msgid ""
+"Allows an application to broadcast a notification that a WAP PUSH message"
+" has been received. Malicious applications may use this to forge MMS "
+"message receipt or to silently replace the content of any web page with "
+"malicious variants."
+msgstr ""
+
+msgctxt "permlab_setProcessLimit"
+msgid "limit number of running processes"
+msgstr ""
+
+msgctxt "permdesc_setProcessLimit"
+msgid ""
+"Allows an application to control the maximum number of processes that "
+"will run. Never needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_setAlwaysFinish"
+msgid "make all background applications close"
+msgstr ""
+
+msgctxt "permdesc_setAlwaysFinish"
+msgid ""
+"Allows an application to control whether activities are always finished "
+"as soon as they go to the background. Never needed for normal "
+"applications."
+msgstr ""
+
+msgctxt "permlab_batteryStats"
+msgid "modify battery statistics"
+msgstr ""
+
+msgctxt "permdesc_batteryStats"
+msgid ""
+"Allows the modification of collected battery statistics. Not for use by "
+"normal applications."
+msgstr ""
+
+msgctxt "permlab_backup"
+msgid "control system backup and restore"
+msgstr ""
+
+msgctxt "permdesc_backup"
+msgid ""
+"Allows the application to control the system's backup and restore "
+"mechanism. Not for use by normal applications."
+msgstr ""
+
+msgctxt "permlab_internalSystemWindow"
+msgid "display unauthorized windows"
+msgstr ""
+
+msgctxt "permdesc_internalSystemWindow"
+msgid ""
+"Allows the creation of windows that are intended to be used by the "
+"internal system user interface. Not for use by normal applications."
+msgstr ""
+
+msgctxt "permlab_systemAlertWindow"
+msgid "display system-level alerts"
+msgstr ""
+
+msgctxt "permdesc_systemAlertWindow"
+msgid ""
+"Allows an application to show system alert windows. Malicious "
+"applications can take over the entire screen of the phone."
+msgstr ""
+
+msgctxt "permlab_setAnimationScale"
+msgid "modify global animation speed"
+msgstr ""
+
+msgctxt "permdesc_setAnimationScale"
+msgid ""
+"Allows an application to change the global animation speed (faster or "
+"slower animations) at any time."
+msgstr ""
+
+msgctxt "permlab_manageAppTokens"
+msgid "manage application tokens"
+msgstr ""
+
+msgctxt "permdesc_manageAppTokens"
+msgid ""
+"Allows applications to create and manage their own tokens, bypassing "
+"their normal Z-ordering. Should never be needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_injectEvents"
+msgid "press keys and control buttons"
+msgstr ""
+
+msgctxt "permdesc_injectEvents"
+msgid ""
+"Allows an application to deliver its own input events (key presses, etc.)"
+" to other applications. Malicious applications can use this to take over "
+"the phone."
+msgstr ""
+
+msgctxt "permlab_readInputState"
+msgid "record what you type and actions you take"
+msgstr ""
+
+msgctxt "permdesc_readInputState"
+msgid ""
+"Allows applications to watch the keys you press even when interacting "
+"with another application (such as entering a password). Should never be "
+"needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_bindInputMethod"
+msgid "bind to an input method"
+msgstr ""
+
+msgctxt "permdesc_bindInputMethod"
+msgid ""
+"Allows the holder to bind to the top-level interface of an input method. "
+"Should never be needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_bindWallpaper"
+msgid "bind to a wallpaper"
+msgstr ""
+
+msgctxt "permdesc_bindWallpaper"
+msgid ""
+"Allows the holder to bind to the top-level interface of a wallpaper. "
+"Should never be needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_bindDeviceAdmin"
+msgid "interact with a device admin"
+msgstr ""
+
+msgctxt "permdesc_bindDeviceAdmin"
+msgid ""
+"Allows the holder to send intents to a device administrator. Should never"
+" be needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_setOrientation"
+msgid "change screen orientation"
+msgstr ""
+
+msgctxt "permdesc_setOrientation"
+msgid ""
+"Allows an application to change the rotation of the screen at any time. "
+"Should never be needed for normal applications."
+msgstr ""
+
+msgctxt "permlab_signalPersistentProcesses"
+msgid "send Linux signals to applications"
+msgstr ""
+
+msgctxt "permdesc_signalPersistentProcesses"
+msgid ""
+"Allows application to request that the supplied signal be sent to all "
+"persistent processes."
+msgstr ""
+
+msgctxt "permlab_persistentActivity"
+msgid "make application always run"
+msgstr ""
+
+msgctxt "permdesc_persistentActivity"
+msgid ""
+"Allows an application to make parts of itself persistent, so the system "
+"can't use it for other applications."
+msgstr ""
+
+msgctxt "permlab_deletePackages"
+msgid "delete applications"
+msgstr ""
+
+msgctxt "permdesc_deletePackages"
+msgid ""
+"Allows an application to delete Android packages. Malicious applications "
+"can use this to delete important applications."
+msgstr ""
+
+msgctxt "permlab_clearAppUserData"
+msgid "delete other applications' data"
+msgstr ""
+
+msgctxt "permdesc_clearAppUserData"
+msgid "Allows an application to clear user data."
+msgstr ""
+
+msgctxt "permlab_deleteCacheFiles"
+msgid "delete other applications' caches"
+msgstr ""
+
+msgctxt "permdesc_deleteCacheFiles"
+msgid "Allows an application to delete cache files."
+msgstr ""
+
+msgctxt "permlab_getPackageSize"
+msgid "measure application storage space"
+msgstr ""
+
+msgctxt "permdesc_getPackageSize"
+msgid "Allows an application to retrieve its code, data, and cache sizes"
+msgstr ""
+
+msgctxt "permlab_installPackages"
+msgid "directly install applications"
+msgstr ""
+
+msgctxt "permdesc_installPackages"
+msgid ""
+"Allows an application to install new or updated Android packages. "
+"Malicious applications can use this to add new applications with "
+"arbitrarily powerful permissions."
+msgstr ""
+
+msgctxt "permlab_clearAppCache"
+msgid "delete all application cache data"
+msgstr ""
+
+msgctxt "permdesc_clearAppCache"
+msgid ""
+"Allows an application to free phone storage by deleting files in "
+"application cache directory. Access is very restricted usually to system "
+"process."
+msgstr ""
+
+msgctxt "permlab_movePackage"
+msgid "Move application resources"
+msgstr ""
+
+msgctxt "permdesc_movePackage"
+msgid ""
+"Allows an application to move application resources from internal to "
+"external media and vice versa."
+msgstr ""
+
+msgctxt "permlab_readLogs"
+msgid "read system log files"
+msgstr ""
+
+msgctxt "permdesc_readLogs"
+msgid ""
+"Allows an application to read from the system's various log files. This "
+"allows it to discover general information about what you are doing with "
+"the phone, but they should not contain any personal or private "
+"information."
+msgstr ""
+
+msgctxt "permlab_diagnostic"
+msgid "read/write to resources owned by diag"
+msgstr ""
+
+msgctxt "permdesc_diagnostic"
+msgid ""
+"Allows an application to read and write to any resource owned by the diag"
+" group; for example, files in /dev. This could potentially affect system "
+"stability and security. This should be ONLY be used for hardware-specific"
+" diagnostics by the manufacturer or operator."
+msgstr ""
+
+msgctxt "permlab_changeComponentState"
+msgid "enable or disable application components"
+msgstr ""
+
+msgctxt "permdesc_changeComponentState"
+msgid ""
+"Allows an application to change whether a component of another "
+"application is enabled or not. Malicious applications can use this to "
+"disable important phone capabilities. Care must be used with permission, "
+"as it is possible to get application components into an unusable, "
+"inconsistent, or unstable state."
+msgstr ""
+
+msgctxt "permlab_setPreferredApplications"
+msgid "set preferred applications"
+msgstr ""
+
+msgctxt "permdesc_setPreferredApplications"
+msgid ""
+"Allows an application to modify your preferred applications. This can "
+"allow malicious applications to silently change the applications that are"
+" run, spoofing your existing applications to collect private data from "
+"you."
+msgstr ""
+
+msgctxt "permlab_writeSettings"
+msgid "modify global system settings"
+msgstr ""
+
+msgctxt "permdesc_writeSettings"
+msgid ""
+"Allows an application to modify the system's settings data. Malicious "
+"applications can corrupt your system's configuration."
+msgstr ""
+
+msgctxt "permlab_writeSecureSettings"
+msgid "modify secure system settings"
+msgstr ""
+
+msgctxt "permdesc_writeSecureSettings"
+msgid ""
+"Allows an application to modify the system's secure settings data. Not "
+"for use by normal applications."
+msgstr ""
+
+msgctxt "permlab_writeGservices"
+msgid "modify the Google services map"
+msgstr ""
+
+msgctxt "permdesc_writeGservices"
+msgid ""
+"Allows an application to modify the Google services map. Not for use by "
+"normal applications."
+msgstr ""
+
+msgctxt "permlab_receiveBootCompleted"
+msgid "automatically start at boot"
+msgstr ""
+
+msgctxt "permdesc_receiveBootCompleted"
+msgid ""
+"Allows an application to have itself started as soon as the system has "
+"finished booting. This can make it take longer to start the phone and "
+"allow the application to slow down the overall phone by always running."
+msgstr ""
+
+msgctxt "permlab_broadcastSticky"
+msgid "send sticky broadcast"
+msgstr ""
+
+msgctxt "permdesc_broadcastSticky"
+msgid ""
+"Allows an application to send sticky broadcasts, which remain after the "
+"broadcast ends. Malicious applications can make the phone slow or "
+"unstable by causing it to use too much memory."
+msgstr ""
+
+msgctxt "permlab_readContacts"
+msgid "read contact data"
+msgstr ""
+
+msgctxt "permdesc_readContacts"
+msgid ""
+"Allows an application to read all of the contact (address) data stored on"
+" your phone. Malicious applications can use this to send your data to "
+"other people."
+msgstr ""
+
+msgctxt "permlab_writeContacts"
+msgid "write contact data"
+msgstr ""
+
+msgctxt "permdesc_writeContacts"
+msgid ""
+"Allows an application to modify the contact (address) data stored on your"
+" phone. Malicious applications can use this to erase or modify your "
+"contact data."
+msgstr ""
+
+msgctxt "permlab_readCalendar"
+msgid "read calendar events"
+msgstr ""
+
+msgctxt "permdesc_readCalendar"
+msgid ""
+"Allows an application to read all of the calendar events stored on your "
+"phone. Malicious applications can use this to send your calendar events "
+"to other people."
+msgstr ""
+
+msgctxt "permlab_writeCalendar"
+msgid "add or modify calendar events and send email to guests"
+msgstr ""
+
+msgctxt "permdesc_writeCalendar"
+msgid ""
+"Allows an application to add or change the events on your calendar, which"
+" may send email to guests. Malicious applications can use this to erase "
+"or modify your calendar events or to send email to guests."
+msgstr ""
+
+msgctxt "permlab_accessMockLocation"
+msgid "mock location sources for testing"
+msgstr ""
+
+msgctxt "permdesc_accessMockLocation"
+msgid ""
+"Create mock location sources for testing. Malicious applications can use "
+"this to override the location and/or status returned by real location "
+"sources such as GPS or Network providers."
+msgstr ""
+
+msgctxt "permlab_accessLocationExtraCommands"
+msgid "access extra location provider commands"
+msgstr ""
+
+msgctxt "permdesc_accessLocationExtraCommands"
+msgid ""
+"Access extra location provider commands. Malicious applications could use"
+" this to interfere with the operation of the GPS or other location "
+"sources."
+msgstr ""
+
+msgctxt "permlab_installLocationProvider"
+msgid "permission to install a location provider"
+msgstr ""
+
+msgctxt "permdesc_installLocationProvider"
+msgid ""
+"Create mock location sources for testing. Malicious applications can use "
+"this to override the location and/or status returned by real location "
+"sources such as GPS or Network providers or monitor and report your "
+"location to an external source."
+msgstr ""
+
+msgctxt "permlab_accessFineLocation"
+msgid "fine (GPS) location"
+msgstr ""
+
+msgctxt "permdesc_accessFineLocation"
+msgid ""
+"Access fine location sources such as the Global Positioning System on the"
+" phone, where available. Malicious applications can use this to determine"
+" where you are, and may consume additional battery power."
+msgstr ""
+
+msgctxt "permlab_accessCoarseLocation"
+msgid "coarse (network-based) location"
+msgstr ""
+
+msgctxt "permdesc_accessCoarseLocation"
+msgid ""
+"Access coarse location sources such as the cellular network database to "
+"determine an approximate phone location, where available. Malicious "
+"applications can use this to determine approximately where you are."
+msgstr ""
+
+msgctxt "permlab_accessSurfaceFlinger"
+msgid "access SurfaceFlinger"
+msgstr ""
+
+msgctxt "permdesc_accessSurfaceFlinger"
+msgid "Allows application to use SurfaceFlinger low-level features."
+msgstr ""
+
+msgctxt "permlab_readFrameBuffer"
+msgid "read frame buffer"
+msgstr ""
+
+msgctxt "permdesc_readFrameBuffer"
+msgid "Allows application to read the content of the frame buffer."
+msgstr ""
+
+msgctxt "permlab_modifyAudioSettings"
+msgid "change your audio settings"
+msgstr ""
+
+msgctxt "permdesc_modifyAudioSettings"
+msgid ""
+"Allows application to modify global audio settings such as volume and "
+"routing."
+msgstr ""
+
+msgctxt "permlab_recordAudio"
+msgid "record audio"
+msgstr ""
+
+msgctxt "permdesc_recordAudio"
+msgid "Allows application to access the audio record path."
+msgstr ""
+
+msgctxt "permlab_camera"
+msgid "take pictures"
+msgstr ""
+
+msgctxt "permdesc_camera"
+msgid ""
+"Allows application to take pictures with the camera. This allows the "
+"application at any time to collect images the camera is seeing."
+msgstr ""
+
+msgctxt "permlab_brick"
+msgid "permanently disable phone"
+msgstr ""
+
+msgctxt "permdesc_brick"
+msgid ""
+"Allows the application to disable the entire phone permanently. This is "
+"very dangerous."
+msgstr ""
+
+msgctxt "permlab_reboot"
+msgid "force phone reboot"
+msgstr ""
+
+msgctxt "permdesc_reboot"
+msgid "Allows the application to force the phone to reboot."
+msgstr ""
+
+msgctxt "permlab_mount_unmount_filesystems"
+msgid "mount and unmount filesystems"
+msgstr ""
+
+msgctxt "permdesc_mount_unmount_filesystems"
+msgid ""
+"Allows the application to mount and unmount filesystems for removable "
+"storage."
+msgstr ""
+
+msgctxt "permlab_mount_format_filesystems"
+msgid "format external storage"
+msgstr ""
+
+msgctxt "permdesc_mount_format_filesystems"
+msgid "Allows the application to format removable storage."
+msgstr ""
+
+msgctxt "permlab_asec_access"
+msgid "get information on secure storage"
+msgstr ""
+
+msgctxt "permdesc_asec_access"
+msgid "Allows the application to get information on secure storage."
+msgstr ""
+
+msgctxt "permlab_asec_create"
+msgid "create secure storage"
+msgstr ""
+
+msgctxt "permdesc_asec_create"
+msgid "Allows the application to create secure storage."
+msgstr ""
+
+msgctxt "permlab_asec_destroy"
+msgid "destroy secure storage"
+msgstr ""
+
+msgctxt "permdesc_asec_destroy"
+msgid "Allows the application to destroy secure storage."
+msgstr ""
+
+msgctxt "permlab_asec_mount_unmount"
+msgid "mount / unmount secure storage"
+msgstr ""
+
+msgctxt "permdesc_asec_mount_unmount"
+msgid "Allows the application to mount / unmount secure storage."
+msgstr ""
+
+msgctxt "permlab_asec_rename"
+msgid "rename secure storage"
+msgstr ""
+
+msgctxt "permdesc_asec_rename"
+msgid "Allows the application to rename secure storage."
+msgstr ""
+
+msgctxt "permlab_vibrate"
+msgid "control vibrator"
+msgstr ""
+
+msgctxt "permdesc_vibrate"
+msgid "Allows the application to control the vibrator."
+msgstr ""
+
+msgctxt "permlab_flashlight"
+msgid "control flashlight"
+msgstr ""
+
+msgctxt "permdesc_flashlight"
+msgid "Allows the application to control the flashlight."
+msgstr ""
+
+msgctxt "permlab_manageUsb"
+msgid "manage preferences and permissions for USB devices"
+msgstr ""
+
+msgctxt "permdesc_manageUsb"
+msgid ""
+"Allows the application to manage preferences and permissions for USB "
+"devices."
+msgstr ""
+
+msgctxt "permlab_hardware_test"
+msgid "test hardware"
+msgstr ""
+
+msgctxt "permdesc_hardware_test"
+msgid ""
+"Allows the application to control various peripherals for the purpose of "
+"hardware testing."
+msgstr ""
+
+msgctxt "permlab_callPhone"
+msgid "directly call phone numbers"
+msgstr ""
+
+msgctxt "permdesc_callPhone"
+msgid ""
+"Allows the application to call phone numbers without your intervention. "
+"Malicious applications may cause unexpected calls on your phone bill. "
+"Note that this does not allow the application to call emergency numbers."
+msgstr ""
+
+msgctxt "permlab_callPrivileged"
+msgid "directly call any phone numbers"
+msgstr ""
+
+msgctxt "permdesc_callPrivileged"
+msgid ""
+"Allows the application to call any phone number, including emergency "
+"numbers, without your intervention. Malicious applications may place "
+"unnecessary and illegal calls to emergency services."
+msgstr ""
+
+msgctxt "permlab_performCdmaProvisioning"
+msgid "directly start CDMA phone setup"
+msgstr ""
+
+msgctxt "permdesc_performCdmaProvisioning"
+msgid ""
+"Allows the application to start CDMA provisioning. Malicious applications"
+" may unnecessarily start CDMA provisioning"
+msgstr ""
+
+msgctxt "permlab_locationUpdates"
+msgid "control location update notifications"
+msgstr ""
+
+msgctxt "permdesc_locationUpdates"
+msgid ""
+"Allows enabling/disabling location update notifications from the radio. "
+"Not for use by normal applications."
+msgstr ""
+
+msgctxt "permlab_checkinProperties"
+msgid "access checkin properties"
+msgstr ""
+
+msgctxt "permdesc_checkinProperties"
+msgid ""
+"Allows read/write access to properties uploaded by the checkin service. "
+"Not for use by normal applications."
+msgstr ""
+
+msgctxt "permlab_bindGadget"
+msgid "choose widgets"
+msgstr ""
+
+msgctxt "permdesc_bindGadget"
+msgid ""
+"Allows the application to tell the system which widgets can be used by "
+"which application. With this permission, applications can give access to "
+"personal data to other applications. Not for use by normal applications."
+msgstr ""
+
+msgctxt "permlab_modifyPhoneState"
+msgid "modify phone state"
+msgstr ""
+
+msgctxt "permdesc_modifyPhoneState"
+msgid ""
+"Allows the application to control the phone features of the device. An "
+"application with this permission can switch networks, turn the phone "
+"radio on and off and the like without ever notifying you."
+msgstr ""
+
+msgctxt "permlab_readPhoneState"
+msgid "read phone state and identity"
+msgstr ""
+
+msgctxt "permdesc_readPhoneState"
+msgid ""
+"Allows the application to access the phone features of the device. An "
+"application with this permission can determine the phone number and "
+"serial number of this phone, whether a call is active, the number that "
+"call is connected to and the like."
+msgstr ""
+
+msgctxt "permlab_wakeLock"
+msgid "prevent phone from sleeping"
+msgstr ""
+
+msgctxt "permdesc_wakeLock"
+msgid "Allows an application to prevent the phone from going to sleep."
+msgstr ""
+
+msgctxt "permlab_devicePower"
+msgid "power phone on or off"
+msgstr ""
+
+msgctxt "permdesc_devicePower"
+msgid "Allows the application to turn the phone on or off."
+msgstr ""
+
+msgctxt "permlab_factoryTest"
+msgid "run in factory test mode"
+msgstr ""
+
+msgctxt "permdesc_factoryTest"
+msgid ""
+"Run as a low-level manufacturer test, allowing complete access to the "
+"phone hardware. Only available when a phone is running in manufacturer "
+"test mode."
+msgstr ""
+
+msgctxt "permlab_setWallpaper"
+msgid "set wallpaper"
+msgstr ""
+
+msgctxt "permdesc_setWallpaper"
+msgid "Allows the application to set the system wallpaper."
+msgstr ""
+
+msgctxt "permlab_setWallpaperHints"
+msgid "set wallpaper size hints"
+msgstr ""
+
+msgctxt "permdesc_setWallpaperHints"
+msgid "Allows the application to set the system wallpaper size hints."
+msgstr ""
+
+msgctxt "permlab_masterClear"
+msgid "reset system to factory defaults"
+msgstr ""
+
+msgctxt "permdesc_masterClear"
+msgid ""
+"Allows an application to completely reset the system to its factory "
+"settings, erasing all data, configuration, and installed applications."
+msgstr ""
+
+msgctxt "permlab_setTime"
+msgid "set time"
+msgstr ""
+
+msgctxt "permdesc_setTime"
+msgid "Allows an application to change the phone's clock time."
+msgstr ""
+
+msgctxt "permlab_setTimeZone"
+msgid "set time zone"
+msgstr ""
+
+msgctxt "permdesc_setTimeZone"
+msgid "Allows an application to change the phone's time zone."
+msgstr ""
+
+msgctxt "permlab_accountManagerService"
+msgid "act as the AccountManagerService"
+msgstr ""
+
+msgctxt "permdesc_accountManagerService"
+msgid "Allows an application to make calls to AccountAuthenticators"
+msgstr ""
+
+msgctxt "permlab_getAccounts"
+msgid "discover known accounts"
+msgstr ""
+
+msgctxt "permdesc_getAccounts"
+msgid "Allows an application to get the list of accounts known by the phone."
+msgstr ""
+
+msgctxt "permlab_authenticateAccounts"
+msgid "act as an account authenticator"
+msgstr ""
+
+msgctxt "permdesc_authenticateAccounts"
+msgid ""
+"Allows an application to use the account authenticator capabilities of "
+"the AccountManager, including creating accounts and getting and setting "
+"their passwords."
+msgstr ""
+
+msgctxt "permlab_manageAccounts"
+msgid "manage the accounts list"
+msgstr ""
+
+msgctxt "permdesc_manageAccounts"
+msgid ""
+"Allows an application to perform operations like adding, and removing "
+"accounts and deleting their password."
+msgstr ""
+
+msgctxt "permlab_useCredentials"
+msgid "use the authentication credentials of an account"
+msgstr ""
+
+msgctxt "permdesc_useCredentials"
+msgid "Allows an application to request authentication tokens."
+msgstr ""
+
+msgctxt "permlab_accessNetworkState"
+msgid "view network state"
+msgstr ""
+
+msgctxt "permdesc_accessNetworkState"
+msgid "Allows an application to view the state of all networks."
+msgstr ""
+
+msgctxt "permlab_createNetworkSockets"
+msgid "full Internet access"
+msgstr ""
+
+msgctxt "permdesc_createNetworkSockets"
+msgid "Allows an application to create network sockets."
+msgstr ""
+
+msgctxt "permlab_writeApnSettings"
+msgid "write Access Point Name settings"
+msgstr ""
+
+msgctxt "permdesc_writeApnSettings"
+msgid ""
+"Allows an application to modify the APN settings, such as Proxy and Port "
+"of any APN."
+msgstr ""
+
+msgctxt "permlab_changeNetworkState"
+msgid "change network connectivity"
+msgstr ""
+
+msgctxt "permdesc_changeNetworkState"
+msgid "Allows an application to change the state of network connectivity."
+msgstr ""
+
+msgctxt "permlab_changeTetherState"
+msgid "Change tethered connectivity"
+msgstr ""
+
+msgctxt "permdesc_changeTetherState"
+msgid ""
+"Allows an application to change the state of tethered network "
+"connectivity."
+msgstr ""
+
+msgctxt "permlab_changeBackgroundDataSetting"
+msgid "change background data usage setting"
+msgstr ""
+
+msgctxt "permdesc_changeBackgroundDataSetting"
+msgid "Allows an application to change the background data usage setting."
+msgstr ""
+
+msgctxt "permlab_accessWifiState"
+msgid "view Wi-Fi state"
+msgstr ""
+
+msgctxt "permdesc_accessWifiState"
+msgid "Allows an application to view the information about the state of Wi-Fi."
+msgstr ""
+
+msgctxt "permlab_changeWifiState"
+msgid "change Wi-Fi state"
+msgstr ""
+
+msgctxt "permdesc_changeWifiState"
+msgid ""
+"Allows an application to connect to and disconnect from Wi-Fi access "
+"points, and to make changes to configured Wi-Fi networks."
+msgstr ""
+
+msgctxt "permlab_changeWifiMulticastState"
+msgid "allow Wi-Fi Multicast reception"
+msgstr ""
+
+msgctxt "permdesc_changeWifiMulticastState"
+msgid ""
+"Allows an application to receive packets not directly addressed to your "
+"device. This can be useful when discovering services offered near by. It "
+"uses more power than the non-multicast mode."
+msgstr ""
+
+msgctxt "permlab_accessWimaxState"
+msgid "view WiMAX state"
+msgstr ""
+
+msgctxt "permdesc_accessWimaxState"
+msgid "Allows an application to view the information about the state of WiMAX."
+msgstr ""
+
+msgctxt "permlab_changeWimaxState"
+msgid "change WiMAX state"
+msgstr ""
+
+msgctxt "permdesc_changeWimaxState"
+msgid "Allows an application to connect to and disconnect from WiMAX network."
+msgstr ""
+
+msgctxt "permlab_bluetoothAdmin"
+msgid "bluetooth administration"
+msgstr ""
+
+msgctxt "permdesc_bluetoothAdmin"
+msgid ""
+"Allows an application to configure the local Bluetooth phone, and to "
+"discover and pair with remote devices."
+msgstr ""
+
+msgctxt "permlab_bluetooth"
+msgid "create Bluetooth connections"
+msgstr ""
+
+msgctxt "permdesc_bluetooth"
+msgid ""
+"Allows an application to view configuration of the local Bluetooth phone,"
+" and to make and accept connections with paired devices."
+msgstr ""
+
+msgctxt "permlab_nfc"
+msgid "control Near Field Communication"
+msgstr ""
+
+msgctxt "permdesc_nfc"
+msgid ""
+"Allows an application to communicate with Near Field Communication (NFC) "
+"tags, cards, and readers."
+msgstr ""
+
+msgctxt "permlab_disableKeyguard"
+msgid "disable keylock"
+msgstr ""
+
+msgctxt "permdesc_disableKeyguard"
+msgid ""
+"Allows an application to disable the keylock and any associated password "
+"security. A legitimate example of this is the phone disabling the keylock"
+" when receiving an incoming phone call, then re-enabling the keylock when"
+" the call is finished."
+msgstr ""
+
+msgctxt "permlab_readSyncSettings"
+msgid "read sync settings"
+msgstr ""
+
+msgctxt "permdesc_readSyncSettings"
+msgid ""
+"Allows an application to read the sync settings, such as whether sync is "
+"enabled for Contacts."
+msgstr ""
+
+msgctxt "permlab_writeSyncSettings"
+msgid "write sync settings"
+msgstr ""
+
+msgctxt "permdesc_writeSyncSettings"
+msgid ""
+"Allows an application to modify the sync settings, such as whether sync "
+"is enabled for Contacts."
+msgstr ""
+
+msgctxt "permlab_readSyncStats"
+msgid "read sync statistics"
+msgstr ""
+
+msgctxt "permdesc_readSyncStats"
+msgid ""
+"Allows an application to read the sync stats; e.g., the history of syncs "
+"that have occurred."
+msgstr ""
+
+msgctxt "permlab_subscribedFeedsRead"
+msgid "read subscribed feeds"
+msgstr ""
+
+msgctxt "permdesc_subscribedFeedsRead"
+msgid "Allows an application to get details about the currently synced feeds."
+msgstr ""
+
+msgctxt "permlab_subscribedFeedsWrite"
+msgid "write subscribed feeds"
+msgstr ""
+
+msgctxt "permdesc_subscribedFeedsWrite"
+msgid ""
+"Allows an application to modify your currently synced feeds. This could "
+"allow a malicious application to change your synced feeds."
+msgstr ""
+
+msgctxt "permlab_readDictionary"
+msgid "read user defined dictionary"
+msgstr ""
+
+msgctxt "permdesc_readDictionary"
+msgid ""
+"Allows an application to read any private words, names and phrases that "
+"the user may have stored in the user dictionary."
+msgstr ""
+
+msgctxt "permlab_writeDictionary"
+msgid "write to user defined dictionary"
+msgstr ""
+
+msgctxt "permdesc_writeDictionary"
+msgid "Allows an application to write new words into the user dictionary."
+msgstr ""
+
+msgctxt "permlab_sdcardWrite"
+msgid "modify/delete SD card contents"
+msgstr ""
+
+msgctxt "permdesc_sdcardWrite"
+msgid "Allows an application to write to the SD card."
+msgstr ""
+
+msgctxt "permlab_cache_filesystem"
+msgid "access the cache filesystem"
+msgstr ""
+
+msgctxt "permdesc_cache_filesystem"
+msgid "Allows an application to read and write the cache filesystem."
+msgstr ""
+
+msgctxt "permlab_use_sip"
+msgid "make/receive Internet calls"
+msgstr ""
+
+msgctxt "permdesc_use_sip"
+msgid ""
+"Allows an application to use the SIP service to make/receive Internet "
+"calls."
+msgstr ""
+
+msgctxt "policylab_limitPassword"
+msgid "Limit password"
+msgstr ""
+
+msgctxt "policydesc_limitPassword"
+msgid "Restrict the types of passwords you are allowed to use."
+msgstr ""
+
+msgctxt "policylab_watchLogin"
+msgid "Watch login attempts"
+msgstr ""
+
+msgctxt "policydesc_watchLogin"
+msgid "Monitor failed attempts to login to the device, to perform some action."
+msgstr ""
+
+msgctxt "policylab_resetPassword"
+msgid "Reset password"
+msgstr ""
+
+msgctxt "policydesc_resetPassword"
+msgid ""
+"Force your password to a new value, requiring the administrator give it "
+"to you before you can log in."
+msgstr ""
+
+msgctxt "policylab_forceLock"
+msgid "Force lock"
+msgstr ""
+
+msgctxt "policydesc_forceLock"
+msgid "Control when device locks, requiring you re-enter its password."
+msgstr ""
+
+msgctxt "policylab_wipeData"
+msgid "Erase all data"
+msgstr ""
+
+msgctxt "policydesc_wipeData"
+msgid ""
+"Perform a factory reset, deleting all of your data without any "
+"confirmation."
+msgstr ""
+
+msgctxt "phoneTypeCustom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "phoneTypeHome"
+msgid "Home"
+msgstr ""
+
+msgctxt "phoneTypeMobile"
+msgid "Mobile"
+msgstr ""
+
+msgctxt "phoneTypeWork"
+msgid "Work"
+msgstr ""
+
+msgctxt "phoneTypeFaxWork"
+msgid "Work Fax"
+msgstr ""
+
+msgctxt "phoneTypeFaxHome"
+msgid "Home Fax"
+msgstr ""
+
+msgctxt "phoneTypePager"
+msgid "Pager"
+msgstr ""
+
+msgctxt "phoneTypeOther"
+msgid "Other"
+msgstr ""
+
+msgctxt "phoneTypeCallback"
+msgid "Callback"
+msgstr ""
+
+msgctxt "phoneTypeCar"
+msgid "Car"
+msgstr ""
+
+msgctxt "phoneTypeCompanyMain"
+msgid "Company Main"
+msgstr ""
+
+msgctxt "phoneTypeIsdn"
+msgid "ISDN"
+msgstr ""
+
+msgctxt "phoneTypeMain"
+msgid "Main"
+msgstr ""
+
+msgctxt "phoneTypeOtherFax"
+msgid "Other Fax"
+msgstr ""
+
+msgctxt "phoneTypeRadio"
+msgid "Radio"
+msgstr ""
+
+msgctxt "phoneTypeTelex"
+msgid "Telex"
+msgstr ""
+
+msgctxt "phoneTypeTtyTdd"
+msgid "TTY TDD"
+msgstr ""
+
+msgctxt "phoneTypeWorkMobile"
+msgid "Work Mobile"
+msgstr ""
+
+msgctxt "phoneTypeWorkPager"
+msgid "Work Pager"
+msgstr ""
+
+msgctxt "phoneTypeAssistant"
+msgid "Assistant"
+msgstr ""
+
+msgctxt "phoneTypeMms"
+msgid "MMS"
+msgstr ""
+
+msgctxt "eventTypeBirthday"
+msgid "Birthday"
+msgstr ""
+
+msgctxt "eventTypeLunarBirthday"
+msgid "Lunar Birthday"
+msgstr ""
+
+msgctxt "eventTypeAnniversary"
+msgid "Anniversary"
+msgstr ""
+
+msgctxt "eventTypeOther"
+msgid "Event"
+msgstr ""
+
+msgctxt "emailTypeCustom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "emailTypeHome"
+msgid "Home"
+msgstr ""
+
+msgctxt "emailTypeWork"
+msgid "Work"
+msgstr ""
+
+msgctxt "emailTypeOther"
+msgid "Other"
+msgstr ""
+
+msgctxt "emailTypeMobile"
+msgid "Mobile"
+msgstr ""
+
+msgctxt "postalTypeCustom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "postalTypeHome"
+msgid "Home"
+msgstr ""
+
+msgctxt "postalTypeWork"
+msgid "Work"
+msgstr ""
+
+msgctxt "postalTypeOther"
+msgid "Other"
+msgstr ""
+
+msgctxt "imTypeCustom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "imTypeHome"
+msgid "Home"
+msgstr ""
+
+msgctxt "imTypeWork"
+msgid "Work"
+msgstr ""
+
+msgctxt "imTypeOther"
+msgid "Other"
+msgstr ""
+
+msgctxt "imProtocolCustom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "imProtocolAim"
+msgid "AIM"
+msgstr ""
+
+msgctxt "imProtocolMsn"
+msgid "Windows Live"
+msgstr ""
+
+msgctxt "imProtocolYahoo"
+msgid "Yahoo"
+msgstr ""
+
+msgctxt "imProtocolSkype"
+msgid "Skype"
+msgstr ""
+
+msgctxt "imProtocolQq"
+msgid "QQ"
+msgstr ""
+
+msgctxt "imProtocolGoogleTalk"
+msgid "Google Talk"
+msgstr ""
+
+msgctxt "imProtocolIcq"
+msgid "ICQ"
+msgstr ""
+
+msgctxt "imProtocolJabber"
+msgid "Jabber"
+msgstr ""
+
+msgctxt "imProtocolNetMeeting"
+msgid "NetMeeting"
+msgstr ""
+
+msgctxt "orgTypeWork"
+msgid "Work"
+msgstr ""
+
+msgctxt "orgTypeOther"
+msgid "Other"
+msgstr ""
+
+msgctxt "orgTypeCustom"
+msgid "Custom"
 msgstr ""
 
 msgctxt "sipAddressTypeCustom"
@@ -4464,274 +2824,675 @@ msgctxt "sipAddressTypeHome"
 msgid "Home"
 msgstr ""
 
-msgctxt "sipAddressTypeOther"
-msgid "Other"
-msgstr ""
-
 msgctxt "sipAddressTypeWork"
 msgid "Work"
 msgstr ""
 
-msgctxt "sms_control_default_app_name"
-msgid "Unknown application"
+msgctxt "sipAddressTypeOther"
+msgid "Other"
 msgstr ""
 
-msgctxt "sms_control_message"
+#, c-format
+msgctxt "contact_status_update_attribution"
+msgid "via %1$s"
+msgstr ""
+
+#, c-format
+msgctxt "contact_status_update_attribution_with_date"
+msgid "%1$s via %2$s"
+msgstr ""
+
+msgctxt "keyguard_password_enter_pin_code"
+msgid "Enter PIN code"
+msgstr ""
+
+msgctxt "keyguard_password_enter_password_code"
+msgid "Enter password to unlock"
+msgstr ""
+
+msgctxt "keyguard_password_wrong_pin_code"
+msgid "Incorrect PIN code!"
+msgstr ""
+
+msgctxt "keyguard_label_text"
+msgid "To unlock, press Menu then 0."
+msgstr ""
+
+msgctxt "emergency_call_dialog_number_for_display"
+msgid "Emergency number"
+msgstr ""
+
+msgctxt "lockscreen_carrier_default"
+msgid "(No service)"
+msgstr ""
+
+msgctxt "lockscreen_screen_locked"
+msgid "Screen locked."
+msgstr ""
+
+msgctxt "lockscreen_instructions_when_pattern_enabled"
+msgid "Press Menu to unlock or place emergency call."
+msgstr ""
+
+msgctxt "lockscreen_instructions_when_pattern_disabled"
+msgid "Press Menu to unlock."
+msgstr ""
+
+msgctxt "lockscreen_pattern_instructions"
+msgid "Draw pattern to unlock"
+msgstr ""
+
+msgctxt "lockscreen_emergency_call"
+msgid "Emergency call"
+msgstr ""
+
+msgctxt "lockscreen_return_to_call"
+msgid "Return to call"
+msgstr ""
+
+msgctxt "lockscreen_pattern_correct"
+msgid "Correct!"
+msgstr ""
+
+msgctxt "lockscreen_pattern_wrong"
+msgid "Wrong pattern, please try again!"
+msgstr ""
+
+#, c-format
+msgctxt "lockscreen_plugged_in"
+msgid "Charging (%d%%)"
+msgstr ""
+
+msgctxt "lockscreen_charged"
+msgid "Charged."
+msgstr ""
+
+#, c-format
+msgctxt "lockscreen_battery_short"
+msgid "%d%%"
+msgstr ""
+
+msgctxt "lockscreen_low_battery"
+msgid "Connect your charger."
+msgstr ""
+
+msgctxt "lockscreen_missing_sim_message_short"
+msgid "No SIM card."
+msgstr ""
+
+msgctxt "lockscreen_missing_sim_message"
+msgid "No SIM card in phone."
+msgstr ""
+
+msgctxt "lockscreen_missing_sim_instructions"
+msgid "Please insert a SIM card."
+msgstr ""
+
+msgctxt "emergency_calls_only"
+msgid "Emergency calls only"
+msgstr ""
+
+msgctxt "lockscreen_network_locked_message"
+msgid "Network locked"
+msgstr ""
+
+msgctxt "lockscreen_sim_puk_locked_message"
+msgid "SIM card is PUK-locked."
+msgstr ""
+
+msgctxt "lockscreen_sim_puk_locked_instructions"
+msgid "Please see the User Guide or contact Customer Care."
+msgstr ""
+
+msgctxt "lockscreen_sim_locked_message"
+msgid "SIM card is locked."
+msgstr ""
+
+msgctxt "lockscreen_sim_unlock_progress_dialog_message"
+msgid "Unlocking SIM card…"
+msgstr ""
+
+#, c-format
+msgctxt "lockscreen_too_many_failed_attempts_dialog_message"
 msgid ""
-"A large number of SMS messages are being sent. Select \"OK\" to continue,"
-" or \"Cancel\" to stop sending."
+"You have inputted wrong password %d times. \n"
+"\n"
+"Please try again in %d seconds."
 msgstr ""
 
-msgctxt "sms_control_no"
-msgid "Cancel"
-msgstr ""
-
-msgctxt "sms_control_title"
-msgid "Sending SMS messages"
-msgstr ""
-
-msgctxt "sms_control_yes"
-msgid "OK"
-msgstr ""
-
-#, python-format
-msgctxt "sms_exceeded"
-msgid "Messaging limit exceeded by %d message(s)"
-msgstr ""
-
-#, python-format
-msgctxt "sms_traffic"
-msgid "%d messages have been sent this month"
-msgstr ""
-
-#, python-format
-msgctxt "sms_traffic_exceeded"
-msgid "Messaging traffic limit exceeded by %d message(s)"
-msgstr ""
-
-msgctxt "smv_application"
+#, c-format
+msgctxt "lockscreen_failed_attempts_almost_glogin"
 msgid ""
-"The application %1$s (process %2$s) has violated its self-enforced "
-"StrictMode policy."
+"You have inputted wrong password %d times. After %d more unsuccessful "
+"attempts, you will be asked to unlock your phone using your Google sign-"
+"in.\n"
+"\n"
+" Please try again in %d seconds."
 msgstr ""
 
-msgctxt "smv_process"
-msgid "The process %1$s has has violated its self-enforced StrictMode policy."
+#, c-format
+msgctxt "lockscreen_too_many_failed_attempts_countdown"
+msgid "Try again in %d seconds."
 msgstr ""
 
-msgctxt "status_bar_back_to_call"
-msgid "Touch here to return to the call"
+msgctxt "lockscreen_forgot_pattern_button_text"
+msgid "Forgot pattern?"
 msgstr ""
 
-msgctxt "submit"
-msgid "Submit"
+msgctxt "lockscreen_glogin_forgot_pattern"
+msgid "Account unlock"
 msgstr ""
 
-msgctxt "sync_binding_label"
-msgid "Sync"
+msgctxt "lockscreen_glogin_too_many_attempts"
+msgid "Too many pattern attempts!"
 msgstr ""
 
-msgctxt "terabyteShort"
-msgid "TB"
+msgctxt "lockscreen_glogin_instructions"
+msgid "To unlock, sign in with your Google account"
 msgstr ""
 
-msgctxt "tethered_notification_message"
-msgid "Touch to configure"
+msgctxt "lockscreen_glogin_username_hint"
+msgid "Username (E-mail)"
 msgstr ""
 
-msgctxt "tethered_notification_title"
-msgid "Tethering or hotspot active"
+msgctxt "lockscreen_glogin_password_hint"
+msgid "Password"
+msgstr ""
+
+msgctxt "lockscreen_glogin_submit_button"
+msgid "Sign in"
+msgstr ""
+
+msgctxt "lockscreen_glogin_invalid_input"
+msgid "Invalid username or password."
+msgstr ""
+
+msgctxt "lockscreen_glogin_checking_password"
+msgid "Checking..."
+msgstr ""
+
+msgctxt "lockscreen_unlock_label"
+msgid "Unlock"
+msgstr ""
+
+msgctxt "lockscreen_sound_on_label"
+msgid "Sound on"
+msgstr ""
+
+msgctxt "lockscreen_sound_off_label"
+msgid "Sound off"
+msgstr ""
+
+msgctxt "password_keyboard_label_symbol_key"
+msgid "123"
+msgstr ""
+
+msgctxt "password_keyboard_label_alpha_key"
+msgid "ABC"
+msgstr ""
+
+msgctxt "password_keyboard_label_alt_key"
+msgid "ALT"
+msgstr ""
+
+#, c-format
+msgctxt "hour_ampm"
+msgid "%-l%P"
+msgstr ""
+
+#, c-format
+msgctxt "hour_cap_ampm"
+msgid "%-l%p"
+msgstr ""
+
+msgctxt "factorytest_failed"
+msgid "Factory test failed"
+msgstr ""
+
+msgctxt "factorytest_not_system"
+msgid ""
+"The FACTORY_TEST action is only supported for packages installed in "
+"/system/app."
+msgstr ""
+
+msgctxt "factorytest_no_action"
+msgid "No package was found that provides the FACTORY_TEST action."
+msgstr ""
+
+msgctxt "factorytest_reboot"
+msgid "Reboot"
+msgstr ""
+
+#, c-format
+msgctxt "web_user_agent"
+msgid ""
+"Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) "
+"Version/4.0 Mobile Safari/533.1"
+msgstr ""
+
+#, c-format
+msgctxt "js_dialog_title"
+msgid "The page at '%s' says:"
+msgstr ""
+
+msgctxt "js_dialog_title_default"
+msgid "JavaScript"
+msgstr ""
+
+#, c-format
+msgctxt "js_dialog_before_unload"
+msgid ""
+"Navigate away from this page?\n"
+"\n"
+"%s\n"
+"\n"
+"Select OK to continue, or Cancel to stay on the current page."
+msgstr ""
+
+msgctxt "save_password_label"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "double_tap_toast"
+msgid "Tip: double-tap to zoom in and out."
+msgstr ""
+
+msgctxt "permlab_readHistoryBookmarks"
+msgid "read Browser's history and bookmarks"
+msgstr ""
+
+msgctxt "permdesc_readHistoryBookmarks"
+msgid ""
+"Allows the application to read all the URLs that the Browser has visited,"
+" and all of the Browser's bookmarks."
+msgstr ""
+
+msgctxt "permlab_writeHistoryBookmarks"
+msgid "write Browser's history and bookmarks"
+msgstr ""
+
+msgctxt "permdesc_writeHistoryBookmarks"
+msgid ""
+"Allows an application to modify the Browser's history or bookmarks stored"
+" on your phone. Malicious applications can use this to erase or modify "
+"your Browser's data."
+msgstr ""
+
+msgctxt "permlab_setAlarm"
+msgid "set alarm in alarm clock"
+msgstr ""
+
+msgctxt "permdesc_setAlarm"
+msgid ""
+"Allows the application to set an alarm in an installed alarm clock "
+"application. Some alarm clock applications may not implement this "
+"feature."
+msgstr ""
+
+msgctxt "permlab_writeGeolocationPermissions"
+msgid "Modify Browser geolocation permissions"
+msgstr ""
+
+msgctxt "permdesc_writeGeolocationPermissions"
+msgid ""
+"Allows an application to modify the Browser's geolocation permissions. "
+"Malicious applications can use this to allow sending location information"
+" to arbitrary web sites."
+msgstr ""
+
+msgctxt "save_password_message"
+msgid "Do you want the browser to remember this password?"
+msgstr ""
+
+msgctxt "save_password_notnow"
+msgid "Not now"
+msgstr ""
+
+msgctxt "save_password_remember"
+msgid "Remember"
+msgstr ""
+
+msgctxt "save_password_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "open_permission_deny"
+msgid "You do not have permission to open this page."
 msgstr ""
 
 msgctxt "text_copied"
 msgid "Text copied to clipboard."
 msgstr ""
 
-msgctxt "text_pastelist"
-msgid "Clipboard"
+msgctxt "more_item_label"
+msgid "More"
 msgstr ""
 
-msgctxt "ThreeWCMmi"
-msgid "Three way calling"
+msgctxt "prepend_shortcut_label"
+msgid "Menu+"
 msgstr ""
 
-msgctxt "throttled_notification_message"
-msgid "Touch to learn more about mobile data use"
+msgctxt "menu_space_shortcut_label"
+msgid "Space"
 msgstr ""
 
-msgctxt "throttled_notification_title"
-msgid "Mobile data limit exceeded"
+msgctxt "menu_enter_shortcut_label"
+msgid "Enter"
 msgstr ""
 
-msgctxt "throttle_warning_notification_message"
-msgid "Touch to learn more about mobile data use"
+msgctxt "menu_delete_shortcut_label"
+msgid "Delete"
 msgstr ""
 
-msgctxt "throttle_warning_notification_title"
-msgid "High mobile data use"
+msgctxt "oneMonthDurationPast"
+msgid "1 month ago"
 msgstr ""
 
-msgctxt "time1_time2"
-msgid "%1$s – %2$s"
+msgctxt "beforeOneMonthDurationPast"
+msgid "Before 1 month ago"
 msgstr ""
 
-msgctxt "time_date"
-msgid "%1$s, %3$s"
+msgctxt "last_month"
+msgid "Last month"
 msgstr ""
 
-msgctxt "time_of_day"
-msgid "%-l:%M:%S %p"
+msgctxt "older"
+msgid "Older"
 msgstr ""
 
-msgctxt "time_wday"
+#, c-format
+msgctxt "preposition_for_date"
+msgid "on %s"
+msgstr ""
+
+#, c-format
+msgctxt "preposition_for_time"
+msgid "at %s"
+msgstr ""
+
+#, c-format
+msgctxt "preposition_for_year"
+msgid "in %s"
+msgstr ""
+
+msgctxt "day"
+msgid "day"
+msgstr ""
+
+msgctxt "days"
+msgid "days"
+msgstr ""
+
+msgctxt "hour"
+msgid "hour"
+msgstr ""
+
+msgctxt "hours"
+msgid "hours"
+msgstr ""
+
+msgctxt "minute"
+msgid "min"
+msgstr ""
+
+msgctxt "minutes"
+msgid "mins"
+msgstr ""
+
+msgctxt "second"
+msgid "sec"
+msgstr ""
+
+msgctxt "seconds"
+msgid "secs"
+msgstr ""
+
+msgctxt "week"
+msgid "week"
+msgstr ""
+
+msgctxt "weeks"
+msgid "weeks"
+msgstr ""
+
+msgctxt "year"
+msgid "year"
+msgstr ""
+
+msgctxt "years"
+msgid "years"
+msgstr ""
+
+#, c-format
+msgctxt "relative_time"
 msgid "%1$s, %2$s"
 msgstr ""
 
-msgctxt "time_wday_date"
-msgid "%1$s, %2$s, %3$s"
+msgctxt "noon"
+msgid "noon"
 msgstr ""
 
-msgctxt "today"
-msgid "Today"
+msgctxt "Noon"
+msgid "Noon"
 msgstr ""
 
-msgctxt "tomorrow"
-msgid "Tomorrow"
+msgctxt "midnight"
+msgid "midnight"
 msgstr ""
 
-msgctxt "traffic_control_hint"
-msgid "You can disable the traffic monitor below"
+msgctxt "Midnight"
+msgid "Midnight"
 msgstr ""
 
-msgctxt "traffic_ok"
-msgid "Traffic is Normal"
+#, c-format
+msgctxt "elapsed_time_short_format_mm_ss"
+msgid "%1$02d:%2$02d"
 msgstr ""
 
-msgctxt "traffic_settings_hint"
-msgid "Do you want to monitor your usage?"
+#, c-format
+msgctxt "elapsed_time_short_format_h_mm_ss"
+msgid "%1$d:%2$02d:%3$02d"
 msgstr ""
 
-msgctxt "turn_off_radio"
-msgid "Turn off wireless"
+msgctxt "selectText"
+msgid "Select text"
 msgstr ""
 
-msgctxt "turn_on_radio"
-msgid "Turn on wireless"
+msgctxt "inputMethod"
+msgid "Input method"
 msgstr ""
 
-msgctxt "tutorial_double_tap_to_zoom_message_short"
-msgid "Tap twice for zoom control"
+#, c-format
+msgctxt "addToDictionary"
+msgid "Add \"%s\" to dictionary"
 msgstr ""
 
-msgctxt "twelve_hour_time_format"
-msgid "h:mm a"
+msgctxt "editTextMenuTitle"
+msgid "Edit text"
 msgstr ""
 
-msgctxt "twenty_four_hour_time_format"
-msgid "HH:mm"
+msgctxt "low_internal_storage_view_title"
+msgid "Low on space"
 msgstr ""
 
-msgctxt "unknown"
-msgid "Unknown number"
+msgctxt "low_internal_storage_view_text"
+msgid "Phone storage space is getting low."
 msgstr ""
 
-msgctxt "unknownName"
-msgid "(Unknown)"
+msgctxt "capital_on"
+msgid "ON"
 msgstr ""
 
-msgctxt "untitled"
-msgid "Untitled"
+msgctxt "capital_off"
+msgid "OFF"
 msgstr ""
 
-msgctxt "upload_file"
-msgid "Choose file"
+msgctxt "whichApplication"
+msgid "Complete action using"
 msgstr ""
 
-msgctxt "usb_storage_activity_title"
-msgid "USB Mass Storage"
+msgctxt "alwaysUse"
+msgid "Use by default for this action."
 msgstr ""
 
-msgctxt "usb_storage_button_mount"
-msgid "Turn on USB storage"
+msgctxt "clearDefaultHintMsg"
+msgid "Clear default in Home Settings &gt; Applications &gt; Manage applications."
 msgstr ""
 
-msgctxt "usb_storage_error_message"
-msgid "There is a problem using your SD card for USB storage."
+msgctxt "chooseActivity"
+msgid "Select an action"
 msgstr ""
 
-msgctxt "usb_storage_message"
+msgctxt "chooseUsbActivity"
+msgid "Select an application for the USB device"
+msgstr ""
+
+msgctxt "noApplications"
+msgid "No applications can perform this action."
+msgstr ""
+
+msgctxt "aerr_title"
+msgid "Sorry!"
+msgstr ""
+
+#, c-format
+msgctxt "aerr_application"
 msgid ""
-"You have connected your phone to your computer via USB. Select the button"
-" below if you want to copy files between your computer and your Android's"
-" SD card."
+"The application %1$s (process %2$s) has stopped unexpectedly. Please try "
+"again."
 msgstr ""
 
-msgctxt "usb_storage_notification_message"
-msgid "Select to copy files to/from your computer."
+#, c-format
+msgctxt "aerr_process"
+msgid "The process %1$s has stopped unexpectedly. Please try again."
 msgstr ""
 
-msgctxt "usb_storage_notification_title"
-msgid "USB connected"
+msgctxt "anr_title"
+msgid "Sorry!"
 msgstr ""
 
-msgctxt "usb_storage_stop_button_mount"
-msgid "Turn off USB storage"
+#, c-format
+msgctxt "anr_activity_application"
+msgid "Activity %1$s (in application %2$s) is not responding."
 msgstr ""
 
-msgctxt "usb_storage_stop_error_message"
+#, c-format
+msgctxt "anr_activity_process"
+msgid "Activity %1$s (in process %2$s) is not responding."
+msgstr ""
+
+#, c-format
+msgctxt "anr_application_process"
+msgid "Application %1$s (in process %2$s) is not responding."
+msgstr ""
+
+#, c-format
+msgctxt "anr_process"
+msgid "Process %1$s is not responding."
+msgstr ""
+
+msgctxt "force_close"
+msgid "Force close"
+msgstr ""
+
+msgctxt "report"
+msgid "Report"
+msgstr ""
+
+msgctxt "wait"
+msgid "Wait"
+msgstr ""
+
+msgctxt "launch_warning_title"
+msgid "Application redirected"
+msgstr ""
+
+#, c-format
+msgctxt "launch_warning_replace"
+msgid "%1$s is now running."
+msgstr ""
+
+#, c-format
+msgctxt "launch_warning_original"
+msgid "%1$s was originally launched."
+msgstr ""
+
+#, c-format
+msgctxt "package_behavior_confirmation"
 msgid ""
-"There was a problem turning off USB storage. Check to make sure you have "
-"unmounted the USB host, then try again."
+"Application %1$s is requesting permission %2$s. We consider it risky. If "
+"you trust the application, please choose %3$s. Otherwise please choose "
+"%4$s.\n"
+"\n"
+"Note: Some application will crash if the request is denied.\n"
+"\n"
+"This dialog will be dismissed in %5$s seconds and the request will be "
+"denied."
 msgstr ""
 
-msgctxt "usb_storage_stop_message"
+msgctxt "literal_or_with_leading_trailing_space"
+msgid "or"
+msgstr ""
+
+msgctxt "literal_unknown"
+msgid "unknown"
+msgstr ""
+
+#, c-format
+msgctxt "smv_application"
 msgid ""
-"Before turning off USB storage, make sure you have unmounted (“ejected”) "
-"your Android‘s SD card from your computer."
+"The application %1$s (process %2$s) has violated its self-enforced "
+"StrictMode policy."
 msgstr ""
 
-msgctxt "usb_storage_stop_notification_message"
-msgid "Select to turn off USB storage."
+#, c-format
+msgctxt "smv_process"
+msgid "The process %1$s has has violated its self-enforced StrictMode policy."
 msgstr ""
 
-msgctxt "usb_storage_stop_notification_title"
-msgid "Turn off USB storage"
+#, c-format
+msgctxt "heavy_weight_notification"
+msgid "%1$s running"
 msgstr ""
 
-msgctxt "usb_storage_stop_title"
-msgid "USB storage in use"
+msgctxt "heavy_weight_notification_detail"
+msgid "Select to switch to application"
 msgstr ""
 
-msgctxt "usb_storage_title"
-msgid "USB connected"
+msgctxt "heavy_weight_switcher_title"
+msgid "Switch applications?"
 msgstr ""
 
-msgctxt "VideoView_error_button"
-msgid "OK"
+msgctxt "heavy_weight_switcher_text"
+msgid ""
+"Another application is already running that must be stopped before you "
+"can start a new one."
 msgstr ""
 
-msgctxt "VideoView_error_text_invalid_progressive_playback"
-msgid "Sorry, this video is not valid for streaming to this device."
+#, c-format
+msgctxt "old_app_action"
+msgid "Return to %1$s"
 msgstr ""
 
-msgctxt "VideoView_error_text_unknown"
-msgid "Sorry, this video cannot be played."
+msgctxt "old_app_description"
+msgid "Don't start the new application."
 msgstr ""
 
-msgctxt "VideoView_error_title"
-msgid "Cannot play video"
+#, c-format
+msgctxt "new_app_action"
+msgid "Start %1$s"
 msgstr ""
 
-msgctxt "volume_alarm"
-msgid "Alarm volume"
+msgctxt "new_app_description"
+msgid "Stop the old application without saving."
 msgstr ""
 
-msgctxt "volume_bluetooth_call"
-msgid "Bluetooth in-call volume"
+msgctxt "sendText"
+msgid "Select an action for text"
 msgstr ""
 
-msgctxt "volume_call"
-msgid "In-call volume"
+msgctxt "volume_ringtone"
+msgid "Ringer volume"
 msgstr ""
 
 msgctxt "volume_music"
@@ -4746,74 +3507,1700 @@ msgctxt "volume_music_hint_silent_ringtone_selected"
 msgid "Silent ringtone selected"
 msgstr ""
 
-msgctxt "volume_notification"
-msgid "Notification volume"
+msgctxt "volume_call"
+msgid "In-call volume"
 msgstr ""
 
-msgctxt "volume_ringtone"
-msgid "Ringer volume"
+msgctxt "volume_bluetooth_call"
+msgid "Bluetooth in-call volume"
+msgstr ""
+
+msgctxt "volume_alarm"
+msgid "Alarm volume"
+msgstr ""
+
+msgctxt "volume_notification"
+msgid "Notification volume"
 msgstr ""
 
 msgctxt "volume_unknown"
 msgid "Volume"
 msgstr ""
 
-msgctxt "wait"
-msgid "Wait"
+msgctxt "ringtone_default"
+msgid "Default ringtone"
 msgstr ""
 
-msgctxt "wallpaper_binding_label"
-msgid "Wallpaper"
+#, c-format
+msgctxt "ringtone_default_with_actual"
+msgid "Default ringtone (%1$s)"
 msgstr ""
 
-msgctxt "wday1_date1_time1_wday2_date2_time2"
-msgid "%1$s, %2$s, %3$s – %4$s, %5$s, %6$s"
+msgctxt "ringtone_silent"
+msgid "Silent"
 msgstr ""
 
-msgctxt "wday1_date1_wday2_date2"
-msgid "%1$s, %2$s – %4$s, %5$s"
+msgctxt "ringtone_picker_title"
+msgid "Ringtones"
 msgstr ""
 
-msgctxt "wday_date"
-msgid "%2$s, %3$s"
-msgstr ""
-
-#, python-format
-msgctxt "web_user_agent"
-msgid ""
-"Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) "
-"Version/4.0 Mobile Safari/533.1"
-msgstr ""
-
-msgctxt "week"
-msgid "week"
-msgstr ""
-
-msgctxt "weeks"
-msgid "weeks"
-msgstr ""
-
-msgctxt "whichApplication"
-msgid "Complete action using"
+msgctxt "ringtone_unknown"
+msgid "Unknown ringtone"
 msgstr ""
 
 msgctxt "wifi_tether_configure_ssid_default"
 msgid "AndroidAP"
 msgstr ""
 
-msgctxt "year"
-msgid "year"
+msgctxt "select_character"
+msgid "Insert character"
 msgstr ""
 
-msgctxt "years"
-msgid "years"
+msgctxt "sms_control_default_app_name"
+msgid "Unknown application"
 msgstr ""
 
-msgctxt "yes"
+msgctxt "sms_control_title"
+msgid "Sending SMS messages"
+msgstr ""
+
+msgctxt "sms_control_message"
+msgid ""
+"A large number of SMS messages are being sent. Select \"OK\" to continue,"
+" or \"Cancel\" to stop sending."
+msgstr ""
+
+msgctxt "sms_control_yes"
 msgid "OK"
 msgstr ""
 
-msgctxt "yesterday"
-msgid "Yesterday"
+msgctxt "sms_control_no"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "date_time_set"
+msgid "Set"
+msgstr ""
+
+msgctxt "default_permission_group"
+msgid "Default"
+msgstr ""
+
+#, c-format
+msgctxt "permissions_format"
+msgid "%1$s, %2$s"
+msgstr ""
+
+msgctxt "no_permissions"
+msgid "No permissions required"
+msgstr ""
+
+msgctxt "perms_hide"
+msgid "<b>Hide</b>"
+msgstr ""
+
+msgctxt "perms_show_all"
+msgid "<b>Show all</b>"
+msgstr ""
+
+msgctxt "usb_storage_activity_title"
+msgid "USB Mass Storage"
+msgstr ""
+
+msgctxt "usb_storage_title"
+msgid "USB connected"
+msgstr ""
+
+msgctxt "usb_storage_message"
+msgid ""
+"You have connected your phone to your computer via USB. Select the button"
+" below if you want to copy files between your computer and your Android's"
+" SD card."
+msgstr ""
+
+msgctxt "usb_storage_button_mount"
+msgid "Turn on USB storage"
+msgstr ""
+
+msgctxt "usb_storage_error_message"
+msgid "There is a problem using your SD card for USB storage."
+msgstr ""
+
+msgctxt "usb_storage_notification_title"
+msgid "USB connected"
+msgstr ""
+
+msgctxt "usb_storage_notification_message"
+msgid "Select to copy files to/from your computer."
+msgstr ""
+
+msgctxt "usb_storage_stop_notification_title"
+msgid "Turn off USB storage"
+msgstr ""
+
+msgctxt "usb_storage_stop_notification_message"
+msgid "Select to turn off USB storage."
+msgstr ""
+
+msgctxt "usb_storage_stop_title"
+msgid "USB storage in use"
+msgstr ""
+
+msgctxt "usb_storage_stop_message"
+msgid ""
+"Before turning off USB storage, make sure you have unmounted (“ejected”) "
+"your Android‘s SD card from your computer."
+msgstr ""
+
+msgctxt "usb_storage_stop_button_mount"
+msgid "Turn off USB storage"
+msgstr ""
+
+msgctxt "usb_storage_stop_error_message"
+msgid ""
+"There was a problem turning off USB storage. Check to make sure you have "
+"unmounted the USB host, then try again."
+msgstr ""
+
+msgctxt "dlg_confirm_kill_storage_users_title"
+msgid "Turn on USB storage"
+msgstr ""
+
+msgctxt "dlg_confirm_kill_storage_users_text"
+msgid ""
+"If you turn on USB storage, some applications you are using will stop and"
+" may be unavailable until you turn off USB storage."
+msgstr ""
+
+msgctxt "dlg_error_title"
+msgid "USB operation failed"
+msgstr ""
+
+msgctxt "dlg_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "extmedia_format_title"
+msgid "Format SD card"
+msgstr ""
+
+msgctxt "extmedia_format_message"
+msgid ""
+"Are you sure you want to format the SD card? All data on your card will "
+"be lost."
+msgstr ""
+
+msgctxt "extmedia_format_button_format"
+msgid "Format"
+msgstr ""
+
+msgctxt "adb_active_notification_title"
+msgid "USB debugging connected"
+msgstr ""
+
+msgctxt "adb_active_notification_message"
+msgid "Select to disable USB debugging."
+msgstr ""
+
+msgctxt "select_input_method"
+msgid "Select input method"
+msgstr ""
+
+msgctxt "fast_scroll_alphabet"
+msgid " ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr ""
+
+msgctxt "fast_scroll_numeric_alphabet"
+msgid " 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr ""
+
+msgctxt "candidates_style"
+msgid "<u>candidates</u>"
+msgstr ""
+
+msgctxt "ext_media_checking_notification_title"
+msgid "Preparing SD card"
+msgstr ""
+
+msgctxt "ext_media_checking_notification_message"
+msgid "Checking for errors."
+msgstr ""
+
+msgctxt "ext_media_nofs_notification_title"
+msgid "Blank SD card"
+msgstr ""
+
+msgctxt "ext_media_nofs_notification_message"
+msgid "SD card blank or has unsupported filesystem."
+msgstr ""
+
+msgctxt "ext_media_unmountable_notification_title"
+msgid "Damaged SD card"
+msgstr ""
+
+msgctxt "ext_media_unmountable_notification_message"
+msgid "SD card damaged. You may have to reformat it."
+msgstr ""
+
+msgctxt "ext_media_badremoval_notification_title"
+msgid "SD card unexpectedly removed"
+msgstr ""
+
+msgctxt "ext_media_badremoval_notification_message"
+msgid "Unmount SD card before removing to avoid data loss."
+msgstr ""
+
+msgctxt "ext_media_safe_unmount_notification_title"
+msgid "SD card safe to remove"
+msgstr ""
+
+msgctxt "ext_media_safe_unmount_notification_message"
+msgid "You can safely remove SD card."
+msgstr ""
+
+msgctxt "ext_media_nomedia_notification_title"
+msgid "Removed SD card"
+msgstr ""
+
+msgctxt "ext_media_nomedia_notification_message"
+msgid "SD card removed. Insert a new one."
+msgstr ""
+
+msgctxt "activity_list_empty"
+msgid "No matching activities found"
+msgstr ""
+
+msgctxt "permlab_pkgUsageStats"
+msgid "update component usage statistics"
+msgstr ""
+
+msgctxt "permdesc_pkgUsageStats"
+msgid ""
+"Allows the modification of collected component usage statistics. Not for "
+"use by normal applications."
+msgstr ""
+
+msgctxt "permlab_copyProtectedData"
+msgid ""
+"Allows to invoke default container service to copy content. Not for use "
+"by normal applications."
+msgstr ""
+
+msgctxt "permdesc_copyProtectedData"
+msgid ""
+"Allows to invoke default container service to copy content. Not for use "
+"by normal applications."
+msgstr ""
+
+msgctxt "tutorial_double_tap_to_zoom_message_short"
+msgid "Tap twice for zoom control"
+msgstr ""
+
+msgctxt "gadget_host_error_inflating"
+msgid "Error inflating widget"
+msgstr ""
+
+msgctxt "ime_action_go"
+msgid "Go"
+msgstr ""
+
+msgctxt "ime_action_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "ime_action_send"
+msgid "Send"
+msgstr ""
+
+msgctxt "ime_action_next"
+msgid "Next"
+msgstr ""
+
+msgctxt "ime_action_done"
+msgid "Done"
+msgstr ""
+
+msgctxt "ime_action_default"
+msgid "Execute"
+msgstr ""
+
+#, c-format
+msgctxt "dial_number_using"
+msgid ""
+"Dial number\n"
+"using %s"
+msgstr ""
+
+#, c-format
+msgctxt "create_contact_using"
+msgid ""
+"Create contact\n"
+"using %s"
+msgstr ""
+
+msgctxt "accessibility_compound_button_selected"
+msgid "checked"
+msgstr ""
+
+msgctxt "accessibility_compound_button_unselected"
+msgid "not checked"
+msgstr ""
+
+msgctxt "grant_credentials_permission_message_header"
+msgid ""
+"The following one or more applications request permission to access your "
+"account, now and in the future."
+msgstr ""
+
+msgctxt "grant_credentials_permission_message_footer"
+msgid "Do you want to allow this request?"
+msgstr ""
+
+msgctxt "grant_permissions_header_text"
+msgid "Access Request"
+msgstr ""
+
+msgctxt "allow"
+msgid "Allow"
+msgstr ""
+
+msgctxt "deny"
+msgid "Deny"
+msgstr ""
+
+msgctxt "permission_request_notification_title"
+msgid "Permission Requested"
+msgstr ""
+
+#, c-format
+msgctxt "permission_request_notification_with_subtitle"
+msgid ""
+"Permission Requested\n"
+"for account %s"
+msgstr ""
+
+msgctxt "input_method_binding_label"
+msgid "Input method"
+msgstr ""
+
+msgctxt "sync_binding_label"
+msgid "Sync"
+msgstr ""
+
+msgctxt "accessibility_binding_label"
+msgid "Accessibility"
+msgstr ""
+
+msgctxt "wallpaper_binding_label"
+msgid "Wallpaper"
+msgstr ""
+
+msgctxt "chooser_wallpaper"
+msgid "Change wallpaper"
+msgstr ""
+
+msgctxt "alternate_eri_file"
+msgid "/data/eri.xml"
+msgstr ""
+
+msgctxt "pptp_vpn_description"
+msgid "Point-to-Point Tunneling Protocol"
+msgstr ""
+
+msgctxt "l2tp_vpn_description"
+msgid "Layer 2 Tunnelling Protocol"
+msgstr ""
+
+msgctxt "l2tp_ipsec_psk_vpn_description"
+msgid "Pre-shared key based L2TP/IPSec VPN"
+msgstr ""
+
+msgctxt "l2tp_ipsec_crt_vpn_description"
+msgid "Certificate based L2TP/IPSec VPN"
+msgstr ""
+
+msgctxt "openvpn_vpn_description"
+msgid "OpenVPN SSL VPN"
+msgstr ""
+
+msgctxt "upload_file"
+msgid "Choose file"
+msgstr ""
+
+msgctxt "reset"
+msgid "Reset"
+msgstr ""
+
+msgctxt "submit"
+msgid "Submit"
+msgstr ""
+
+msgctxt "description_star"
+msgid "favorite"
+msgstr ""
+
+msgctxt "car_mode_disable_notification_title"
+msgid "Car mode enabled"
+msgstr ""
+
+msgctxt "car_mode_disable_notification_message"
+msgid "Select to exit car mode."
+msgstr ""
+
+msgctxt "tethered_notification_title"
+msgid "Tethering or hotspot active"
+msgstr ""
+
+msgctxt "tethered_notification_message"
+msgid "Touch to configure"
+msgstr ""
+
+msgctxt "throttle_warning_notification_title"
+msgid "High mobile data use"
+msgstr ""
+
+msgctxt "throttle_warning_notification_message"
+msgid "Touch to learn more about mobile data use"
+msgstr ""
+
+msgctxt "throttled_notification_title"
+msgid "Mobile data limit exceeded"
+msgstr ""
+
+msgctxt "throttled_notification_message"
+msgid "Touch to learn more about mobile data use"
+msgstr ""
+
+msgctxt "progress_unmounting"
+msgid "Unmounting USB storage..."
+msgstr ""
+
+msgctxt "progress_erasing"
+msgid "Erasing USB storage..."
+msgstr ""
+
+msgctxt "format_error"
+msgid "Failed to erase USB storage."
+msgstr ""
+
+msgctxt "media_bad_removal"
+msgid "SD card was removed before being unmounted."
+msgstr ""
+
+msgctxt "media_checking"
+msgid "USB storage is currently being checked."
+msgstr ""
+
+msgctxt "media_removed"
+msgid "SD card has been removed."
+msgstr ""
+
+msgctxt "media_shared"
+msgid "USB storage is currently in use by a computer."
+msgstr ""
+
+msgctxt "media_unknown_state"
+msgid "External media in unknown state."
+msgstr ""
+
+msgctxt "reboot_confirm"
+msgid "Phone will be restarted"
+msgstr ""
+
+msgctxt "reboot_progress"
+msgid "Restarting..."
+msgstr ""
+
+msgctxt "global_action_toggle_privacy_mode"
+msgid "Guard"
+msgstr ""
+
+msgctxt "global_action_privacy_mode_on_status"
+msgid "Guard mode is ON"
+msgstr ""
+
+msgctxt "global_action_privacy_mode_on_toast"
+msgid ""
+"Guard mode is turned on. Calls and text messages are hidden and launcher "
+"cannot enter editing mode."
+msgstr ""
+
+msgctxt "global_action_privacy_mode_dialog_message"
+msgid ""
+"In guarded mode, calls and text messages will be hidden and launcher will"
+" not be able to enter editing mode."
+msgstr ""
+
+msgctxt "global_action_privacy_mode_off_status"
+msgid "Guard mode is OFF"
+msgstr ""
+
+msgctxt "status_bar_toggle_divider"
+msgid "Toggles placed above bar are active"
+msgstr ""
+
+msgctxt "status_bar_toggle_wifi"
+msgid "Wi-Fi"
+msgstr ""
+
+msgctxt "status_bar_toggle_data"
+msgid "Data"
+msgstr ""
+
+msgctxt "status_bar_toggle_bluetooth"
+msgid "BT"
+msgstr ""
+
+msgctxt "status_bar_toggle_rotate"
+msgid "Rotation"
+msgstr ""
+
+msgctxt "status_bar_toggle_brightness"
+msgid "Backlight"
+msgstr ""
+
+msgctxt "status_bar_toggle_mute"
+msgid "Silent"
+msgstr ""
+
+msgctxt "status_bar_toggle_gps"
+msgid "GPS"
+msgstr ""
+
+msgctxt "status_bar_toggle_sync"
+msgid "Sync"
+msgstr ""
+
+msgctxt "status_bar_toggle_vibrate"
+msgid "Vibrate"
+msgstr ""
+
+msgctxt "status_bar_toggle_flight_mode"
+msgid "Airplane"
+msgstr ""
+
+msgctxt "status_bar_toggle_lock"
+msgid "Lock"
+msgstr ""
+
+msgctxt "status_bar_toggle_torch"
+msgid "Torch"
+msgstr ""
+
+msgctxt "status_bar_toggle_reboot"
+msgid "Reboot"
+msgstr ""
+
+msgctxt "status_bar_toggle_shutdown"
+msgid "Power"
+msgstr ""
+
+msgctxt "status_bar_toggle_privacy_mode"
+msgid "Guard"
+msgstr ""
+
+msgctxt "first_back_long_press_title"
+msgid "Press Return Key Behaviour"
+msgstr ""
+
+msgctxt "first_back_long_press_message"
+msgid ""
+"Do you want to enable the function of long-pressing the back key to kill "
+"the current process and its background services? \n"
+"\n"
+"Enable via Settings &gt; System &gt; Button Settings"
+msgstr ""
+
+#, c-format
+msgctxt "force_exit_message"
+msgid "Successfully closed \"%1$s\""
+msgstr ""
+
+msgctxt "lockscreen_dial_label"
+msgid "Open Dialer"
+msgstr ""
+
+msgctxt "lockscreen_mms_label"
+msgid "Open SMS"
+msgstr ""
+
+msgctxt "status_bar_back_to_call"
+msgid "Touch here to return to the call"
+msgstr ""
+
+msgctxt "lockscreen_time_bottom_hint"
+msgid "Slide down to unlock"
+msgstr ""
+
+msgctxt "lockscreen_call_bottom_hint"
+msgid "Slide down to open Dialer"
+msgstr ""
+
+msgctxt "lockscreen_sms_bottom_hint"
+msgid "Slide down to open SMS"
+msgstr ""
+
+msgctxt "lockscreen_unlock_hint"
+msgid "Slide down to unlock"
+msgstr ""
+
+msgctxt "unknown"
+msgid "Unknown number"
+msgstr ""
+
+msgctxt "private_num"
+msgid "Private number"
+msgstr ""
+
+msgctxt "payphone"
+msgid "Payphone"
+msgstr ""
+
+#, c-format
+msgctxt "callNoAnswerTimeFormat"
+msgid "Ring %s times"
+msgstr ""
+
+#, c-format
+msgctxt "callDetailsDurationFormat"
+msgid "%1$s minutes %2$s seconds"
+msgstr ""
+
+msgctxt "firewall_setting"
+msgid "DND Mode"
+msgstr ""
+
+msgctxt "date_day"
+msgid "Date"
+msgstr ""
+
+msgctxt "lunar_calendar"
+msgid "Lunar calendar"
+msgstr ""
+
+msgctxt "lunar_ling"
+msgid "O"
+msgstr ""
+
+msgctxt "lunar_year"
+msgid "Year"
+msgstr ""
+
+#, c-format
+msgctxt "sms_traffic"
+msgid "%d messages have been sent this month"
+msgstr ""
+
+#, c-format
+msgctxt "sms_traffic_exceeded"
+msgid "Messaging traffic limit exceeded by %d message(s)"
+msgstr ""
+
+#, c-format
+msgctxt "mobile_traffic"
+msgid "%sMB has been used this month"
+msgstr ""
+
+#, c-format
+msgctxt "mobile_traffic_exceeded"
+msgid "Mobile internet traffic limit exceeded by %sMB"
+msgstr ""
+
+msgctxt "traffic_settings_hint"
+msgid "Do you want to monitor your usage?"
+msgstr ""
+
+msgctxt "traffic_control_hint"
+msgid "You can disable the traffic monitor below"
+msgstr ""
+
+msgctxt "monitor_traffic_title"
+msgid "Call Traffic Monitor"
+msgstr ""
+
+msgctxt "settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "ignore"
+msgid "Ignore"
+msgstr ""
+
+msgctxt "traffic_ok"
+msgid "Traffic is Normal"
+msgstr ""
+
+#, c-format
+msgctxt "sms_exceeded"
+msgid "Messaging limit exceeded by %d message(s)"
+msgstr ""
+
+#, c-format
+msgctxt "mobile_exceeded"
+msgid "Mobile Internet transfer limit exceeded by %sMB"
+msgstr ""
+
+msgctxt "country_name_bs"
+msgid "Bahamas"
+msgstr ""
+
+msgctxt "country_name_bb"
+msgid "Barbados"
+msgstr ""
+
+msgctxt "country_name_ai"
+msgid "Anguilla"
+msgstr ""
+
+msgctxt "country_name_ag"
+msgid "Antigua and Barbuda"
+msgstr ""
+
+msgctxt "country_name_vg"
+msgid "British Virgin Islands"
+msgstr ""
+
+msgctxt "country_name_vi"
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+msgctxt "country_name_ky"
+msgid "Cayman Islands"
+msgstr ""
+
+msgctxt "country_name_bm"
+msgid "Bermuda"
+msgstr ""
+
+msgctxt "country_name_gd"
+msgid "Grenada"
+msgstr ""
+
+msgctxt "country_name_tc"
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+msgctxt "country_name_ms"
+msgid "Montserrat"
+msgstr ""
+
+msgctxt "country_name_mp"
+msgid "Northern Mariana Islands"
+msgstr ""
+
+msgctxt "country_name_gu"
+msgid "Guam"
+msgstr ""
+
+msgctxt "country_name_as"
+msgid "East Samoa (U.S.)"
+msgstr ""
+
+msgctxt "country_name_sx"
+msgid "St. Martin Island"
+msgstr ""
+
+msgctxt "country_name_lc"
+msgid "Saint Lucia"
+msgstr ""
+
+msgctxt "country_name_dm"
+msgid "Dominican"
+msgstr ""
+
+msgctxt "country_name_vc"
+msgid "Saint Vincent"
+msgstr ""
+
+msgctxt "country_name_pr"
+msgid "Puerto Rico"
+msgstr ""
+
+msgctxt "country_name_do"
+msgid "Dominican Republic"
+msgstr ""
+
+msgctxt "country_name_tt"
+msgid "Trinidad and Tobago"
+msgstr ""
+
+msgctxt "country_name_kn"
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+msgctxt "country_name_jm"
+msgid "Jamaica"
+msgstr ""
+
+msgctxt "country_name_us_ca"
+msgid "United States / Canada"
+msgstr ""
+
+msgctxt "country_name_eg"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "country_name_ma"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "country_name_dz"
+msgid "Algeria"
+msgstr ""
+
+msgctxt "country_name_tn"
+msgid "Tunisia"
+msgstr ""
+
+msgctxt "country_name_ly"
+msgid "Libya"
+msgstr ""
+
+msgctxt "country_name_gm"
+msgid "Gambia"
+msgstr ""
+
+msgctxt "country_name_sn"
+msgid "Senegal"
+msgstr ""
+
+msgctxt "country_name_mr"
+msgid "Mauritania"
+msgstr ""
+
+msgctxt "country_name_ml"
+msgid "Mali"
+msgstr ""
+
+msgctxt "country_name_gn"
+msgid "Guinea"
+msgstr ""
+
+msgctxt "country_name_ci"
+msgid "Côte d'Ivoire"
+msgstr ""
+
+msgctxt "country_name_bf"
+msgid "Burkina Faso"
+msgstr ""
+
+msgctxt "country_name_ne"
+msgid "Niger"
+msgstr ""
+
+msgctxt "country_name_tg"
+msgid "Togo"
+msgstr ""
+
+msgctxt "country_name_bj"
+msgid "Benin"
+msgstr ""
+
+msgctxt "country_name_mu"
+msgid "Mauritius"
+msgstr ""
+
+msgctxt "country_name_lr"
+msgid "Liberia"
+msgstr ""
+
+msgctxt "country_name_sl"
+msgid "Sierra Leone"
+msgstr ""
+
+msgctxt "country_name_gh"
+msgid "Ghana"
+msgstr ""
+
+msgctxt "country_name_ng"
+msgid "Nigeria"
+msgstr ""
+
+msgctxt "country_name_td"
+msgid "Chad"
+msgstr ""
+
+msgctxt "country_name_cf"
+msgid "Central African Republic"
+msgstr ""
+
+msgctxt "country_name_cm"
+msgid "Cameroon"
+msgstr ""
+
+msgctxt "country_name_cv"
+msgid "Cape Verde"
+msgstr ""
+
+msgctxt "country_name_st"
+msgid "Sao Tome and Principe"
+msgstr ""
+
+msgctxt "country_name_gq"
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgctxt "country_name_ga"
+msgid "Gabon"
+msgstr ""
+
+msgctxt "country_name_cg"
+msgid "Congo"
+msgstr ""
+
+msgctxt "country_name_cd"
+msgid "Democratic Republic of Congo"
+msgstr ""
+
+msgctxt "country_name_ao"
+msgid "Angola"
+msgstr ""
+
+msgctxt "country_name_gw"
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgctxt "country_name_io"
+msgid "Diego Garcia"
+msgstr ""
+
+msgctxt "country_name_ac"
+msgid "Ascension"
+msgstr ""
+
+msgctxt "country_name_sc"
+msgid "Seychelles"
+msgstr ""
+
+msgctxt "country_name_sd"
+msgid "Sudan"
+msgstr ""
+
+msgctxt "country_name_rw"
+msgid "Rwanda"
+msgstr ""
+
+msgctxt "country_name_et"
+msgid "Ethiopia"
+msgstr ""
+
+msgctxt "country_name_so"
+msgid "Somalia"
+msgstr ""
+
+msgctxt "country_name_dj"
+msgid "Djibouti"
+msgstr ""
+
+msgctxt "country_name_ke"
+msgid "Kenya"
+msgstr ""
+
+msgctxt "country_name_tz"
+msgid "Tanzania"
+msgstr ""
+
+msgctxt "country_name_ug"
+msgid "Uganda"
+msgstr ""
+
+msgctxt "country_name_bi"
+msgid "Burundi"
+msgstr ""
+
+msgctxt "country_name_mz"
+msgid "Mozambique"
+msgstr ""
+
+msgctxt "country_name_zm"
+msgid "Zambia"
+msgstr ""
+
+msgctxt "country_name_mg"
+msgid "Madagascar"
+msgstr ""
+
+msgctxt "country_name_re_yt"
+msgid "Reunion / Mayotte"
+msgstr ""
+
+msgctxt "country_name_zw"
+msgid "Zimbabwe"
+msgstr ""
+
+msgctxt "country_name_na"
+msgid "Namibia"
+msgstr ""
+
+msgctxt "country_name_mw"
+msgid "Malawi"
+msgstr ""
+
+msgctxt "country_name_ls"
+msgid "Lesotho"
+msgstr ""
+
+msgctxt "country_name_bw"
+msgid "Botswana"
+msgstr ""
+
+msgctxt "country_name_sz"
+msgid "Swaziland"
+msgstr ""
+
+msgctxt "country_name_km"
+msgid "Comoros"
+msgstr ""
+
+msgctxt "country_name_za"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "country_name_sh"
+msgid "St. Helena"
+msgstr ""
+
+msgctxt "country_name_er"
+msgid "Eritrea"
+msgstr ""
+
+msgctxt "country_name_aw"
+msgid "Aruba"
+msgstr ""
+
+msgctxt "country_name_fo"
+msgid "Faroe Islands"
+msgstr ""
+
+msgctxt "country_name_gl"
+msgid "Greenland"
+msgstr ""
+
+msgctxt "country_name_gr"
+msgid "Greece"
+msgstr ""
+
+msgctxt "country_name_nl"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "country_name_be"
+msgid "Belgium"
+msgstr ""
+
+msgctxt "country_name_fr"
+msgid "French"
+msgstr ""
+
+msgctxt "country_name_es"
+msgid "Spain"
+msgstr ""
+
+msgctxt "country_name_gi"
+msgid "Gibraltar"
+msgstr ""
+
+msgctxt "country_name_pt"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "country_name_lu"
+msgid "Luxembourg"
+msgstr ""
+
+msgctxt "country_name_ie"
+msgid "Ireland"
+msgstr ""
+
+msgctxt "country_name_is"
+msgid "Iceland"
+msgstr ""
+
+msgctxt "country_name_al"
+msgid "Albania"
+msgstr ""
+
+msgctxt "country_name_mt"
+msgid "Malta"
+msgstr ""
+
+msgctxt "country_name_cy"
+msgid "Cyprus"
+msgstr ""
+
+msgctxt "country_name_fi"
+msgid "Finland"
+msgstr ""
+
+msgctxt "country_name_bg"
+msgid "Bulgarian"
+msgstr ""
+
+msgctxt "country_name_hu"
+msgid "Hungary"
+msgstr ""
+
+msgctxt "country_name_lt"
+msgid "Lithuania"
+msgstr ""
+
+msgctxt "country_name_lv"
+msgid "Latvia"
+msgstr ""
+
+msgctxt "country_name_ee"
+msgid "Estonia"
+msgstr ""
+
+msgctxt "country_name_md"
+msgid "Moldova"
+msgstr ""
+
+msgctxt "country_name_am"
+msgid "Armenia"
+msgstr ""
+
+msgctxt "country_name_by"
+msgid "Belarus"
+msgstr ""
+
+msgctxt "country_name_ad"
+msgid "Andorra"
+msgstr ""
+
+msgctxt "country_name_mc"
+msgid "Monaco"
+msgstr ""
+
+msgctxt "country_name_sm"
+msgid "San Marino"
+msgstr ""
+
+msgctxt "country_name_ua"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "country_name_rs"
+msgid "Serbia"
+msgstr ""
+
+msgctxt "country_name_me"
+msgid "Montenegro"
+msgstr ""
+
+msgctxt "country_name_hr"
+msgid "Croatia"
+msgstr ""
+
+msgctxt "country_name_si"
+msgid "Slovenia"
+msgstr ""
+
+msgctxt "country_name_ba"
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgctxt "country_name_mk"
+msgid "Republic of Macedonia"
+msgstr ""
+
+msgctxt "country_name_va"
+msgid "Vatican"
+msgstr ""
+
+msgctxt "country_name_it"
+msgid "Italy"
+msgstr ""
+
+msgctxt "country_name_ro"
+msgid "Romania"
+msgstr ""
+
+msgctxt "country_name_ch"
+msgid "Switzerland"
+msgstr ""
+
+msgctxt "country_name_cz"
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "country_name_sk"
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "country_name_li"
+msgid "Liechtenstein"
+msgstr ""
+
+msgctxt "country_name_at"
+msgid "Austria"
+msgstr ""
+
+msgctxt "country_name_gg"
+msgid "Guernsey"
+msgstr ""
+
+msgctxt "country_name_je"
+msgid "Jersey"
+msgstr ""
+
+msgctxt "country_name_im"
+msgid "Isle of Man"
+msgstr ""
+
+msgctxt "country_name_uk"
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "country_name_dk"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "country_name_se"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "country_name_no"
+msgid "Norway"
+msgstr ""
+
+msgctxt "country_name_pl"
+msgid "Poland"
+msgstr ""
+
+msgctxt "country_name_de"
+msgid "German"
+msgstr ""
+
+msgctxt "country_name_fk"
+msgid "Falkland Islands"
+msgstr ""
+
+msgctxt "country_name_bz"
+msgid "Belize"
+msgstr ""
+
+msgctxt "country_name_gt"
+msgid "Guatemala"
+msgstr ""
+
+msgctxt "country_name_sv"
+msgid "El Salvador"
+msgstr ""
+
+msgctxt "country_name_hn"
+msgid "Honduras"
+msgstr ""
+
+msgctxt "country_name_ni"
+msgid "Nicaragua"
+msgstr ""
+
+msgctxt "country_name_cr"
+msgid "Costa Rica"
+msgstr ""
+
+msgctxt "country_name_pa"
+msgid "Panama"
+msgstr ""
+
+msgctxt "country_name_pm"
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+msgctxt "country_name_ht"
+msgid "Haiti"
+msgstr ""
+
+msgctxt "country_name_pe"
+msgid "Peru"
+msgstr ""
+
+msgctxt "country_name_mx"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "country_name_cu"
+msgid "Cuba"
+msgstr ""
+
+msgctxt "country_name_ar"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "country_name_br"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "country_name_cl"
+msgid "Chile"
+msgstr ""
+
+msgctxt "country_name_co"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "country_name_ve"
+msgid "Venezuela"
+msgstr ""
+
+msgctxt "country_name_gp_bl_mf"
+msgid "Guadeloupe / Saint Barthelemy / Saint Martin"
+msgstr ""
+
+msgctxt "country_name_bo"
+msgid "Bolivia"
+msgstr ""
+
+msgctxt "country_name_gy"
+msgid "Guyana"
+msgstr ""
+
+msgctxt "country_name_ec"
+msgid "Ecuador"
+msgstr ""
+
+msgctxt "country_name_gf"
+msgid "French Guiana"
+msgstr ""
+
+msgctxt "country_name_py"
+msgid "Paraguay"
+msgstr ""
+
+msgctxt "country_name_mq"
+msgid "Martinique"
+msgstr ""
+
+msgctxt "country_name_sr"
+msgid "Suriname"
+msgstr ""
+
+msgctxt "country_name_uy"
+msgid "Uruguay"
+msgstr ""
+
+msgctxt "country_name_an"
+msgid "Netherlands Antilles"
+msgstr ""
+
+msgctxt "country_name_my"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "country_name_au"
+msgid "Australia"
+msgstr ""
+
+msgctxt "country_name_id"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "country_name_ph"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "country_name_nz"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "country_name_sg"
+msgid "Singapore"
+msgstr ""
+
+msgctxt "country_name_th"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "country_name_tl"
+msgid "Timor-Leste"
+msgstr ""
+
+msgctxt "country_name_bn"
+msgid "Brunei"
+msgstr ""
+
+msgctxt "country_name_nr"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "country_name_pg"
+msgid "Papua New Guinea"
+msgstr ""
+
+msgctxt "country_name_to"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "country_name_sb"
+msgid "Solomon Islands"
+msgstr ""
+
+msgctxt "country_name_vu"
+msgid "Vanuatu"
+msgstr ""
+
+msgctxt "country_name_fj"
+msgid "Fiji"
+msgstr ""
+
+msgctxt "country_name_pw"
+msgid "Palau"
+msgstr ""
+
+msgctxt "country_name_wf"
+msgid "Wallis and Futuna"
+msgstr ""
+
+msgctxt "country_name_ck"
+msgid "Cook Islands"
+msgstr ""
+
+msgctxt "country_name_nu"
+msgid "Niue"
+msgstr ""
+
+msgctxt "country_name_ws"
+msgid "Western Samoa"
+msgstr ""
+
+msgctxt "country_name_ki"
+msgid "Kiribati"
+msgstr ""
+
+msgctxt "country_name_nc"
+msgid "New Caledonia"
+msgstr ""
+
+msgctxt "country_name_tv"
+msgid "Tuvalu"
+msgstr ""
+
+msgctxt "country_name_pf"
+msgid "French Polynesia"
+msgstr ""
+
+msgctxt "country_name_tk"
+msgid "Tokelau"
+msgstr ""
+
+msgctxt "country_name_fm"
+msgid "Federated States of Micronesia"
+msgstr ""
+
+msgctxt "country_name_mh"
+msgid "Marshall Islands"
+msgstr ""
+
+msgctxt "country_name_ru_kz"
+msgid "Russia / Kazakhstan"
+msgstr ""
+
+msgctxt "country_name_jp"
+msgid "Japan"
+msgstr ""
+
+msgctxt "country_name_kr"
+msgid "South Korea"
+msgstr ""
+
+msgctxt "country_name_vn"
+msgid "Vietnam"
+msgstr ""
+
+msgctxt "country_name_kp"
+msgid "North Korea"
+msgstr ""
+
+msgctxt "country_name_hk"
+msgid "Hong Kong, China"
+msgstr ""
+
+msgctxt "country_name_mo"
+msgid "Macao, China"
+msgstr ""
+
+msgctxt "country_name_kh"
+msgid "Cambodia"
+msgstr ""
+
+msgctxt "country_name_la"
+msgid "Laos"
+msgstr ""
+
+msgctxt "country_name_cn"
+msgid "China"
+msgstr ""
+
+msgctxt "country_name_bd"
+msgid "Bangladesh"
+msgstr ""
+
+msgctxt "country_name_tw"
+msgid "China Taiwan"
+msgstr ""
+
+msgctxt "country_name_tr"
+msgid "Turkey"
+msgstr ""
+
+msgctxt "country_name_in"
+msgid "India"
+msgstr ""
+
+msgctxt "country_name_pk"
+msgid "Pakistan"
+msgstr ""
+
+msgctxt "country_name_af"
+msgid "Afghanistan"
+msgstr ""
+
+msgctxt "country_name_lk"
+msgid "Sri Lanka"
+msgstr ""
+
+msgctxt "country_name_mm"
+msgid "Myanmar"
+msgstr ""
+
+msgctxt "country_name_mv"
+msgid "Maldives"
+msgstr ""
+
+msgctxt "country_name_lb"
+msgid "Lebanon"
+msgstr ""
+
+msgctxt "country_name_jo"
+msgid "Jordan"
+msgstr ""
+
+msgctxt "country_name_sy"
+msgid "Syria"
+msgstr ""
+
+msgctxt "country_name_iq"
+msgid "Iraq"
+msgstr ""
+
+msgctxt "country_name_kw"
+msgid "Kuwait"
+msgstr ""
+
+msgctxt "country_name_sa"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "country_name_ye"
+msgid "Yemen"
+msgstr ""
+
+msgctxt "country_name_om"
+msgid "Oman"
+msgstr ""
+
+msgctxt "country_name_ps"
+msgid "Palestinian"
+msgstr ""
+
+msgctxt "country_name_ae"
+msgid "United Arab Emirates"
+msgstr ""
+
+msgctxt "country_name_il"
+msgid "Israel"
+msgstr ""
+
+msgctxt "country_name_bh"
+msgid "Bahrain"
+msgstr ""
+
+msgctxt "country_name_qa"
+msgid "Qatar"
+msgstr ""
+
+msgctxt "country_name_bt"
+msgid "Bhutan"
+msgstr ""
+
+msgctxt "country_name_mn"
+msgid "Mongolia"
+msgstr ""
+
+msgctxt "country_name_np"
+msgid "Nepal"
+msgstr ""
+
+msgctxt "country_name_ir"
+msgid "Iran"
+msgstr ""
+
+msgctxt "country_name_tj"
+msgid "Tajikistan"
+msgstr ""
+
+msgctxt "country_name_tm"
+msgid "Turkmenistan"
+msgstr ""
+
+msgctxt "country_name_az"
+msgid "Azerbaijan"
+msgstr ""
+
+msgctxt "country_name_ge"
+msgid "Georgia"
+msgstr ""
+
+msgctxt "country_name_kg"
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgctxt "country_name_uz"
+msgid "Uzbekistan"
+msgstr ""
+
+msgctxt "open_wifi_data_for_agps"
+msgid ""
+"Automatically open Wi-Fi and Mobile network AGPS, will switch off after "
+"60 seconds of inactivity"
+msgstr ""
+
+msgctxt "open_wifi_for_agps"
+msgid ""
+"Automatically open Wi-Fi AGPS, will switch off after 60 seconds of "
+"inactivity"
+msgstr ""
+
+msgctxt "open_data_for_agps"
+msgid "Automatically open AGPS, will switch off after 60 seconds of inactivity"
+msgstr ""
+
+msgctxt "text_pastelist"
+msgid "Clipboard"
+msgstr ""
+
+msgctxt "select"
+msgid "Select"
+msgstr ""
+
+msgctxt "caller_info_name_delimiter"
+msgid "-"
+msgstr ""
+
+msgctxt "scene_headset"
+msgid "Headset"
+msgstr ""
+
+msgctxt "scene_headphone"
+msgid "Headphones"
+msgstr ""
+
+msgctxt "scene_a2dp"
+msgid "Bluetooth headset"
+msgstr ""
+
+msgctxt "scene_sco"
+msgid "Bluetooth headset"
 msgstr ""
 

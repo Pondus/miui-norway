@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,15 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "account_deleted"
-msgid "Account deleted"
-msgstr ""
-
-msgctxt "account_disabled"
-msgid "Account disabled"
-msgstr ""
-
 msgctxt "app_name"
+msgid "MIUI Account Manager"
+msgstr ""
+
+msgctxt "service_name"
 msgid "MIUI Account Manager"
 msgstr ""
 
@@ -33,8 +29,28 @@ msgctxt "authenticator_label"
 msgid "MIUI"
 msgstr ""
 
-msgctxt "bad_authentication"
-msgid "Your username and password do not match, please try again."
+msgctxt "logon"
+msgid "Login"
+msgstr ""
+
+msgctxt "nickname"
+msgid "Name / Alias:"
+msgstr ""
+
+msgctxt "username"
+msgid "Username:"
+msgstr ""
+
+msgctxt "password"
+msgid "Password:"
+msgstr ""
+
+msgctxt "email"
+msgid "E-mail:"
+msgstr ""
+
+msgctxt "registered_account"
+msgid "Account has been registered"
 msgstr ""
 
 msgctxt "bad_username"
@@ -45,71 +61,55 @@ msgctxt "bad_verification"
 msgid "Registration error"
 msgstr ""
 
-msgctxt "email"
-msgid "E-mail:"
+msgctxt "bad_authentication"
+msgid "Your username and password do not match, please try again."
 msgstr ""
 
 msgctxt "email_not_verified"
 msgid "E-mail account not yet verified"
 msgstr ""
 
-msgctxt "loging_on"
-msgid "Logging in..."
+msgctxt "terms_not_agreed"
+msgid "You must agree to our terms to register"
 msgstr ""
 
-msgctxt "login_account_suggestion"
-msgid "If you are having trouble signing up, visit: http://www.miui.com"
+msgctxt "account_deleted"
+msgid "Account deleted"
 msgstr ""
 
-msgctxt "logon"
-msgid "Login"
-msgstr ""
-
-msgctxt "must_input"
-msgid "Required field"
-msgstr ""
-
-msgctxt "my_account"
-msgid "My MIUI Profile"
-msgstr ""
-
-msgctxt "network_error"
-msgid "Network connection error, please check mobile data is active and available"
-msgstr ""
-
-msgctxt "nickname"
-msgid "Name / Alias:"
-msgstr ""
-
-msgctxt "password"
-msgid "Password:"
-msgstr ""
-
-msgctxt "registered_account"
-msgid "Account has been registered"
+msgctxt "account_disabled"
+msgid "Account disabled"
 msgstr ""
 
 msgctxt "service_disabled"
 msgid "Service disabled"
 msgstr ""
 
-msgctxt "service_name"
-msgid "MIUI Account Manager"
-msgstr ""
-
 msgctxt "service_unavailable"
 msgid "Service unavailable"
 msgstr ""
 
-msgctxt "terms_not_agreed"
-msgid "You must agree to our terms to register"
+msgctxt "network_error"
+msgid "Network connection error, please check mobile data is active and available"
 msgstr ""
 
 msgctxt "unknown"
 msgid "Unknown error"
 msgstr ""
 
-msgctxt "username"
-msgid "Username:"
+msgctxt "my_account"
+msgid "My MIUI Profile"
+msgstr ""
+
+msgctxt "must_input"
+msgid "Required field"
+msgstr ""
+
+msgctxt "login_account_suggestion"
+msgid "If you are having trouble signing up, visit: http://www.miui.com"
+msgstr ""
+
+msgctxt "loging_on"
+msgid "Logging in..."
 msgstr ""
 

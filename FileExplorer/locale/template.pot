@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,40 +17,152 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "added_favorite"
-msgid "Added to Favorites"
-msgstr ""
-
 msgctxt "app_name"
 msgid "File Explorer"
+msgstr ""
+
+msgctxt "confirm"
+msgid "OK"
+msgstr ""
+
+msgctxt "category_title"
+msgid "File Management"
+msgstr ""
+
+msgctxt "menu_item_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "operation_create_folder"
+msgid "New folder"
+msgstr ""
+
+msgctxt "menu_item_sort"
+msgid "Sort by"
+msgstr ""
+
+msgctxt "menu_item_sort_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "menu_item_sort_size"
+msgid "Size"
+msgstr ""
+
+msgctxt "menu_item_sort_date"
+msgid "Date"
+msgstr ""
+
+msgctxt "menu_item_sort_type"
+msgid "Type"
+msgstr ""
+
+msgctxt "operation_favorite"
+msgid "Add to Favorites"
+msgstr ""
+
+msgctxt "operation_unfavorite"
+msgid "Remove from Favorites"
+msgstr ""
+
+msgctxt "operation_install"
+msgid "Install"
+msgstr ""
+
+msgctxt "operation_copy"
+msgid "Copy"
+msgstr ""
+
+msgctxt "operation_paste"
+msgid "Paste"
+msgstr ""
+
+msgctxt "operation_move"
+msgid "Move"
+msgstr ""
+
+msgctxt "operation_send"
+msgid "Send"
+msgstr ""
+
+msgctxt "operation_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "operation_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "operation_info"
+msgid "Details"
+msgstr ""
+
+msgctxt "operation_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "operation_refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "operation_selectall"
+msgid "Select all"
+msgstr ""
+
+msgctxt "operation_cancel_selectall"
+msgid "Deselect All"
+msgstr ""
+
+msgctxt "operation_show_sys"
+msgid "Show hidden files"
+msgstr ""
+
+msgctxt "operation_hide_sys"
+msgid "Hide hidden files"
+msgstr ""
+
+msgctxt "operation_remove"
+msgid "Remove"
 msgstr ""
 
 msgctxt "cancel"
 msgid "Cancel"
 msgstr ""
 
+msgctxt "no_file"
+msgid "No files"
+msgstr ""
+
+msgctxt "tab_category"
+msgid "Browse"
+msgstr ""
+
+msgctxt "tab_sd"
+msgid "SD card"
+msgstr ""
+
+msgctxt "tab_remote"
+msgid "FTP"
+msgstr ""
+
+msgctxt "tab_bluetooth"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "sd_folder"
+msgid "SD card"
+msgstr ""
+
 msgctxt "category_all"
 msgid "All"
-msgstr ""
-
-msgctxt "category_apk"
-msgid "APKs"
-msgstr ""
-
-msgctxt "category_document"
-msgid "Docs"
-msgstr ""
-
-msgctxt "category_favorite"
-msgid "Favorites"
 msgstr ""
 
 msgctxt "category_music"
 msgid "Music"
 msgstr ""
 
-msgctxt "category_other"
-msgid "Misc"
+msgctxt "category_video"
+msgid "Videos"
 msgstr ""
 
 msgctxt "category_picture"
@@ -61,40 +173,60 @@ msgctxt "category_theme"
 msgid "Themes"
 msgstr ""
 
-msgctxt "category_title"
-msgid "File Management"
-msgstr ""
-
-msgctxt "category_video"
-msgid "Videos"
+msgctxt "category_document"
+msgid "Docs"
 msgstr ""
 
 msgctxt "category_zip"
 msgid "Zips"
 msgstr ""
 
-msgctxt "confirm"
-msgid "OK"
+msgctxt "category_apk"
+msgid "APKs"
 msgstr ""
 
-msgctxt "confirm_know"
-msgid "OK"
+msgctxt "category_other"
+msgid "Misc"
 msgstr ""
 
-msgctxt "enable_sd_card"
-msgid "Mount SD card"
+msgctxt "category_favorite"
+msgid "Favorites"
 msgstr ""
 
-msgctxt "error_info_cant_send_folder"
-msgid "Unable to transfer folder"
+msgctxt "operation_rename_message"
+msgid "Enter new name"
 msgstr ""
 
-msgctxt "fail_to_create_folder"
-msgid "Failed to create the folder, the folder already exists"
+msgctxt "operation_create_folder_message"
+msgid "Enter folder name"
 msgstr ""
 
-msgctxt "fail_to_rename"
-msgid "Failed to rename the file or folder as it already exists"
+msgctxt "operation_delete_confirm_message"
+msgid "Confirm Delete?"
+msgstr ""
+
+msgctxt "new_folder_name"
+msgid "New folder"
+msgstr ""
+
+msgctxt "sd_card_name"
+msgid "SD card: "
+msgstr ""
+
+msgctxt "sd_card_available"
+msgid "Space available: "
+msgstr ""
+
+msgctxt "file_info_location"
+msgid "Path:"
+msgstr ""
+
+msgctxt "file_info_size"
+msgid "Size:"
+msgstr ""
+
+msgctxt "file_info_modified"
+msgid "Modified:"
 msgstr ""
 
 msgctxt "file_info_canread"
@@ -109,209 +241,60 @@ msgctxt "file_info_ishidden"
 msgid "Hidden:"
 msgstr ""
 
-msgctxt "file_info_location"
-msgid "Path:"
-msgstr ""
-
-msgctxt "file_info_modified"
-msgid "Modified:"
-msgstr ""
-
-msgctxt "file_info_size"
-msgid "Size:"
-msgstr ""
-
-#, python-format
-msgctxt "file_size"
-msgid "%d Bytes"
-msgstr ""
-
-msgctxt "install_failed"
-msgid "Installation failed"
-msgstr ""
-
-msgctxt "install_successful"
-msgid "Installation successful"
-msgstr ""
-
-msgctxt "instruction"
-msgid "Enter the following address into your FTP Client:"
-msgstr ""
-
-msgctxt "instruction_pre"
-msgid "Start Service to enable FTP Server"
-msgstr ""
-
-msgctxt "menu_item_search"
-msgid "Search"
-msgstr ""
-
-msgctxt "menu_item_sort"
-msgid "Sort by"
-msgstr ""
-
-msgctxt "menu_item_sort_date"
-msgid "Date"
-msgstr ""
-
-msgctxt "menu_item_sort_name"
-msgid "Name"
-msgstr ""
-
-msgctxt "menu_item_sort_size"
-msgid "Size"
-msgstr ""
-
-msgctxt "menu_item_sort_type"
-msgid "Type"
-msgstr ""
-
-msgctxt "new_folder_name"
-msgid "New folder"
+msgctxt "yes"
+msgid "Yes"
 msgstr ""
 
 msgctxt "no"
 msgid "No"
 msgstr ""
 
-msgctxt "notif_server_starting"
-msgid "FTP Server started"
-msgstr ""
-
-msgctxt "notif_text"
-msgid "Status: Waiting for connection"
-msgstr ""
-
-msgctxt "notif_title"
-msgid "FTP Server"
-msgstr ""
-
-msgctxt "no_file"
-msgid "No files"
-msgstr ""
-
-msgctxt "no_wifi"
-msgid "No Wi-Fi network"
-msgstr ""
-
-msgctxt "operation_cancel"
-msgid "Cancel"
-msgstr ""
-
-msgctxt "operation_cancel_selectall"
-msgid "Deselect All"
-msgstr ""
-
-msgctxt "operation_copy"
-msgid "Copy"
-msgstr ""
-
-msgctxt "operation_create_folder"
-msgid "New folder"
-msgstr ""
-
-msgctxt "operation_create_folder_message"
-msgid "Enter folder name"
-msgstr ""
-
-msgctxt "operation_delete"
-msgid "Delete"
-msgstr ""
-
-msgctxt "operation_delete_confirm_message"
-msgid "Confirm Delete?"
-msgstr ""
-
 msgctxt "operation_deleting"
 msgid "Deleting..."
-msgstr ""
-
-msgctxt "operation_favorite"
-msgid "Add to Favorites"
-msgstr ""
-
-msgctxt "operation_hide_sys"
-msgid "Hide hidden files"
-msgstr ""
-
-msgctxt "operation_info"
-msgid "Details"
-msgstr ""
-
-msgctxt "operation_install"
-msgid "Install"
-msgstr ""
-
-msgctxt "operation_move"
-msgid "Move"
-msgstr ""
-
-msgctxt "operation_moving"
-msgid "Moving..."
-msgstr ""
-
-msgctxt "operation_paste"
-msgid "Paste"
 msgstr ""
 
 msgctxt "operation_pasting"
 msgid "Pasting..."
 msgstr ""
 
-msgctxt "operation_refresh"
-msgid "Refresh"
+msgctxt "operation_moving"
+msgid "Moving..."
 msgstr ""
 
-msgctxt "operation_remove"
-msgid "Remove"
+msgctxt "confirm_know"
+msgid "OK"
 msgstr ""
 
-msgctxt "operation_rename"
-msgid "Rename"
+msgctxt "install_successful"
+msgid "Installation successful"
 msgstr ""
 
-msgctxt "operation_rename_message"
-msgid "Enter new name"
+msgctxt "install_failed"
+msgid "Installation failed"
 msgstr ""
 
-msgctxt "operation_selectall"
-msgid "Select all"
+msgctxt "error_info_cant_send_folder"
+msgid "Unable to send the folder"
 msgstr ""
 
-msgctxt "operation_send"
-msgid "Send"
-msgstr ""
-
-msgctxt "operation_show_sys"
-msgid "Show hidden files"
-msgstr ""
-
-msgctxt "operation_unfavorite"
-msgid "Remove from Favorites"
+msgctxt "added_favorite"
+msgid "Added to Favorites"
 msgstr ""
 
 msgctxt "removed_favorite"
 msgid "Removed from Favorites"
 msgstr ""
 
-msgctxt "sd_card_available"
-msgid "Space available:"
+msgctxt "fail_to_create_folder"
+msgid "Failed to create the folder, the folder already exists"
 msgstr ""
 
-msgctxt "sd_card_name"
-msgid "SD card:"
+msgctxt "fail_to_rename"
+msgid "Failed to rename the file or folder as it already exists"
 msgstr ""
 
-msgctxt "sd_folder"
-msgid "SD card"
-msgstr ""
-
-msgctxt "search_hint"
-msgid "Enter part or all of the file name"
-msgstr ""
-
-msgctxt "search_title"
-msgid "Search documents"
+msgctxt "enable_sd_card"
+msgid "Mount SD card"
 msgstr ""
 
 msgctxt "start_server"
@@ -322,31 +305,48 @@ msgctxt "stop_server"
 msgid "Stop Service"
 msgstr ""
 
+msgctxt "notif_server_starting"
+msgid "FTP Server started"
+msgstr ""
+
+msgctxt "notif_title"
+msgid "FTP Server"
+msgstr ""
+
+msgctxt "notif_text"
+msgid "Status: Waiting for connection"
+msgstr ""
+
 msgctxt "storage_warning"
 msgid "External storage is not available or cannot be read"
-msgstr ""
-
-msgctxt "tab_bluetooth"
-msgid "Bluetooth"
-msgstr ""
-
-msgctxt "tab_category"
-msgid "Browse"
-msgstr ""
-
-msgctxt "tab_remote"
-msgid "FTP"
-msgstr ""
-
-msgctxt "tab_sd"
-msgid "SD card"
 msgstr ""
 
 msgctxt "wifi_state"
 msgid "Wi-Fi Status"
 msgstr ""
 
-msgctxt "yes"
-msgid "Yes"
+msgctxt "instruction_pre"
+msgid "Start Service to enable FTP Server"
+msgstr ""
+
+msgctxt "instruction"
+msgid "Enter the following address into your FTP Client:"
+msgstr ""
+
+msgctxt "no_wifi"
+msgid "No Wi-Fi network"
+msgstr ""
+
+msgctxt "search_title"
+msgid "Search Files"
+msgstr ""
+
+msgctxt "search_hint"
+msgid "Search Files"
+msgstr ""
+
+#, c-format
+msgctxt "file_size"
+msgid "%d Bytes"
 msgstr ""
 
