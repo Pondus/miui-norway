@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-22 14:10+0100\n"
+"PO-Revision-Date: 2011-05-29 15:59+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -48,7 +48,7 @@ msgstr ""
 #, c-format
 msgctxt "battery_low_percent_format"
 msgid "%d%% or less remaining."
-msgstr ""
+msgstr "%d%% eller mindre igjen."
 
 msgctxt "battery_low_why"
 msgid "Battery use"
@@ -113,20 +113,18 @@ msgstr ""
 
 #, c-format
 msgctxt "usb_accessory_uri_prompt"
-msgid ""
-"No installed applications work with this USB accessory. Learn more about "
-"this device at %1$s"
+msgid "No installed applications work with this USB accessory. Learn more about this device at %1$s"
 msgstr ""
 
 msgctxt "title_usb_accessory"
 msgid "USB accessory"
-msgstr ""
+msgstr "USB tilbehør"
 
 msgctxt "label_view"
 msgid "View"
-msgstr ""
+msgstr "Vis"
 
 msgctxt "always_use_accessory"
 msgid "Always use this USB device"
-msgstr ""
+msgstr "Alltid bruk denne USB enheten"
 

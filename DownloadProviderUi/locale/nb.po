@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-04 12:15+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-29 15:57+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -20,19 +19,19 @@ msgstr ""
 
 msgctxt "app_label"
 msgid "Downloads"
-msgstr ""
+msgstr "Nedlastninger"
 
 msgctxt "download_title"
 msgid "Downloads"
-msgstr ""
+msgstr "Nedlastninger"
 
 msgctxt "no_downloads"
 msgid "No downloads."
-msgstr ""
+msgstr "Ingen nedlastninger."
 
 msgctxt "missing_title"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "download_menu_sort_by_size"
 msgid "Sort by size"
@@ -52,20 +51,18 @@ msgstr ""
 
 msgctxt "download_success"
 msgid "Complete"
-msgstr ""
+msgstr "Ferdig"
 
 msgctxt "download_error"
 msgid "Failed"
-msgstr ""
+msgstr "Feilet"
 
 msgctxt "dialog_title_not_available"
 msgid "Download Failed"
 msgstr ""
 
 msgctxt "dialog_failed_body"
-msgid ""
-"Do you want to retry downloading the file later or delete it from the "
-"queue?"
+msgid "Do you want to retry downloading the file later or delete it from the queue?"
 msgstr ""
 
 msgctxt "dialog_title_queued_body"
@@ -85,9 +82,7 @@ msgid "Cannot finish download. There is not enough space on external storage."
 msgstr ""
 
 msgctxt "dialog_insufficient_space_on_cache"
-msgid ""
-"Cannot finish download. There is not enough space on internal download "
-"storage."
+msgid "Cannot finish download. There is not enough space on internal download storage."
 msgstr ""
 
 msgctxt "dialog_cannot_resume"
@@ -108,19 +103,19 @@ msgstr ""
 
 msgctxt "remove_download"
 msgid "Remove"
-msgstr ""
+msgstr "Fjern"
 
 msgctxt "delete_download"
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 msgctxt "keep_queued_download"
 msgid "Keep"
-msgstr ""
+msgstr "Behold"
 
 msgctxt "cancel_running_download"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "retry_download"
 msgid "Retry"
@@ -132,7 +127,7 @@ msgstr ""
 
 msgctxt "pause_download_when_wifi_disconnected"
 msgid "Use Wi-Fi"
-msgstr ""
+msgstr "Bruk Wi-Fi"
 
 msgctxt "download_when_network_connected"
 msgid "Download using Mobile network"
@@ -140,7 +135,7 @@ msgstr ""
 
 msgctxt "download_paused"
 msgid "Download paused"
-msgstr ""
+msgstr "Nedlastning pauset"
 
 msgctxt "download_pending"
 msgid "Download pending"
@@ -152,14 +147,14 @@ msgstr ""
 
 msgctxt "delete_downloads_records"
 msgid "Delete download history"
-msgstr ""
+msgstr "Slett nedlastninghistorikk"
 
 msgctxt "download_info_start_deleted_tasks"
 msgid "Delete downloads"
-msgstr ""
+msgstr "Slett nedlastninger"
 
 #, c-format
 msgctxt "download_info_count_deleted_tasks"
 msgid "%s downloads removed"
-msgstr ""
+msgstr "%s nedlastninger fjernet"
 

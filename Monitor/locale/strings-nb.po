@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-29 16:01+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -29,11 +28,11 @@ msgstr ""
 
 msgctxt "sms_unit"
 msgid " Messages"
-msgstr ""
+msgstr "Meldinger"
 
 msgctxt "mobile_unit"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgctxt "day_unit"
 msgid " day of the month, billing period commences"
@@ -52,9 +51,7 @@ msgid "Turn off automatically"
 msgstr ""
 
 msgctxt "confirm_disable_monitor"
-msgid ""
-"Disabling monitoring of traffic will reset the traffic stats, are you "
-"sure you want to continue?"
+msgid "Disabling monitoring of traffic will reset the traffic stats, are you sure you want to continue?"
 msgstr ""
 
 msgctxt "menu_refresh"
@@ -94,7 +91,7 @@ msgstr ""
 
 msgctxt "traffic_data"
 msgid "Traffic"
-msgstr ""
+msgstr "Trafikk"
 
 msgctxt "call_time"
 msgid "Call time"
@@ -147,11 +144,11 @@ msgstr ""
 
 msgctxt "mobile"
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgctxt "wifi"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 msgctxt "android_system"
 msgid "Android System"
@@ -163,7 +160,7 @@ msgstr ""
 
 msgctxt "network_monitor"
 msgid "Firewall"
-msgstr ""
+msgstr "Brannvegg"
 
 msgctxt "firewall_hint"
 msgid "Monitor applications on the basis of data traffic"
@@ -201,7 +198,7 @@ msgstr ""
 
 msgctxt "package_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgctxt "sms_traffic_limit"
 msgid "Traffic Limit"
@@ -267,7 +264,7 @@ msgstr ""
 
 msgctxt "button_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "input_rules"
 msgid "Input cannot be 0 or a negative value"
@@ -289,16 +286,16 @@ msgstr ""
 #, c-format
 msgctxt "sms_have_send_number"
 msgid "Sent: %d Messages"
-msgstr ""
+msgstr "Sendt: %d meldinger"
 
 msgctxt "app_have_delete"
 msgid "Deleted"
-msgstr ""
+msgstr "Slettet"
 
 #, c-format
 msgctxt "latest_send_time"
 msgid "Last sent: %s"
-msgstr ""
+msgstr "Siste sendt: %s"
 
 msgctxt "no_sms"
 msgid "Message log is empty"
@@ -409,9 +406,7 @@ msgid "Mute calls"
 msgstr ""
 
 msgctxt "act_mute_call_summary"
-msgid ""
-"Calls will not display notifications but will still be logged to the call"
-" log"
+msgid "Calls will not display notifications but will still be logged to the call log"
 msgstr ""
 
 msgctxt "act_ignore_call"

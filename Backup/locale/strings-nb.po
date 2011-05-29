@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-04 20:22+0100\n"
+"PO-Revision-Date: 2011-05-29 15:43+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -27,7 +27,7 @@ msgstr "Sikkerhetskopi"
 
 msgctxt "local_home_title"
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 msgctxt "button_backup"
 msgid "Backup"
@@ -35,7 +35,7 @@ msgstr "Sikkerhetskopier"
 
 msgctxt "start_backup"
 msgid "Start Backup"
-msgstr ""
+msgstr "Start sikkerhetskopiering"
 
 msgctxt "button_cancel"
 msgid "Cancel"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "unit_byte"
 msgid " Bytes"
-msgstr ""
+msgstr " Bytes"
 
 msgctxt "unit_piece"
 msgid " Item(s)"
@@ -128,9 +128,7 @@ msgid "Restoring..."
 msgstr ""
 
 msgctxt "restore_contacts_hit"
-msgid ""
-"(Note: You need to manually restore Contacts established before the "
-"original account)"
+msgid "(Note: You need to manually restore Contacts established before the original account)"
 msgstr ""
 
 msgctxt "restore_telephony_hit"
@@ -151,17 +149,16 @@ msgstr ""
 
 msgctxt "cloud_home_title"
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 msgctxt "prompt_reading"
 msgid "Reading..."
-msgstr ""
+msgstr "Leser..."
 
 msgctxt "prompt_sending"
 msgid "Uploading..."
-msgstr ""
+msgstr "Laster opp..."
 
-#, fuzzy
 msgctxt "prompt_writing"
 msgid "Saving..."
 msgstr "Sikkerhetskopierer..."
@@ -184,11 +181,12 @@ msgstr ""
 
 msgctxt "menu_debug_host"
 msgid "Test Server"
-msgstr ""
+msgstr "Test Server"
 
+#, fuzzy
 msgctxt "menu_formal_host"
 msgid "Live Server"
-msgstr ""
+msgstr "Live Server"
 
 msgctxt "ok_reset"
 msgid "Reset completed"
@@ -244,7 +242,7 @@ msgstr ""
 
 msgctxt "local_backup_window_title"
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 msgctxt "local_restore_window_title"
 msgid "Local Recovery"
@@ -260,20 +258,19 @@ msgstr ""
 
 msgctxt "account_login"
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 msgctxt "account_logout"
 msgid "Logout"
-msgstr ""
+msgstr "Logg ut"
 
 msgctxt "auto_backup"
 msgid "Automatic Backup"
 msgstr "Automatisk sikkerhetskopi"
 
-#, fuzzy
 msgctxt "backup_info"
 msgid "Backup info"
-msgstr "Sikkerhetskopier nå"
+msgstr "Sikkerhetskopi info"
 
 msgctxt "button_backup_now"
 msgid "Backup now"
@@ -289,7 +286,7 @@ msgstr ""
 
 msgctxt "contact_title"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakter"
 
 msgctxt "call_title"
 msgid "Call logs"
@@ -301,16 +298,15 @@ msgstr ""
 
 msgctxt "wifi_title"
 msgid "Wi-Fi Settings"
-msgstr ""
+msgstr "Wi-Fi innstillinger"
 
 msgctxt "note_title"
 msgid "Notes"
-msgstr ""
+msgstr "Notater"
 
-#, fuzzy
 msgctxt "last_backup_title"
 msgid "Last backup"
-msgstr "Sky lagring"
+msgstr "Siste sikkerhetskopi"
 
 msgctxt "compute_backup_info"
 msgid "Retrieving backup info"
@@ -318,19 +314,19 @@ msgstr ""
 
 msgctxt "local_hint"
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 msgctxt "cloud_hint"
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 msgctxt "unknown_hint"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "unknown_name"
 msgid "Unknown name"
-msgstr ""
+msgstr "Ukjent navn"
 
 msgctxt "unbackup"
 msgid "Remove backup"
@@ -342,7 +338,7 @@ msgstr ""
 
 msgctxt "day_unit"
 msgid " Days"
-msgstr ""
+msgstr " Dager"
 
 msgctxt "time_past_you"
 msgid "Your last backup "
@@ -350,21 +346,19 @@ msgstr ""
 
 msgctxt "un_cloud_backup"
 msgid " to cloud"
-msgstr ""
+msgstr " til skyen"
 
 #, fuzzy
 msgctxt "cloud_backup_for"
 msgid "Use cloud backup to:"
-msgstr "Sky lagring"
+msgstr "Bruk sky lagring til:"
 
 msgctxt "current_imsi_used"
 msgid "SIM card used"
 msgstr ""
 
 msgctxt "choose_prompt"
-msgid ""
-"Cloud backup will read all messages and call logs saved to SIM card in "
-"the current archive"
+msgid "Cloud backup will read all messages and call logs saved to SIM card in the current archive"
 msgstr ""
 
 msgctxt "store_named"
@@ -416,16 +410,13 @@ msgid "Open Wi-Fi or Mobile network"
 msgstr ""
 
 msgctxt "logout_dialog"
-msgid ""
-"Note: You will be logged out of your MIUI account, are you sure you want "
-"to do this?"
+msgid "Note: You will be logged out of your MIUI account, are you sure you want to do this?"
 msgstr ""
 
 msgctxt "last_backup_hint"
 msgid "Last backup:"
 msgstr ""
 
-#, fuzzy
 msgctxt "backup_stores_hint"
 msgid "Backup:"
 msgstr "Sikkerhetskopier:"
@@ -448,7 +439,7 @@ msgstr ""
 
 msgctxt "task_finished"
 msgid "Finished"
-msgstr ""
+msgstr "Ferdig"
 
 msgctxt "task_canceled"
 msgid "Cancelled"
@@ -459,9 +450,7 @@ msgid "Failed"
 msgstr ""
 
 msgctxt "task_running_hint"
-msgid ""
-"Service is running in the background, please try again to restore this "
-"backup!"
+msgid "Service is running in the background, please try again to restore this backup!"
 msgstr ""
 
 msgctxt "task_running_dialog"
@@ -598,5 +587,5 @@ msgstr "System"
 
 msgctxt "local_select_userapp"
 msgid "Applications"
-msgstr ""
+msgstr "Programmer"
 

@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-29 15:52+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -20,16 +19,14 @@ msgstr ""
 
 msgctxt "app_name"
 msgid "Themes"
-msgstr ""
+msgstr "Temaer"
 
 msgctxt "theme_sdcard_missed_dialog_title"
 msgid "SD card is not accessible!"
 msgstr ""
 
 msgctxt "theme_sdcard_missed_dialog_message"
-msgid ""
-"Make sure the SD card card is inserted, and the phone is not in data "
-"transfer mode."
+msgid "Make sure the SD card card is inserted, and the phone is not in data transfer mode."
 msgstr ""
 
 msgctxt "theme_changing_dialog_title"
@@ -46,15 +43,15 @@ msgstr ""
 
 msgctxt "theme_activity_lable"
 msgid "Themes"
-msgstr ""
+msgstr "Temaer"
 
 msgctxt "theme_unknow_author"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "component_category_title"
 msgid "Edit theme"
-msgstr ""
+msgstr "Endre tema"
 
 msgctxt "backup_preference_title"
 msgid "Backup Theme"
@@ -80,15 +77,15 @@ msgstr ""
 
 msgctxt "theme_description_missed"
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 msgctxt "theme_description_title_default"
 msgid "Default theme"
-msgstr ""
+msgstr "Standard temaer"
 
 msgctxt "theme_description_picker_default"
 msgid "Default ringtone"
-msgstr ""
+msgstr "Standard ringetone"
 
 msgctxt "theme_description_ringtone_title_default"
 msgid "System ringtones"
@@ -100,11 +97,11 @@ msgstr ""
 
 msgctxt "theme_description_alarm_title_default"
 msgid "Alarm"
-msgstr ""
+msgstr "Alarm"
 
 msgctxt "theme_description_title_customized"
 msgid "Custom theme"
-msgstr ""
+msgstr "Egendefinert tema"
 
 msgctxt "theme_description_title_mute"
 msgid "Mute"
@@ -116,7 +113,7 @@ msgstr ""
 
 msgctxt "theme_description_size"
 msgid "Size:"
-msgstr ""
+msgstr "Størrelse:"
 
 msgctxt "theme_description_addtime"
 msgid "Added:"
@@ -124,15 +121,15 @@ msgstr ""
 
 msgctxt "theme_description_download"
 msgid "Downloads:"
-msgstr ""
+msgstr "Nedlastninger:"
 
 msgctxt "theme_description_version"
 msgid "Version:"
-msgstr ""
+msgstr "Versjon:"
 
 msgctxt "theme_component_title_framework"
 msgid "Themes"
-msgstr ""
+msgstr "Temaer"
 
 msgctxt "theme_component_title_mms"
 msgid "Text Style"
@@ -140,7 +137,7 @@ msgstr ""
 
 msgctxt "theme_component_title_wallpaper"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Bakgrunnsbilde"
 
 msgctxt "theme_component_title_lockwallpaper"
 msgid "Lockscreen"
@@ -148,7 +145,7 @@ msgstr ""
 
 msgctxt "theme_component_title_icon"
 msgid "Icon"
-msgstr ""
+msgstr "Ikon"
 
 msgctxt "theme_component_title_boot_animation"
 msgid "Boot Animation"
@@ -164,15 +161,15 @@ msgstr ""
 
 msgctxt "theme_component_title_ringtone"
 msgid "Ringtone"
-msgstr ""
+msgstr "Ringetone"
 
 msgctxt "theme_component_title_notification"
 msgid "Notification"
-msgstr ""
+msgstr "Varsler"
 
 msgctxt "theme_component_title_alarm"
 msgid "Alarm"
-msgstr ""
+msgstr "Alarm"
 
 msgctxt "theme_component_title_contact"
 msgid "Dialer Style"
@@ -188,15 +185,15 @@ msgstr ""
 
 msgctxt "theme_component_title_others"
 msgid "Other"
-msgstr ""
+msgstr "Andre"
 
 msgctxt "theme_component_title_all"
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 msgctxt "pick_theme_title"
 msgid "Choose theme"
-msgstr ""
+msgstr "Velg tema"
 
 #, c-format
 msgctxt "apply_theme_content_caution"
@@ -219,7 +216,7 @@ msgstr ""
 
 msgctxt "list_section_header_builtin"
 msgid "MIUI"
-msgstr ""
+msgstr "MIUI"
 
 msgctxt "list_section_header_downloaded"
 msgid "Downloaded "
@@ -228,7 +225,7 @@ msgstr ""
 #, c-format
 msgctxt "theme_local"
 msgid "Local %1$s"
-msgstr ""
+msgstr "Lokal %1$s"
 
 #, c-format
 msgctxt "theme_online"
@@ -254,19 +251,19 @@ msgstr ""
 
 msgctxt "online_resource_download"
 msgid "Download"
-msgstr ""
+msgstr "Last ned"
 
 msgctxt "online_resource_downloading"
 msgid "Downloading"
-msgstr ""
+msgstr "Laster ned"
 
 msgctxt "online_resource_apply"
 msgid "Apply"
-msgstr ""
+msgstr "Angi"
 
 msgctxt "online_resource_update"
 msgid "Update"
-msgstr ""
+msgstr "Oppdater"
 
 msgctxt "online_resource_select"
 msgid "Select"
@@ -274,11 +271,11 @@ msgstr ""
 
 msgctxt "online_hotest"
 msgid "Featured"
-msgstr ""
+msgstr "Utvalgte"
 
 msgctxt "online_latest"
 msgid "Latest"
-msgstr ""
+msgstr "Siste"
 
 msgctxt "online_hotest_short"
 msgid "Hot"
@@ -286,7 +283,7 @@ msgstr ""
 
 msgctxt "online_latest_short"
 msgid "New"
-msgstr ""
+msgstr "Nye"
 
 msgctxt "online_no_network"
 msgid "Network or Wi-Fi connection unavailable"
@@ -294,7 +291,7 @@ msgstr ""
 
 msgctxt "online_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Laster"
 
 msgctxt "download_failed"
 msgid "Download failed"
@@ -306,7 +303,7 @@ msgstr ""
 
 msgctxt "cancel_all_download_task"
 msgid "Cancel all"
-msgstr ""
+msgstr "Avbryt alle"
 
 msgctxt "resource_delete_confirm"
 msgid "Are you sure you wish to delete this theme?"
@@ -314,16 +311,16 @@ msgstr ""
 
 msgctxt "confirm"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #, c-format
 msgctxt "all_resources"
 msgid "%1$s"
-msgstr ""
+msgstr "%1$s"
 
 msgctxt "wallpaper_settings"
 msgid "Wallpaper settings"
@@ -348,7 +345,7 @@ msgstr ""
 #, c-format
 msgctxt "component_select_title"
 msgid "Selected %1$s Components"
-msgstr ""
+msgstr "Valgte %1$s komponenter"
 
 #, c-format
 msgctxt "component_include_title"
@@ -357,15 +354,15 @@ msgstr ""
 
 msgctxt "component_screen_title"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Bakgrunnsbilde"
 
 msgctxt "resource_detail"
 msgid "More information"
-msgstr ""
+msgstr "Mer informasjon"
 
 #~ msgctxt "backup_theme_dialog_message"
+
 #~ msgid ""
 #~ "Backup the current theme to SD card:\n"
 #~ "\\MIUI\theme\\backup\\backup.mtz"
 #~ msgstr ""
-

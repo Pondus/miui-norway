@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-04 12:17+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-29 15:54+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +19,11 @@ msgstr ""
 
 msgctxt "app_name"
 msgid "Sound Recorder"
-msgstr ""
+msgstr "Lydopptaker"
 
 msgctxt "recording"
 msgid "Recording"
-msgstr ""
+msgstr "Opptak"
 
 msgctxt "recording_stopped"
 msgid "Recording stopped"
@@ -44,20 +43,20 @@ msgstr ""
 
 msgctxt "button_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #, c-format
 msgctxt "timer_format"
 msgid "%02d:%02d"
-msgstr ""
+msgstr "%02d:%02d"
 
 msgctxt "audio_db_title_format"
 msgid "yyyy-MM-dd HH:mm:ss"
-msgstr ""
+msgstr "yyyy-MM-dd HH:mm:ss"
 
 msgctxt "audio_db_artist_name"
 msgid "Your recordings"
-msgstr ""
+msgstr "Dine opptak"
 
 msgctxt "audio_db_album_name"
 msgid "Audio recordings"
@@ -65,7 +64,7 @@ msgstr ""
 
 msgctxt "audio_db_playlist_name"
 msgid "My recordings"
-msgstr ""
+msgstr "Mine opptak"
 
 msgctxt "error_sdcard_access"
 msgid "Unable to access SD card"
@@ -89,7 +88,7 @@ msgstr ""
 
 msgctxt "menu_setting"
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgctxt "delete_dialog_title"
 msgid "Do you want to delete current recording?"
@@ -102,7 +101,7 @@ msgstr ""
 
 msgctxt "preferences_title"
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgctxt "pref_title_record_type"
 msgid "Recording file type"
@@ -134,7 +133,7 @@ msgstr ""
 
 msgctxt "notification_recording"
 msgid "Recording"
-msgstr ""
+msgstr "Opptak"
 
 msgctxt "notification_stopped"
 msgid "Recording has stopped"
