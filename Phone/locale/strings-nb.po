@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-22 14:17+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -17,269 +17,116 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "absent_num"
-msgid "ABSENT NUMBER"
+msgctxt "contactsIconLabel"
+msgid "Contacts"
+msgstr "Kontakter"
+
+msgctxt "contactsFavoritesLabel"
+msgid "Favorites"
+msgstr "Favoritter"
+
+msgctxt "dialerIconLabel"
+msgid "Dialer"
 msgstr ""
 
-msgctxt "adding_fdn_contact"
-msgid "Adding fixed dialing number…"
+msgctxt "emergencyDialerIconLabel"
+msgid "Emergency Dialer"
 msgstr ""
 
-msgctxt "additional_cdma_call_settings"
-msgid "Additional CDMA call settings"
+msgctxt "phoneIconLabel"
+msgid "Phone"
 msgstr ""
 
-msgctxt "additional_gsm_call_settings"
-msgid "Additional settings"
+msgctxt "recentCallsIconLabel"
+msgid "Call log"
 msgstr ""
 
-msgctxt "add_fdn_contact"
-msgid "Add fixed dialing number"
+msgctxt "fdnListLabel"
+msgid "FDN list"
 msgstr ""
 
-msgctxt "add_sip_account"
-msgid "Add account"
+msgctxt "sdnListLabel"
+msgid "SDN list"
 msgstr ""
 
-msgctxt "add_vm_number_str"
-msgid "Add number"
+msgctxt "unknown"
+msgid "Unknown"
 msgstr ""
 
-msgctxt "administrative_disable"
-msgid "Administrative disabled"
+msgctxt "private_num"
+msgid "Private number"
 msgstr ""
 
-msgctxt "administrative_enable"
-msgid "Administrative enabled"
+msgctxt "payphone"
+msgid "Pay phone"
 msgstr ""
 
-msgctxt "advanced_setting"
-msgid "Advanced settings"
+msgctxt "onHold"
+msgid "On hold"
 msgstr ""
 
-msgctxt "advanced_settings"
-msgid "Optional settings"
+msgctxt "ongoing"
+msgid "Current call"
 msgstr ""
 
-msgctxt "advanced_settings_container"
-msgid "advanced settings container"
-msgstr ""
-
-msgctxt "advanced_settings_hide"
-msgid "▽ Touch to hide all"
-msgstr ""
-
-msgctxt "advanced_settings_show"
-msgid "▷ Touch to show all"
-msgstr ""
-
-msgctxt "advanced_settings_title"
-msgid "Advanced settings"
-msgstr "Avanserte innstillinger"
-
-msgctxt "advertisements_disable"
-msgid "Advertisements disabled"
-msgstr ""
-
-msgctxt "advertisements_enable"
-msgid "Advertisements enabled"
-msgstr ""
-
-msgctxt "alert_dialog_close"
-msgid "Close the profile"
-msgstr ""
-
-msgctxt "alert_dialog_dismiss"
-msgid "Dismiss"
-msgstr ""
-
-msgctxt "alert_dialog_in_ecm_call"
-msgid "The selected action is not available while in an emergency call"
-msgstr ""
-
-msgctxt "alert_dialog_no"
-msgid "No"
-msgstr "Nei"
-
-msgctxt "alert_dialog_ok"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "alert_dialog_yes"
-msgid "Yes"
-msgstr "Ja"
-
-msgctxt "allow_3rd_app_listen_phone_event_summary"
-msgid "Enable to allow third-party phone application monitoring"
-msgstr ""
-
-msgctxt "allow_3rd_app_listen_phone_event_title"
-msgid "Third-party access"
-msgstr ""
-
-msgctxt "always_enable_mms"
-msgid "Always receive MMS"
-msgstr ""
-
-msgctxt "always_enable_mms_summary"
-msgid "Always receive MMS even when data is disabled"
-msgstr ""
-
-msgctxt "answer"
-msgid "Answer"
-msgstr "Svar"
-
-msgctxt "apn_settings"
-msgid "Access Point Names"
-msgstr ""
-
-msgctxt "atr_disable"
-msgid "Area Traffic Reports disabled"
-msgstr ""
-
-msgctxt "atr_enable"
-msgid "Area Traffic Reports enabled"
-msgstr ""
-
-msgctxt "auth_username"
-msgid "AuthUserName"
-msgstr ""
-
-msgctxt "auth_username_summary"
-msgid "Username used for authentication"
-msgstr ""
-
-msgctxt "auth_username_title"
-msgid "Authentication username"
-msgstr ""
-
-msgctxt "autoip"
-msgid "Auto IP dialing"
-msgstr ""
-
-msgctxt "autoip_sum"
-msgid "Add IP prefix to a foreign number. Enter current area code below."
-msgstr ""
-
-msgctxt "auto_dialpad_pref_summary"
-msgid "Enable to automatically display dialpad on opening of application"
-msgstr ""
-
-msgctxt "auto_dialpad_pref_title"
-msgid "Auto show dialpad"
-msgstr ""
-
-msgctxt "auto_reg"
-msgid "Auto-registration"
-msgstr ""
-
-msgctxt "auto_registration"
-msgid "AutoRegistration"
-msgstr ""
-
-msgctxt "auto_registration_summary"
-msgid "Register the profile automatically"
-msgstr ""
-
-msgctxt "auto_registration_title"
-msgid "Auto-registration"
-msgstr ""
-
-msgctxt "auto_retry_mode_summary"
-msgid "Enable Auto Retry mode"
-msgstr ""
-
-msgctxt "auto_retry_mode_title"
-msgid "Auto Retry"
-msgstr ""
-
-msgctxt "badPin"
-msgid "The old PIN you typed is not correct. Please try again."
-msgstr ""
-
-msgctxt "badPin2"
-msgid "The old PIN2 you typed is not correct. Please try again."
-msgstr ""
-
-msgctxt "badPuk"
-msgid "Incorrect PUK code!"
-msgstr ""
-
-msgctxt "badPuk2"
-msgid "The PUK2 you typed is not correct. Please try again."
-msgstr ""
-
-msgctxt "bf_news_settings"
-msgid "Business and Financial News"
-msgstr ""
-
-msgctxt "buttonTxtContinue"
-msgid "Continue"
-msgstr "Fortsett"
-
-msgctxt "button_clear"
-msgid "Clear"
-msgstr "Tøm"
-
-msgctxt "button_query"
-msgid "Look up"
-msgstr ""
-
-msgctxt "button_query_hint"
-msgid "Please enter mobile or landline number"
-msgstr ""
-
-#, python-format
-msgctxt "caller_manage_header"
-msgid "Conference call %s"
-msgstr ""
-
-msgctxt "caller_manage_manage_done_text"
-msgid "Back to call"
-msgstr ""
-
-msgctxt "callFailed_cb_enabled"
-msgid "You cannot make outgoing calls while call barring is on."
-msgstr ""
-
-msgctxt "callFailed_cdma_accessFailure"
-msgid "CDMA: Access failure."
-msgstr ""
-
-msgctxt "callFailed_cdma_drop"
-msgid "CDMA: Call dropped."
-msgstr ""
-
-msgctxt "callFailed_cdma_intercept"
-msgid "CDMA: Call intercepted."
-msgstr ""
-
-msgctxt "callFailed_cdma_lockedUntilPowerCycle"
-msgid "CDMA: Phone locked until power cycle."
-msgstr ""
-
-msgctxt "callFailed_cdma_notEmergency"
-msgid "Only Emergency calls are possible."
-msgstr ""
-
-msgctxt "callFailed_cdma_preempted"
-msgid "CDMA: Preempted."
-msgstr ""
-
-msgctxt "callFailed_cdma_reorder"
-msgid "CDMA: reorder."
-msgstr ""
-
-msgctxt "callFailed_cdma_retryOrder"
-msgid "CDMA: retry order."
-msgstr ""
-
-msgctxt "callFailed_cdma_SO_reject"
-msgid "CDMA: Service Option Reject."
+msgctxt "callFailed_userBusy"
+msgid "Line busy"
 msgstr ""
 
 msgctxt "callFailed_congestion"
 msgid "Network busy"
+msgstr ""
+
+msgctxt "callFailed_timedOut"
+msgid "No response, timed out"
+msgstr ""
+
+msgctxt "callFailed_server_unreachable"
+msgid "Server unreachable"
+msgstr ""
+
+msgctxt "callFailed_number_unreachable"
+msgid "Number unreachable"
+msgstr ""
+
+msgctxt "callFailed_invalid_credentials"
+msgid "Incorrect username or password"
+msgstr ""
+
+msgctxt "callFailed_out_of_network"
+msgid "Called from out of network"
+msgstr ""
+
+msgctxt "callFailed_server_error"
+msgid "Server error. Try again later."
+msgstr ""
+
+msgctxt "callFailed_noSignal"
+msgid "No signal"
+msgstr ""
+
+msgctxt "callFailed_limitExceeded"
+msgid "ACM limit exceeded"
+msgstr ""
+
+msgctxt "callFailed_powerOff"
+msgid "Radio off"
+msgstr ""
+
+msgctxt "callFailed_simError"
+msgid "No SIM, or SIM error"
+msgstr ""
+
+msgctxt "callFailed_outOfService"
+msgid "Out of service area"
+msgstr ""
+
+msgctxt "callFailed_fdn_only"
+msgid "Outgoing calls are restricted by FDN."
+msgstr ""
+
+msgctxt "callFailed_cb_enabled"
+msgid "You cannot make outgoing calls while call barring is on."
 msgstr ""
 
 msgctxt "callFailed_dsac_restricted"
@@ -294,681 +141,508 @@ msgctxt "callFailed_dsac_restricted_normal"
 msgid "Normal calls are restricted by access control."
 msgstr ""
 
-msgctxt "callFailed_fdn_only"
-msgid "Outgoing calls are restricted by FDN."
+msgctxt "callFailed_cdma_lockedUntilPowerCycle"
+msgid "CDMA: Phone locked until power cycle."
 msgstr ""
 
-msgctxt "callFailed_invalid_credentials"
-msgid "Incorrect username or password"
+msgctxt "callFailed_cdma_drop"
+msgid "CDMA: Call dropped."
 msgstr ""
 
-msgctxt "callFailed_limitExceeded"
-msgid "ACM limit exceeded"
+msgctxt "callFailed_cdma_intercept"
+msgid "CDMA: Call intercepted."
 msgstr ""
 
-msgctxt "callFailed_noSignal"
-msgid "No signal"
+msgctxt "callFailed_cdma_reorder"
+msgid "CDMA: reorder."
 msgstr ""
 
-msgctxt "callFailed_number_unreachable"
-msgid "Number unreachable"
+msgctxt "callFailed_cdma_SO_reject"
+msgid "CDMA: Service Option Reject."
 msgstr ""
 
-msgctxt "callFailed_outOfService"
-msgid "Out of service area"
+msgctxt "callFailed_cdma_retryOrder"
+msgid "CDMA: retry order."
 msgstr ""
 
-msgctxt "callFailed_out_of_network"
-msgid "Called from out of network"
+msgctxt "callFailed_cdma_accessFailure"
+msgid "CDMA: Access failure."
 msgstr ""
 
-msgctxt "callFailed_powerOff"
-msgid "Radio off"
+msgctxt "callFailed_cdma_preempted"
+msgid "CDMA: Preempted."
 msgstr ""
 
-msgctxt "callFailed_server_error"
-msgid "Server error. Try again later."
-msgstr ""
-
-msgctxt "callFailed_server_unreachable"
-msgid "Server unreachable"
-msgstr ""
-
-msgctxt "callFailed_simError"
-msgid "No SIM, or SIM error"
-msgstr ""
-
-msgctxt "callFailed_timedOut"
-msgid "No response, timed out"
+msgctxt "callFailed_cdma_notEmergency"
+msgid "Only Emergency calls are possible."
 msgstr ""
 
 msgctxt "callFailed_unobtainable_number"
 msgid "Invalid Number"
 msgstr ""
 
-msgctxt "callFailed_userBusy"
-msgid "Line busy"
-msgstr ""
-
-msgctxt "calling_via_template"
-msgid ""
-"Calling via ^1\n"
-"<b>^2</b>"
-msgstr ""
-
-msgctxt "call_forwarding_number_hint"
-msgid "Enter the number to forward to"
-msgstr ""
-
-msgctxt "call_forwarding_settings"
-msgid "Call forwarding settings"
+msgctxt "confCall"
+msgid "Conference call"
 msgstr ""
 
 msgctxt "call_lost"
 msgid "Call has been lost."
 msgstr ""
 
+msgctxt "retry"
+msgid "Retry"
+msgstr "Prøv igjen"
+
 msgctxt "call_lost_title"
 msgid "Call Lost"
 msgstr ""
 
-msgctxt "call_priority"
-msgid "Outgoing call via SIP"
+msgctxt "mmiStarted"
+msgid "MMI code started"
 msgstr ""
 
-msgctxt "call_settings"
-msgid "Call Settings"
+msgctxt "ussdRunning"
+msgid "USSD code running…"
+msgstr ""
+
+msgctxt "mmiCancelled"
+msgid "MMI code canceled"
 msgstr ""
 
 msgctxt "cancel"
 msgid "Cancel"
 msgstr ""
 
-msgctxt "card_title_call_ended"
-msgid "Call ended"
+msgctxt "menu_rejectCallAndSms"
+msgid "Reject Call and reply by SMS"
 msgstr ""
 
-msgctxt "card_title_cdma_call_waiting"
-msgid "CDMA call waiting"
+msgctxt "menu_speaker"
+msgid "Speaker"
 msgstr ""
 
-msgctxt "card_title_conf_call"
-msgid "Conference call"
+msgctxt "menu_bluetooth"
+msgid "Bluetooth"
 msgstr ""
 
-msgctxt "card_title_dialing"
-msgid "Dialing"
+msgctxt "menu_mute"
+msgid "Mute"
+msgstr "Demp"
+
+msgctxt "menu_hold"
+msgid "Hold"
 msgstr ""
 
-msgctxt "card_title_forwarded_incoming_call"
-msgid "Forward incoming call(s)"
+msgctxt "menu_endCall"
+msgid "End call"
+msgstr "Avslutt samtalen"
+
+msgctxt "menu_swapCalls"
+msgid "Swap calls"
 msgstr ""
 
-msgctxt "card_title_hanging_up"
-msgid "Hanging up"
+msgctxt "menu_mergeCalls"
+msgid "Merge calls"
 msgstr ""
 
-msgctxt "card_title_incoming_call"
-msgid "Incoming call"
+msgctxt "menu_addCall"
+msgid "Add call"
 msgstr ""
 
-msgctxt "card_title_in_call"
-msgid "In call"
+msgctxt "menu_manageConference"
+msgid "Manage conference call"
 msgstr ""
 
-msgctxt "card_title_in_progress"
-msgid "Current call"
+msgctxt "menu_showDialpad"
+msgid "Show dialpad"
 msgstr ""
 
-msgctxt "card_title_on_hold"
-msgid "On hold"
+msgctxt "menu_hideDialpad"
+msgid "Hide dialpad"
 msgstr ""
 
-msgctxt "card_title_redialing"
-msgid "Retrying"
+msgctxt "menu_answerAndHold"
+msgid ""
+"Hold current call\n"
+"& answer"
 msgstr ""
 
-msgctxt "cb_sms_settings"
-msgid "Cell Broadcast SMS settings"
+msgctxt "menu_answerAndEnd"
+msgid ""
+"End current call\n"
+"& answer"
 msgstr ""
 
-msgctxt "cdma_cell_broadcast_sms"
-msgid "Cell Broadcast SMS"
-msgstr ""
-
-msgctxt "cdma_network_preferences_dialogtitle"
-msgid "CDMA network preferences"
-msgstr ""
-
-msgctxt "cdma_network_preferences_title"
-msgid "CDMA Network Preferences"
-msgstr ""
-
-msgctxt "cdma_network_preferneces_summary"
-msgid "Not implemented yet!"
-msgstr ""
-
-msgctxt "cdma_options"
-msgid "CDMA Options"
-msgstr ""
-
-msgctxt "cdma_roaming_mode_dialogtitle"
-msgid "CDMA roaming mode"
-msgstr ""
-
-msgctxt "cdma_roaming_mode_summary"
-msgid "Change the cdma roaming mode"
-msgstr ""
-
-msgctxt "cdma_roaming_mode_title"
-msgid "CDMA Roaming Mode"
-msgstr ""
-
-msgctxt "cdma_subscription_dialogtitle"
-msgid "subscription"
-msgstr ""
-
-msgctxt "cdma_subscription_summary"
-msgid "Change between RUIM/SIM and NV"
-msgstr ""
-
-msgctxt "cdma_subscription_title"
-msgid "CDMA Subscription TEST"
-msgstr ""
-
-msgctxt "cdma_system_select_dialogtitle"
-msgid "System select"
-msgstr ""
-
-msgctxt "cdma_system_select_summary"
-msgid "Change the cdma roaming mode"
-msgstr ""
-
-msgctxt "cdma_system_select_title"
-msgid "System select"
-msgstr ""
-
-msgctxt "cell_bc_sms_disable"
-msgid "Cell Broadcast SMS disabled"
-msgstr ""
-
-msgctxt "cell_bc_sms_enable"
-msgid "Cell Broadcast SMS enabled"
-msgstr ""
-
-msgctxt "cell_broadcast_sms"
-msgid "Cell Broadcast SMS"
-msgstr ""
-
-msgctxt "change_num"
-msgid "Update"
-msgstr ""
-
-msgctxt "change_pin"
-msgid "Change SIM PIN"
-msgstr ""
-
-msgctxt "change_pin2"
-msgid "Change PIN2"
-msgstr ""
-
-msgctxt "close_dialog"
+msgctxt "ok"
 msgid "OK"
 msgstr "OK"
 
-msgctxt "close_profile"
-msgid "Close"
-msgstr "Lukk"
-
-msgctxt "confCall"
-msgid "Conference call"
+msgctxt "menuButtonHint"
+msgid "Press menu for call options"
 msgstr ""
 
-msgctxt "confirmPin2Label"
-msgid "Confirm new PIN2"
+msgctxt "menuButtonKeyboardDialHint"
+msgid "Press Menu for call options  •  Use keyboard to dial"
 msgstr ""
 
-msgctxt "confirmPinLabel"
-msgid "Confirm new PIN"
+msgctxt "menu_answer"
+msgid "Talk"
 msgstr ""
 
-msgctxt "connect_later"
-msgid "Unable to connect to this network at this time. Please try again later."
+msgctxt "menu_ignore"
+msgid "Ignore"
 msgstr ""
 
-msgctxt "contactPhoto"
-msgid "Contact photo"
+msgctxt "wait_prompt_str"
+msgid "Send the following tones?\n"
 msgstr ""
 
-msgctxt "contactsFavoritesLabel"
-msgid "Favorites"
-msgstr "Favoritter"
-
-msgctxt "contactsIconLabel"
-msgid "Contacts"
-msgstr "Kontakter"
-
-#, python-format
-msgctxt "count_of_persons_in_conference"
-msgid "Total of %d people"
+msgctxt "pause_prompt_str"
+msgid "Sending Tones\n"
 msgstr ""
 
-msgctxt "crystaltalk_summary"
-msgid "Call audio configuration optimization"
+msgctxt "send_button"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "pause_prompt_yes"
+msgid "Yes"
+msgstr "Ja"
+
+msgctxt "pause_prompt_no"
+msgid "No"
+msgstr "Nei"
+
+msgctxt "wild_prompt_str"
+msgid "Replace the wild character with"
 msgstr ""
 
-msgctxt "crystaltalk_title"
-msgid "NICAM setting"
+msgctxt "no_vm_number"
+msgid "Missing voicemail number"
 msgstr ""
 
-msgctxt "current_areacode"
-msgid "Current area code"
+msgctxt "no_vm_number_msg"
+msgid "No voicemail number is stored on the SIM card."
 msgstr ""
 
-msgctxt "current_areacode_sum"
-msgid "Area code of current location, or roaming area code if you are roaming. For example: 010"
-msgstr ""
-
-msgctxt "data_enabled"
-msgid "Data enabled"
-msgstr ""
-
-msgctxt "data_enable_summary"
-msgid "Enable data access over Mobile network"
-msgstr ""
-
-msgctxt "default_port"
-msgid "5060"
-msgstr ""
-
-msgctxt "default_preference_summary"
-msgid "Not set"
-msgstr ""
-
-msgctxt "default_transport"
-msgid "UDP"
-msgstr ""
-
-msgctxt "deleteAllSimContacts"
-msgid "Delete all SIM card contacts"
-msgstr ""
-
-msgctxt "deleteAllSimContactsText"
-msgid "SIM card contacts are empty"
-msgstr ""
-
-msgctxt "deleteSimEntry"
-msgid "Delete"
-msgstr ""
-
-msgctxt "delete_fdn_contact"
-msgid "Delete fixed dialing number"
-msgstr ""
-
-msgctxt "deleting_fdn_contact"
-msgid "Deleting fixed dialing number…"
-msgstr ""
-
-msgctxt "dialerIconLabel"
-msgid "Dialer"
-msgstr ""
-
-msgctxt "dialerKeyboardHintText"
-msgid "Use keyboard to dial"
-msgstr ""
-
-msgctxt "dialer_click_pref_summary"
-msgid "Define action of single click on contact list"
-msgstr ""
-
-msgctxt "dialer_click_pref_title"
-msgid "Single click on contact list"
+msgctxt "add_vm_number_str"
+msgid "Add number"
 msgstr ""
 
 msgctxt "dialer_emptyListWorking"
 msgid "Loading…"
 msgstr "Laster..."
 
-msgctxt "dial_button_label"
-msgid "Dial"
-msgstr "Ring"
-
-msgctxt "dial_emergency_empty_error"
-msgid "Call not sent, please dial an emergency number!"
+msgctxt "enterPin"
+msgid "Type PIN code to unlock SIM card."
 msgstr ""
 
-#, python-format
-msgctxt "dial_emergency_error"
-msgid "Call not sent, %s is not an emergency number!"
-msgstr ""
-
-msgctxt "disable"
-msgid "Disable"
-msgstr ""
-
-msgctxt "disable_cfb_forbidden"
-msgid "Your carrier does not support disabling call-forwarding when your phone is busy."
-msgstr ""
-
-msgctxt "disable_cfnrc_forbidden"
-msgid "Your carrier does not support disabling call-forwarding when your phone is unreachable."
-msgstr ""
-
-msgctxt "disable_cfnry_forbidden"
-msgid "Your carrier does not support disabling call-forwarding when your phone doesn't answer."
-msgstr ""
-
-msgctxt "disable_fdn"
-msgid "Disable FDN"
-msgstr ""
-
-msgctxt "disable_fdn_ok"
-msgid "Enable FDN"
-msgstr ""
-
-msgctxt "disable_pin_ok"
-msgid "SIM PIN disabled"
-msgstr ""
-
-msgctxt "disable_sim_pin"
-msgid "Disable SIM PIN"
-msgstr ""
-
-msgctxt "display_name"
-msgid "DisplayName"
-msgstr ""
-
-msgctxt "display_name_summary"
-msgid "&lt;Same as username&gt;"
-msgstr ""
-
-msgctxt "display_name_title"
-msgid "Display name"
-msgstr ""
-
-msgctxt "domain_address"
-msgid "SipDomain"
-msgstr ""
-
-msgctxt "domain_address_title"
-msgid "Server"
-msgstr ""
-
-msgctxt "doneButton"
-msgid "Done"
-msgstr ""
-
-msgctxt "dtmfDialpadHandleLabel"
-msgid "Dialpad"
-msgstr ""
-
-msgctxt "dtmfDialpadHintText"
-msgid "Touch tone keypad"
-msgstr ""
-
-msgctxt "dtmf_tones_summary"
-msgid "Set the length of DTMF tones"
-msgstr ""
-
-msgctxt "dtmf_tones_title"
-msgid "DTMF Tones"
-msgstr ""
-
-msgctxt "ecm_exit_dialog"
-msgid "EcmExitDialog"
-msgstr ""
-
-msgctxt "edit_fdn_contact"
-msgid "Edit fixed dialing number"
-msgstr ""
-
-msgctxt "emergencyDialerIconLabel"
-msgid "Emergency Dialer"
-msgstr ""
-
-msgctxt "emergency_broadcast_disable"
-msgid "Emergency Broadcast disabled"
-msgstr ""
-
-msgctxt "emergency_broadcast_enable"
-msgid "Emergency Broadcast enabled"
-msgstr ""
-
-msgctxt "emergency_enable_radio_dialog_message"
-msgid "Turning on radio…"
-msgstr ""
-
-msgctxt "emergency_enable_radio_dialog_retry"
-msgid "Out of service area, retrying…"
-msgstr ""
-
-msgctxt "emergency_enable_radio_dialog_title"
-msgid "Emergency call"
-msgstr ""
-
-#, python-format
-msgctxt "empty_alert"
-msgid "%s is required, cannot be left blank"
-msgstr ""
-
-msgctxt "empty_networks_list"
-msgid "No networks found."
-msgstr "Ingen nettverk funnet."
-
-msgctxt "enable"
-msgid "Enable"
-msgstr ""
-
-msgctxt "enable_disable_administrative"
-msgid "Administrative"
-msgstr ""
-
-msgctxt "enable_disable_advertisements"
-msgid "Advertisements"
-msgstr ""
-
-msgctxt "enable_disable_atr"
-msgid "Area Traffic Reports"
-msgstr ""
-
-msgctxt "enable_disable_cell_bc_sms"
-msgid "Cell Broadcast SMS"
-msgstr ""
-
-msgctxt "enable_disable_emergency_broadcast"
-msgid "Emergency Broadcast"
-msgstr ""
-
-msgctxt "enable_disable_eo"
-msgid "Employment Opportunities"
-msgstr ""
-
-msgctxt "enable_disable_international"
-msgid "International"
-msgstr ""
-
-msgctxt "enable_disable_lafs"
-msgid "Local Airport Flight Schedules"
-msgstr ""
-
-msgctxt "enable_disable_local"
-msgid "Local"
-msgstr ""
-
-msgctxt "enable_disable_local_weather"
-msgid "Local Weather"
-msgstr ""
-
-msgctxt "enable_disable_lodgings"
-msgid "Lodgings"
-msgstr ""
-
-msgctxt "enable_disable_maintenance"
-msgid "Maintenance"
-msgstr ""
-
-msgctxt "enable_disable_mhh"
-msgid "Medical, Health and Hospital"
-msgstr ""
-
-msgctxt "enable_disable_multi_category"
-msgid "Multi-category"
-msgstr ""
-
-msgctxt "enable_disable_national"
-msgid "National"
-msgstr ""
-
-msgctxt "enable_disable_regional"
-msgid "Regional"
-msgstr ""
-
-msgctxt "enable_disable_restaurants"
-msgid "Restaurants"
-msgstr ""
-
-msgctxt "enable_disable_retail_directory"
-msgid "Retail Directory"
-msgstr ""
-
-msgctxt "enable_disable_stock_quotes"
-msgid "Stock Quotes"
-msgstr ""
-
-msgctxt "enable_disable_technology_news"
-msgid "Technology News"
-msgstr ""
-
-msgctxt "enable_fdn"
-msgid "Enable FDN"
-msgstr ""
-
-msgctxt "enable_fdn_ok"
-msgid "Disable FDN"
-msgstr ""
-
-msgctxt "enable_in_progress"
-msgid "Please wait…"
-msgstr ""
-
-msgctxt "enable_pin"
-msgid "Enable/disable SIM PIN"
-msgstr ""
-
-msgctxt "enable_pin_ok"
-msgid "SIM PIN enabled"
-msgstr ""
-
-msgctxt "enable_proximity_summary"
-msgid "Enable proximity sensor to disable screen display during calls"
-msgstr ""
-
-msgctxt "enable_proximity_title"
-msgid "Enable proximity sensor"
-msgstr ""
-
-msgctxt "enable_sim_pin"
-msgid "Enable SIM PIN"
+msgctxt "pinUnlocked"
+msgid "SIM unlocked"
 msgstr ""
 
 msgctxt "enterNewPin"
 msgid "New SIM PIN code"
 msgstr ""
 
-msgctxt "enterPin"
-msgid "Type PIN code to unlock SIM card."
+msgctxt "verifyNewPin"
+msgid "Type new SIM PIN code again to confirm"
+msgstr ""
+
+msgctxt "verifyFailed"
+msgid "The SIM PINs you typed do not match. Please try again."
 msgstr ""
 
 msgctxt "enterPuk"
 msgid "Type PUK code to unlock SIM card"
 msgstr ""
 
-msgctxt "entertainment_news_settings"
-msgid "Entertainment News"
+msgctxt "badPuk"
+msgid "Incorrect PUK code!"
 msgstr ""
 
-msgctxt "enter_pin2_text"
-msgid "PIN2"
-msgstr "PIN2"
+msgctxt "buttonTxtContinue"
+msgid "Continue"
+msgstr "Fortsett"
 
-msgctxt "enter_pin_text"
-msgid "SIM PIN:"
+msgctxt "puk_unlocked"
+msgid "Your SIM card has been unblocked. Your phone is unlocking..."
 msgstr ""
 
-msgctxt "eo_disable"
-msgid "Employment Opportunities disabled"
+msgctxt "label_ndp"
+msgid "SIM network unlock PIN"
 msgstr ""
 
-msgctxt "eo_enable"
-msgid "Employment Opportunities enabled"
+msgctxt "sim_ndp_unlock_text"
+msgid "Unlock"
 msgstr ""
 
-msgctxt "eri_text_label"
-msgid "ERI text"
+msgctxt "sim_ndp_dismiss_text"
+msgid "Dismiss"
+msgstr ""
+
+msgctxt "requesting_unlock"
+msgid "Requesting network unlock..."
+msgstr ""
+
+msgctxt "unlock_failed"
+msgid "Network unlock request unsuccessful."
+msgstr ""
+
+msgctxt "unlock_success"
+msgid "Network unlock successful."
+msgstr ""
+
+msgctxt "imei"
+msgid "IMEI"
+msgstr "IMEI"
+
+msgctxt "meid"
+msgid "MEID"
+msgstr ""
+
+msgctxt "labelGSMMore"
+msgid "GSM call settings"
+msgstr ""
+
+msgctxt "labelCDMAMore"
+msgid "CDMA call settings"
+msgstr ""
+
+msgctxt "apn_settings"
+msgid "Access Point Names"
+msgstr ""
+
+msgctxt "settings_label"
+msgid "Network settings"
+msgstr ""
+
+msgctxt "voicemail"
+msgid "Voicemail"
+msgstr ""
+
+msgctxt "voicemail_abbreviated"
+msgid "VM:"
+msgstr ""
+
+msgctxt "networks"
+msgid "Network operators"
+msgstr ""
+
+msgctxt "call_settings"
+msgid "Call Settings"
+msgstr ""
+
+msgctxt "additional_gsm_call_settings"
+msgid "Additional settings"
+msgstr ""
+
+msgctxt "sum_gsm_call_settings"
+msgid "Additional GSM only call settings"
+msgstr ""
+
+msgctxt "additional_cdma_call_settings"
+msgid "Additional CDMA call settings"
+msgstr ""
+
+msgctxt "sum_cdma_call_settings"
+msgid "Additional CDMA only call settings"
+msgstr ""
+
+msgctxt "labelNwService"
+msgid "Network service settings"
+msgstr ""
+
+msgctxt "labelCallerId"
+msgid "Caller ID"
+msgstr ""
+
+msgctxt "sum_hide_caller_id"
+msgid "Number hidden in outgoing calls"
+msgstr ""
+
+msgctxt "sum_show_caller_id"
+msgid "Number displayed in outgoing calls"
+msgstr ""
+
+msgctxt "sum_default_caller_id"
+msgid "Use default operator settings to display my number in outgoing calls"
+msgstr ""
+
+msgctxt "labelCW"
+msgid "Call waiting"
+msgstr ""
+
+msgctxt "sum_cw_enabled"
+msgid "During a call, notify me of incoming calls"
+msgstr ""
+
+msgctxt "sum_cw_disabled"
+msgid "During a call, notify me of incoming calls"
+msgstr ""
+
+msgctxt "call_forwarding_settings"
+msgid "Call forwarding settings"
+msgstr ""
+
+msgctxt "labelCF"
+msgid "Call forwarding"
+msgstr ""
+
+msgctxt "labelCFU"
+msgid "Always forward"
+msgstr ""
+
+msgctxt "messageCFU"
+msgid "Always use this number"
+msgstr ""
+
+msgctxt "sum_cfu_enabled_indicator"
+msgid "Forwarding all calls"
+msgstr ""
+
+msgctxt "sum_cfu_enabled"
+msgid "Forwarding all calls to {0}"
+msgstr ""
+
+msgctxt "sum_cfu_enabled_no_number"
+msgid "Number is unavailable"
+msgstr ""
+
+msgctxt "sum_cfu_disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "labelCFB"
+msgid "Forward when busy"
+msgstr ""
+
+msgctxt "messageCFB"
+msgid "Number when busy"
+msgstr ""
+
+msgctxt "sum_cfb_enabled"
+msgid "Forwarding to {0}"
+msgstr ""
+
+msgctxt "sum_cfb_disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "disable_cfb_forbidden"
+msgid ""
+"Your carrier does not support disabling call-forwarding when your phone "
+"is busy."
+msgstr ""
+
+msgctxt "labelCFNRy"
+msgid "Forward when unanswered"
+msgstr ""
+
+msgctxt "messageCFNRy"
+msgid "Number when unanswered"
+msgstr ""
+
+msgctxt "sum_cfnry_enabled"
+msgid "Forwarding to {0}"
+msgstr ""
+
+msgctxt "sum_cfnry_disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "disable_cfnry_forbidden"
+msgid ""
+"Your carrier does not support disabling call-forwarding when your phone "
+"doesn't answer."
+msgstr ""
+
+msgctxt "labelCFNRc"
+msgid "Forward when unreachable"
+msgstr ""
+
+msgctxt "messageCFNRc"
+msgid "Number when unreachable"
+msgstr ""
+
+msgctxt "sum_cfnrc_enabled"
+msgid "Forwarding to {0}"
+msgstr ""
+
+msgctxt "sum_cfnrc_disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "disable_cfnrc_forbidden"
+msgid ""
+"Your carrier does not support disabling call-forwarding when your phone "
+"is unreachable."
+msgstr ""
+
+msgctxt "updating_title"
+msgid "Call settings"
 msgstr ""
 
 msgctxt "error_updating_title"
 msgid "Call settings error"
 msgstr ""
 
+msgctxt "reading_settings"
+msgid "Reading settings..."
+msgstr ""
+
+msgctxt "updating_settings"
+msgid "Updating settings…"
+msgstr ""
+
+msgctxt "reverting_settings"
+msgid "Reverting settings…"
+msgstr ""
+
+msgctxt "response_error"
+msgid "Unexpected response from network."
+msgstr ""
+
 msgctxt "exception_error"
 msgid "Network or SIM card error."
 msgstr ""
 
-msgctxt "fake_phone_activity_infoText_text"
-msgid "Incoming phone number"
-msgstr ""
-
-msgctxt "fake_phone_activity_phoneNumber_text"
-msgid "(650) 555-1234"
-msgstr "(650) 555-1234"
-
-msgctxt "fake_phone_activity_placeCall_text"
-msgid "Fake Incoming Call"
-msgstr ""
-
-msgctxt "fdn"
-msgid "Fixed Dialing Numbers"
-msgstr ""
-
-msgctxt "fdnListLabel"
-msgid "FDN list"
-msgstr ""
-
-msgctxt "fdn_activation"
-msgid "FDN activation"
-msgstr ""
-
-msgctxt "fdn_contact_added"
-msgid "Fixed dialing number added."
-msgstr ""
-
-msgctxt "fdn_contact_deleted"
-msgid "Fixed dialing number deleted."
-msgstr ""
-
-msgctxt "fdn_contact_updated"
-msgid "Fixed dialing number updated."
-msgstr ""
-
-msgctxt "fdn_disabled"
-msgid "Fixed Dialing Numbers are disabled"
-msgstr ""
-
-msgctxt "fdn_enabled"
-msgid "Fixed Dialing Numbers are enabled"
-msgstr ""
-
-msgctxt "fdn_enable_puk2_requested"
-msgid "Password incorrect, please change PIN2 and retry!"
-msgstr ""
-
-msgctxt "fdn_invalid_number"
-msgid "FDN not updated: number cannot exceed 20 digits."
-msgstr ""
-
 msgctxt "fdn_only_error"
 msgid "Operations are only allowed on fixed dialing numbers."
+msgstr ""
+
+msgctxt "radio_off_error"
+msgid "Please turn on the radio before viewing these settings."
+msgstr ""
+
+msgctxt "close_dialog"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "enable"
+msgid "Enable"
+msgstr ""
+
+msgctxt "disable"
+msgid "Disable"
+msgstr ""
+
+msgctxt "change_num"
+msgid "Update"
+msgstr ""
+
+msgctxt "vm_save_number"
+msgid "Save voicemail number"
+msgstr ""
+
+msgctxt "vm_changed"
+msgid "Voicemail number changed."
+msgstr ""
+
+msgctxt "vm_change_failed"
+msgid ""
+"Voicemail number change unsuccessful.\n"
+"Please contact your carrier if this problem persists."
 msgstr ""
 
 msgctxt "fw_change_failed"
@@ -983,24 +657,466 @@ msgid ""
 "Do you want to switch to the new provider anyway?"
 msgstr ""
 
+msgctxt "no_change"
+msgid "No changes were made."
+msgstr ""
+
+msgctxt "sum_voicemail_choose_provider"
+msgid "Choose voicemail service"
+msgstr ""
+
+msgctxt "voicemail_default"
+msgid "My carrier"
+msgstr ""
+
+msgctxt "mobile_networks"
+msgid "Mobile Network Settings"
+msgstr ""
+
+msgctxt "label_available"
+msgid "Available networks"
+msgstr ""
+
+msgctxt "load_networks_progress"
+msgid "Searching..."
+msgstr "Søker..."
+
+msgctxt "empty_networks_list"
+msgid "No networks found."
+msgstr "Ingen nettverk funnet."
+
+msgctxt "search_networks"
+msgid "Search networks"
+msgstr ""
+
+msgctxt "network_query_error"
+msgid "Error while searching for networks."
+msgstr ""
+
+#, c-format
+msgctxt "register_on_network"
+msgid "Registering on %s..."
+msgstr ""
+
+msgctxt "not_allowed"
+msgid "Your SIM card does not allow a connection to this network."
+msgstr ""
+
+msgctxt "connect_later"
+msgid "Unable to connect to this network at this time. Please try again later."
+msgstr ""
+
+msgctxt "registration_done"
+msgid "Registered on network."
+msgstr ""
+
+msgctxt "sum_carrier_select"
+msgid "Select a network operator"
+msgstr ""
+
+msgctxt "sum_search_networks"
+msgid "Search for all available networks"
+msgstr ""
+
+msgctxt "select_automatically"
+msgid "Select automatically"
+msgstr ""
+
+msgctxt "sum_select_automatically"
+msgid "Automatically select preferred network"
+msgstr ""
+
+msgctxt "register_automatically"
+msgid "Automatic registration..."
+msgstr ""
+
+msgctxt "preferred_network_mode_title"
+msgid "Network Mode"
+msgstr ""
+
+msgctxt "preferred_network_mode_summary"
+msgid "Change the network operating mode"
+msgstr ""
+
+msgctxt "preferred_network_mode_dialogtitle"
+msgid "Preferred network mode"
+msgstr ""
+
+msgctxt "data_enabled"
+msgid "Data enabled"
+msgstr ""
+
+msgctxt "data_enable_summary"
+msgid "Enable data access over Mobile network"
+msgstr ""
+
+msgctxt "roaming"
+msgid "Data roaming"
+msgstr ""
+
+msgctxt "roaming_enable"
+msgid "Connect to data services when roaming"
+msgstr ""
+
+msgctxt "roaming_disable"
+msgid "Connect to data services when roaming"
+msgstr ""
+
+msgctxt "roaming_reenable_message"
+msgid ""
+"You have lost data connectivity because you left your home network with "
+"data roaming turned off."
+msgstr ""
+
+msgctxt "roaming_warning"
+msgid "Allow data roaming? You may incur significant roaming charges!"
+msgstr ""
+
+msgctxt "gsm_umts_options"
+msgid "GSM/UMTS Options"
+msgstr ""
+
+msgctxt "cdma_options"
+msgid "CDMA Options"
+msgstr ""
+
+msgctxt "throttle_data_usage"
+msgid "Data usage"
+msgstr ""
+
+msgctxt "throttle_settings_title"
+msgid "Carrier data policy"
+msgstr ""
+
+msgctxt "throttle_current_usage"
+msgid "Data used in current period"
+msgstr ""
+
+msgctxt "throttle_time_frame"
+msgid "Data use period"
+msgstr ""
+
+msgctxt "throttle_rate"
+msgid "Data rate policy"
+msgstr ""
+
+msgctxt "throttle_help"
+msgid "Learn more"
+msgstr ""
+
+#, c-format
+msgctxt "throttle_status_subtext"
+msgid ""
+"%1$s (%2$d٪) of %3$s period maximum\n"
+"Next period starts in %4$d days (%5$s)"
+msgstr ""
+
+#, c-format
+msgctxt "throttle_data_usage_subtext"
+msgid "%1$s (%2$d٪) of %3$s period maximum"
+msgstr ""
+
+#, c-format
+msgctxt "throttle_data_rate_reduced_subtext"
+msgid ""
+"%1$s maximum exceeded\n"
+"Data rate reduced to %2$d Kb/s"
+msgstr ""
+
+#, c-format
+msgctxt "throttle_time_frame_subtext"
+msgid ""
+"%1$d٪ of cycle elapsed\n"
+"Next period starts in %2$d days (%3$s)"
+msgstr ""
+
+#, c-format
+msgctxt "throttle_rate_subtext"
+msgid "Data rate reduced to %1$d Kb/s if data use limit is exceeded"
+msgstr ""
+
+msgctxt "throttle_help_subtext"
+msgid "More information about your carrier's mobile network data use policy"
+msgstr ""
+
+msgctxt "cdma_cell_broadcast_sms"
+msgid "Cell Broadcast SMS"
+msgstr ""
+
+msgctxt "cell_broadcast_sms"
+msgid "Cell Broadcast SMS"
+msgstr ""
+
+msgctxt "enable_disable_cell_bc_sms"
+msgid "Cell Broadcast SMS"
+msgstr ""
+
+msgctxt "cell_bc_sms_enable"
+msgid "Cell Broadcast SMS enabled"
+msgstr ""
+
+msgctxt "cell_bc_sms_disable"
+msgid "Cell Broadcast SMS disabled"
+msgstr ""
+
+msgctxt "cb_sms_settings"
+msgid "Cell Broadcast SMS settings"
+msgstr ""
+
+msgctxt "enable_disable_emergency_broadcast"
+msgid "Emergency Broadcast"
+msgstr ""
+
+msgctxt "emergency_broadcast_enable"
+msgid "Emergency Broadcast enabled"
+msgstr ""
+
+msgctxt "emergency_broadcast_disable"
+msgid "Emergency Broadcast disabled"
+msgstr ""
+
+msgctxt "enable_disable_administrative"
+msgid "Administrative"
+msgstr ""
+
+msgctxt "administrative_enable"
+msgid "Administrative enabled"
+msgstr ""
+
+msgctxt "administrative_disable"
+msgid "Administrative disabled"
+msgstr ""
+
+msgctxt "enable_disable_maintenance"
+msgid "Maintenance"
+msgstr ""
+
+msgctxt "maintenance_enable"
+msgid "Maintenance enabled"
+msgstr ""
+
+msgctxt "maintenance_disable"
+msgid "Maintenance disabled"
+msgstr ""
+
 msgctxt "general_news_settings"
 msgid "General News"
 msgstr ""
 
-msgctxt "get_pin2"
-msgid "Enter PIN2"
+msgctxt "bf_news_settings"
+msgid "Business and Financial News"
 msgstr ""
 
-msgctxt "get_smsc_address_error"
-msgid "Failed to get SMS center number"
+msgctxt "sports_news_settings"
+msgid "Sports News"
 msgstr ""
 
-msgctxt "goPrivate"
-msgid "Go private"
+msgctxt "entertainment_news_settings"
+msgid "Entertainment News"
 msgstr ""
 
-msgctxt "gsm_umts_network_preferences_dialogtitle"
-msgid "GSM/UMTS network preferences"
+msgctxt "enable_disable_local"
+msgid "Local"
+msgstr ""
+
+msgctxt "local_enable"
+msgid "Local news enabled"
+msgstr ""
+
+msgctxt "local_disable"
+msgid "Local news disabled"
+msgstr ""
+
+msgctxt "enable_disable_regional"
+msgid "Regional"
+msgstr ""
+
+msgctxt "regional_enable"
+msgid "Regional news enabled"
+msgstr ""
+
+msgctxt "regional_disable"
+msgid "Regional news disabled"
+msgstr ""
+
+msgctxt "enable_disable_national"
+msgid "National"
+msgstr ""
+
+msgctxt "national_enable"
+msgid "National news enabled"
+msgstr ""
+
+msgctxt "national_disable"
+msgid "National news disabled"
+msgstr ""
+
+msgctxt "enable_disable_international"
+msgid "International"
+msgstr ""
+
+msgctxt "international_enable"
+msgid "International news enabled"
+msgstr ""
+
+msgctxt "international_disable"
+msgid "International news disabled"
+msgstr ""
+
+msgctxt "list_language_title"
+msgid "Language"
+msgstr ""
+
+msgctxt "list_language_summary"
+msgid "Select the news language"
+msgstr ""
+
+msgctxt "list_language_dtitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "enable_disable_local_weather"
+msgid "Local Weather"
+msgstr ""
+
+msgctxt "local_weather_enable"
+msgid "Local Weather enabled"
+msgstr ""
+
+msgctxt "local_weather_disable"
+msgid "Local Weather disabled"
+msgstr ""
+
+msgctxt "enable_disable_atr"
+msgid "Area Traffic Reports"
+msgstr ""
+
+msgctxt "atr_enable"
+msgid "Area Traffic Reports enabled"
+msgstr ""
+
+msgctxt "atr_disable"
+msgid "Area Traffic Reports disabled"
+msgstr ""
+
+msgctxt "enable_disable_lafs"
+msgid "Local Airport Flight Schedules"
+msgstr ""
+
+msgctxt "lafs_enable"
+msgid "Local Airport Flight Schedules enabled"
+msgstr ""
+
+msgctxt "lafs_disable"
+msgid "Local Airport Flight Schedules disabled"
+msgstr ""
+
+msgctxt "enable_disable_restaurants"
+msgid "Restaurants"
+msgstr ""
+
+msgctxt "restaurants_enable"
+msgid "Restaurants enabled"
+msgstr ""
+
+msgctxt "restaurants_disable"
+msgid "Restaurants disabled"
+msgstr ""
+
+msgctxt "enable_disable_lodgings"
+msgid "Lodgings"
+msgstr ""
+
+msgctxt "lodgings_enable"
+msgid "Lodgings enabled"
+msgstr ""
+
+msgctxt "lodgings_disable"
+msgid "Lodgings disabled"
+msgstr ""
+
+msgctxt "enable_disable_retail_directory"
+msgid "Retail Directory"
+msgstr ""
+
+msgctxt "retail_directory_enable"
+msgid "Retail Directory enabled"
+msgstr ""
+
+msgctxt "retail_directory_disable"
+msgid "Retail Directory disabled"
+msgstr ""
+
+msgctxt "enable_disable_advertisements"
+msgid "Advertisements"
+msgstr ""
+
+msgctxt "advertisements_enable"
+msgid "Advertisements enabled"
+msgstr ""
+
+msgctxt "advertisements_disable"
+msgid "Advertisements disabled"
+msgstr ""
+
+msgctxt "enable_disable_stock_quotes"
+msgid "Stock Quotes"
+msgstr ""
+
+msgctxt "stock_quotes_enable"
+msgid "Stock Quotes enabled"
+msgstr ""
+
+msgctxt "stock_quotes_disable"
+msgid "Stock Quotes disabled"
+msgstr ""
+
+msgctxt "enable_disable_eo"
+msgid "Employment Opportunities"
+msgstr ""
+
+msgctxt "eo_enable"
+msgid "Employment Opportunities enabled"
+msgstr ""
+
+msgctxt "eo_disable"
+msgid "Employment Opportunities disabled"
+msgstr ""
+
+msgctxt "enable_disable_mhh"
+msgid "Medical, Health and Hospital"
+msgstr ""
+
+msgctxt "mhh_enable"
+msgid "Medical, Health and Hospital enabled"
+msgstr ""
+
+msgctxt "mhh_disable"
+msgid "Medical, Health and Hospital disabled"
+msgstr ""
+
+msgctxt "enable_disable_technology_news"
+msgid "Technology News"
+msgstr ""
+
+msgctxt "technology_news_enable"
+msgid "Technology News enabled"
+msgstr ""
+
+msgctxt "technology_news_disable"
+msgid "Technology News disabled"
+msgstr ""
+
+msgctxt "enable_disable_multi_category"
+msgid "Multi-category"
+msgstr ""
+
+msgctxt "multi_category_enable"
+msgid "Multi-category enabled"
+msgstr ""
+
+msgctxt "multi_category_disable"
+msgid "Multi-category disabled"
 msgstr ""
 
 msgctxt "gsm_umts_network_preferences_title"
@@ -1011,875 +1127,8 @@ msgctxt "gsm_umts_network_preferneces_summary"
 msgid "Not implemented yet!"
 msgstr ""
 
-msgctxt "gsm_umts_options"
-msgid "GSM/UMTS Options"
-msgstr ""
-
-msgctxt "hac_mode_summary"
-msgid "Turn on hearing aid compatibility"
-msgstr ""
-
-msgctxt "hac_mode_title"
-msgid "Hearing aids"
-msgstr ""
-
-msgctxt "handon_ringer_summary"
-msgid "Reduce ring volume when I move phone"
-msgstr ""
-
-msgctxt "handon_ringer_title"
-msgid "Quiet ring on pickup"
-msgstr ""
-
-msgctxt "hangup"
-msgid "Hangup"
-msgstr "Legg på"
-
-msgctxt "hangup_sms"
-msgid "Reject with SMS"
-msgstr ""
-
-msgctxt "ignore"
-msgid "Ignore"
-msgstr "Ignorer"
-
-msgctxt "imei"
-msgid "IMEI"
-msgstr "IMEI"
-
-msgctxt "importAllSimEntries"
-msgid "Import all"
-msgstr ""
-
-msgctxt "importingSimContacts"
-msgid "Importing SIM contacts"
-msgstr ""
-
-msgctxt "importSimEntry"
-msgid "Import"
-msgstr ""
-
-msgctxt "importToFDNfromContacts"
-msgid "Import from contacts"
-msgstr ""
-
-msgctxt "incall_call_type_label_sip"
-msgid "Internet call"
-msgstr ""
-
-msgctxt "incall_error_call_failed"
-msgid "Call not sent."
-msgstr ""
-
-msgctxt "incall_error_emergency_only"
-msgid "Not registered on network."
-msgstr ""
-
-msgctxt "incall_error_no_phone_number_supplied"
-msgid "Call not sent, no valid number entered."
-msgstr ""
-
-msgctxt "incall_error_out_of_service"
-msgid "Mobile network not available."
-msgstr ""
-
-msgctxt "incall_error_power_off"
-msgid "To place a call, first turn off Airplane mode."
-msgstr ""
-
-msgctxt "incall_error_supp_service_conference"
-msgid "Unable to conference calls."
-msgstr ""
-
-msgctxt "incall_error_supp_service_hangup"
-msgid "Unable to release call(s)."
-msgstr ""
-
-msgctxt "incall_error_supp_service_reject"
-msgid "Unable to reject call."
-msgstr ""
-
-msgctxt "incall_error_supp_service_separate"
-msgid "Unable to separate call."
-msgstr ""
-
-msgctxt "incall_error_supp_service_switch"
-msgid "Unable to switch calls."
-msgstr ""
-
-msgctxt "incall_error_supp_service_transfer"
-msgid "Unable to transfer call."
-msgstr ""
-
-msgctxt "incall_error_supp_service_unknown"
-msgid "Unsupported service."
-msgstr ""
-
-msgctxt "incall_status_dialed_fc"
-msgid "Starting feature code sequence…"
-msgstr ""
-
-msgctxt "incall_status_dialed_mmi"
-msgid "Starting MMI sequence…"
-msgstr ""
-
-msgctxt "international_disable"
-msgid "International news disabled"
-msgstr ""
-
-msgctxt "international_enable"
-msgid "International news enabled"
-msgstr ""
-
-msgctxt "internet_phone"
-msgid "Internet call"
-msgstr ""
-
-msgctxt "invalidPin"
-msgid "Type a PIN that is 4 to 8 numbers."
-msgstr ""
-
-msgctxt "invalidPin2"
-msgid "Type a PIN2 that is 4 to 8 numbers."
-msgstr ""
-
-msgctxt "invalidPuk2"
-msgid "Type a PUK2 that is 8 numbers."
-msgstr ""
-
-msgctxt "ip_prefix"
-msgid "IP prefix"
-msgstr ""
-
-#, python-format
-msgctxt "ip_prefix_sum"
-msgid "Carrier's IP prefix:%s"
-msgstr ""
-
-msgctxt "labelCallerId"
-msgid "Caller ID"
-msgstr ""
-
-msgctxt "labelCDMAMore"
-msgid "CDMA call settings"
-msgstr ""
-
-msgctxt "labelCF"
-msgid "Call forwarding"
-msgstr ""
-
-msgctxt "labelCFB"
-msgid "Forward when busy"
-msgstr ""
-
-msgctxt "labelCFNRc"
-msgid "Forward when unreachable"
-msgstr ""
-
-msgctxt "labelCFNRy"
-msgid "Forward when unanswered"
-msgstr ""
-
-msgctxt "labelCFU"
-msgid "Always forward"
-msgstr ""
-
-msgctxt "labelCW"
-msgid "Call waiting"
-msgstr ""
-
-msgctxt "labelGSMMore"
-msgid "GSM call settings"
-msgstr ""
-
-msgctxt "labelNwService"
-msgid "Network service settings"
-msgstr ""
-
-msgctxt "label_available"
-msgid "Available networks"
-msgstr ""
-
-msgctxt "label_ndp"
-msgid "SIM network unlock PIN"
-msgstr ""
-
-msgctxt "label_puk2_code"
-msgid "Type PUK2 code"
-msgstr ""
-
-msgctxt "lafs_disable"
-msgid "Local Airport Flight Schedules disabled"
-msgstr ""
-
-msgctxt "lafs_enable"
-msgid "Local Airport Flight Schedules enabled"
-msgstr ""
-
-msgctxt "list_language_dtitle"
-msgid "Languages"
-msgstr ""
-
-msgctxt "list_language_summary"
-msgid "Select the news language"
-msgstr ""
-
-msgctxt "list_language_title"
-msgid "Language"
-msgstr ""
-
-msgctxt "load_networks_progress"
-msgid "Searching..."
-msgstr "Søker..."
-
-msgctxt "local_disable"
-msgid "Local news disabled"
-msgstr ""
-
-msgctxt "local_enable"
-msgid "Local news enabled"
-msgstr ""
-
-msgctxt "local_weather_disable"
-msgid "Local Weather disabled"
-msgstr ""
-
-msgctxt "local_weather_enable"
-msgid "Local Weather enabled"
-msgstr ""
-
-msgctxt "lodgings_disable"
-msgid "Lodgings disabled"
-msgstr ""
-
-msgctxt "lodgings_enable"
-msgid "Lodgings enabled"
-msgstr ""
-
-msgctxt "maintenance_disable"
-msgid "Maintenance disabled"
-msgstr ""
-
-msgctxt "maintenance_enable"
-msgid "Maintenance enabled"
-msgstr ""
-
-msgctxt "manage_fdn_list"
-msgid "FDN list"
-msgstr ""
-
-msgctxt "meid"
-msgid "MEID"
-msgstr ""
-
-msgctxt "menuButtonHint"
-msgid "Press menu for call options"
-msgstr ""
-
-msgctxt "menuButtonKeyboardDialHint"
-msgid "Press Menu for call options \\u0020• \\u0020Use keyboard to dial"
-msgstr ""
-
-msgctxt "menu_add"
-msgid "Add contact"
-msgstr ""
-
-msgctxt "menu_addCall"
-msgid "Add call"
-msgstr ""
-
-msgctxt "menu_answer"
-msgid "Talk"
-msgstr ""
-
-msgctxt "menu_answerAndEnd"
-msgid ""
-"End current call\n"
-"& answer"
-msgstr ""
-
-msgctxt "menu_answerAndHold"
-msgid ""
-"Hold current call\n"
-"& answer"
-msgstr ""
-
-msgctxt "menu_bluetooth"
-msgid "Bluetooth"
-msgstr ""
-
-msgctxt "menu_delete"
-msgid "Delete contact"
-msgstr ""
-
-msgctxt "menu_edit"
-msgid "Edit contact"
-msgstr ""
-
-msgctxt "menu_endCall"
-msgid "End call"
-msgstr "Avslutt samtalen"
-
-msgctxt "menu_hideDialpad"
-msgid "Hide dialpad"
-msgstr ""
-
-msgctxt "menu_hold"
-msgid "Hold"
-msgstr ""
-
-msgctxt "menu_ignore"
-msgid "Ignore"
-msgstr ""
-
-msgctxt "menu_manageConference"
-msgid "Manage conference call"
-msgstr ""
-
-msgctxt "menu_mergeCalls"
-msgid "Merge calls"
-msgstr ""
-
-msgctxt "menu_mute"
-msgid "Mute"
-msgstr "Demp"
-
-msgctxt "menu_rejectCallAndSms"
-msgid "Reject Call and reply by SMS"
-msgstr ""
-
-msgctxt "menu_showDialpad"
-msgid "Show dialpad"
-msgstr ""
-
-msgctxt "menu_speaker"
-msgid "Speaker"
-msgstr ""
-
-msgctxt "menu_swapCalls"
-msgid "Swap calls"
-msgstr ""
-
-msgctxt "messageCFB"
-msgid "Number when busy"
-msgstr ""
-
-msgctxt "messageCFNRc"
-msgid "Number when unreachable"
-msgstr ""
-
-msgctxt "messageCFNRy"
-msgid "Number when unanswered"
-msgstr ""
-
-msgctxt "messageCFU"
-msgid "Always use this number"
-msgstr ""
-
-msgctxt "mhh_disable"
-msgid "Medical, Health and Hospital disabled"
-msgstr ""
-
-msgctxt "mhh_enable"
-msgid "Medical, Health and Hospital enabled"
-msgstr ""
-
-msgctxt "mismatchPin"
-msgid "The PINs you entered do not match. Please try again."
-msgstr ""
-
-msgctxt "mismatchPin2"
-msgid "The PIN2s you entered do not match. Please try again."
-msgstr ""
-
-msgctxt "mmiCancelled"
-msgid "MMI code canceled"
-msgstr ""
-
-msgctxt "mmiStarted"
-msgid "MMI code started"
-msgstr ""
-
-msgctxt "mobile_networks"
-msgid "Mobile Network Settings"
-msgstr ""
-
-msgctxt "multi_category_disable"
-msgid "Multi-category disabled"
-msgstr ""
-
-msgctxt "multi_category_enable"
-msgid "Multi-category enabled"
-msgstr ""
-
-msgctxt "name"
-msgid "Name"
-msgstr ""
-
-msgctxt "national_disable"
-msgid "National news disabled"
-msgstr ""
-
-msgctxt "national_enable"
-msgid "National news enabled"
-msgstr ""
-
-msgctxt "networks"
-msgid "Network operators"
-msgstr ""
-
-msgctxt "network_message"
-msgid "Network Message"
-msgstr ""
-
-msgctxt "network_query_error"
-msgid "Error while searching for networks."
-msgstr ""
-
-msgctxt "newPin2Label"
-msgid "New PIN2"
-msgstr ""
-
-msgctxt "newPinLabel"
-msgid "New PIN"
-msgstr ""
-
-msgctxt "notification_incoming_call"
-msgid "Incoming call"
-msgstr ""
-
-#, python-format
-msgctxt "notification_missedCallsMsg"
-msgid "%s missed calls"
-msgstr ""
-
-msgctxt "notification_missedCallsTitle"
-msgid "Missed calls"
-msgstr ""
-
-#, python-format
-msgctxt "notification_missedCallTicker"
-msgid "Missed call from %s"
-msgstr ""
-
-msgctxt "notification_missedCallTitle"
-msgid "Missed call"
-msgstr ""
-
-#, python-format
-msgctxt "notification_network_selection_text"
-msgid "Selected network (%s) unavailable"
-msgstr ""
-
-msgctxt "notification_network_selection_title"
-msgid "No service"
-msgstr ""
-
-#, python-format
-msgctxt "notification_ongoing_calling_format"
-msgid "Calling (%s)"
-msgstr ""
-
-#, python-format
-msgctxt "notification_ongoing_call_format"
-msgid "Current call (%s)"
-msgstr ""
-
-msgctxt "notification_on_hold"
-msgid "On hold"
-msgstr ""
-
-msgctxt "notification_voicemail_no_vm_number"
-msgid "Voicemail number unknown"
-msgstr ""
-
-#, python-format
-msgctxt "notification_voicemail_text_format"
-msgid "Dial %s"
-msgstr ""
-
-msgctxt "notification_voicemail_title"
-msgid "New voicemail"
-msgstr ""
-
-#, python-format
-msgctxt "notification_voicemail_title_count"
-msgid "New voicemail (%d)"
-msgstr ""
-
-msgctxt "not_allowed"
-msgid "Your SIM card does not allow a connection to this network."
-msgstr ""
-
-msgctxt "not_a_valid_port"
-msgid "Port number should be within 1000 and 65534"
-msgstr ""
-
-msgctxt "not_connected"
-msgid "Not connected"
-msgstr ""
-
-msgctxt "no_change"
-msgid "No changes were made."
-msgstr ""
-
-msgctxt "no_internet_available"
-msgid "To place an Internet call, check your Internet connection first"
-msgstr ""
-
-msgctxt "no_internet_available_title"
-msgid "No Internet connection"
-msgstr ""
-
-msgctxt "no_sip_account_found"
-msgid "There are no Internet calling accounts on this phone. Add one now?"
-msgstr ""
-
-msgctxt "no_sip_account_found_title"
-msgid "No Internet calling account"
-msgstr ""
-
-msgctxt "no_vm_number"
-msgid "Missing voicemail number"
-msgstr ""
-
-msgctxt "no_vm_number_msg"
-msgid "No voicemail number is stored on the SIM card."
-msgstr ""
-
-msgctxt "no_voip"
-msgid "Internet calling not supported"
-msgstr ""
-
-msgctxt "no_wifi_available"
-msgid "You must be connected to a Wi-Fi network for Internet calls (use the Wireless & Network settings)"
-msgstr ""
-
-msgctxt "no_wifi_available_title"
-msgid "No Wi-Fi connection"
-msgstr ""
-
-msgctxt "number"
-msgid "Number"
-msgstr ""
-
-msgctxt "ok"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "oldPin2Label"
-msgid "Old PIN2"
-msgstr ""
-
-msgctxt "oldPinLabel"
-msgid "Old PIN"
-msgstr ""
-
-msgctxt "ongoing"
-msgid "Current call"
-msgstr ""
-
-msgctxt "onHold"
-msgid "On hold"
-msgstr ""
-
-msgctxt "onscreenAddCallText"
-msgid "Add call"
-msgstr ""
-
-msgctxt "onscreenAnswerText"
-msgid ""
-"Double-tap\n"
-"to answer"
-msgstr ""
-
-msgctxt "onscreenBluetoothText"
-msgid "Bluetooth"
-msgstr ""
-
-msgctxt "onscreenEndCallText"
-msgid "End"
-msgstr ""
-
-msgctxt "onscreenHideDialpadText"
-msgid "Hide"
-msgstr ""
-
-msgctxt "onscreenHoldText"
-msgid "Hold"
-msgstr ""
-
-msgctxt "onscreenKeyboard"
-msgid "Keyboard"
-msgstr ""
-
-msgctxt "onscreenManageCallsText"
-msgid "Manage calls"
-msgstr ""
-
-msgctxt "onscreenManageConferenceText"
-msgid "Manage"
-msgstr ""
-
-msgctxt "onscreenMergeCallsText"
-msgid "Merge calls"
-msgstr ""
-
-msgctxt "onscreenMoreOff"
-msgid "Tools"
-msgstr ""
-
-msgctxt "onscreenMoreOn"
-msgid "Tools"
-msgstr ""
-
-msgctxt "onscreenMuteText"
-msgid "Mute"
-msgstr ""
-
-msgctxt "onscreenNoteForCall"
-msgid "REC"
-msgstr ""
-
-msgctxt "onscreenNoteForTxt"
-msgid "SMS"
-msgstr ""
-
-msgctxt "onscreenNoteRecordingCall"
-msgid "Recording"
-msgstr ""
-
-msgctxt "onscreenNoteText"
-msgid "Call tools"
-msgstr ""
-
-msgctxt "onscreenRejectText"
-msgid ""
-"Double-tap\n"
-"to decline"
-msgstr ""
-
-msgctxt "onscreenShowDialpadText"
-msgid "Dialpad"
-msgstr ""
-
-msgctxt "onscreenSpeakerText"
-msgid "Speaker"
-msgstr ""
-
-msgctxt "onscreenSwapCallsText"
-msgid "Swap"
-msgstr ""
-
-msgctxt "onscreenUnholdText"
-msgid "Unhold"
-msgstr ""
-
-msgctxt "optional_summary"
-msgid "Optional"
-msgstr ""
-
-msgctxt "ota_activate"
-msgid "Activate"
-msgstr ""
-
-msgctxt "ota_back"
-msgid "Back"
-msgstr "Tilbake"
-
-msgctxt "ota_call_end"
-msgid "Back"
-msgstr "Tilbake"
-
-msgctxt "ota_dialpad"
-msgid "Keypad"
-msgstr ""
-
-msgctxt "ota_failure"
-msgid "Programming Unsuccessful"
-msgstr ""
-
-msgctxt "ota_listen"
-msgid "Follow the spoken instructions until you hear that activation is complete."
-msgstr ""
-
-msgctxt "ota_next"
-msgid "Next"
-msgstr "Neste"
-
-msgctxt "ota_progress"
-msgid "Please wait while your phone is being programmed."
-msgstr ""
-
-msgctxt "ota_skip_activation_dialog_continue_label"
-msgid "Activate"
-msgstr "Aktiver"
-
-msgctxt "ota_skip_activation_dialog_message"
-msgid "If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on."
-msgstr ""
-
-msgctxt "ota_skip_activation_dialog_skip_label"
-msgid "Skip"
-msgstr ""
-
-msgctxt "ota_skip_activation_dialog_title"
-msgid "Skip activation?"
-msgstr ""
-
-msgctxt "ota_spc_failure"
-msgid "EXCESS SPC FAILURES"
-msgstr ""
-
-msgctxt "ota_speaker"
-msgid "Speaker"
-msgstr ""
-
-msgctxt "ota_successful"
-msgid "Your phone is now activated. It may take up to 15 minutes for service to start."
-msgstr ""
-
-msgctxt "ota_title_activate"
-msgid "Activate your phone"
-msgstr ""
-
-msgctxt "ota_title_activate_success"
-msgid "Phone is activated!"
-msgstr ""
-
-msgctxt "ota_title_problem_with_activation"
-msgid "Problem with activation"
-msgstr ""
-
-msgctxt "ota_touch_activate"
-msgid ""
-"A special call needs to be made to activate your phone service. \n"
-"\n"
-"After pressing Activate, listen to the instructions provided to activate your phone."
-msgstr ""
-
-msgctxt "ota_touch_activate_new"
-msgid "Touch Activate to place a special call that activates your phone on your carrier's mobile network, so you can place calls and connect to mobile data networks."
-msgstr ""
-
-msgctxt "ota_try_again"
-msgid "Try again"
-msgstr "Prøv igjen"
-
-msgctxt "ota_unsuccessful"
-msgid ""
-"Your phone did not activate. \n"
-"You may need to find an area with better coverage (near a window, or outside). \n"
-"\n"
-"Try again or call customer service for more options."
-msgstr ""
-
-msgctxt "other_settings"
-msgid "Other call settings"
-msgstr ""
-
-msgctxt "password"
-msgid "Password"
-msgstr "Passord"
-
-msgctxt "password_title"
-msgid "Password"
-msgstr "Passord"
-
-msgctxt "pause_prompt_no"
-msgid "No"
-msgstr "Nei"
-
-msgctxt "pause_prompt_str"
-msgid "Sending Tones\n"
-msgstr ""
-
-msgctxt "pause_prompt_yes"
-msgid "Yes"
-msgstr "Ja"
-
-msgctxt "payphone"
-msgid "Pay phone"
-msgstr ""
-
-msgctxt "phoneIconLabel"
-msgid "Phone"
-msgstr ""
-
-msgctxt "phone_call_pref_title"
-msgid "Phone calls"
-msgstr ""
-
-msgctxt "phone_entered_ecm_text"
-msgid "Entered Emergency Callback Mode"
-msgstr ""
-
-msgctxt "phone_in_ecm_call_notification_text"
-msgid "Data connection disabled"
-msgstr ""
-
-msgctxt "phone_in_ecm_notification_title"
-msgid "Emergency Callback Mode"
-msgstr ""
-
-msgctxt "pick_outgoing_call_phone_type"
-msgid "Place call"
-msgstr ""
-
-msgctxt "pick_outgoing_sip_phone"
-msgid "Use Internet calling account:"
-msgstr ""
-
-msgctxt "pin2_changed"
-msgid "PIN2 changed successfully"
-msgstr ""
-
-msgctxt "pin2_invalid"
-msgid "FDN not updated: you entered an incorrect PIN."
-msgstr ""
-
-msgctxt "pinUnlocked"
-msgid "SIM unlocked"
-msgstr ""
-
-msgctxt "pin_changed"
-msgid "SIM PIN changed successfully"
-msgstr ""
-
-msgctxt "pin_failed"
-msgid "The PIN you typed was incorrect"
-msgstr ""
-
-msgctxt "port"
-msgid "Port"
-msgstr ""
-
-msgctxt "port_title"
-msgid "Port number"
-msgstr ""
-
-msgctxt "predefined_hangup_sms_body"
-msgid "Not available at the moment but will call you later"
-msgstr ""
-
-msgctxt "predefined_hangup_sms_summary"
-msgid "Ignore call and send message"
-msgstr ""
-
-msgctxt "predefined_hangup_sms_title"
-msgid "Message hangup options"
-msgstr ""
-
-msgctxt "preferred_network_mode_dialogtitle"
-msgid "Preferred network mode"
-msgstr ""
-
-msgctxt "preferred_network_mode_summary"
-msgid "Change the network operating mode"
-msgstr ""
-
-msgctxt "preferred_network_mode_title"
-msgid "Network Mode"
+msgctxt "gsm_umts_network_preferences_dialogtitle"
+msgid "GSM/UMTS network preferences"
 msgstr ""
 
 msgctxt "prefer_2g"
@@ -1890,561 +1139,92 @@ msgctxt "prefer_2g_summary"
 msgid "Saves battery"
 msgstr ""
 
-msgctxt "pref_dialer_list_title"
-msgid "Dialer list"
+msgctxt "cdma_system_select_title"
+msgid "System select"
 msgstr ""
 
-msgctxt "pref_more_settings_title"
-msgid "Settings"
+msgctxt "cdma_system_select_summary"
+msgid "Change the cdma roaming mode"
 msgstr ""
 
-msgctxt "pref_outgoing_call_title"
-msgid "Outgoing calls"
+msgctxt "cdma_system_select_dialogtitle"
+msgid "System select"
 msgstr ""
 
-msgctxt "pref_phone_security_title"
-msgid "Phone security"
+msgctxt "cdma_roaming_mode_title"
+msgid "CDMA Roaming Mode"
 msgstr ""
 
-msgctxt "primary_account"
-msgid "Primary"
+msgctxt "cdma_roaming_mode_summary"
+msgid "Change the cdma roaming mode"
 msgstr ""
 
-msgctxt "primary_account_summary"
-msgid "Used for outbound calls"
+msgctxt "cdma_roaming_mode_dialogtitle"
+msgid "CDMA roaming mode"
 msgstr ""
 
-#, python-format
-msgctxt "primary_account_summary_with"
-msgid "Primary account. %s"
+msgctxt "cdma_network_preferences_title"
+msgid "CDMA Network Preferences"
 msgstr ""
 
-msgctxt "primary_account_title"
-msgid "Make this my primary account"
+msgctxt "cdma_network_preferneces_summary"
+msgid "Not implemented yet!"
 msgstr ""
 
-msgctxt "private_num"
-msgid "Private number"
+msgctxt "cdma_network_preferences_dialogtitle"
+msgid "CDMA network preferences"
 msgstr ""
 
-msgctxt "progress_dialog_exiting_ecm"
-msgid "Exiting Emergency Callback Mode"
+msgctxt "cdma_subscription_title"
+msgid "CDMA Subscription TEST"
 msgstr ""
 
-msgctxt "proxy_address"
-msgid "ProxyAddress"
+msgctxt "cdma_subscription_summary"
+msgid "Change between RUIM/SIM and NV"
 msgstr ""
 
-msgctxt "proxy_address_title"
-msgid "Outbound proxy address"
+msgctxt "cdma_subscription_dialogtitle"
+msgid "subscription"
 msgstr ""
 
-msgctxt "pstn_phone"
-msgid "Cell phone call"
+msgctxt "fdn"
+msgid "Fixed Dialing Numbers"
 msgstr ""
 
-msgctxt "puk2_requested"
-msgid "Password incorrect, SIM is locked! PUK2 requested."
+msgctxt "manage_fdn_list"
+msgid "FDN list"
 msgstr ""
 
-msgctxt "puk_requested"
-msgid "Password incorrect, SIM is locked! PUK2 requested."
+msgctxt "fdn_activation"
+msgid "FDN activation"
 msgstr ""
 
-msgctxt "puk_unlocked"
-msgid "Your SIM card has been unblocked. Your phone is unlocking..."
+msgctxt "fdn_enabled"
+msgid "Fixed Dialing Numbers are enabled"
 msgstr ""
 
-msgctxt "radio_off_error"
-msgid "Please turn on the radio before viewing these settings."
+msgctxt "fdn_disabled"
+msgid "Fixed Dialing Numbers are disabled"
 msgstr ""
 
-msgctxt "reading_settings"
-msgid "Reading settings..."
+msgctxt "enable_fdn"
+msgid "Enable FDN"
 msgstr ""
 
-msgctxt "recentCallsIconLabel"
-msgid "Call log"
+msgctxt "disable_fdn"
+msgid "Disable FDN"
 msgstr ""
 
-msgctxt "recordCall_sample_prefix"
-msgid "MIUI_Recording"
+msgctxt "change_pin2"
+msgid "Change PIN2"
 msgstr ""
 
-msgctxt "recordCall_sd_error"
-msgid "SD card access error!"
+msgctxt "enable_fdn_ok"
+msgid "Disable FDN"
 msgstr ""
 
-msgctxt "regional_disable"
-msgid "Regional news disabled"
-msgstr ""
-
-msgctxt "regional_enable"
-msgid "Regional news enabled"
-msgstr ""
-
-msgctxt "register_automatically"
-msgid "Automatic registration..."
-msgstr ""
-
-#, python-format
-msgctxt "register_on_network"
-msgid "Registering on %s..."
-msgstr ""
-
-msgctxt "registration_done"
-msgid "Registered on network."
-msgstr ""
-
-msgctxt "registration_status_checking_status"
-msgid "Checking status..."
-msgstr ""
-
-msgctxt "registration_status_done"
-msgid "Receiving calls"
-msgstr ""
-
-#, python-format
-msgctxt "registration_status_failed_try_later"
-msgid "Account registration failed: (%s); will try later"
-msgstr ""
-
-msgctxt "registration_status_invalid_credentials"
-msgid "Account registration failed: incorrect username or password"
-msgstr ""
-
-msgctxt "registration_status_not_receiving"
-msgid "Not receiving calls"
-msgstr ""
-
-msgctxt "registration_status_not_running"
-msgid "Account registration failed"
-msgstr ""
-
-msgctxt "registration_status_no_data"
-msgid "Account registration stopped because there is no Internet connection"
-msgstr ""
-
-msgctxt "registration_status_no_wifi_data"
-msgid "Account registration stopped because there is no Wi-Fi connection"
-msgstr ""
-
-msgctxt "registration_status_registering"
-msgid "Registering..."
-msgstr ""
-
-msgctxt "registration_status_server_unreachable"
-msgid "Account registration failed: please check the server name"
-msgstr ""
-
-msgctxt "registration_status_still_trying"
-msgid "Still trying..."
-msgstr ""
-
-msgctxt "remember_my_choice"
-msgid "Always use to place Internet calls"
-msgstr ""
-
-msgctxt "remove_sip_account"
-msgid "Remove account"
-msgstr ""
-
-msgctxt "removing_account"
-msgid "Removing the account..."
-msgstr ""
-
-msgctxt "requesting_unlock"
-msgid "Requesting network unlock..."
-msgstr ""
-
-msgctxt "reset_my_choice_hint"
-msgid "You can use the Call Settings to change which Internet calling account to use by default when placing calls, by selecting a different account under Internet call settings"
-msgstr ""
-
-msgctxt "response_error"
-msgid "Unexpected response from network."
-msgstr ""
-
-msgctxt "restaurants_disable"
-msgid "Restaurants disabled"
-msgstr ""
-
-msgctxt "restaurants_enable"
-msgid "Restaurants enabled"
-msgstr ""
-
-msgctxt "retail_directory_disable"
-msgid "Retail Directory disabled"
-msgstr ""
-
-msgctxt "retail_directory_enable"
-msgid "Retail Directory enabled"
-msgstr ""
-
-msgctxt "retry"
-msgid "Retry"
-msgstr "Prøv igjen"
-
-msgctxt "reverting_settings"
-msgid "Reverting settings…"
-msgstr ""
-
-msgctxt "roaming"
-msgid "Data roaming"
-msgstr ""
-
-msgctxt "roaming_disable"
-msgid "Connect to data services when roaming"
-msgstr ""
-
-msgctxt "roaming_enable"
-msgid "Connect to data services when roaming"
-msgstr ""
-
-msgctxt "roaming_reenable_message"
-msgid "You have lost data connectivity because you left your home network with data roaming turned off."
-msgstr ""
-
-msgctxt "roaming_warning"
-msgid "Allow data roaming? You may incur significant roaming charges!"
-msgstr ""
-
-msgctxt "save"
-msgid "Save"
-msgstr "Lagre"
-
-msgctxt "saving_account"
-msgid "Saving the account..."
-msgstr ""
-
-msgctxt "sdnListLabel"
-msgid "SDN list"
-msgstr ""
-
-msgctxt "search_networks"
-msgid "Search networks"
-msgstr ""
-
-msgctxt "selectContact"
-msgid "Select contact"
-msgstr ""
-
-msgctxt "select_automatically"
-msgid "Select automatically"
-msgstr ""
-
-msgctxt "send_button"
-msgid "Send"
-msgstr "Send"
-
-msgctxt "send_keepalive"
-msgid "SendKeepAlive"
-msgstr ""
-
-msgctxt "send_keepalive_summary"
-msgid "Send SIP keep-alive messages"
-msgstr ""
-
-msgctxt "send_keepalive_title"
-msgid "Send keep-alive"
-msgstr ""
-
-msgctxt "separate_from_conference"
-msgid "Single Call"
-msgstr ""
-
-msgctxt "settings_label"
-msgid "Network settings"
-msgstr ""
-
-msgctxt "set_primary"
-msgid "SetPrimary"
-msgstr ""
-
-msgctxt "set_primary_summary"
-msgid "Used for outbound calls"
-msgstr ""
-
-msgctxt "set_primary_title"
-msgid "Set as primary account"
-msgstr ""
-
-msgctxt "set_smsc_address_error"
-msgid "Failed to set the SMS center number"
-msgstr ""
-
-msgctxt "set_smsc_address_title"
-msgid "Set SMS center number"
-msgstr ""
-
-msgctxt "show_call_log_number_summary"
-msgid "Show number in recent calls list"
-msgstr ""
-
-msgctxt "show_call_log_number_title"
-msgid "Show number in call list"
-msgstr ""
-
-msgctxt "show_quick_contact_badge_summary"
-msgid "Photo is shown in call log and when calling"
-msgstr ""
-
-msgctxt "show_quick_contact_badge_title"
-msgid "Display photo"
-msgstr ""
-
-msgctxt "simContacts_empty"
-msgid "No contacts on your SIM card."
-msgstr ""
-
-msgctxt "simContacts_emptyLoading"
-msgid "Reading from SIM card…"
-msgstr ""
-
-msgctxt "simContacts_title"
-msgid "Select contacts to import"
-msgstr ""
-
-msgctxt "sim_missing_continueView_text"
-msgid "Continue without SIM card"
-msgstr ""
-
-msgctxt "sim_missing_msg_text"
-msgid "No SIM card found. Please insert a SIM card into the phone."
-msgstr ""
-
-msgctxt "sim_ndp_dismiss_text"
-msgid "Dismiss"
-msgstr ""
-
-msgctxt "sim_ndp_unlock_text"
-msgid "Unlock"
-msgstr ""
-
-msgctxt "sim_unlock_dismiss_text"
-msgid "Dismiss"
-msgstr ""
-
-msgctxt "sim_unlock_status_text"
-msgid "Authenticating PIN…"
-msgstr ""
-
-msgctxt "sim_unlock_unlock_text"
-msgid "Unlock"
-msgstr ""
-
-msgctxt "sip_accounts"
-msgid "Internet calling (SIP) accounts"
-msgstr ""
-
-msgctxt "sip_accounts_summary"
-msgid "Manage Internet calling (SIP) accounts and status"
-msgstr ""
-
-msgctxt "sip_accounts_title"
-msgid "Accounts"
-msgstr ""
-
-msgctxt "sip_account_list"
-msgid "SIP accounts"
-msgstr ""
-
-msgctxt "sip_address_only"
-msgid "SIP_ADDRESS_ONLY"
-msgstr ""
-
-msgctxt "sip_always"
-msgid "SIP_ALWAYS"
-msgstr ""
-
-msgctxt "sip_always_send_keepalive"
-msgid "Always send"
-msgstr ""
-
-msgctxt "sip_ask_me_each_time"
-msgid "SIP_ASK_ME_EACH_TIME"
-msgstr ""
-
-msgctxt "sip_call_options"
-msgid "Configure call options"
-msgstr ""
-
-msgctxt "sip_call_options_entry_1"
-msgid "For all calls when data network is available"
-msgstr ""
-
-msgctxt "sip_call_options_entry_2"
-msgid "Only for Internet calls"
-msgstr ""
-
-msgctxt "sip_call_options_entry_3"
-msgid "Ask for each call"
-msgstr ""
-
-msgctxt "sip_call_options_title"
-msgid "Use Internet calling"
-msgstr ""
-
-msgctxt "sip_call_options_wifi_only_entry_1"
-msgid "For all calls"
-msgstr ""
-
-msgctxt "sip_call_options_wifi_only_title"
-msgid "Use Internet calling (Wi-Fi only)"
-msgstr ""
-
-msgctxt "sip_edit_new_title"
-msgid "SIP account details"
-msgstr ""
-
-msgctxt "sip_edit_title"
-msgid "SIP account details"
-msgstr ""
-
-msgctxt "sip_menu_add"
-msgid "Add"
-msgstr ""
-
-msgctxt "sip_menu_discard"
-msgid "Discard"
-msgstr ""
-
-msgctxt "sip_menu_save"
-msgid "Save"
-msgstr "Lagre"
-
-msgctxt "sip_receive_calls"
-msgid "Receive incoming calls"
-msgstr ""
-
-msgctxt "sip_receive_calls_summary"
-msgid "Reduces battery life"
-msgstr ""
-
-msgctxt "sip_settings"
-msgid "Internet call settings"
-msgstr ""
-
-msgctxt "sip_system_decide"
-msgid "Automatic"
-msgstr ""
-
-msgctxt "slide_to_answer"
-msgid "Drag right to answer"
-msgstr ""
-
-msgctxt "slide_to_answer_and_end_active"
-msgid ""
-"Drag right to answer and\n"
-"end active call"
-msgstr ""
-
-msgctxt "slide_to_answer_and_end_onhold"
-msgid ""
-"Drag right to answer and\n"
-"end call on hold"
-msgstr ""
-
-msgctxt "slide_to_answer_and_hold"
-msgid ""
-"Drag right to answer and\n"
-"hold active call"
-msgstr ""
-
-msgctxt "slide_to_answer_hint"
-msgid "Answer"
-msgstr "Svar"
-
-msgctxt "slide_to_decline"
-msgid "Drag left to decline"
-msgstr ""
-
-msgctxt "slide_to_decline_hint"
-msgid "Decline"
-msgstr ""
-
-msgctxt "slide_to_silence"
-msgid "Drag left to silence ringer"
-msgstr ""
-
-msgctxt "sliding_down_hint"
-msgid "Slide to answer"
-msgstr ""
-
-msgctxt "sliding_target_hint"
-msgid "Slide target"
-msgstr ""
-
-msgctxt "sports_news_settings"
-msgid "Sports News"
-msgstr ""
-
-msgctxt "stock_quotes_disable"
-msgid "Stock Quotes disabled"
-msgstr ""
-
-msgctxt "stock_quotes_enable"
-msgid "Stock Quotes enabled"
-msgstr ""
-
-msgctxt "sum_carrier_select"
-msgid "Select a network operator"
-msgstr ""
-
-msgctxt "sum_cdma_call_settings"
-msgid "Additional CDMA only call settings"
-msgstr ""
-
-msgctxt "sum_cfb_disabled"
-msgid "Disabled"
-msgstr ""
-
-msgctxt "sum_cfb_enabled"
-msgid "Forwarding to {0}"
-msgstr ""
-
-msgctxt "sum_cfnrc_disabled"
-msgid "Disabled"
-msgstr ""
-
-msgctxt "sum_cfnrc_enabled"
-msgid "Forwarding to {0}"
-msgstr ""
-
-msgctxt "sum_cfnry_disabled"
-msgid "Disabled"
-msgstr ""
-
-msgctxt "sum_cfnry_enabled"
-msgid "Forwarding to {0}"
-msgstr ""
-
-msgctxt "sum_cfu_disabled"
-msgid "Disabled"
-msgstr ""
-
-msgctxt "sum_cfu_enabled"
-msgid "Forwarding all calls to {0}"
-msgstr ""
-
-msgctxt "sum_cfu_enabled_indicator"
-msgid "Forwarding all calls"
-msgstr ""
-
-msgctxt "sum_cfu_enabled_no_number"
-msgid "Number is unavailable"
-msgstr ""
-
-msgctxt "sum_cw_disabled"
-msgid "During a call, notify me of incoming calls"
-msgstr ""
-
-msgctxt "sum_cw_enabled"
-msgid "During a call, notify me of incoming calls"
-msgstr ""
-
-msgctxt "sum_default_caller_id"
-msgid "Use default operator settings to display my number in outgoing calls"
+msgctxt "disable_fdn_ok"
+msgid "Enable FDN"
 msgstr ""
 
 msgctxt "sum_fdn"
@@ -2459,103 +1239,484 @@ msgctxt "sum_fdn_manage_list"
 msgid "Manage phone number list"
 msgstr ""
 
-msgctxt "sum_gsm_call_settings"
-msgid "Additional GSM only call settings"
+msgctxt "voice_privacy"
+msgid "Voice Privacy"
 msgstr ""
 
-msgctxt "sum_hide_caller_id"
-msgid "Number hidden in outgoing calls"
+msgctxt "voice_privacy_summary"
+msgid "Enable enhanced privacy mode"
 msgstr ""
 
-msgctxt "sum_search_networks"
-msgid "Search for all available networks"
+msgctxt "tty_mode_title"
+msgid "TTY mode"
 msgstr ""
 
-msgctxt "sum_select_automatically"
-msgid "Automatically select preferred network"
+msgctxt "tty_mode_summary"
+msgid "Enable TTY mode"
 msgstr ""
 
-msgctxt "sum_show_caller_id"
-msgid "Number displayed in outgoing calls"
+msgctxt "tty_mode_option_title"
+msgid "TTY mode"
 msgstr ""
 
-msgctxt "sum_voicemail_choose_provider"
-msgid "Choose voicemail service"
+msgctxt "tty_mode_option_summary"
+msgid "Set TTY mode"
 msgstr ""
 
-msgctxt "technology_news_disable"
-msgid "Technology News disabled"
+msgctxt "auto_retry_mode_title"
+msgid "Auto Retry"
 msgstr ""
 
-msgctxt "technology_news_enable"
-msgid "Technology News enabled"
+msgctxt "auto_retry_mode_summary"
+msgid "Enable Auto Retry mode"
 msgstr ""
 
-msgctxt "text_areacode"
-msgid "Area code:"
+msgctxt "menu_add"
+msgid "Add contact"
 msgstr ""
 
-msgctxt "text_location"
-msgid "Location:"
+msgctxt "menu_edit"
+msgid "Edit contact"
 msgstr ""
 
-#, python-format
-msgctxt "third_party_account_summary"
-msgid "This account is currently in use by the %s application"
+msgctxt "menu_delete"
+msgid "Delete contact"
 msgstr ""
 
-msgctxt "throttle_current_usage"
-msgid "Data used in current period"
+msgctxt "get_pin2"
+msgid "Enter PIN2"
 msgstr ""
 
-msgctxt "throttle_data_rate_reduced_subtext"
-msgid ""
-"%1$s maximum exceeded\n"
-"Data rate reduced to %2$d Kb/s"
+msgctxt "name"
+msgid "Name"
 msgstr ""
 
-msgctxt "throttle_data_usage"
-msgid "Data usage"
+msgctxt "number"
+msgid "Number"
 msgstr ""
 
-msgctxt "throttle_data_usage_subtext"
-msgid "%1$s (%2$d٪) of %3$s period maximum"
+msgctxt "save"
+msgid "Save"
+msgstr "Lagre"
+
+msgctxt "add_fdn_contact"
+msgid "Add fixed dialing number"
 msgstr ""
 
-msgctxt "throttle_help"
-msgid "Learn more"
+msgctxt "adding_fdn_contact"
+msgid "Adding fixed dialing number…"
 msgstr ""
 
-msgctxt "throttle_help_subtext"
-msgid "More information about your carrier's mobile network data use policy"
+msgctxt "fdn_contact_added"
+msgid "Fixed dialing number added."
 msgstr ""
 
-msgctxt "throttle_rate"
-msgid "Data rate policy"
+msgctxt "edit_fdn_contact"
+msgid "Edit fixed dialing number"
 msgstr ""
 
-msgctxt "throttle_rate_subtext"
-msgid "Data rate reduced to %1$d Kb/s if data use limit is exceeded"
+msgctxt "updating_fdn_contact"
+msgid "Updating fixed dialing number…"
 msgstr ""
 
-msgctxt "throttle_settings_title"
-msgid "Carrier data policy"
+msgctxt "fdn_contact_updated"
+msgid "Fixed dialing number updated."
 msgstr ""
 
-msgctxt "throttle_status_subtext"
-msgid ""
-"%1$s (%2$d٪) of %3$s period maximum\n"
-"Next period starts in %4$d days (%5$s)"
+msgctxt "delete_fdn_contact"
+msgid "Delete fixed dialing number"
 msgstr ""
 
-msgctxt "throttle_time_frame"
-msgid "Data use period"
+msgctxt "deleting_fdn_contact"
+msgid "Deleting fixed dialing number…"
 msgstr ""
 
-msgctxt "throttle_time_frame_subtext"
-msgid ""
-"%1$d٪ of cycle elapsed\n"
-"Next period starts in %2$d days (%3$s)"
+msgctxt "fdn_contact_deleted"
+msgid "Fixed dialing number deleted."
+msgstr ""
+
+msgctxt "pin2_invalid"
+msgid "FDN not updated: you entered an incorrect PIN."
+msgstr ""
+
+msgctxt "fdn_invalid_number"
+msgid "FDN not updated: number cannot exceed 20 digits."
+msgstr ""
+
+msgctxt "simContacts_emptyLoading"
+msgid "Reading from SIM card…"
+msgstr ""
+
+msgctxt "simContacts_empty"
+msgid "No contacts on your SIM card."
+msgstr ""
+
+msgctxt "simContacts_title"
+msgid "Select contacts to import"
+msgstr ""
+
+msgctxt "enable_pin"
+msgid "Enable/disable SIM PIN"
+msgstr ""
+
+msgctxt "change_pin"
+msgid "Change SIM PIN"
+msgstr ""
+
+msgctxt "enter_pin_text"
+msgid "SIM PIN:"
+msgstr ""
+
+msgctxt "oldPinLabel"
+msgid "Old PIN"
+msgstr ""
+
+msgctxt "newPinLabel"
+msgid "New PIN"
+msgstr ""
+
+msgctxt "confirmPinLabel"
+msgid "Confirm new PIN"
+msgstr ""
+
+msgctxt "badPin"
+msgid "The old PIN you typed is not correct. Please try again."
+msgstr ""
+
+msgctxt "mismatchPin"
+msgid "The PINs you entered do not match. Please try again."
+msgstr ""
+
+msgctxt "invalidPin"
+msgid "Type a PIN that is 4 to 8 numbers."
+msgstr ""
+
+msgctxt "disable_sim_pin"
+msgid "Disable SIM PIN"
+msgstr ""
+
+msgctxt "enable_sim_pin"
+msgid "Enable SIM PIN"
+msgstr ""
+
+msgctxt "enable_in_progress"
+msgid "Please wait…"
+msgstr ""
+
+msgctxt "enable_pin_ok"
+msgid "SIM PIN enabled"
+msgstr ""
+
+msgctxt "disable_pin_ok"
+msgid "SIM PIN disabled"
+msgstr ""
+
+msgctxt "pin_failed"
+msgid "The PIN you typed was incorrect"
+msgstr ""
+
+msgctxt "pin_changed"
+msgid "SIM PIN changed successfully"
+msgstr ""
+
+msgctxt "puk_requested"
+msgid "Password incorrect, SIM is locked! PUK2 requested."
+msgstr ""
+
+msgctxt "enter_pin2_text"
+msgid "PIN2"
+msgstr "PIN2"
+
+msgctxt "oldPin2Label"
+msgid "Old PIN2"
+msgstr ""
+
+msgctxt "newPin2Label"
+msgid "New PIN2"
+msgstr ""
+
+msgctxt "confirmPin2Label"
+msgid "Confirm new PIN2"
+msgstr ""
+
+msgctxt "badPuk2"
+msgid "The PUK2 you typed is not correct. Please try again."
+msgstr ""
+
+msgctxt "badPin2"
+msgid "The old PIN2 you typed is not correct. Please try again."
+msgstr ""
+
+msgctxt "mismatchPin2"
+msgid "The PIN2s you entered do not match. Please try again."
+msgstr ""
+
+msgctxt "invalidPin2"
+msgid "Type a PIN2 that is 4 to 8 numbers."
+msgstr ""
+
+msgctxt "invalidPuk2"
+msgid "Type a PUK2 that is 8 numbers."
+msgstr ""
+
+msgctxt "pin2_changed"
+msgid "PIN2 changed successfully"
+msgstr ""
+
+msgctxt "label_puk2_code"
+msgid "Type PUK2 code"
+msgstr ""
+
+msgctxt "fdn_enable_puk2_requested"
+msgid "Password incorrect, please change PIN2 and retry!"
+msgstr ""
+
+msgctxt "puk2_requested"
+msgid "Password incorrect, SIM is locked! PUK2 requested."
+msgstr ""
+
+msgctxt "doneButton"
+msgid "Done"
+msgstr ""
+
+#, c-format
+msgctxt "caller_manage_header"
+msgid "Conference call %s"
+msgstr ""
+
+msgctxt "caller_manage_manage_done_text"
+msgid "Back to call"
+msgstr ""
+
+msgctxt "fake_phone_activity_phoneNumber_text"
+msgid "(650) 555-1234"
+msgstr "(650) 555-1234"
+
+msgctxt "fake_phone_activity_infoText_text"
+msgid "Incoming phone number"
+msgstr ""
+
+msgctxt "fake_phone_activity_placeCall_text"
+msgid "Fake Incoming Call"
+msgstr ""
+
+msgctxt "sim_missing_continueView_text"
+msgid "Continue without SIM card"
+msgstr ""
+
+msgctxt "sim_missing_msg_text"
+msgid "No SIM card found. Please insert a SIM card into the phone."
+msgstr ""
+
+msgctxt "sim_unlock_dismiss_text"
+msgid "Dismiss"
+msgstr ""
+
+msgctxt "sim_unlock_unlock_text"
+msgid "Unlock"
+msgstr ""
+
+msgctxt "sim_unlock_status_text"
+msgid "Authenticating PIN…"
+msgstr ""
+
+msgctxt "voicemail_settings_number_label"
+msgid "Voicemail number"
+msgstr ""
+
+msgctxt "card_title_dialing"
+msgid "Dialing"
+msgstr ""
+
+msgctxt "card_title_redialing"
+msgid "Retrying"
+msgstr ""
+
+msgctxt "card_title_in_progress"
+msgid "Current call"
+msgstr ""
+
+msgctxt "card_title_conf_call"
+msgid "Conference call"
+msgstr ""
+
+msgctxt "card_title_incoming_call"
+msgid "Incoming call"
+msgstr ""
+
+msgctxt "card_title_forwarded_incoming_call"
+msgid "Forward incoming call(s)"
+msgstr ""
+
+msgctxt "card_title_cdma_call_waiting"
+msgid "CDMA call waiting"
+msgstr ""
+
+msgctxt "card_title_call_ended"
+msgid "Call ended"
+msgstr ""
+
+msgctxt "card_title_on_hold"
+msgid "On hold"
+msgstr ""
+
+msgctxt "card_title_hanging_up"
+msgid "Hanging up"
+msgstr ""
+
+msgctxt "card_title_in_call"
+msgid "In call"
+msgstr ""
+
+msgctxt "notification_missedCallTitle"
+msgid "Missed call"
+msgstr ""
+
+msgctxt "notification_missedCallsTitle"
+msgid "Missed calls"
+msgstr ""
+
+#, c-format
+msgctxt "notification_missedCallsMsg"
+msgid "%s missed calls"
+msgstr ""
+
+#, c-format
+msgctxt "notification_missedCallTicker"
+msgid "Missed call from %s"
+msgstr ""
+
+#, c-format
+msgctxt "notification_ongoing_call_format"
+msgid "Current call (%s)"
+msgstr ""
+
+msgctxt "notification_on_hold"
+msgid "On hold"
+msgstr ""
+
+msgctxt "notification_incoming_call"
+msgid "Incoming call"
+msgstr ""
+
+msgctxt "notification_voicemail_title"
+msgid "New voicemail"
+msgstr ""
+
+#, c-format
+msgctxt "notification_voicemail_title_count"
+msgid "New voicemail (%d)"
+msgstr ""
+
+#, c-format
+msgctxt "notification_voicemail_text_format"
+msgid "Dial %s"
+msgstr ""
+
+msgctxt "notification_voicemail_no_vm_number"
+msgid "Voicemail number unknown"
+msgstr ""
+
+msgctxt "notification_network_selection_title"
+msgid "No service"
+msgstr ""
+
+#, c-format
+msgctxt "notification_network_selection_text"
+msgid "Selected network (%s) unavailable"
+msgstr ""
+
+msgctxt "incall_error_power_off"
+msgid "To place a call, first turn off Airplane mode."
+msgstr ""
+
+msgctxt "incall_error_emergency_only"
+msgid "Not registered on network."
+msgstr ""
+
+msgctxt "incall_error_out_of_service"
+msgid "Mobile network not available."
+msgstr ""
+
+msgctxt "incall_error_no_phone_number_supplied"
+msgid "Call not sent, no valid number entered."
+msgstr ""
+
+msgctxt "incall_error_call_failed"
+msgid "Call not sent."
+msgstr ""
+
+msgctxt "incall_status_dialed_mmi"
+msgid "Starting MMI sequence…"
+msgstr ""
+
+msgctxt "incall_status_dialed_fc"
+msgid "Starting feature code sequence..."
+msgstr ""
+
+msgctxt "incall_error_supp_service_unknown"
+msgid "Unsupported service."
+msgstr ""
+
+msgctxt "incall_error_supp_service_switch"
+msgid "Unable to switch calls."
+msgstr ""
+
+msgctxt "incall_error_supp_service_separate"
+msgid "Unable to separate call."
+msgstr ""
+
+msgctxt "incall_error_supp_service_transfer"
+msgid "Unable to transfer call."
+msgstr ""
+
+msgctxt "incall_error_supp_service_conference"
+msgid "Unable to conference calls."
+msgstr ""
+
+msgctxt "incall_error_supp_service_reject"
+msgid "Unable to reject call."
+msgstr ""
+
+msgctxt "incall_error_supp_service_hangup"
+msgid "Unable to release call(s)."
+msgstr ""
+
+msgctxt "incall_call_type_label_sip"
+msgid "Internet call"
+msgstr ""
+
+msgctxt "emergency_enable_radio_dialog_title"
+msgid "Emergency call"
+msgstr ""
+
+msgctxt "emergency_enable_radio_dialog_message"
+msgid "Turning on radio…"
+msgstr ""
+
+msgctxt "emergency_enable_radio_dialog_retry"
+msgid "Out of service area, retrying…"
+msgstr ""
+
+#, c-format
+msgctxt "dial_emergency_error"
+msgid "Call not sent, %s is not an emergency number!"
+msgstr ""
+
+msgctxt "dial_emergency_empty_error"
+msgid "Call not sent, please dial an emergency number!"
+msgstr ""
+
+msgctxt "dialerKeyboardHintText"
+msgid "Use keyboard to dial"
+msgstr ""
+
+msgctxt "dtmfDialpadHintText"
+msgid "Touch tone keypad"
+msgstr ""
+
+msgctxt "dtmfDialpadHandleLabel"
+msgid "Dialpad"
 msgstr ""
 
 msgctxt "touchLockText"
@@ -2564,110 +1725,257 @@ msgid ""
 "to unlock"
 msgstr ""
 
-msgctxt "transport"
-msgid "Protocol"
-msgstr ""
-
-msgctxt "transport_title"
-msgid "Transport type"
-msgstr ""
-
-msgctxt "tty_mode_option_summary"
-msgid "Set TTY mode"
-msgstr ""
-
-msgctxt "tty_mode_option_title"
-msgid "TTY mode"
-msgstr ""
-
-msgctxt "tty_mode_summary"
-msgid "Enable TTY mode"
-msgstr ""
-
-msgctxt "tty_mode_title"
-msgid "TTY mode"
-msgstr ""
-
-msgctxt "turnover_mute_summary"
-msgid "When the phone rings, flip the screen down to activate silent mode"
-msgstr ""
-
-msgctxt "turnover_mute_title"
-msgid "Flip to silence"
-msgstr ""
-
-msgctxt "unknown"
-msgid "Unknown"
-msgstr ""
-
-msgctxt "unknown_location"
-msgid "Unable to inquire information"
-msgstr ""
-
-msgctxt "unlock_failed"
-msgid "Network unlock request unsuccessful."
-msgstr ""
-
-msgctxt "unlock_success"
-msgid "Network unlock successful."
-msgstr ""
-
-msgctxt "updating_fdn_contact"
-msgid "Updating fixed dialing number…"
-msgstr ""
-
-msgctxt "updating_settings"
-msgid "Updating settings…"
-msgstr ""
-
-msgctxt "updating_title"
-msgid "Call settings"
-msgstr ""
-
-msgctxt "username"
-msgid "UserName"
-msgstr ""
-
-msgctxt "username_title"
-msgid "Username"
-msgstr ""
-
-msgctxt "ussdRunning"
-msgid "USSD code running…"
-msgstr ""
-
-msgctxt "verifyFailed"
-msgid "The SIM PINs you typed do not match. Please try again."
-msgstr ""
-
-msgctxt "verifyNewPin"
-msgid "Type new SIM PIN code again to confirm"
-msgstr ""
-
-msgctxt "vm_changed"
-msgid "Voicemail number changed."
-msgstr ""
-
-msgctxt "vm_change_failed"
+msgctxt "onscreenAnswerText"
 msgid ""
-"Voicemail number change unsuccessful.\n"
-"Please contact your carrier if this problem persists."
+"Double-tap\n"
+"to answer"
 msgstr ""
 
-msgctxt "vm_save_number"
-msgid "Save voicemail number"
+msgctxt "onscreenRejectText"
+msgid ""
+"Double-tap\n"
+"to decline"
 msgstr ""
 
-msgctxt "voicemail"
-msgid "Voicemail"
+msgctxt "onscreenHoldText"
+msgid "Hold"
 msgstr ""
 
-msgctxt "voicemail_abbreviated"
-msgid "VM:"
+msgctxt "onscreenUnholdText"
+msgid "Un-hold"
 msgstr ""
 
-msgctxt "voicemail_default"
-msgid "My carrier"
+msgctxt "onscreenEndCallText"
+msgid "End"
+msgstr ""
+
+msgctxt "onscreenShowDialpadText"
+msgid "Dialpad"
+msgstr ""
+
+msgctxt "onscreenHideDialpadText"
+msgid "Hide"
+msgstr ""
+
+msgctxt "onscreenSpeakerText"
+msgid "Speaker"
+msgstr ""
+
+msgctxt "onscreenMuteText"
+msgid "Mute"
+msgstr ""
+
+msgctxt "onscreenBluetoothText"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "onscreenAddCallText"
+msgid "Add call"
+msgstr ""
+
+msgctxt "onscreenMergeCallsText"
+msgid "Merge calls"
+msgstr ""
+
+msgctxt "onscreenSwapCallsText"
+msgid "Swap"
+msgstr ""
+
+msgctxt "onscreenManageCallsText"
+msgid "Manage calls"
+msgstr ""
+
+msgctxt "onscreenManageConferenceText"
+msgid "Manage"
+msgstr ""
+
+msgctxt "importSimEntry"
+msgid "Import"
+msgstr ""
+
+msgctxt "importAllSimEntries"
+msgid "Import all"
+msgstr ""
+
+msgctxt "importingSimContacts"
+msgid "Importing SIM contacts"
+msgstr ""
+
+msgctxt "importToFDNfromContacts"
+msgid "Import from contacts"
+msgstr ""
+
+msgctxt "hac_mode_title"
+msgid "Hearing aids"
+msgstr ""
+
+msgctxt "hac_mode_summary"
+msgid "Turn on hearing aid compatibility"
+msgstr ""
+
+msgctxt "eri_text_label"
+msgid "ERI text"
+msgstr ""
+
+msgctxt "dtmf_tones_title"
+msgid "DTMF Tones"
+msgstr ""
+
+msgctxt "dtmf_tones_summary"
+msgid "Set the length of DTMF tones"
+msgstr ""
+
+msgctxt "network_message"
+msgid "Network Message"
+msgstr ""
+
+msgctxt "ota_title_activate"
+msgid "Activate your phone"
+msgstr ""
+
+msgctxt "ota_touch_activate"
+msgid ""
+"A special call needs to be made to activate your phone service. \n"
+"\n"
+"After pressing Activate, listen to the instructions provided to activate "
+"your phone."
+msgstr ""
+
+msgctxt "ota_touch_activate_new"
+msgid ""
+"Touch Activate to place a special call that activates your phone on your "
+"carrier's mobile network, so you can place calls and connect to mobile "
+"data networks."
+msgstr ""
+
+msgctxt "ota_skip_activation_dialog_title"
+msgid "Skip activation?"
+msgstr ""
+
+msgctxt "ota_skip_activation_dialog_message"
+msgid ""
+"If you skip activation, you can't place calls or connect to mobile data "
+"networks (though you can connect to Wi-Fi networks). Until you activate "
+"your phone, you are asked to activate it each time you turn it on."
+msgstr ""
+
+msgctxt "ota_skip_activation_dialog_skip_label"
+msgid "Skip"
+msgstr ""
+
+msgctxt "ota_skip_activation_dialog_continue_label"
+msgid "Activate"
+msgstr "Aktiver"
+
+msgctxt "ota_activate"
+msgid "Activate"
+msgstr ""
+
+msgctxt "ota_title_activate_success"
+msgid "Phone is activated!"
+msgstr ""
+
+msgctxt "ota_title_problem_with_activation"
+msgid "Problem with activation"
+msgstr ""
+
+msgctxt "ota_listen"
+msgid "Follow the spoken instructions until you hear that activation is complete."
+msgstr ""
+
+msgctxt "ota_dialpad"
+msgid "Keypad"
+msgstr ""
+
+msgctxt "ota_speaker"
+msgid "Speaker"
+msgstr ""
+
+msgctxt "ota_progress"
+msgid "Please wait while your phone is being programmed."
+msgstr ""
+
+msgctxt "ota_failure"
+msgid "Programming Unsuccessful"
+msgstr ""
+
+msgctxt "ota_successful"
+msgid ""
+"Your phone is now activated. It may take up to 15 minutes for service to "
+"start."
+msgstr ""
+
+msgctxt "ota_unsuccessful"
+msgid ""
+"Your phone did not activate. \n"
+"You may need to find an area with better coverage (near a window, or "
+"outside). \n"
+"\n"
+"Try again or call customer service for more options."
+msgstr ""
+
+msgctxt "ota_spc_failure"
+msgid "EXCESS SPC FAILURES"
+msgstr ""
+
+msgctxt "ota_call_end"
+msgid "Back"
+msgstr "Tilbake"
+
+msgctxt "ota_try_again"
+msgid "Try again"
+msgstr "Prøv igjen"
+
+msgctxt "ota_next"
+msgid "Next"
+msgstr "Neste"
+
+msgctxt "ota_back"
+msgid "Back"
+msgstr "Tilbake"
+
+msgctxt "ecm_exit_dialog"
+msgid "EcmExitDialog"
+msgstr ""
+
+msgctxt "phone_entered_ecm_text"
+msgid "Entered Emergency Callback Mode"
+msgstr ""
+
+msgctxt "phone_in_ecm_notification_title"
+msgid "Emergency Callback Mode"
+msgstr ""
+
+msgctxt "phone_in_ecm_call_notification_text"
+msgid "Data connection disabled"
+msgstr ""
+
+msgctxt "alert_dialog_in_ecm_call"
+msgid "The selected action is not available while in an emergency call"
+msgstr ""
+
+msgctxt "progress_dialog_exiting_ecm"
+msgid "Exiting Emergency Callback Mode"
+msgstr ""
+
+msgctxt "alert_dialog_yes"
+msgid "Yes"
+msgstr "Ja"
+
+msgctxt "alert_dialog_no"
+msgid "No"
+msgstr "Nei"
+
+msgctxt "alert_dialog_dismiss"
+msgid "Dismiss"
+msgstr ""
+
+msgctxt "absent_num"
+msgid "ABSENT NUMBER"
+msgstr ""
+
+msgctxt "voicemail_settings"
+msgid "Voicemail settings"
 msgstr ""
 
 msgctxt "voicemail_number_not_set"
@@ -2678,84 +1986,768 @@ msgctxt "voicemail_provider"
 msgid "Voicemail service"
 msgstr ""
 
-msgctxt "voicemail_settings"
-msgid "Voicemail settings"
-msgstr ""
-
-#, python-format
+#, c-format
 msgctxt "voicemail_settings_for"
 msgid "Settings for %s"
 msgstr ""
 
-msgctxt "voicemail_settings_number_label"
-msgid "Voicemail number"
+msgctxt "other_settings"
+msgid "Other call settings"
+msgstr ""
+
+msgctxt "dial_button_label"
+msgid "Dial"
+msgstr "Ring"
+
+msgctxt "calling_via_template"
+msgid ""
+"Calling via ^1\n"
+"<b>^2</b>"
+msgstr ""
+
+msgctxt "slide_to_answer"
+msgid "Drag right to answer"
+msgstr ""
+
+msgctxt "slide_to_silence"
+msgid "Drag left to silence ringer"
+msgstr ""
+
+msgctxt "slide_to_decline"
+msgid "Drag left to decline"
+msgstr ""
+
+msgctxt "slide_to_answer_and_hold"
+msgid ""
+"Drag right to answer and\n"
+"hold active call"
+msgstr ""
+
+msgctxt "slide_to_answer_and_end_active"
+msgid ""
+"Drag right to answer and\n"
+"end active call"
+msgstr ""
+
+msgctxt "slide_to_answer_and_end_onhold"
+msgid ""
+"Drag right to answer and\n"
+"end call on hold"
+msgstr ""
+
+msgctxt "slide_to_answer_hint"
+msgid "Answer"
+msgstr "Svar"
+
+msgctxt "slide_to_decline_hint"
+msgid "Decline"
+msgstr ""
+
+msgctxt "separate_from_conference"
+msgid "Single Call"
+msgstr ""
+
+#, c-format
+msgctxt "notification_ongoing_calling_format"
+msgid "Calling (%s)"
+msgstr ""
+
+msgctxt "advanced_setting"
+msgid "Advanced settings"
+msgstr ""
+
+msgctxt "sliding_target_hint"
+msgid "Slide target"
+msgstr ""
+
+msgctxt "sliding_down_hint"
+msgid "Slide to answer"
+msgstr ""
+
+msgctxt "answer"
+msgid "Answer"
+msgstr "Svar"
+
+msgctxt "hangup"
+msgid "Hangup"
+msgstr "Legg på"
+
+msgctxt "ignore"
+msgid "Ignore"
+msgstr "Ignorer"
+
+msgctxt "hangup_sms"
+msgid "Reject with SMS"
+msgstr ""
+
+#, c-format
+msgctxt "count_of_persons_in_conference"
+msgid "Total of %d people"
+msgstr ""
+
+msgctxt "not_connected"
+msgid "Not connected"
+msgstr ""
+
+msgctxt "onscreenNoteText"
+msgid "Call tools"
+msgstr ""
+
+msgctxt "onscreenNoteForTxt"
+msgid "SMS"
+msgstr ""
+
+msgctxt "onscreenNoteForCall"
+msgid "REC"
+msgstr ""
+
+msgctxt "onscreenNoteRecordingCall"
+msgid "Recording"
+msgstr ""
+
+msgctxt "onscreenKeyboard"
+msgid "Keyboard"
+msgstr ""
+
+msgctxt "onscreenMoreOff"
+msgid "Tools"
+msgstr ""
+
+msgctxt "onscreenMoreOn"
+msgid "Tools"
+msgstr ""
+
+msgctxt "recordCall_sd_error"
+msgid "SD card access error!"
+msgstr ""
+
+msgctxt "recordCall_sample_prefix"
+msgid "MIUI_Recording"
+msgstr ""
+
+msgctxt "button_query_hint"
+msgid "Please enter mobile or landline number"
+msgstr ""
+
+msgctxt "button_query"
+msgid "Look up"
+msgstr ""
+
+msgctxt "button_clear"
+msgid "Clear"
+msgstr "Tøm"
+
+msgctxt "text_location"
+msgid "Location:"
+msgstr ""
+
+msgctxt "text_areacode"
+msgid "Area code:"
+msgstr ""
+
+msgctxt "unknown_location"
+msgid "Unable to inquire information"
+msgstr ""
+
+msgctxt "autoip"
+msgid "Auto IP dialing"
+msgstr ""
+
+msgctxt "autoip_sum"
+msgid "Add IP prefix to a foreign number. Enter current area code below."
+msgstr ""
+
+msgctxt "ip_prefix"
+msgid "IP prefix"
+msgstr ""
+
+#, c-format
+msgctxt "ip_prefix_sum"
+msgid "Carrier's IP prefix: %s"
+msgstr ""
+
+msgctxt "current_areacode"
+msgid "Current area code"
+msgstr ""
+
+msgctxt "current_areacode_sum"
+msgid ""
+"Area code of current location, or roaming area code if you are roaming. "
+"For example: 010"
+msgstr ""
+
+msgctxt "always_enable_mms"
+msgid "Always receive MMS"
+msgstr ""
+
+msgctxt "always_enable_mms_summary"
+msgid "Always receive MMS even when data is disabled"
+msgstr ""
+
+msgctxt "dialer_click_pref_title"
+msgid "Single click on contact list"
+msgstr ""
+
+msgctxt "dialer_click_pref_summary"
+msgid "Define action of single click on contact list"
+msgstr ""
+
+msgctxt "auto_dialpad_pref_title"
+msgid "Auto show dialpad"
+msgstr ""
+
+msgctxt "auto_dialpad_pref_summary"
+msgid "Enable to automatically display dialpad on opening of application"
+msgstr ""
+
+msgctxt "enable_proximity_title"
+msgid "Enable proximity sensor"
+msgstr ""
+
+msgctxt "enable_proximity_summary"
+msgid "Enable proximity sensor to disable screen display during calls"
+msgstr ""
+
+msgctxt "crystaltalk_title"
+msgid "NICAM setting"
+msgstr ""
+
+msgctxt "crystaltalk_summary"
+msgid "Call audio configuration optimization"
+msgstr ""
+
+msgctxt "deleteSimEntry"
+msgid "Delete"
+msgstr ""
+
+msgctxt "deleteAllSimContacts"
+msgid "Delete all SIM card contacts"
+msgstr ""
+
+msgctxt "deleteAllSimContactsText"
+msgid "SIM card contacts are empty"
+msgstr ""
+
+msgctxt "phone_call_pref_title"
+msgid "Phone calls"
+msgstr ""
+
+msgctxt "turnover_mute_title"
+msgid "Flip to silence"
+msgstr ""
+
+msgctxt "turnover_mute_summary"
+msgid "When the phone rings, flip the screen down to activate silent mode"
+msgstr ""
+
+msgctxt "handon_ringer_title"
+msgid "Quiet ring on pickup"
+msgstr ""
+
+msgctxt "handon_ringer_summary"
+msgid "Reduce ring volume when I move phone"
+msgstr ""
+
+msgctxt "allow_3rd_app_listen_phone_event_title"
+msgid "Third-party access"
+msgstr ""
+
+msgctxt "allow_3rd_app_listen_phone_event_summary"
+msgid "Enable to allow third-party phone application monitoring"
+msgstr ""
+
+msgctxt "show_quick_contact_badge_title"
+msgid "Display photo"
+msgstr ""
+
+msgctxt "show_quick_contact_badge_summary"
+msgid "Photo is shown in call log and when calling"
+msgstr ""
+
+msgctxt "show_call_log_number_title"
+msgid "Show number in call list"
+msgstr ""
+
+msgctxt "show_call_log_number_summary"
+msgid "Show number in recent calls list"
+msgstr ""
+
+msgctxt "set_smsc_address_title"
+msgid "Set SMS centre number"
+msgstr ""
+
+msgctxt "get_smsc_address_error"
+msgid "Failed to get SMS centre number"
+msgstr ""
+
+msgctxt "set_smsc_address_error"
+msgid "Failed to set the SMS centre number"
+msgstr ""
+
+msgctxt "call_forwarding_number_hint"
+msgid "Enter the number to forward to"
 msgstr ""
 
 msgctxt "voice_number_hint"
 msgid "Enter voice mailbox number"
 msgstr ""
 
-msgctxt "voice_privacy"
-msgid "Voice Privacy"
+msgctxt "predefined_hangup_sms_title"
+msgid "Hangup message"
 msgstr ""
 
-msgctxt "voice_privacy_summary"
-msgid "Enable enhanced privacy mode"
+msgctxt "predefined_hangup_sms_summary"
+msgid "Ignore call and send message"
 msgstr ""
 
-msgctxt "wait_prompt_str"
-msgid "Send the following tones?\n"
+msgctxt "predefined_hangup_sms_body"
+msgid "Not available at the moment but will call you later"
 msgstr ""
 
-msgctxt "wild_prompt_str"
-msgid "Replace the wild character with"
+msgctxt "pref_dialer_list_title"
+msgid "Dialer list"
 msgstr ""
 
-#~ msgctxt "allow_3rd_app_listen_phone_event_summary"
+msgctxt "pref_outgoing_call_title"
+msgid "Outgoing calls"
+msgstr ""
 
-#~ msgid "Allow third-party phone app monitoring"
-#~ msgstr ""
-#~ msgctxt "allow_3rd_app_listen_phone_event_title"
+msgctxt "pref_phone_security_title"
+msgid "Phone security"
+msgstr ""
 
-#~ msgid "Third-party phone options"
-#~ msgstr ""
-#~ msgctxt "auto_dialpad_pref_summary"
+msgctxt "pref_more_settings_title"
+msgid "Settings"
+msgstr ""
 
-#~ msgid "Automatically display dialpad"
-#~ msgstr ""
-#~ msgctxt "auto_dialpad_pref_title"
+#, c-format
+msgctxt "sim_card_import_result"
+msgid "A total of %d where existing contacts and have been consolidated"
+msgstr ""
 
-#~ msgid "Show dial pad"
-#~ msgstr ""
-#~ msgctxt "current_areacode"
+msgctxt "contactPhoto"
+msgid "Contact photo"
+msgstr ""
 
-#~ msgid "Current Area Code"
-#~ msgstr ""
-#~ msgctxt "enforce_proximity_summary"
+msgctxt "goPrivate"
+msgid "Go private"
+msgstr ""
 
-#~ msgid "Enable proximity sensor enforcement option"
-#~ msgstr ""
-#~ msgctxt "enforce_proximity_title"
+msgctxt "selectContact"
+msgid "Select contact"
+msgstr ""
 
-#~ msgid "Enforce proximity sensor"
-#~ msgstr ""
-#~ msgctxt "hangup_sms"
+msgctxt "sip_settings"
+msgid "Internet call settings"
+msgstr ""
 
-#~ msgid "Press \"Menu\" to reject and reply with SMS"
-#~ msgstr ""
-#~ msgctxt "hangup_sms_body"
+msgctxt "sip_accounts"
+msgid "Internet calling (SIP) accounts"
+msgstr ""
 
-#~ msgid "Currently not available, will call back later"
-#~ msgstr ""
-#~ msgctxt "query_telocation_sum"
+msgctxt "sip_accounts_title"
+msgid "Accounts"
+msgstr ""
 
-#~ msgid "Look up for mobile or landline number's location"
-#~ msgstr ""
-#~ msgctxt "query_telocation_title"
+msgctxt "sip_accounts_summary"
+msgid "Manage Internet calling (SIP) accounts and status"
+msgstr ""
 
-#~ msgid "Look up for number's location"
-#~ msgstr ""
-#~ msgctxt "show_quick_contact_badge_title"
+msgctxt "sip_receive_calls"
+msgid "Receive incoming calls"
+msgstr ""
 
-#~ msgid "Display picture"
-#~ msgstr ""
+msgctxt "sip_receive_calls_summary"
+msgid "Reduces battery life"
+msgstr ""
+
+msgctxt "sip_call_options"
+msgid "Configure call options"
+msgstr ""
+
+msgctxt "sip_call_options_title"
+msgid "Use Internet calling"
+msgstr ""
+
+msgctxt "sip_call_options_wifi_only_title"
+msgid "Use Internet calling (Wi-Fi only)"
+msgstr ""
+
+msgctxt "sip_call_options_entry_1"
+msgid "For all calls when data network is available"
+msgstr ""
+
+msgctxt "sip_call_options_entry_2"
+msgid "Only for Internet calls"
+msgstr ""
+
+msgctxt "sip_call_options_entry_3"
+msgid "Ask for each call"
+msgstr ""
+
+msgctxt "sip_call_options_wifi_only_entry_1"
+msgid "For all calls"
+msgstr ""
+
+msgctxt "auto_reg"
+msgid "Auto-registration"
+msgstr ""
+
+msgctxt "call_priority"
+msgid "Outgoing call via SIP"
+msgstr ""
+
+msgctxt "pick_outgoing_call_phone_type"
+msgid "Place call"
+msgstr ""
+
+msgctxt "pick_outgoing_sip_phone"
+msgid "Use Internet calling account:"
+msgstr ""
+
+msgctxt "remember_my_choice"
+msgid "Always use to place Internet calls"
+msgstr ""
+
+msgctxt "reset_my_choice_hint"
+msgid ""
+"You can use the Call Settings to change which Internet calling account to"
+" use by default when placing calls, by selecting a different account "
+"under Internet call settings"
+msgstr ""
+
+msgctxt "pstn_phone"
+msgid "Cell phone call"
+msgstr ""
+
+msgctxt "internet_phone"
+msgid "Internet call"
+msgstr ""
+
+msgctxt "no_sip_account_found_title"
+msgid "No Internet calling account"
+msgstr ""
+
+msgctxt "no_sip_account_found"
+msgid "There are no Internet calling accounts on this phone. Add one now?"
+msgstr ""
+
+msgctxt "sip_menu_add"
+msgid "Add"
+msgstr ""
+
+msgctxt "add_sip_account"
+msgid "Add account"
+msgstr ""
+
+msgctxt "remove_sip_account"
+msgid "Remove account"
+msgstr ""
+
+msgctxt "sip_account_list"
+msgid "SIP accounts"
+msgstr ""
+
+msgctxt "saving_account"
+msgid "Saving the account..."
+msgstr ""
+
+msgctxt "removing_account"
+msgid "Removing the account..."
+msgstr ""
+
+msgctxt "sip_menu_save"
+msgid "Save"
+msgstr "Lagre"
+
+msgctxt "sip_menu_discard"
+msgid "Discard"
+msgstr ""
+
+msgctxt "alert_dialog_close"
+msgid "Close the profile"
+msgstr ""
+
+msgctxt "alert_dialog_ok"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "close_profile"
+msgid "Close"
+msgstr "Lukk"
+
+msgctxt "primary_account"
+msgid "Primary"
+msgstr ""
+
+msgctxt "primary_account_title"
+msgid "Make this my primary account"
+msgstr ""
+
+msgctxt "primary_account_summary"
+msgid "Used for outbound calls"
+msgstr ""
+
+msgctxt "advanced_settings_title"
+msgid "Advanced settings"
+msgstr "Avanserte innstillinger"
+
+#, c-format
+msgctxt "primary_account_summary_with"
+msgid "Primary account. %s"
+msgstr ""
+
+msgctxt "registration_status_checking_status"
+msgid "Checking status..."
+msgstr ""
+
+msgctxt "registration_status_registering"
+msgid "Registering..."
+msgstr ""
+
+msgctxt "registration_status_still_trying"
+msgid "Still trying..."
+msgstr ""
+
+msgctxt "registration_status_not_receiving"
+msgid "Not receiving calls"
+msgstr ""
+
+msgctxt "registration_status_no_data"
+msgid "Account registration stopped because there is no Internet connection"
+msgstr ""
+
+msgctxt "registration_status_no_wifi_data"
+msgid "Account registration stopped because there is no Wi-Fi connection"
+msgstr ""
+
+msgctxt "registration_status_not_running"
+msgid "Account registration failed"
+msgstr ""
+
+msgctxt "registration_status_done"
+msgid "Receiving calls"
+msgstr ""
+
+#, c-format
+msgctxt "registration_status_failed_try_later"
+msgid "Account registration failed: (%s); will try later"
+msgstr ""
+
+msgctxt "registration_status_invalid_credentials"
+msgid "Account registration failed: incorrect username or password"
+msgstr ""
+
+msgctxt "registration_status_server_unreachable"
+msgid "Account registration failed: please check the server name"
+msgstr ""
+
+#, c-format
+msgctxt "third_party_account_summary"
+msgid "This account is currently in use by the %s application"
+msgstr ""
+
+msgctxt "sip_edit_title"
+msgid "SIP account details"
+msgstr ""
+
+msgctxt "sip_edit_new_title"
+msgid "SIP account details"
+msgstr ""
+
+msgctxt "domain_address_title"
+msgid "Server"
+msgstr ""
+
+msgctxt "username_title"
+msgid "Username"
+msgstr ""
+
+msgctxt "password_title"
+msgid "Password"
+msgstr "Passord"
+
+msgctxt "display_name_title"
+msgid "Display name"
+msgstr ""
+
+msgctxt "proxy_address_title"
+msgid "Outbound proxy address"
+msgstr ""
+
+msgctxt "port_title"
+msgid "Port number"
+msgstr ""
+
+msgctxt "transport_title"
+msgid "Transport type"
+msgstr ""
+
+msgctxt "send_keepalive_title"
+msgid "Send keep-alive"
+msgstr ""
+
+msgctxt "send_keepalive_summary"
+msgid "Send SIP keep-alive messages"
+msgstr ""
+
+msgctxt "auto_registration_title"
+msgid "Auto-registration"
+msgstr ""
+
+msgctxt "auto_registration_summary"
+msgid "Register the profile automatically"
+msgstr ""
+
+msgctxt "set_primary_title"
+msgid "Set as primary account"
+msgstr ""
+
+msgctxt "set_primary_summary"
+msgid "Used for outbound calls"
+msgstr ""
+
+msgctxt "advanced_settings"
+msgid "Optional settings"
+msgstr ""
+
+msgctxt "auth_username_title"
+msgid "Authentication username"
+msgstr ""
+
+msgctxt "auth_username_summary"
+msgid "Username used for authentication"
+msgstr ""
+
+msgctxt "default_preference_summary"
+msgid "Not set"
+msgstr ""
+
+msgctxt "display_name_summary"
+msgid "&lt;Same as username&gt;"
+msgstr ""
+
+msgctxt "optional_summary"
+msgid "Optional"
+msgstr ""
+
+msgctxt "default_port"
+msgid "5060"
+msgstr ""
+
+msgctxt "default_transport"
+msgid "UDP"
+msgstr ""
+
+msgctxt "advanced_settings_show"
+msgid "▷ Touch to show all"
+msgstr ""
+
+msgctxt "advanced_settings_hide"
+msgid "▽ Touch to hide all"
+msgstr ""
+
+#, c-format
+msgctxt "empty_alert"
+msgid "%s is required, cannot be left blank"
+msgstr ""
+
+msgctxt "not_a_valid_port"
+msgid "Port number should be within 1000 and 65534"
+msgstr ""
+
+msgctxt "no_internet_available_title"
+msgid "No Internet connection"
+msgstr ""
+
+msgctxt "no_wifi_available_title"
+msgid "No Wi-Fi connection"
+msgstr ""
+
+msgctxt "no_internet_available"
+msgid "To place an Internet call, check your Internet connection first"
+msgstr ""
+
+msgctxt "no_wifi_available"
+msgid ""
+"You must be connected to a Wi-Fi network for Internet calls (use the "
+"Wireless & Network settings)"
+msgstr ""
+
+msgctxt "no_voip"
+msgid "Internet calling not supported"
+msgstr ""
+
+msgctxt "sip_always"
+msgid "SIP_ALWAYS"
+msgstr ""
+
+msgctxt "sip_address_only"
+msgid "SIP_ADDRESS_ONLY"
+msgstr ""
+
+msgctxt "sip_ask_me_each_time"
+msgid "SIP_ASK_ME_EACH_TIME"
+msgstr ""
+
+msgctxt "sip_system_decide"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "sip_always_send_keepalive"
+msgid "Always send"
+msgstr ""
+
+msgctxt "domain_address"
+msgid "SipDomain"
+msgstr ""
+
+msgctxt "username"
+msgid "UserName"
+msgstr ""
+
+msgctxt "password"
+msgid "Password"
+msgstr "Passord"
+
+msgctxt "display_name"
+msgid "DisplayName"
+msgstr ""
+
+msgctxt "proxy_address"
+msgid "ProxyAddress"
+msgstr ""
+
+msgctxt "port"
+msgid "Port"
+msgstr ""
+
+msgctxt "transport"
+msgid "Protocol"
+msgstr ""
+
+msgctxt "send_keepalive"
+msgid "SendKeepAlive"
+msgstr ""
+
+msgctxt "auto_registration"
+msgid "AutoRegistration"
+msgstr ""
+
+msgctxt "set_primary"
+msgid "SetPrimary"
+msgstr ""
+
+msgctxt "advanced_settings_container"
+msgid "advanced settings container"
+msgstr ""
+
+msgctxt "auth_username"
+msgid "AuthUserName"
+msgstr ""
+
+#, c-format
+msgctxt "card_title_my_phone_number"
+msgid "My phone number: %s"
+msgstr ""
+

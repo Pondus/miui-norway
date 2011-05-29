@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-22 13:38+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -17,15 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "account_deleted"
-msgid "Account deleted"
-msgstr "Konto slettet"
-
-msgctxt "account_disabled"
-msgid "Account disabled"
-msgstr "Konto fjernet"
-
 msgctxt "app_name"
+msgid "MIUI Account Manager"
+msgstr "MIUI Konto adminstrasjon"
+
+msgctxt "service_name"
 msgid "MIUI Account Manager"
 msgstr "MIUI Konto adminstrasjon"
 
@@ -33,9 +29,29 @@ msgctxt "authenticator_label"
 msgid "MIUI"
 msgstr "MIUI"
 
-msgctxt "bad_authentication"
-msgid "Your username and password do not match, please try again."
-msgstr "Brukernavnet og passordet ditt matcher ikke, prøv igjen."
+msgctxt "logon"
+msgid "Login"
+msgstr "Logg inn"
+
+msgctxt "nickname"
+msgid "Name / Alias:"
+msgstr "Navn / Alias:"
+
+msgctxt "username"
+msgid "Username:"
+msgstr "Brukernavn:"
+
+msgctxt "password"
+msgid "Password:"
+msgstr "Passord:"
+
+msgctxt "email"
+msgid "E-mail:"
+msgstr "E-mail:"
+
+msgctxt "registered_account"
+msgid "Account has been registered"
+msgstr "Konto ble registrert"
 
 msgctxt "bad_username"
 msgid "The text entered is not a valid username"
@@ -45,71 +61,55 @@ msgctxt "bad_verification"
 msgid "Registration error"
 msgstr "Registrasjons feil"
 
-msgctxt "email"
-msgid "E-mail:"
-msgstr "E-mail:"
+msgctxt "bad_authentication"
+msgid "Your username and password do not match, please try again."
+msgstr "Brukernavnet og passordet ditt matcher ikke, prøv igjen."
 
 msgctxt "email_not_verified"
 msgid "E-mail account not yet verified"
 msgstr "E-mail kontoen er ikke verifisert enda"
 
-msgctxt "loging_on"
-msgid "Logging in..."
-msgstr "Logger inn..."
+msgctxt "terms_not_agreed"
+msgid "You must agree to our terms to register"
+msgstr "Du må godkjenne våre vilkår for å kunne registrere deg"
 
-msgctxt "login_account_suggestion"
-msgid "If you are having trouble signing up, visit: http://www.miui.com"
-msgstr "Hvis du har problemer med å registrere deg, besøk: http://www.miui.com"
+msgctxt "account_deleted"
+msgid "Account deleted"
+msgstr "Konto slettet"
 
-msgctxt "logon"
-msgid "Login"
-msgstr "Logg inn"
-
-msgctxt "must_input"
-msgid "Required field"
-msgstr "Obligatorisk felt"
-
-msgctxt "my_account"
-msgid "My MIUI Profile"
-msgstr "Min MIUI profil"
-
-msgctxt "network_error"
-msgid "Network connection error, please check mobile data is active and available"
-msgstr "Nettverks feil, sjekk at mobil data er aktiv og tilgjengelig"
-
-msgctxt "nickname"
-msgid "Name / Alias:"
-msgstr "Navn / Alias:"
-
-msgctxt "password"
-msgid "Password:"
-msgstr "Passord:"
-
-msgctxt "registered_account"
-msgid "Account has been registered"
-msgstr "Konto ble registrert"
+msgctxt "account_disabled"
+msgid "Account disabled"
+msgstr "Konto fjernet"
 
 msgctxt "service_disabled"
 msgid "Service disabled"
 msgstr "Tjeneste deaktivert"
 
-msgctxt "service_name"
-msgid "MIUI Account Manager"
-msgstr "MIUI Konto adminstrasjon"
-
 msgctxt "service_unavailable"
 msgid "Service unavailable"
 msgstr "Tjeneste ikke tilgjengelig"
 
-msgctxt "terms_not_agreed"
-msgid "You must agree to our terms to register"
-msgstr "Du må godkjenne våre vilkår for å kunne registrere deg"
+msgctxt "network_error"
+msgid "Network connection error, please check mobile data is active and available"
+msgstr "Nettverks feil, sjekk at mobil data er aktiv og tilgjengelig"
 
 msgctxt "unknown"
 msgid "Unknown error"
 msgstr "Ukjent feil"
 
-msgctxt "username"
-msgid "Username:"
-msgstr "Brukernavn:"
+msgctxt "my_account"
+msgid "My MIUI Profile"
+msgstr "Min MIUI profil"
+
+msgctxt "must_input"
+msgid "Required field"
+msgstr "Obligatorisk felt"
+
+msgctxt "login_account_suggestion"
+msgid "If you are having trouble signing up, visit: http://www.miui.com"
+msgstr "Hvis du har problemer med å registrere deg, besøk: http://www.miui.com"
+
+msgctxt "loging_on"
+msgid "Logging in..."
+msgstr "Logger inn..."
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -18,417 +18,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "adding_attachments"
-msgid "Please wait while the items are added to the slideshow."
+msgctxt "conversation_style"
+msgid "bubble"
 msgstr ""
 
-msgctxt "adding_attachments_title"
-msgid "Adding attachments"
-msgstr ""
-
-msgctxt "add_attachment"
-msgid "Attach"
-msgstr ""
-
-msgctxt "add_attachment_activity"
-msgid "Add attachment:"
-msgstr ""
-
-msgctxt "add_contact"
-msgid "Add Contact"
-msgstr ""
-
-msgctxt "add_festival"
-msgid "Festival"
-msgstr ""
-
-msgctxt "add_music"
-msgid "Add Music"
-msgstr ""
-
-msgctxt "add_nickname"
-msgid "Nickname"
-msgstr ""
-
-msgctxt "add_nickname_title"
-msgid "Add a nickname"
-msgstr ""
-
-msgctxt "add_phrase"
-msgid "Phrases"
-msgstr ""
-
-msgctxt "add_picture"
-msgid "Add Photo"
-msgstr ""
-
-msgctxt "add_slide"
-msgid "Add Slide"
-msgstr ""
-
-msgctxt "add_slide_hint"
-msgid "Select to create new slide."
-msgstr ""
-
-msgctxt "add_smiley"
-msgid "Add Smiley"
-msgstr ""
-
-msgctxt "add_smiley_title"
-msgid "Smilies"
-msgstr ""
-
-msgctxt "add_subject"
-msgid "Add subject"
-msgstr ""
-
-msgctxt "add_video"
-msgid "Add video"
-msgstr ""
-
-msgctxt "advanced_preferences_title"
-msgid "Advanced Settings"
-msgstr ""
-
-msgctxt "all_threads"
-msgid "All threads"
-msgstr ""
-
-msgctxt "anonymous_recipient"
-msgid "Anonymous"
+msgctxt "prefDefault_ringtone_repeat"
+msgid "2"
 msgstr ""
 
 msgctxt "app_label"
 msgid "Messaging"
 msgstr ""
 
-msgctxt "ask_for_automatically_resize"
-msgid "Automatically resize picture before sending?"
+msgctxt "new_message"
+msgid "New message"
 msgstr ""
 
-msgctxt "attach_image"
-msgid "Pictures"
+#, c-format
+msgctxt "menu_call_back"
+msgid "Call %s"
 msgstr ""
 
-msgctxt "attach_record_sound"
-msgid "Rec Audio"
+#, c-format
+msgctxt "menu_send_email"
+msgid "Send email to %s"
 msgstr ""
 
-msgctxt "attach_record_video"
-msgid "Rec Video"
+msgctxt "menu_preferences"
+msgid "Settings"
 msgstr ""
 
-msgctxt "attach_slideshow"
-msgid "Slideshow"
+#, c-format
+msgctxt "menu_add_address_to_contacts"
+msgid "Add %s to Contacts"
 msgstr ""
 
-msgctxt "attach_sound"
-msgid "Audio"
-msgstr ""
-
-msgctxt "attach_take_photo"
-msgid "Take Photo"
-msgstr ""
-
-msgctxt "attach_video"
-msgid "Videos"
-msgstr ""
-
-msgctxt "batch_bookmark_confirm_dialog_message"
-msgid "Are you sure you wish to add selected message(s) to Favourites?"
-msgstr ""
-
-msgctxt "batch_delete_confirm_dialog_message"
-msgid "Are you sure you wish to delete the selected message(s)?"
-msgstr ""
-
-msgctxt "batch_bookmark_confirm_dialog_message_mms"
-msgid "The selected %1$s mms messages will be deleted"
-msgstr ""
-
-msgctxt "batch_delete_thread_confirm_dialog_message"
-msgid "Delete selected message(s)?"
-msgstr ""
-
-msgctxt "batch_deleting_progress_message"
-msgid "Deleting entire message thread"
-msgstr ""
-
-msgctxt "bcc_label"
-msgid "Bcc:\\u0020"
-msgstr ""
-
-msgctxt "bookmark"
-msgid "Favourites"
-msgstr ""
-
-msgctxt "bookmark_attr_format"
-msgid "%1$s , %2$s"
-msgstr ""
-
-msgctxt "bookmark_confirm_delete_message"
-msgid "Selected message will be removed from Favourites"
-msgstr ""
-
-msgctxt "bookmark_list_title"
-msgid "Favourites"
-msgstr ""
-
-msgctxt "broadcast_from_to"
-msgid "%1$s to %2$s"
-msgstr ""
-
-msgctxt "cannot_add_picture_and_video"
-msgid "Cannot add video and picture to one slide"
-msgstr ""
-
-msgctxt "cannot_add_slide_anymore"
-msgid "Cannot add more slides"
-msgstr ""
-
-msgctxt "cannot_forward_drm_obj"
-msgid "The DRM object included in the message cannot be forwarded"
-msgstr ""
-
-msgctxt "cannot_get_details"
-msgid "Cannot get details"
-msgstr ""
-
-msgctxt "cannot_load_message"
-msgid "Cannot load message"
-msgstr ""
-
-msgctxt "cannot_play_audio"
-msgid "Cannot play audio."
-msgstr ""
-
-msgctxt "cannot_save_message"
-msgid "Cannot save message"
-msgstr ""
-
-msgctxt "cannot_send_message"
-msgid "Cannot send this message"
-msgstr ""
-
-msgctxt "cannot_send_message_reason"
-msgid "Your message has no valid recipients."
-msgstr ""
-
-msgctxt "change_duration_activity"
-msgid "Change duration"
-msgstr ""
-
-msgctxt "check_all"
-msgid "Select all"
-msgstr ""
-
-msgctxt "check_nothing"
-msgid "Deselect all"
-msgstr ""
-
-msgctxt "class_0_message_activity"
-msgid "Class 0 Message"
-msgstr ""
-
-msgctxt "compose_title"
-msgid "Compose"
-msgstr ""
-
-msgctxt "compressing"
-msgid "Picture too large, compressing picture..."
-msgstr ""
-
-msgctxt "confirm"
-msgid "Confirm"
-msgstr ""
-
-msgctxt "confirm_clear_search_text"
-msgid "Search history will be cleared."
-msgstr ""
-
-msgctxt "confirm_clear_search_title"
-msgid "Clear"
-msgstr ""
-
-msgctxt "confirm_delete_all_conversations"
-msgid "Delete selected thread(s)?"
-msgstr ""
-
-msgctxt "confirm_delete_all_messages"
-msgid "The entire thread will be deleted."
-msgstr ""
-
-msgctxt "confirm_delete_all_SIM_messages"
-msgid "All messages on the SIM will be deleted."
-msgstr ""
-
-msgctxt "confirm_delete_conversation"
-msgid "The entire thread will be deleted."
-msgstr ""
-
-msgctxt "confirm_delete_group_message"
-msgid "Group messages will be deleted"
-msgstr ""
-
-msgctxt "confirm_delete_locked_message"
-msgid "Are you sure you want to delete this locked message?"
-msgstr ""
-
-msgctxt "confirm_delete_message"
-msgid "The message will be deleted."
-msgstr ""
-
-msgctxt "confirm_delete_SIM_message"
-msgid "This message on the SIM will be deleted."
-msgstr ""
-
-msgctxt "confirm_dialog_locked_title"
-msgid "Delete locked message?"
-msgstr ""
-
-msgctxt "confirm_dialog_title"
-msgid "Delete"
-msgstr ""
-
-msgctxt "confirm_rate_limit"
-msgid "A large number of multimedia messages are being sent. Is this OK?"
-msgstr ""
-
-msgctxt "context_menu_add_contact"
-msgid "Add to Contacts"
-msgstr ""
-
-msgctxt "context_menu_browse_web"
-msgid "Web"
-msgstr ""
-
-msgctxt "context_menu_copy"
-msgid "Copy"
-msgstr ""
-
-msgctxt "context_menu_copy_notice"
-msgid "Text has been copied to the clipboard"
-msgstr ""
-
-msgctxt "context_menu_dial"
+msgctxt "menu_call"
 msgid "Call"
 msgstr ""
 
-msgctxt "context_menu_new_contact"
-msgid "New Contact"
+msgctxt "menu_delete"
+msgid "Delete thread"
 msgstr ""
 
-msgctxt "context_menu_send_mail"
-msgid "Send E-mail"
+msgctxt "menu_view"
+msgid "View thread"
 msgstr ""
 
-msgctxt "context_menu_view_mms"
-msgid "View MMS"
+msgctxt "refreshing"
+msgid "Refreshing..."
 msgstr ""
 
-msgctxt "context_menu_view_vcard"
-msgid "View vCard"
+msgctxt "has_draft"
+msgid "Draft"
 msgstr ""
 
-msgctxt "conversation_style"
-msgid "bubble"
+msgctxt "no_subject_view"
+msgid "(No subject)"
 msgstr ""
 
-msgctxt "converting_to_picture_message"
-msgid "Converting to multimedia message…"
+msgctxt "messagelist_sender_self"
+msgid "Me"
 msgstr ""
 
-msgctxt "converting_to_text_message"
-msgid "Converting to text message…"
+msgctxt "view_slideshow"
+msgid "View slideshow"
 msgstr ""
 
-msgctxt "copy_message_text"
-msgid "Copy message text"
+msgctxt "view_message_details"
+msgid "View message details"
 msgstr ""
 
-msgctxt "copy_to_sdcard"
-msgid "Copy attached to SD card"
-msgstr ""
-
-msgctxt "copy_to_sdcard_fail"
-msgid "Copying attachment to SD card failed"
-msgstr ""
-
-msgctxt "copy_to_sdcard_success"
-msgid "Attachment copied to SD card"
-msgstr ""
-
-msgctxt "create_new_message"
-msgid "Compose new message"
-msgstr ""
-
-msgctxt "delete"
-msgid "Delete"
-msgstr ""
-
-msgctxt "delete_bookmark"
-msgid "Remove from Favourites"
+msgctxt "view_delivery_report"
+msgid "View report"
 msgstr ""
 
 msgctxt "delete_message"
 msgid "Delete message"
 msgstr ""
 
-msgctxt "delete_phrase"
-msgid "Delete phrase"
+#, c-format
+msgctxt "expire_on"
+msgid "Expires: %s"
 msgstr ""
 
-msgctxt "delete_subject"
-msgid "Delete subject"
+msgctxt "kilobyte"
+msgid "KB"
+msgstr ""
+
+msgctxt "undelivered_msg_dialog_title"
+msgid "Undelivered message"
+msgstr ""
+
+#, c-format
+msgctxt "undelivered_msg_dialog_body"
+msgid ""
+"Unable to send this message.\n"
+"Attempt(s) made: %s."
+msgstr ""
+
+msgctxt "undelivered_sms_dialog_body"
+msgid "Unable to send this message."
 msgstr ""
 
 msgctxt "delete_thread"
 msgid "Delete thread"
 msgstr ""
 
-msgctxt "delete_unlocked"
-msgid "Delete locked messages"
-msgstr ""
-
-msgctxt "delivery_header_title"
-msgid "Report"
-msgstr ""
-
-msgctxt "delivery_report_activity"
-msgid "Delivery report"
-msgstr ""
-
-#, python-format
-msgctxt "delivery_toast_body"
-msgid "Message received by %s"
-msgstr ""
-
-msgctxt "discard"
-msgid "Discard"
-msgstr ""
-
-msgctxt "discard_message"
-msgid "Discard"
-msgstr ""
-
-msgctxt "discard_message_reason"
-msgid "Your message will be discarded because it has no valid recipients."
-msgstr ""
-
-msgctxt "discard_slideshow"
-msgid "Discard slideshow"
-msgstr ""
-
-msgctxt "dl_expired_notification"
-msgid "This message has expired and will be deleted."
-msgstr ""
-
-msgctxt "dl_failure_notification"
-msgid "Download of message %1$s from %2$s was unsuccessful."
-msgstr ""
-
-msgctxt "done"
-msgid "Done"
+msgctxt "menu_forward"
+msgid "Forward"
 msgstr ""
 
 msgctxt "download"
@@ -439,33 +137,671 @@ msgctxt "downloading"
 msgid "Downloading"
 msgstr ""
 
-msgctxt "download_later"
-msgid "Currently unable to download. Please try again later."
+msgctxt "inline_subject"
+msgid "Subject:"
 msgstr ""
 
-msgctxt "drm_protected_text"
-msgid "* DRM protected text *"
+msgctxt "insufficient_drm_rights"
+msgid "Insufficient DRM rights detected."
+msgstr ""
+
+msgctxt "copy_message_text"
+msgid "Copy message text"
+msgstr ""
+
+msgctxt "message_options"
+msgid "Message options"
+msgstr ""
+
+msgctxt "done"
+msgid "Done"
+msgstr ""
+
+msgctxt "move_up"
+msgid "Move up"
+msgstr ""
+
+msgctxt "move_down"
+msgid "Move down"
+msgstr ""
+
+msgctxt "remove_slide"
+msgid "Remove slide"
+msgstr ""
+
+msgctxt "add_slide"
+msgid "Add Slide"
+msgstr ""
+
+msgctxt "add_slide_hint"
+msgid "Select to create new slide."
+msgstr ""
+
+msgctxt "discard_slideshow"
+msgid "Discard slideshow"
+msgstr ""
+
+#, c-format
+msgctxt "slide_show_part"
+msgid "Part %1$s/%2$s"
+msgstr ""
+
+msgctxt "remove_text"
+msgid "Remove text"
+msgstr ""
+
+msgctxt "add_picture"
+msgid "Add Photo"
+msgstr ""
+
+msgctxt "remove_picture"
+msgid "Remove picture"
+msgstr ""
+
+msgctxt "add_music"
+msgid "Add Music"
+msgstr ""
+
+msgctxt "remove_music"
+msgid "Remove music"
+msgstr ""
+
+msgctxt "add_video"
+msgid "Add video"
+msgstr ""
+
+msgctxt "remove_video"
+msgid "Remove video"
+msgstr ""
+
+msgctxt "to_hint"
+msgid "To"
+msgstr ""
+
+msgctxt "subject_hint"
+msgid "Subject"
+msgstr ""
+
+msgctxt "add_attachment"
+msgid "Attach"
+msgstr ""
+
+msgctxt "add_subject"
+msgid "Add subject"
+msgstr ""
+
+msgctxt "discard"
+msgid "Discard"
+msgstr ""
+
+msgctxt "view"
+msgid "View"
+msgstr ""
+
+msgctxt "replace"
+msgid "Replace"
+msgstr ""
+
+msgctxt "remove"
+msgid "Delete"
+msgstr ""
+
+msgctxt "send"
+msgid "Send"
+msgstr ""
+
+msgctxt "mms"
+msgid "MMS"
+msgstr ""
+
+msgctxt "all_threads"
+msgid "All threads"
+msgstr ""
+
+msgctxt "type_to_compose_text_enter_to_send"
+msgid "Type to compose"
+msgstr ""
+
+msgctxt "open_keyboard_to_compose_message"
+msgid "Open keyboard to compose message"
+msgstr ""
+
+msgctxt "compressing"
+msgid "Picture too large, compressing picture..."
+msgstr ""
+
+#, c-format
+msgctxt "unsupported_media_format"
+msgid "Unsupported %1$s format"
+msgstr ""
+
+#, c-format
+msgctxt "select_different_media"
+msgid "Please select a different %1$s."
+msgstr ""
+
+msgctxt "exceed_message_size_limitation"
+msgid "Message size limit reached."
+msgstr ""
+
+msgctxt "message_too_big_for_video"
+msgid "The message is too big to attach a video."
+msgstr ""
+
+#, c-format
+msgctxt "failed_to_add_media"
+msgid "Sorry, you cannot add this %1$s to your message."
+msgstr ""
+
+msgctxt "failed_to_resize_image"
+msgid "Picture not resized."
+msgstr ""
+
+msgctxt "resize_image_error_information"
+msgid "Sorry, this picture is too large to send even after resizing."
+msgstr ""
+
+msgctxt "forward_prefix"
+msgid "Fwd: "
+msgstr ""
+
+msgctxt "discard_message"
+msgid "Discard"
+msgstr ""
+
+msgctxt "discard_message_reason"
+msgid "Your message will be discarded because it has no valid recipients."
+msgstr ""
+
+#, c-format
+msgctxt "has_invalid_recipient"
+msgid "Invalid recipient(s): %1$s"
+msgstr ""
+
+msgctxt "invalid_destination"
+msgid "You have entered an invalid address."
+msgstr ""
+
+msgctxt "invalid_recipient_message"
+msgid "Please correct the recipient(s) or they will not receive the message."
+msgstr ""
+
+msgctxt "cannot_send_message"
+msgid "Cannot send this message"
+msgstr ""
+
+msgctxt "cannot_send_message_reason"
+msgid "Your message has no valid recipients."
+msgstr ""
+
+msgctxt "cannot_forward_drm_obj"
+msgid "The DRM object included in the message cannot be forwarded"
+msgstr ""
+
+msgctxt "converting_to_picture_message"
+msgid "Converting to multimedia message…"
+msgstr ""
+
+msgctxt "converting_to_text_message"
+msgid "Converting to text message…"
+msgstr ""
+
+msgctxt "cannot_add_slide_anymore"
+msgid "Cannot add more slides"
+msgstr ""
+
+msgctxt "cannot_add_picture_and_video"
+msgid "Cannot add video and picture to one slide"
+msgstr ""
+
+msgctxt "cannot_save_message"
+msgid "Cannot save message"
+msgstr ""
+
+msgctxt "message_saved_as_draft"
+msgid "Message saved as draft."
+msgstr ""
+
+#, c-format
+msgctxt "too_many_recipients"
+msgid ""
+"This message has too many recipients (%1$s). There is a limit of %2$s "
+"recipients."
+msgstr ""
+
+#, c-format
+msgctxt "too_many_attachments"
+msgid "There is a limit of %1$s attachments. Only the first %2$s will be added."
+msgstr ""
+
+msgctxt "adding_attachments_title"
+msgid "Adding attachments"
+msgstr ""
+
+msgctxt "adding_attachments"
+msgid "Please wait while the items are added to the slideshow."
+msgstr ""
+
+msgctxt "cannot_play_audio"
+msgid "Cannot play audio."
+msgstr ""
+
+msgctxt "preview"
+msgid "Preview"
+msgstr ""
+
+msgctxt "preview_slideshow"
+msgid "Preview"
+msgstr ""
+
+msgctxt "replace_image"
+msgid "Replace picture"
+msgstr ""
+
+#, c-format
+msgctxt "duration_sec"
+msgid "Duration (%s sec)"
+msgstr ""
+
+msgctxt "duration_selector_title"
+msgid "Duration for slide "
+msgstr ""
+
+msgctxt "layout_selector_title"
+msgid "Slideshow layout "
+msgstr ""
+
+msgctxt "layout_top"
+msgid "Layout (top)"
+msgstr ""
+
+msgctxt "layout_bottom"
+msgid "Layout (bottom)"
+msgstr ""
+
+msgctxt "type_to_compose_text_or_leave_blank"
+msgid "Type to compose text, or leave blank"
 msgstr ""
 
 msgctxt "duration_not_a_number"
 msgid "Duration must be a number"
 msgstr ""
 
-#, python-format
-msgctxt "duration_sec"
-msgid "Duration (%s sec)"
-msgstr ""
-
-msgctxt "duration_selector_title"
-msgid "Duration for slide\\u0020"
-msgstr ""
-
 msgctxt "duration_zero"
 msgid "Duration must be greater than zero seconds"
 msgstr ""
 
+msgctxt "secs"
+msgid "secs"
+msgstr ""
+
+msgctxt "menu_view_contact"
+msgid "View contact"
+msgstr ""
+
+msgctxt "menu_add_to_contacts"
+msgid "Add to contacts"
+msgstr ""
+
+msgctxt "hidden_sender_address"
+msgid "Hidden sender address"
+msgstr ""
+
+msgctxt "yes"
+msgid "OK"
+msgstr ""
+
+msgctxt "no"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "set"
+msgid "Set"
+msgstr ""
+
+msgctxt "play"
+msgid "Play"
+msgstr ""
+
 msgctxt "edit"
 msgid "Edit"
+msgstr ""
+
+msgctxt "resize"
+msgid "Resize"
+msgstr ""
+
+msgctxt "try_to_send"
+msgid "Try to send"
+msgstr ""
+
+msgctxt "preferences_title"
+msgid "Settings"
+msgstr ""
+
+msgctxt "pref_notification_settings_title"
+msgid "Notification settings"
+msgstr ""
+
+msgctxt "pref_mms_settings_title"
+msgid "Multimedia message (MMS) settings"
+msgstr ""
+
+msgctxt "pref_sms_storage_title"
+msgid "Storage settings"
+msgstr ""
+
+msgctxt "pref_summary_manage_sim_messages"
+msgid "Manage SIM card messages"
+msgstr ""
+
+msgctxt "pref_summary_mms_read_reports"
+msgid "Request read report when sending messages"
+msgstr ""
+
+msgctxt "pref_summary_auto_delete"
+msgid "Delete old messages as limits are reached"
+msgstr ""
+
+#, c-format
+msgctxt "pref_summary_delete_limit"
+msgid "%1$s messages per conversation"
+msgstr ""
+
+msgctxt "pref_title_manage_sim_messages"
+msgid "Manage SIM card messages"
+msgstr ""
+
+msgctxt "pref_title_mms_read_reports"
+msgid "Read reports"
+msgstr ""
+
+msgctxt "pref_title_auto_delete"
+msgid "Delete old messages"
+msgstr ""
+
+msgctxt "pref_title_sms_delete"
+msgid "Text message limit"
+msgstr ""
+
+msgctxt "pref_title_mms_delete"
+msgid "Multimedia message limit"
+msgstr ""
+
+msgctxt "pref_title_notification_enabled"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "pref_title_notification_ringtone"
+msgid "Select ringtone"
+msgstr ""
+
+msgctxt "pref_messages_to_save"
+msgid "Set number of messages to save"
+msgstr ""
+
+msgctxt "pref_title_mms_auto_retrieval"
+msgid "Auto-retrieve"
+msgstr ""
+
+msgctxt "pref_summary_mms_auto_retrieval"
+msgid "Automatically retrieve MMS messages"
+msgstr ""
+
+msgctxt "pref_title_mms_retrieval_during_roaming"
+msgid "Roaming auto-retrieve"
+msgstr ""
+
+msgctxt "pref_summary_mms_retrieval_during_roaming"
+msgid "Automatically retrieve MMS messages when on roaming"
+msgstr ""
+
+msgctxt "to_label"
+msgid "To "
+msgstr ""
+
+msgctxt "confirm_dialog_title"
+msgid "Delete"
+msgstr ""
+
+msgctxt "confirm_dialog_locked_title"
+msgid "Delete locked message?"
+msgstr ""
+
+msgctxt "confirm_delete_conversation"
+msgid "The entire thread will be deleted."
+msgstr ""
+
+msgctxt "confirm_delete_all_conversations"
+msgid "Delete selected thread(s)?"
+msgstr ""
+
+msgctxt "confirm_delete_group_message"
+msgid "Group messages will be deleted"
+msgstr ""
+
+msgctxt "confirm_delete_message"
+msgid "The message will be deleted."
+msgstr ""
+
+msgctxt "confirm_delete_locked_message"
+msgid "Are you sure you want to delete this locked message?"
+msgstr ""
+
+msgctxt "confirm_delete_all_SIM_messages"
+msgid "All messages on the SIM will be deleted."
+msgstr ""
+
+msgctxt "confirm_delete_SIM_message"
+msgid "This message on the SIM will be deleted."
+msgstr ""
+
+msgctxt "delete_unlocked"
+msgid "Delete locked messages"
+msgstr ""
+
+msgctxt "delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "cannot_get_details"
+msgid "Cannot get details"
+msgstr ""
+
+msgctxt "message_details_title"
+msgid "Message details"
+msgstr ""
+
+msgctxt "message_type_label"
+msgid "Type: "
+msgstr ""
+
+msgctxt "text_message"
+msgid "Text message"
+msgstr ""
+
+msgctxt "multimedia_message"
+msgid "Multimedia message"
+msgstr ""
+
+msgctxt "multimedia_notification"
+msgid "Multimedia message notification"
+msgstr ""
+
+msgctxt "from_label"
+msgid "From: "
+msgstr ""
+
+msgctxt "to_address_label"
+msgid "To: "
+msgstr ""
+
+msgctxt "bcc_label"
+msgid "Bcc: "
+msgstr ""
+
+msgctxt "sent_label"
+msgid "Sent: "
+msgstr ""
+
+msgctxt "received_label"
+msgid "Received: "
+msgstr ""
+
+msgctxt "saved_label"
+msgid "Saved: "
+msgstr ""
+
+msgctxt "subject_label"
+msgid "Subject: "
+msgstr ""
+
+msgctxt "message_size_label"
+msgid "Message size: "
+msgstr ""
+
+msgctxt "priority_label"
+msgid "Priority: "
+msgstr ""
+
+msgctxt "priority_high"
+msgid "High"
+msgstr ""
+
+msgctxt "priority_normal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "priority_low"
+msgid "Low"
+msgstr ""
+
+msgctxt "message_class_label"
+msgid "Message class: "
+msgstr ""
+
+msgctxt "error_code_label"
+msgid "Error code: "
+msgstr ""
+
+msgctxt "menu_edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "menu_delete_messages"
+msgid "Delete"
+msgstr ""
+
+msgctxt "menu_lock"
+msgid "Lock message"
+msgstr ""
+
+msgctxt "menu_unlock"
+msgid "Unlock message"
+msgstr ""
+
+msgctxt "sim_copy_to_phone_memory"
+msgid "Copy to phone memory"
+msgstr ""
+
+msgctxt "sim_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "sim_manage_messages_title"
+msgid "Text messages on SIM card"
+msgstr ""
+
+msgctxt "sim_view"
+msgid "View"
+msgstr ""
+
+msgctxt "sim_empty"
+msgid "No messages on the SIM card."
+msgstr ""
+
+msgctxt "status_pending"
+msgid "Pending"
+msgstr ""
+
+msgctxt "status_read"
+msgid "Read"
+msgstr ""
+
+msgctxt "status_received"
+msgid "Received"
+msgstr ""
+
+msgctxt "status_failed"
+msgid "Unsuccessful"
+msgstr ""
+
+msgctxt "status_unread"
+msgid "Unread"
+msgstr ""
+
+msgctxt "status_rejected"
+msgid "Rejected"
+msgstr ""
+
+msgctxt "recipient_label"
+msgid "Recipient: "
+msgstr ""
+
+msgctxt "status_label"
+msgid "Status: "
+msgstr ""
+
+msgctxt "attach_image"
+msgid "Pictures"
+msgstr ""
+
+msgctxt "attach_take_photo"
+msgid "Take Photo"
+msgstr ""
+
+msgctxt "attach_video"
+msgid "Videos"
+msgstr ""
+
+msgctxt "attach_record_video"
+msgid "Rec Video"
+msgstr ""
+
+msgctxt "attach_sound"
+msgid "Audio"
+msgstr ""
+
+msgctxt "attach_record_sound"
+msgid "Rec Audio"
+msgstr ""
+
+msgctxt "attach_slideshow"
+msgid "Slideshow"
+msgstr ""
+
+msgctxt "add_smiley"
+msgid "Add Smiley"
+msgstr ""
+
+msgctxt "add_phrase"
+msgid "Phrases"
+msgstr ""
+
+msgctxt "add_contact"
+msgid "Add Contact"
+msgstr ""
+
+msgctxt "add_nickname"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "add_festival"
+msgid "Festival"
+msgstr ""
+
+msgctxt "add_nickname_title"
+msgid "Add a nickname"
 msgstr ""
 
 msgctxt "edit_nickname_for_nocontact"
@@ -480,8 +816,183 @@ msgid ""
 "further options."
 msgstr ""
 
-msgctxt "edit_phrase"
-msgid "Edit phrase"
+msgctxt "nickname_placeholder"
+msgid "Title"
+msgstr ""
+
+msgctxt "select_bottom_text"
+msgid "Text on bottom"
+msgstr ""
+
+msgctxt "select_top_text"
+msgid "Text on top"
+msgstr ""
+
+#, c-format
+msgctxt "delivery_toast_body"
+msgid "Message received by %s"
+msgstr ""
+
+#, c-format
+msgctxt "notification_multiple"
+msgid "%s unread messages."
+msgstr ""
+
+msgctxt "notification_multiple_title"
+msgid "New messages"
+msgstr ""
+
+#, c-format
+msgctxt "notification_failed_multiple"
+msgid "%s messages could not be sent."
+msgstr ""
+
+msgctxt "notification_failed_multiple_title"
+msgid "Messages not sent"
+msgstr ""
+
+msgctxt "sim_full_title"
+msgid "SIM card full"
+msgstr ""
+
+msgctxt "sim_full_body"
+msgid "Delete some messages to make room for more."
+msgstr ""
+
+msgctxt "sms_full_title"
+msgid "Text message memory full"
+msgstr ""
+
+msgctxt "sms_full_body"
+msgid "Incoming message rejected due to full memory. Please delete old messages."
+msgstr ""
+
+msgctxt "sms_rejected_title"
+msgid "Text message rejected"
+msgstr ""
+
+msgctxt "sms_rejected_body"
+msgid "Incoming message rejected due to unknown reason."
+msgstr ""
+
+msgctxt "type_audio"
+msgid "audio"
+msgstr ""
+
+msgctxt "type_picture"
+msgid "picture"
+msgstr ""
+
+msgctxt "type_video"
+msgid "video"
+msgstr ""
+
+msgctxt "confirm"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "message_send_read_report"
+msgid "A read report will be sent."
+msgstr ""
+
+msgctxt "message_queued"
+msgid ""
+"Currently unable to send your message. It will be sent when the service "
+"becomes available."
+msgstr ""
+
+msgctxt "fdn_check_failure"
+msgid "You can only send messages to your fixed dialling numbers."
+msgstr ""
+
+msgctxt "no_subject"
+msgid "(No subject)"
+msgstr ""
+
+msgctxt "unknown_sender"
+msgid "Unknown sender"
+msgstr ""
+
+#, c-format
+msgctxt "dl_failure_notification"
+msgid "Download of message %1$s from %2$s was unsuccessful."
+msgstr ""
+
+msgctxt "dl_expired_notification"
+msgid "This message has expired and will be deleted."
+msgstr ""
+
+msgctxt "rate_limit_surpassed"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "confirm_rate_limit"
+msgid "A large number of multimedia messages are being sent. Is this OK?"
+msgstr ""
+
+msgctxt "message_download_failed_title"
+msgid "Message not downloaded"
+msgstr ""
+
+msgctxt "message_send_failed_title"
+msgid "Message not sent"
+msgstr ""
+
+msgctxt "message_failed_body"
+msgid "Select to review the message and try again."
+msgstr ""
+
+msgctxt "download_later"
+msgid "Currently unable to download. Please try again later."
+msgstr ""
+
+msgctxt "select_audio"
+msgid "Select audio"
+msgstr ""
+
+msgctxt "copy_to_sdcard"
+msgid "Copy attached to SD card"
+msgstr ""
+
+msgctxt "copy_to_sdcard_success"
+msgid "Attachment copied to SD card"
+msgstr ""
+
+msgctxt "copy_to_sdcard_fail"
+msgid "Copying attachment to SD card failed"
+msgstr ""
+
+msgctxt "save_ringtone"
+msgid "Save as ringtone"
+msgstr ""
+
+msgctxt "saved_ringtone"
+msgid "Ringtone saved"
+msgstr ""
+
+msgctxt "saved_ringtone_fail"
+msgid "Saving ringtone failed"
+msgstr ""
+
+msgctxt "menu_insert_smiley"
+msgid "Insert smiley"
+msgstr ""
+
+msgctxt "select_link_title"
+msgid "Select action"
+msgstr ""
+
+#, c-format
+msgctxt "slide_number"
+msgid "Slide %s"
+msgstr ""
+
+msgctxt "delivery_report_activity"
+msgid "Delivery report"
+msgstr ""
+
+msgctxt "change_duration_activity"
+msgid "Change duration"
 msgstr ""
 
 msgctxt "edit_slideshow_activity"
@@ -492,16 +1003,93 @@ msgctxt "edit_slide_activity"
 msgid "Edit slide"
 msgstr ""
 
-msgctxt "edit_text_activity"
-msgid "Edit text"
+msgctxt "slideshow_activity"
+msgid "Slideshow"
 msgstr ""
 
-msgctxt "enter_edit_mode"
-msgid "Editor"
+msgctxt "class_0_message_activity"
+msgid "Class 0 Message"
 msgstr ""
 
-msgctxt "error_code_label"
-msgid "Error code:\\u0020"
+msgctxt "search_label"
+msgid "Messaging"
+msgstr ""
+
+msgctxt "search_hint"
+msgid "Search Messaging"
+msgstr ""
+
+msgctxt "search"
+msgid "Messaging"
+msgstr ""
+
+msgctxt "search_setting_description"
+msgid "Text in your messages"
+msgstr ""
+
+msgctxt "search_empty"
+msgid "No matches"
+msgstr ""
+
+#, c-format
+msgctxt "search_history"
+msgid "%1$s results for \"%2$s\""
+msgstr ""
+
+msgctxt "confirm_clear_search_title"
+msgid "Clear"
+msgstr ""
+
+msgctxt "confirm_clear_search_text"
+msgid "Search history will be cleared."
+msgstr ""
+
+msgctxt "pref_mms_clear_search_history_title"
+msgid "Clear search history"
+msgstr ""
+
+msgctxt "pref_mms_clear_search_history_summary"
+msgid "Clear previous Messaging searches from showing up in the Search box"
+msgstr ""
+
+msgctxt "save"
+msgid "Save"
+msgstr ""
+
+msgctxt "storage_limits_title"
+msgid "Limit messages"
+msgstr ""
+
+msgctxt "storage_limits_message"
+msgid "Do you want to limit the number of messages you save per conversation?"
+msgstr ""
+
+msgctxt "storage_limits_setting"
+msgid "Set limits"
+msgstr ""
+
+msgctxt "storage_limits_setting_dismiss"
+msgid "No limits"
+msgstr ""
+
+msgctxt "too_many_unsent_mms"
+msgid ""
+"Can't send message right now. There are too many unsent multimedia "
+"messages."
+msgstr ""
+
+msgctxt "me"
+msgid "I"
+msgstr ""
+
+#, c-format
+msgctxt "to_count"
+msgid "%d People"
+msgstr ""
+
+#, c-format
+msgctxt "recipient_editor_count_format"
+msgid "%d People"
 msgstr ""
 
 msgctxt "error_state"
@@ -514,32 +1102,11 @@ msgid ""
 " report and send it to android-sms-bugs@google.com"
 msgstr ""
 
-msgctxt "exceed_message_size_limitation"
-msgid "Message size limit reached."
+msgctxt "new_message_arrived"
+msgid "New message arrived"
 msgstr ""
 
-msgctxt "exit_edit_mode"
-msgid "Exit editor"
-msgstr ""
-
-#, python-format
-msgctxt "expire_on"
-msgid "Expires: %s"
-msgstr ""
-
-msgctxt "failed_to_add_media"
-msgid "Sorry, you cannot add this %1$s to your message."
-msgstr ""
-
-msgctxt "failed_to_resize_image"
-msgid "Picture not resized."
-msgstr ""
-
-msgctxt "fdn_check_failure"
-msgid "You can only send messages to your fixed dialling numbers."
-msgstr ""
-
-#, python-format
+#, c-format
 msgctxt "festival_sms_category_count_format"
 msgid "(%s)"
 msgstr ""
@@ -556,522 +1123,263 @@ msgctxt "festival_sms_sdcard_unready"
 msgid "SD card not ready"
 msgstr ""
 
-msgctxt "flatshow_page_no"
-msgid "%1$d"
+msgctxt "random_pick"
+msgid "Random selection"
 msgstr ""
 
-msgctxt "forward_prefix"
-msgid "Fwd:\\u0020"
+msgctxt "update_failed"
+msgid "Update failed!"
 msgstr ""
 
-msgctxt "from_label"
-msgid "From:\\u0020"
+#, c-format
+msgctxt "message_title"
+msgid "%1$s %2$s said:"
 msgstr ""
 
-msgctxt "full_phrase"
-msgid "The phrase you have entered has exceeded 50 characters"
+#, c-format
+msgctxt "send_to"
+msgid "To: %1$s"
 msgstr ""
 
-#, python-format
-msgctxt "group_message_failed_title"
-msgid "Failed sending to %d contacts, retry?"
+#, c-format
+msgctxt "send_to_count"
+msgid "Sent %1$s message(s)"
 msgstr ""
 
-#, python-format
-msgctxt "group_resend_message"
-msgid "Sending (%d)"
-msgstr ""
-
-msgctxt "has_draft"
-msgid "Draft"
-msgstr ""
-
-msgctxt "has_invalid_recipient"
-msgid "Invalid recipient(s): %1$s"
-msgstr ""
-
-msgctxt "hidden_sender_address"
-msgid "Hidden sender address"
-msgstr ""
-
-msgctxt "image_too_large"
-msgid "Picture too large"
-msgstr ""
-
-msgctxt "inline_subject"
-msgid "Subject:"
-msgstr ""
-
-msgctxt "insufficient_drm_rights"
-msgid "Insufficient DRM rights detected."
-msgstr ""
-
-msgctxt "invalid_destination"
-msgid "You have entered an invalid address."
-msgstr ""
-
-msgctxt "invalid_recipient_message"
-msgid "Please correct the recipient(s) or they will not receive the message."
-msgstr ""
-
-msgctxt "kilobyte"
-msgid "KB"
-msgstr ""
-
-msgctxt "layout_bottom"
-msgid "Layout (bottom)"
-msgstr ""
-
-msgctxt "layout_selector_title"
-msgid "Slideshow layout\\u0020"
-msgstr ""
-
-msgctxt "layout_top"
-msgid "Layout (top)"
-msgstr ""
-
-msgctxt "locked_message_cannot_be_deleted"
-msgid "Locked message cannot be deleted."
-msgstr ""
-
-msgctxt "me"
-msgid "I"
-msgstr ""
-
-#, python-format
-msgctxt "menu_add_address_to_contacts"
-msgid "Add %s to Contacts"
-msgstr ""
-
-msgctxt "menu_add_to_contacts"
-msgid "Add to contacts"
-msgstr ""
-
-msgctxt "menu_call"
-msgid "Call"
-msgstr ""
-
-#, python-format
-msgctxt "menu_call_back"
-msgid "Call %s"
-msgstr ""
-
-msgctxt "menu_compose_new"
-msgid "Compose"
-msgstr ""
-
-msgctxt "menu_delete"
-msgid "Delete thread"
-msgstr ""
-
-msgctxt "menu_delete_all"
-msgid "Delete threads"
-msgstr ""
-
-msgctxt "menu_delete_messages"
-msgid "Delete"
-msgstr ""
-
-msgctxt "menu_edit"
-msgid "Edit"
-msgstr ""
-
-msgctxt "menu_forward"
-msgid "Forward"
-msgstr ""
-
-msgctxt "menu_group_sending"
-msgid "Group message"
-msgstr ""
-
-msgctxt "menu_insert_smiley"
-msgid "Insert smiley"
-msgstr ""
-
-msgctxt "menu_lock"
-msgid "Lock message"
-msgstr ""
-
-msgctxt "menu_preferences"
-msgid "Settings"
-msgstr ""
-
-msgctxt "menu_retry_sending"
-msgid "Retry sending"
-msgstr ""
-
-msgctxt "menu_retry_sending_all"
-msgid "Retry sending all"
-msgstr ""
-
-#, python-format
-msgctxt "menu_send_email"
-msgid "Send email to %s"
-msgstr ""
-
-msgctxt "menu_undelivered_messages"
-msgid "Undelivered messages"
-msgstr ""
-
-msgctxt "menu_unlock"
-msgid "Unlock message"
-msgstr ""
-
-msgctxt "menu_view"
-msgid "View thread"
-msgstr ""
-
-msgctxt "menu_view_contact"
-msgid "View contact"
-msgstr ""
-
-msgctxt "messagelist_sender_self"
-msgid "Me"
-msgstr ""
-
-msgctxt "message_class_label"
-msgid "Message class:\\u0020"
-msgstr ""
-
-msgctxt "message_details_title"
-msgid "Message details"
-msgstr ""
-
-msgctxt "message_download_failed_title"
-msgid "Message not downloaded"
-msgstr ""
-
-msgctxt "message_failed"
-msgid "Failed"
-msgstr ""
-
-msgctxt "message_failed_body"
-msgid "Select to review the message and try again."
-msgstr ""
-
-msgctxt "message_options"
-msgid "Message options"
-msgstr ""
-
-msgctxt "message_pending"
-msgid "Sending..."
-msgstr ""
-
-msgctxt "message_queued"
-msgid ""
-"Currently unable to send your message. It will be sent when the service "
-"becomes available."
-msgstr ""
-
-msgctxt "message_readed"
-msgid "Read"
+#, c-format
+msgctxt "send_to_index_contact"
+msgid "Sent to %1$s of %2$s"
 msgstr ""
 
 msgctxt "message_received"
 msgid "Received"
 msgstr ""
 
-msgctxt "message_saved_as_draft"
-msgid "Message saved as draft."
+msgctxt "message_failed"
+msgid "Failed"
 msgstr ""
 
-msgctxt "message_send_failed_title"
-msgid "Message not sent"
+msgctxt "message_pending"
+msgid "Sending..."
 msgstr ""
 
-msgctxt "message_send_read_report"
-msgid "A read report will be sent."
+msgctxt "message_readed"
+msgid "Read"
 msgstr ""
 
-msgctxt "message_size_label"
-msgid "Message size:\\u0020"
+msgctxt "resent_message"
+msgid "Resend"
 msgstr ""
 
-msgctxt "message_theme_setting"
-msgid "Customise message theme"
-msgstr ""
-
-msgctxt "message_title"
-msgid "%1$s %2$s said:"
-msgstr ""
-
-msgctxt "message_too_big_for_video"
-msgid "The message is too big to attach a video."
-msgstr ""
-
-msgctxt "message_type_label"
-msgid "Type:\\u0020"
-msgstr ""
-
-msgctxt "messaging_intent_label"
-msgid "SMS"
-msgstr ""
-
-msgctxt "miui_push"
-msgid "MIUI SMS"
-msgstr ""
-
-msgctxt "mms"
-msgid "MMS"
-msgstr ""
-
-msgctxt "move_down"
-msgid "Move down"
-msgstr ""
-
-msgctxt "move_up"
-msgid "Move up"
-msgstr ""
-
-msgctxt "multimedia_message"
-msgid "Multimedia message"
-msgstr ""
-
-msgctxt "multimedia_notification"
-msgid "Multimedia message notification"
-msgstr ""
-
-msgctxt "multiple_recipients"
-msgid "%1$s recipients"
-msgstr ""
-
-#, python-format
-msgctxt "name_colon"
-msgid "<b>%s</b>:\\u0020"
-msgstr ""
-
-msgctxt "new_message"
-msgid "New message"
-msgstr ""
-
-msgctxt "new_phrase"
-msgid "New phrase"
-msgstr ""
-
-msgctxt "new_message_arrived"
-msgid "New message arrived"
-msgstr ""
-
-msgctxt "new_phrase_hint"
-msgid "Enter new phrase"
-msgstr ""
-
-msgctxt "nickname_placeholder"
-msgid "Title"
-msgstr ""
-
-msgctxt "no"
-msgid "Cancel"
+#, c-format
+msgctxt "group_resend_message"
+msgid "Sending (%d)"
 msgstr ""
 
 msgctxt "nosend_message"
 msgid "Not sent"
 msgstr ""
 
-#, python-format
-msgctxt "notification_failed_multiple"
-msgid "%s messages could not be sent."
+#, c-format
+msgctxt "group_message_failed_title"
+msgid "Failed sending to %d contacts, retry?"
 msgstr ""
 
-msgctxt "notification_failed_multiple_title"
-msgid "Messages not sent"
+msgctxt "context_menu_view_mms"
+msgid "View MMS"
 msgstr ""
 
-#, python-format
-msgctxt "notification_multiple"
-msgid "%s unread messages."
+msgctxt "context_menu_dial"
+msgid "Call"
 msgstr ""
 
-msgctxt "notification_multiple_title"
-msgid "New messages"
+msgctxt "context_menu_send_sms"
+msgid "Send Message"
 msgstr ""
 
-msgctxt "no_subject"
-msgid "(No subject)"
+msgctxt "context_menu_browse_web"
+msgid "Web"
 msgstr ""
 
-msgctxt "no_subject_view"
-msgid "(No subject)"
+msgctxt "context_menu_send_mail"
+msgid "Send E-mail"
 msgstr ""
 
-msgctxt "open_keyboard_to_compose_message"
-msgid "Open keyboard to compose message"
+msgctxt "context_menu_copy"
+msgid "Copy"
 msgstr ""
 
-msgctxt "perf_other_settings_title"
-msgid "Other settings"
+msgctxt "context_menu_copy_notice"
+msgid "Text has been copied to the clipboard"
 msgstr ""
 
-msgctxt "phrase_confirm_delete_message"
-msgid "The selected phrase will be deleted"
+msgctxt "context_menu_new_contact"
+msgid "New Contact"
 msgstr ""
 
-msgctxt "phrase_list_title"
-msgid "Phrases"
+msgctxt "context_menu_add_contact"
+msgid "Add to Contacts"
 msgstr ""
 
-msgctxt "pick_numbers_activity"
-msgid "Pick Numbers"
+msgctxt "context_menu_view_contact"
+msgid "View Contact"
 msgstr ""
 
-msgctxt "play"
-msgid "Play"
+msgctxt "pref_sms_theme_title"
+msgid "Theme settings"
 msgstr ""
 
-msgctxt "prefDefault_vibrateWhen"
-msgid "never"
+msgctxt "message_theme_setting"
+msgid "Messaging theme"
 msgstr ""
 
-msgctxt "prefDefault_vibrate_false"
-msgid "never"
+msgctxt "customize_conversation_label"
+msgid "Conversations"
 msgstr ""
 
-msgctxt "prefDefault_vibrate_true"
-msgid "always"
+msgctxt "customize_recipient_label"
+msgid "Messages"
 msgstr ""
 
-msgctxt "prefDialogTitle_vibrateWhen"
-msgid "Vibrate"
-msgstr ""
-
-msgctxt "preferences_title"
-msgid "Settings"
-msgstr ""
-
-msgctxt "pref_advanced_settings_title"
-msgid "Advanced settings"
-msgstr ""
-
-msgctxt "pref_conversation_show_avatar_summary"
-msgid "Display contact photo in conversation"
+msgctxt "theme_modify"
+msgid "Edit theme"
 msgstr ""
 
 msgctxt "pref_conversation_show_avatar_title"
-msgid "Display photo"
+msgid "Photo"
 msgstr ""
 
-msgctxt "pref_edit_smsc_address"
-msgid "SMS centre number"
+msgctxt "pref_conversation_show_avatar"
+msgid "Display"
 msgstr ""
 
-msgctxt "pref_key_append_signature_summary"
-msgid "Automatically add signature to end of the message"
+msgctxt "pref_conversation_hide_avatar"
+msgid "Hide"
 msgstr ""
 
-msgctxt "pref_key_append_signature_title"
-msgid "Optional signature"
+msgctxt "pref_time_appearance_title"
+msgid "Time"
 msgstr ""
 
-msgctxt "pref_key_edit_signature_title"
-msgid "Edit signature"
+msgctxt "pref_time_all_title"
+msgid "Show all"
 msgstr ""
 
-msgctxt "pref_key_signature_hint"
-msgid "Please enter your signature"
+msgctxt "pref_time_auto_group_title"
+msgid "Group"
 msgstr ""
 
-msgctxt "pref_key_signature_summary"
-msgid "Enter here to set your signature"
-msgstr ""
-
-msgctxt "pref_messages_to_save"
-msgid "Set number of messages to save"
+msgctxt "pref_messaging_style_title"
+msgid "Message"
 msgstr ""
 
 msgctxt "pref_messaging_bubble_title"
-msgid "Bubble"
+msgid "Bubbles"
+msgstr ""
+
+msgctxt "pref_messaging_list_title"
+msgid "List"
 msgstr ""
 
 msgctxt "pref_messaging_by_theme_title"
 msgid "Use default"
 msgstr ""
 
-msgctxt "pref_messaging_list_title"
-msgid "List style"
+msgctxt "pref_theme_reset"
+msgid "Restore default"
 msgstr ""
 
-msgctxt "pref_messaging_style_title"
-msgid "Conversation style"
+msgctxt "demo_conv1_number"
+msgid "ABC"
 msgstr ""
 
-msgctxt "pref_mms_clear_search_history_summary"
-msgid "Clear previous Messaging searches from showing up in the Search box"
+msgctxt "demo_conv1_contact"
+msgid "MIUI"
 msgstr ""
 
-msgctxt "pref_mms_clear_search_history_title"
-msgid "Clear search history"
+msgctxt "demo_conv1_body"
+msgid "Welcome to MIUI Android"
 msgstr ""
 
-msgctxt "pref_mms_settings_title"
-msgid "Multimedia message (MMS) settings"
+msgctxt "demo_conv2_number"
+msgid "DEF"
 msgstr ""
 
-msgctxt "pref_notification_settings_title"
-msgid "Notification settings"
+msgctxt "demo_conv2_contact"
+msgid "Android"
 msgstr ""
 
-msgctxt "pref_other_title"
-msgid "Other"
+msgctxt "demo_conv2_body"
+msgid "MIUI Messaging"
 msgstr ""
 
-msgctxt "pref_sms_settings_title"
-msgid "Text message (SMS) settings"
+msgctxt "demo_msg1_contact"
+msgid "0123456789"
 msgstr ""
 
-msgctxt "pref_sms_storage_title"
-msgid "Storage settings"
+msgctxt "demo_msg1_body"
+msgid "This is MIUI..."
 msgstr ""
 
-msgctxt "pref_sms_theme_title"
-msgid "Style settings"
+msgctxt "demo_msg2_contact"
+msgid "Droid"
 msgstr ""
 
-msgctxt "pref_summary_allow_3rd_mms"
-msgid "Enable to allow access of third-party applications to SMS records"
+msgctxt "demo_msg2_body"
+msgid "Android OS redefined"
 msgstr ""
 
-msgctxt "pref_summary_auto_delete"
-msgid "Delete old messages as limits are reached"
+msgctxt "bookmark"
+msgid "Favorites"
 msgstr ""
 
-msgctxt "pref_summary_delete_limit"
-msgid "%1$s messages per conversation"
+msgctxt "bookmark_list_title"
+msgid "Favorites"
 msgstr ""
 
-msgctxt "pref_summary_delivery_reports"
-msgid "Request a delivery report for each message you send"
+#, c-format
+msgctxt "bookmark_attr_format"
+msgid "%1$s , %2$s"
 msgstr ""
 
-msgctxt "pref_summary_filter_phone"
-msgid "Display only phone number(s) of the selected recipients"
+msgctxt "delete_bookmark"
+msgid "Remove from Favorites"
 msgstr ""
 
-msgctxt "pref_summary_manage_sim_messages"
-msgid "Manage SIM card messages"
+msgctxt "bookmark_confirm_delete_message"
+msgid "Selected message will be removed from Favorites"
 msgstr ""
 
-msgctxt "pref_summary_mms_auto_retrieval"
-msgid "Automatically retrieve MMS messages"
+msgctxt "phrase_list_title"
+msgid "Phrases"
 msgstr ""
 
-msgctxt "pref_summary_mms_delivery_reports"
-msgid "Request a delivery report for each MMS you send"
+msgctxt "new_phrase"
+msgid "New phrase"
 msgstr ""
 
-msgctxt "pref_summary_mms_read_reports"
-msgid "Request read report when sending messages"
+msgctxt "edit_phrase"
+msgid "Edit phrase"
 msgstr ""
 
-msgctxt "pref_summary_mms_retrieval_during_roaming"
-msgid "Automatically retrieve MMS messages when on roaming"
+msgctxt "new_phrase_hint"
+msgid "Enter new phrase"
 msgstr ""
 
-msgctxt "pref_summary_new_message_popup"
-msgid "Enable pop-ups when new message is received"
+msgctxt "full_phrase"
+msgid "The phrase you have entered has exceeded 50 characters"
 msgstr ""
 
-msgctxt "pref_summary_new_message_popup_when_secure"
-msgid "Popup notifications hidden in visitor mode"
+msgctxt "delete_phrase"
+msgid "Delete phrase"
+msgstr ""
+
+msgctxt "phrase_confirm_delete_message"
+msgid "The selected phrase will be deleted"
+msgstr ""
+
+msgctxt "pref_title_notification_body_enabled"
+msgid "Show previews"
 msgstr ""
 
 msgctxt "pref_summary_notification_body_enabled"
@@ -1082,657 +1390,152 @@ msgctxt "pref_summary_notification_body_enabled_when_secure"
 msgid "Preview messages disabled in visitor mode"
 msgstr ""
 
-msgctxt "pref_summary_notification_enabled"
-msgid "Display SMS notification in status bar"
-msgstr ""
-
-msgctxt "pref_summary_notification_vibrateWhen"
-msgid "Vibrate when notified (valid when global vibrate is on)"
-msgstr ""
-
-msgctxt "pref_summary_sms_delivery_reports"
-msgid "Request a delivery report for each message you send"
-msgstr ""
-
-msgctxt "pref_summary_wake_up_screen"
-msgid "Wake up screen when new message is received"
-msgstr ""
-
-msgctxt "pref_time_all_title"
-msgid "Show all"
-msgstr ""
-
-msgctxt "pref_time_appearance_title"
-msgid "Time style"
-msgstr ""
-
-msgctxt "pref_time_auto_group_title"
-msgid "Smart Sub"
-msgstr ""
-
-msgctxt "pref_title_allow_3rd_mms"
-msgid "Third-party access"
-msgstr ""
-
-msgctxt "pref_title_auto_delete"
-msgid "Delete old messages"
-msgstr ""
-
-msgctxt "pref_title_delivery_reports"
-msgid "Delivery reports"
-msgstr ""
-
-msgctxt "pref_title_delivery_ringtone"
-msgid "Delivery reports ringtone"
-msgstr ""
-
-msgctxt "pref_title_filter_phone"
-msgid "Filter numbers"
-msgstr ""
-
-msgctxt "pref_title_manage_sim_messages"
-msgid "Manage SIM card messages"
-msgstr ""
-
-msgctxt "pref_title_mms_auto_retrieval"
-msgid "Auto-retrieve"
-msgstr ""
-
-msgctxt "pref_title_mms_delete"
-msgid "Multimedia message limit"
-msgstr ""
-
-msgctxt "pref_title_mms_delivery_reports"
-msgid "Delivery reports"
-msgstr ""
-
-msgctxt "pref_title_mms_read_reports"
-msgid "Read reports"
-msgstr ""
-
-msgctxt "pref_title_mms_retrieval_during_roaming"
-msgid "Roaming auto-retrieve"
-msgstr ""
-
 msgctxt "pref_title_new_message_popup"
 msgid "Enable pop-ups"
 msgstr ""
 
-msgctxt "pref_title_notification_body_enabled"
-msgid "Show previews"
+msgctxt "pref_summary_new_message_popup"
+msgid "Enable pop-ups when new message is received"
 msgstr ""
 
-msgctxt "pref_title_notification_enabled"
-msgid "Notifications"
-msgstr ""
-
-msgctxt "pref_title_notification_ringtone"
-msgid "Select ringtone"
-msgstr ""
-
-msgctxt "pref_title_notification_vibrateWhen"
-msgid "Vibrate"
-msgstr ""
-
-msgctxt "pref_title_sms_delete"
-msgid "Text message limit"
-msgstr ""
-
-msgctxt "pref_title_sms_delivery_reports"
-msgid "Delivery reports"
+msgctxt "pref_summary_new_message_popup_when_secure"
+msgid "Popup notifications hidden in visitor mode"
 msgstr ""
 
 msgctxt "pref_title_wake_up_screen"
 msgid "Screen-wake"
 msgstr ""
 
-msgctxt "preview"
-msgid "Preview"
+msgctxt "pref_summary_wake_up_screen"
+msgid "Wake up screen when new message is received"
 msgstr ""
 
-msgctxt "preview_slideshow"
-msgid "Preview"
+msgctxt "pref_title_delivery_reports"
+msgid "Delivery reports"
 msgstr ""
 
-msgctxt "priority_high"
-msgid "High"
+msgctxt "pref_summary_delivery_reports"
+msgid "Request a delivery report for each message you send"
 msgstr ""
 
-msgctxt "priority_label"
-msgid "Priority:\\u0020"
+msgctxt "pref_title_ringtone_repeat"
+msgid "Repeat notification ringtone"
 msgstr ""
 
-msgctxt "priority_low"
-msgid "Low"
+msgctxt "pref_summary_ringtone_repeat"
+msgid "Repeats every 5 minutes when new call or message is received"
 msgstr ""
 
-msgctxt "priority_normal"
-msgid "Normal"
+msgctxt "advanced_preferences_title"
+msgid "Advanced Settings"
 msgstr ""
 
-msgctxt "pushed_sms_category"
-msgid "SMS Category"
+msgctxt "pref_other_title"
+msgid "Other"
 msgstr ""
 
-msgctxt "random_pick"
-msgid "Random selection"
+msgctxt "pref_advanced_settings_title"
+msgid "Advanced settings"
 msgstr ""
 
-msgctxt "rate_limit_surpassed"
-msgid "Confirm"
+msgctxt "perf_other_settings_title"
+msgid "Other settings"
 msgstr ""
 
-msgctxt "received_label"
-msgid "Received:\\u0020"
+msgctxt "pref_title_delivery_ringtone"
+msgid "Delivery reports ringtone"
 msgstr ""
 
-#, python-format
-msgctxt "recipient_editor_count_format"
-msgid "%d People"
+msgctxt "pref_title_allow_3rd_mms"
+msgid "Third-party access"
 msgstr ""
 
-msgctxt "recipient_label"
-msgid "Recipient:\\u0020"
+msgctxt "pref_summary_allow_3rd_mms"
+msgid "Enable to allow access of third-party applications to SMS records"
 msgstr ""
 
-msgctxt "refreshing"
-msgid "Refreshing..."
+msgctxt "pref_edit_smsc_address"
+msgid "SMS centre number"
 msgstr ""
 
-msgctxt "remove"
-msgid "Delete"
+msgctxt "pref_title_filter_phone"
+msgid "Filter numbers"
 msgstr ""
 
-msgctxt "remove_music"
-msgid "Remove music"
+msgctxt "pref_summary_filter_phone"
+msgid "Display only phone number(s) of the selected recipients"
 msgstr ""
 
-msgctxt "remove_picture"
-msgid "Remove picture"
+msgctxt "pref_key_append_signature_title"
+msgid "Optional signature"
 msgstr ""
 
-msgctxt "remove_slide"
-msgid "Remove slide"
+msgctxt "pref_key_append_signature_summary"
+msgid "Automatically add signature to end of the message"
 msgstr ""
 
-msgctxt "remove_text"
-msgid "Remove text"
+msgctxt "pref_key_edit_signature_title"
+msgid "Edit signature"
 msgstr ""
 
-msgctxt "remove_video"
-msgid "Remove video"
+msgctxt "pref_key_signature_summary"
+msgid "Enter here to set your signature"
 msgstr ""
 
-msgctxt "replace"
-msgid "Replace"
-msgstr ""
-
-msgctxt "replace_image"
-msgid "Replace picture"
-msgstr ""
-
-msgctxt "resent_message"
-msgid "Resend"
-msgstr ""
-
-msgctxt "resize"
-msgid "Resize"
-msgstr ""
-
-msgctxt "resize_image_error_information"
-msgid "Sorry, even when resized this picture is too large to send."
-msgstr ""
-
-msgctxt "restore_default"
-msgid "Restore default settings"
-msgstr ""
-
-#, python-format
-msgctxt "retrying_dialog_body"
-msgid ""
-"This message %s was not sent due to a connection problem.\n"
-"Retrying to send..."
-msgstr ""
-
-msgctxt "save"
-msgid "Save"
-msgstr ""
-
-msgctxt "saved_label"
-msgid "Saved:\\u0020"
-msgstr ""
-
-msgctxt "saved_ringtone"
-msgid "Ringtone saved"
-msgstr ""
-
-msgctxt "saved_ringtone_fail"
-msgid "Saving ringtone failed"
-msgstr ""
-
-msgctxt "save_ringtone"
-msgid "Save as ringtone"
-msgstr ""
-
-msgctxt "search"
-msgid "Messaging"
-msgstr ""
-
-msgctxt "search_empty"
-msgid "No matches"
-msgstr ""
-
-msgctxt "search_hint"
-msgid "Search Messaging"
-msgstr ""
-
-msgctxt "search_history"
-msgid "%1$s results for \"%2$s\""
-msgstr ""
-
-msgctxt "search_label"
-msgid "Messaging"
-msgstr ""
-
-msgctxt "search_setting_description"
-msgid "Text in your messages"
-msgstr ""
-
-msgctxt "secs"
-msgid "secs"
-msgstr ""
-
-msgctxt "select_audio"
-msgid "Select audio"
-msgstr ""
-
-msgctxt "select_bottom_text"
-msgid "Text on bottom"
-msgstr ""
-
-msgctxt "select_contact_method_activity"
-msgid "Select Contact Method"
-msgstr ""
-
-msgctxt "select_different_media"
-msgid "Please select a different %1$s."
-msgstr ""
-
-msgctxt "select_layout_activity"
-msgid "Select layout"
-msgstr ""
-
-msgctxt "select_link_title"
-msgid "Select action"
-msgstr ""
-
-msgctxt "select_top_text"
-msgid "Text on top"
-msgstr ""
-
-msgctxt "send"
-msgid "Send"
-msgstr ""
-
-msgctxt "sending_message"
-msgid "Sending..."
-msgstr ""
-
-msgctxt "send_signature_confirm_dialog_message"
-msgid "No message body found, are you sure you wish to send only the signature?"
+msgctxt "pref_key_signature_hint"
+msgid "Please enter your signature"
 msgstr ""
 
 msgctxt "send_signature_confirm_dialog_title"
 msgid "Confirm"
 msgstr ""
 
-msgctxt "send_to"
-msgid "To: %1$s"
+msgctxt "send_signature_confirm_dialog_message"
+msgid "No message body found, are you sure you wish to send only the signature?"
 msgstr ""
 
-msgctxt "send_to_count"
-msgid "Sent %1$s message(s)"
+msgctxt "enter_edit_mode"
+msgid "Editor"
 msgstr ""
 
-msgctxt "send_to_index_contact"
-msgid "Sent to %1$s of %2$s"
+msgctxt "exit_edit_mode"
+msgid "Exit editor"
 msgstr ""
 
-msgctxt "send_using_mms_activity"
-msgid "Send as multimedia message…"
+msgctxt "check_all"
+msgid "Select all"
 msgstr ""
 
-msgctxt "sent_label"
-msgid "Sent:\\u0020"
+msgctxt "check_nothing"
+msgid "Deselect all"
 msgstr ""
 
-#, python-format
-msgctxt "sent_on"
-msgid "Sent: %s"
+msgctxt "batch_delete_confirm_dialog_message"
+msgid "Are you sure you wish to delete the selected message(s)?"
 msgstr ""
 
-msgctxt "set"
-msgid "Set"
+msgctxt "batch_delete_thread_confirm_dialog_message"
+msgid "Are you sure you wish to delete the selected thread(s)?"
 msgstr ""
 
-msgctxt "sim_copy_to_phone_memory"
-msgid "Copy to phone memory"
+msgctxt "batch_deleting_progress_message"
+msgid "Deleting entire message thread"
 msgstr ""
 
-msgctxt "sim_delete"
-msgid "Delete"
+msgctxt "delete_subject"
+msgid "Delete subject"
 msgstr ""
 
-msgctxt "sim_empty"
-msgid "No messages on the SIM card."
+msgctxt "messaging_intent_label"
+msgid "SMS"
 msgstr ""
 
-msgctxt "sim_full_body"
-msgid "Delete some messages to make room for more."
+#, c-format
+msgctxt "flatshow_page_no"
+msgid "%1$d"
 msgstr ""
 
-msgctxt "sim_full_title"
-msgid "SIM card full"
+msgctxt "loading_contacts"
+msgid "Loading contacts..."
 msgstr ""
-
-msgctxt "sim_manage_messages_title"
-msgid "Text messages on SIM card"
-msgstr ""
-
-msgctxt "sim_view"
-msgid "View"
-msgstr ""
-
-msgctxt "slideshow_activity"
-msgid "Slideshow"
-msgstr ""
-
-#, python-format
-msgctxt "slide_number"
-msgid "Slide %s"
-msgstr ""
-
-msgctxt "slide_show_part"
-msgid "Part %1$s/%2$s"
-msgstr ""
-
-msgctxt "sms_full_body"
-msgid "Incoming message rejected due to full memory. Please delete old messages."
-msgstr ""
-
-msgctxt "sms_full_title"
-msgid "Text message memory full"
-msgstr ""
-
-msgctxt "sms_rejected_body"
-msgid "Incoming message rejected due to unknown reason."
-msgstr ""
-
-msgctxt "sms_rejected_title"
-msgid "Text message rejected"
-msgstr ""
-
-msgctxt "status_failed"
-msgid "Unsuccessful"
-msgstr ""
-
-msgctxt "status_label"
-msgid "Status:\\u0020"
-msgstr ""
-
-msgctxt "status_none"
-msgid "(None)"
-msgstr ""
-
-msgctxt "status_pending"
-msgid "Pending"
-msgstr ""
-
-msgctxt "status_read"
-msgid "Read"
-msgstr ""
-
-msgctxt "status_received"
-msgid "Received"
-msgstr ""
-
-msgctxt "status_rejected"
-msgid "Rejected"
-msgstr ""
-
-msgctxt "status_unread"
-msgid "Unread"
-msgstr ""
-
-msgctxt "storage_limits_activity"
-msgid "Storage limits"
-msgstr ""
-
-msgctxt "storage_limits_message"
-msgid "Do you want to limit the number of messages you save per conversation?"
-msgstr ""
-
-msgctxt "storage_limits_setting"
-msgid "Set limits"
-msgstr ""
-
-msgctxt "storage_limits_setting_dismiss"
-msgid "No limits"
-msgstr ""
-
-msgctxt "storage_limits_title"
-msgid "Limit messages"
-msgstr ""
-
-msgctxt "subject_hint"
-msgid "Subject"
-msgstr ""
-
-msgctxt "subject_label"
-msgid "Subject:\\u0020"
-msgstr ""
-
-msgctxt "text_message"
-msgid "Text message"
-msgstr ""
-
-msgctxt "theme_modify"
-msgid "Apply theme"
-msgstr ""
-
-msgctxt "too_many_attachments"
-msgid "There is a limit of %1$s attachments. Only the first %2$s will be added."
-msgstr ""
-
-msgctxt "too_many_recipients"
-msgid ""
-"This message has too many recipients (%1$s). There is a limit of %2$s "
-"recipients."
-msgstr ""
-
-msgctxt "too_many_unsent_mms"
-msgid ""
-"Can't send message right now. There are too many unsent multimedia "
-"messages."
-msgstr ""
-
-msgctxt "to_address_label"
-msgid "To:\\u0020"
-msgstr ""
-
-#, python-format
-msgctxt "to_count"
-msgid "%d People"
-msgstr ""
-
-msgctxt "to_hint"
-msgid "To"
-msgstr ""
-
-msgctxt "to_label"
-msgid "To\\u0020"
-msgstr ""
-
-msgctxt "try_to_send"
-msgid "Try to send"
-msgstr ""
-
-msgctxt "type_audio"
-msgid "audio"
-msgstr ""
-
-msgctxt "type_picture"
-msgid "picture"
-msgstr ""
-
-msgctxt "type_to_compose_text_enter_to_send"
-msgid "Type to compose"
-msgstr ""
-
-msgctxt "type_to_compose_text_or_leave_blank"
-msgid "Type to compose text, or leave blank"
-msgstr ""
-
-msgctxt "type_video"
-msgid "video"
-msgstr ""
-
-#, python-format
-msgctxt "undelivered_msg_dialog_body"
-msgid ""
-"Unable to send this message.\n"
-"Attempt made: %s."
-msgstr ""
-
-msgctxt "undelivered_msg_dialog_title"
-msgid "Undelivered message"
-msgstr ""
-
-msgctxt "undelivered_sms_dialog_body"
-msgid "Unable to send this message."
-msgstr ""
-
-msgctxt "unknown_sender"
-msgid "Unknown sender"
-msgstr ""
-
-msgctxt "unsupported_media_format"
-msgid "Unsupported %1$s format"
-msgstr ""
-
-msgctxt "update_failed"
-msgid "Update failed!"
-msgstr ""
-
-msgctxt "view"
-msgid "View"
-msgstr ""
-
-msgctxt "view_delivery_report"
-msgid "View report"
-msgstr ""
-
-msgctxt "view_message_details"
-msgid "View message details"
-msgstr ""
-
-msgctxt "view_picture"
-msgid "View picture"
-msgstr ""
-
-msgctxt "view_slideshow"
-msgid "View slideshow"
-msgstr ""
-
-msgctxt "yes"
-msgid "OK"
-msgstr ""
-
-#~ msgctxt "add_smiley"
-#~ msgid "Insert smiley"
-#~ msgstr ""
-
-#~ msgctxt "batch_bookmark_confirm_dialog_message"
-#~ msgid "Delete favorites"
-#~ msgstr ""
-
-#~ msgctxt "batch_delete_confirm_dialog_message"
-#~ msgid "The selected message will be deleted"
-#~ msgstr ""
-
-#~ msgctxt "bookmark"
-#~ msgid "Favorites"
-#~ msgstr ""
-
-#~ msgctxt "bookmark_confirm_delete_message"
-#~ msgid "Selected items will be deleted"
-#~ msgstr ""
-
-#~ msgctxt "bookmark_list_title"
-#~ msgid "Favorites"
-#~ msgstr ""
-
-#~ msgctxt "delete_bookmark"
-#~ msgid "Delete bookmark"
-#~ msgstr ""
-
-#~ msgctxt "fdn_check_failure"
-#~ msgid "You can only send messages to your fixed dialing numbers."
-#~ msgstr ""
-
-#~ msgctxt "festival_msg_loading"
-#~ msgid "Loading..."
-#~ msgstr ""
-
-#~ msgctxt "full_phrase"
-#~ msgid "The phrase you entered has reached 50 characters or more"
-#~ msgstr ""
-
-#~ msgctxt "messagelist_sender_self"
-#~ msgid "I"
-#~ msgstr ""
-
-#~ msgctxt "message_theme_setting"
-#~ msgid "Customize message theme"
-#~ msgstr ""
-
-#~ msgctxt "new_phrase_hint"
-#~ msgid "Input new phrase"
-#~ msgstr ""
-
-#~ msgctxt "pref_edit_smsc_address"
-#~ msgid "SMS center number"
-#~ msgstr ""
-
-#~ msgctxt "pref_summary_allow_3rd_mms"
-#~ msgid "Allow third party applications access to SMS records"
-#~ msgstr ""
-
-#~ msgctxt "pref_title_allow_3rd_mms"
-#~ msgid "3rd Party Access"
-#~ msgstr ""
-
-#~ msgctxt "pref_title_delivery_ringtone"
-#~ msgid "Delivery reports notification"
-#~ msgstr ""
-
-#~ msgctxt "pref_title_new_message_popup_enabled"
-#~ msgid "Enable pop-ups"
-#~ msgstr ""
-
-#~ msgctxt "pref_summary_delivery_reports"
-#~ msgid "Receive delivery report for all messages sent"
-#~ msgstr ""
-
-#~ msgctxt "recipient_editor_count_format"
-#~ msgid "%d people"
-#~ msgstr ""
-
-#~ msgctxt "remove"
-#~ msgid "Remove"
-#~ msgstr ""
-
-#~ msgctxt "to_count"
-#~ msgid "%d people"
-#~ msgstr ""
 

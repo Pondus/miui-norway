@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgctxt "button_ok"
 msgid "OK"
 msgstr ""
 
-#, python-format
+#, c-format
 msgctxt "timer_format"
 msgid "%02d:%02d"
 msgstr ""
@@ -80,11 +80,11 @@ msgid "Unable to save recorded audio"
 msgstr ""
 
 msgctxt "default_record_name"
-msgid "untitled record"
+msgid "untitled recording"
 msgstr ""
 
 msgctxt "menu_view_record_list"
-msgid "View record list"
+msgid "Browse recordings"
 msgstr ""
 
 msgctxt "menu_setting"
@@ -92,7 +92,12 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "delete_dialog_title"
-msgid "Do you want to delete current record?"
+msgid "Do you want to delete current recording?"
+msgstr ""
+
+#, c-format
+msgctxt "overwrite_dialog_title"
+msgid "%s already exists, do you want to overwrite it?"
 msgstr ""
 
 msgctxt "preferences_title"
@@ -100,7 +105,7 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "pref_title_record_type"
-msgid "Record file type"
+msgid "Recording file type"
 msgstr ""
 
 msgctxt "prefDialogTitle_recordType"
@@ -108,7 +113,7 @@ msgid "Please select file type"
 msgstr ""
 
 msgctxt "prefDefault_recordType"
-msgid "audio/amr"
+msgid "audio/3gpp"
 msgstr ""
 
 msgctxt "pref_title_enable_high_quality"
@@ -116,14 +121,22 @@ msgid "Enable high quality"
 msgstr ""
 
 msgctxt "pref_summary_enable_high_quality"
-msgid "The audio file with high quality can be larger"
+msgid "High quality may result in a larger file size"
 msgstr ""
 
 msgctxt "pref_title_enable_sound_effect"
-msgid "Enable sound effect"
+msgid "Enable sound effects"
 msgstr ""
 
 msgctxt "pref_summary_enable_sound_effect"
-msgid "Playing sound effect when the state is changed"
+msgid "Play sound when recording state is changed"
+msgstr ""
+
+msgctxt "notification_recording"
+msgid "Recording"
+msgstr ""
+
+msgctxt "notification_stopped"
+msgid "Recording has stopped"
 msgstr ""
 

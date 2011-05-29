@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -18,107 +18,25 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "all_apps"
-msgid "All Applications"
-msgstr ""
-
-msgctxt "android_system"
-msgid "Android System"
-msgstr ""
-
-msgctxt "app_detail"
-msgid "Application Details"
-msgstr ""
-
-msgctxt "app_have_delete"
-msgid "Deleted"
-msgstr ""
-
 msgctxt "app_name"
 msgid "Monitor"
 msgstr ""
 
-msgctxt "auto_turn_off_mobile"
-msgid "Turn off automatically"
-msgstr ""
-
-msgctxt "button_cancel"
-msgid "Cancel"
-msgstr ""
-
-msgctxt "button_done"
-msgid "Done"
-msgstr ""
-
-msgctxt "call_time"
-msgid "Call time"
-msgstr ""
-
-msgctxt "clear_traffic"
-msgid "Clear Traffic"
-msgstr ""
-
-msgctxt "click_to_input"
-msgid "Click to input"
-msgstr ""
-
-msgctxt "confirm_clear"
-msgid "Are you sure you wish to clear traffic data?"
-msgstr ""
-
-msgctxt "confirm_disable_monitor"
-msgid ""
-"Disabling monitoring of traffic will reset the traffic stats, are you "
-"sure you want to continue?"
-msgstr ""
-
-msgctxt "day_unit"
-msgid "\\u0020day of the month, billing period commences"
-msgstr ""
-
-msgctxt "display_status_bar_notification"
-msgid "Show in notification bar"
-msgstr ""
-
-msgctxt "display_system_app"
-msgid "Show system applications"
-msgstr ""
-
-msgctxt "download"
-msgid "Download"
-msgstr ""
-
-#, python-format
-msgctxt "download_bytes"
-msgid "Downloaded %s"
-msgstr ""
-
-#, python-format
+#, c-format
 msgctxt "duration"
 msgid "Log duration: %d/%d/%d - %d/%d/%d"
 msgstr ""
 
-#, python-format
-msgctxt "duration_days"
-msgid "%d days %d hours %d minutes"
+msgctxt "sms_unit"
+msgid " Messages"
 msgstr ""
 
-#, python-format
-msgctxt "duration_hours"
-msgid "%d hours %d minutes"
+msgctxt "mobile_unit"
+msgid "MB"
 msgstr ""
 
-#, python-format
-msgctxt "duration_minutes"
-msgid "%d minutes"
-msgstr ""
-
-msgctxt "exceed"
-msgid "\\u0020Exceeded\\u0020"
-msgstr ""
-
-msgctxt "firewall_hint"
-msgid "Monitor applications on the basis of data traffic"
+msgctxt "day_unit"
+msgid " day of the month, billing period commences"
 msgstr ""
 
 msgctxt "first_traffic_day"
@@ -129,33 +47,14 @@ msgctxt "first_traffic_day_hint"
 msgid "Enter the day in which the billing period beings from, e.g. 1st = 1"
 msgstr ""
 
-msgctxt "fix_traffic"
-msgid "Reset traffic stats"
+msgctxt "auto_turn_off_mobile"
+msgid "Turn off automatically"
 msgstr ""
 
-msgctxt "force_stop"
-msgid "Force Stop"
-msgstr ""
-
-msgctxt "incoming_call"
-msgid "Incoming"
-msgstr ""
-
-msgctxt "input_rules"
-msgid "Input cannot be 0 or a negative value"
-msgstr ""
-
-#, python-format
-msgctxt "latest_send_time"
-msgid "Last sent: %s"
-msgstr ""
-
-msgctxt "menu_display_system_app"
-msgid "Show system applications"
-msgstr ""
-
-msgctxt "menu_not_display_system_app"
-msgid "Hide system applications"
+msgctxt "confirm_disable_monitor"
+msgid ""
+"Disabling monitoring of traffic will reset the traffic stats, are you "
+"sure you want to continue?"
 msgstr ""
 
 msgctxt "menu_refresh"
@@ -170,173 +69,592 @@ msgctxt "menu_sort_by_traffic"
 msgid "Sort by Traffic"
 msgstr ""
 
-#, python-format
-msgctxt "message_amount"
-msgid "Messages: %s\\u0020"
+msgctxt "menu_display_system_app"
+msgid "Show system applications"
 msgstr ""
 
-msgctxt "mobile"
-msgid "Data"
+msgctxt "menu_not_display_system_app"
+msgid "Hide system applications"
 msgstr ""
 
-msgctxt "mobile_package"
-msgid "Mobile Internet"
+#, c-format
+msgctxt "duration_days"
+msgid "%d days %d hours %d minutes"
 msgstr ""
 
-msgctxt "mobile_traffic_limit"
-msgid "Traffic Limit"
+#, c-format
+msgctxt "duration_hours"
+msgid "%d hours %d minutes"
 msgstr ""
 
-msgctxt "mobile_traffic_used"
-msgid "Reset Mobile Internet usage"
-msgstr ""
-
-msgctxt "mobile_unit"
-msgid "MB"
-msgstr ""
-
-#, python-format
-msgctxt "mobile_used_toast"
-msgid "%sMB has been used this month"
-msgstr ""
-
-msgctxt "monitor_settings"
-msgid "Preferences"
-msgstr ""
-
-msgctxt "network_monitor"
-msgid "Firewall"
-msgstr ""
-
-msgctxt "notify_threshold_exceed"
-msgid "Threshold limit exceeded!"
-msgstr ""
-
-msgctxt "no_sms"
-msgid "Message log is empty"
-msgstr ""
-
-msgctxt "outgoing_call"
-msgid "Outgoing"
-msgstr ""
-
-msgctxt "package_settings"
-msgid "Configure"
-msgstr ""
-
-msgctxt "refresh"
-msgid "Refresh"
-msgstr ""
-
-msgctxt "remain"
-msgid "\\u0020Left\\u0020"
-msgstr ""
-
-msgctxt "sent"
-msgid "\\u0020Sent\\u0020"
-msgstr ""
-
-msgctxt "settings"
-msgid "Configure"
-msgstr ""
-
-#, python-format
-msgctxt "sms_amount"
-msgid "%d total"
-msgstr ""
-
-#, python-format
-msgctxt "sms_have_send_number"
-msgid "Sent: %d Messages"
-msgstr ""
-
-msgctxt "sms_package"
-msgid "Messages"
-msgstr ""
-
-msgctxt "sms_traffic_limit"
-msgid "Traffic Limit"
-msgstr ""
-
-msgctxt "sms_traffic_used"
-msgid "Reset Message usage"
-msgstr ""
-
-msgctxt "sms_unit"
-msgid "\\u0020Messages"
-msgstr ""
-
-#, python-format
-msgctxt "sms_used_toast"
-msgid "%d Messages have been sent this month"
-msgstr ""
-
-msgctxt "threshold"
-msgid "\\u0020Alert\\u0020"
+#, c-format
+msgctxt "duration_minutes"
+msgid "%d minutes"
 msgstr ""
 
 msgctxt "traffic_data"
 msgid "Traffic"
 msgstr ""
 
-msgctxt "traffic_detail"
-msgid "Traffic details"
+msgctxt "call_time"
+msgid "Call time"
 msgstr ""
 
-msgctxt "traffic_sms_detials"
-msgid "Message Details"
+msgctxt "outgoing_call"
+msgid "Outgoing"
 msgstr ""
 
-msgctxt "upload"
-msgid "Upload"
+msgctxt "incoming_call"
+msgid "Incoming"
 msgstr ""
 
-#, python-format
-msgctxt "upload_bytes"
-msgid "Uploaded %s"
+msgctxt "sms_package"
+msgid "Messages"
+msgstr ""
+
+msgctxt "mobile_package"
+msgid "Mobile Internet"
+msgstr ""
+
+#, c-format
+msgctxt "sms_amount"
+msgid "%d total"
+msgstr ""
+
+msgctxt "sent"
+msgid " Sent "
+msgstr ""
+
+msgctxt "remain"
+msgid " Left "
+msgstr ""
+
+msgctxt "threshold"
+msgid " Alert "
 msgstr ""
 
 msgctxt "used"
-msgid "Used\\u0020"
+msgid "Used "
+msgstr ""
+
+msgctxt "exceed"
+msgid " Exceeded "
+msgstr ""
+
+msgctxt "settings"
+msgid "Configure"
+msgstr ""
+
+msgctxt "mobile"
+msgid "Data"
 msgstr ""
 
 msgctxt "wifi"
 msgid "Wi-Fi"
 msgstr ""
 
-#~ msgctxt "all_apps"
-#~ msgid "All Programs"
-#~ msgstr ""
+msgctxt "android_system"
+msgid "Android System"
+msgstr ""
 
-#~ msgctxt "app_detail"
-#~ msgid "Program Details"
-#~ msgstr ""
+msgctxt "traffic_detail"
+msgid "Traffic details"
+msgstr ""
 
-#~ msgctxt "day_unit"
-#~ msgid "Day billing period commences"
-#~ msgstr ""
+msgctxt "network_monitor"
+msgid "Firewall"
+msgstr ""
 
-#~ msgctxt "display_system_app"
-#~ msgid "Display system apps"
-#~ msgstr ""
+msgctxt "firewall_hint"
+msgid "Monitor applications on the basis of data traffic"
+msgstr ""
 
-#~ msgctxt "firewall_hint"
-#~ msgid "Monitor the apps on the basis of data traffic"
-#~ msgstr ""
+msgctxt "all_apps"
+msgid "All Applications"
+msgstr ""
 
-#~ msgctxt "incoming_call"
-#~ msgid "Incoming call"
-#~ msgstr ""
+msgctxt "refresh"
+msgid "Refresh"
+msgstr ""
 
-#~ msgctxt "menu_display_system_app"
-#~ msgid "Display system apps"
-#~ msgstr ""
+#, c-format
+msgctxt "upload_bytes"
+msgid "Uploaded %s"
+msgstr ""
 
-#~ msgctxt "menu_not_display_system_app"
-#~ msgid "Hide system apps"
-#~ msgstr ""
+#, c-format
+msgctxt "download_bytes"
+msgid "Downloaded %s"
+msgstr ""
 
-#~ msgctxt "message_amount"
-#~ msgid "Messages: %s"
-#~ msgstr ""
+msgctxt "upload"
+msgid "Upload"
+msgstr ""
+
+msgctxt "download"
+msgid "Download"
+msgstr ""
+
+msgctxt "monitor_settings"
+msgid "Preferences"
+msgstr ""
+
+msgctxt "package_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "sms_traffic_limit"
+msgid "Traffic Limit"
+msgstr ""
+
+msgctxt "mobile_traffic_limit"
+msgid "Traffic Limit"
+msgstr ""
+
+msgctxt "display_system_app"
+msgid "Show system applications"
+msgstr ""
+
+msgctxt "display_status_bar_notification"
+msgid "Show in notification bar"
+msgstr ""
+
+msgctxt "notify_threshold_exceed"
+msgid "Threshold limit exceeded!"
+msgstr ""
+
+msgctxt "fix_traffic"
+msgid "Reset traffic stats"
+msgstr ""
+
+msgctxt "mobile_traffic_used"
+msgid "Reset Mobile Internet usage"
+msgstr ""
+
+#, c-format
+msgctxt "mobile_used_toast"
+msgid "%sMB has been used this month"
+msgstr ""
+
+msgctxt "sms_traffic_used"
+msgid "Reset Message usage"
+msgstr ""
+
+#, c-format
+msgctxt "sms_used_toast"
+msgid "%d Messages have been sent this month"
+msgstr ""
+
+msgctxt "clear_traffic"
+msgid "Clear Traffic"
+msgstr ""
+
+msgctxt "click_to_input"
+msgid "Click to input"
+msgstr ""
+
+msgctxt "force_stop"
+msgid "Force Stop"
+msgstr ""
+
+msgctxt "app_detail"
+msgid "Application Details"
+msgstr ""
+
+msgctxt "button_done"
+msgid "Done"
+msgstr ""
+
+msgctxt "button_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "input_rules"
+msgid "Input cannot be 0 or a negative value"
+msgstr ""
+
+msgctxt "confirm_clear"
+msgid "Are you sure you wish to clear traffic data?"
+msgstr ""
+
+msgctxt "traffic_sms_detials"
+msgid "Message Details"
+msgstr ""
+
+#, c-format
+msgctxt "message_amount"
+msgid "Messages: %s "
+msgstr ""
+
+#, c-format
+msgctxt "sms_have_send_number"
+msgid "Sent: %d Messages"
+msgstr ""
+
+msgctxt "app_have_delete"
+msgid "Deleted"
+msgstr ""
+
+#, c-format
+msgctxt "latest_send_time"
+msgid "Last sent: %s"
+msgstr ""
+
+msgctxt "no_sms"
+msgid "Message log is empty"
+msgstr ""
+
+msgctxt "firewall_settings_tab_title"
+msgid "Firewall"
+msgstr ""
+
+msgctxt "black_white_list_tab_title"
+msgid "Blacklist"
+msgstr ""
+
+msgctxt "call_log_tab_title"
+msgid "Calls"
+msgstr ""
+
+msgctxt "mms_log_tab_title"
+msgid "Messages"
+msgstr ""
+
+msgctxt "fw_blacklist"
+msgid "Blacklist"
+msgstr ""
+
+msgctxt "fw_whitelist"
+msgid "Whitelist"
+msgstr ""
+
+msgctxt "enable_firewall"
+msgid "Enable firewall"
+msgstr ""
+
+msgctxt "fw_pattern_settings"
+msgid "Firewall behaviour"
+msgstr ""
+
+msgctxt "fw_action_settings"
+msgid "Firewall settings"
+msgstr ""
+
+msgctxt "fw_action_settings_summary"
+msgid "Log calls and messages"
+msgstr ""
+
+msgctxt "show_notification"
+msgid "Show notification"
+msgstr ""
+
+msgctxt "show_notification_summary"
+msgid "DND notifications shown in status bar"
+msgstr ""
+
+msgctxt "fw_advanced_settings"
+msgid "Advanced settings"
+msgstr ""
+
+msgctxt "anti_stranger_title"
+msgid "Anti-stranger mode"
+msgstr ""
+
+msgctxt "anti_stranger_summary"
+msgid "Non address book contacts are filtered"
+msgstr ""
+
+msgctxt "fw_goto_password_settings"
+msgid "Password settings"
+msgstr ""
+
+msgctxt "fw_goto_password_settings_summary"
+msgid "Set personal password for security"
+msgstr ""
+
+msgctxt "opt_reject_blacklist"
+msgid "Block from Blacklist"
+msgstr ""
+
+msgctxt "opt_reject_blacklist_stranger"
+msgid "Reject unknown calls"
+msgstr ""
+
+msgctxt "opt_accept_whitelist"
+msgid "Accept from Whitelist"
+msgstr ""
+
+msgctxt "opt_reject_all"
+msgid "Reject all"
+msgstr ""
+
+msgctxt "firewall_action"
+msgid "Blocking operation"
+msgstr ""
+
+msgctxt "act_call"
+msgid "Log calls"
+msgstr ""
+
+msgctxt "act_hangup_call"
+msgid "Hang up immediately"
+msgstr ""
+
+msgctxt "act_hangup_call_summary"
+msgid "Rejected calls will not be displayed in the call log"
+msgstr ""
+
+msgctxt "act_mute_call"
+msgid "Mute calls"
+msgstr ""
+
+msgctxt "act_mute_call_summary"
+msgid ""
+"Calls will not display notifications but will still be logged to the call"
+" log"
+msgstr ""
+
+msgctxt "act_ignore_call"
+msgid "Don't log calls"
+msgstr ""
+
+msgctxt "act_ms"
+msgid "Log messages"
+msgstr ""
+
+msgctxt "act_del_ms"
+msgid "Don't display"
+msgstr ""
+
+msgctxt "act_del_ms_summary"
+msgid "Rejected messages will not be displayed"
+msgstr ""
+
+msgctxt "act_mute_ms"
+msgid "Silence notification(s)"
+msgstr ""
+
+msgctxt "act_mute_ms_summary"
+msgid "Notifications are disabled but messages will still be viewable"
+msgstr ""
+
+msgctxt "act_ignore_ms"
+msgid "Ignore notifications(s)"
+msgstr ""
+
+msgctxt "fw_menu_new_blacklist_title"
+msgid "Add to Blacklist"
+msgstr ""
+
+msgctxt "fw_menu_new_whitelist_title"
+msgid "Add to Whitelist"
+msgstr ""
+
+msgctxt "fw_menu_new_manual"
+msgid "Manually add number"
+msgstr ""
+
+msgctxt "fw_add_list_title"
+msgid "Enter phone number"
+msgstr ""
+
+msgctxt "fw_menu_pick_from_contact"
+msgid "Select from Contacts"
+msgstr ""
+
+msgctxt "fw_menu_remove"
+msgid "Delete"
+msgstr ""
+
+msgctxt "confirm"
+msgid "OK"
+msgstr ""
+
+msgctxt "no"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "fw_clear_blacklist"
+msgid "Clear Blacklist"
+msgstr ""
+
+msgctxt "fw_clear_whitelist"
+msgid "Clear Whitelist"
+msgstr ""
+
+msgctxt "fw_blacklist_hint"
+msgid "Calls and messages are automatically blocked when adding to Blacklist"
+msgstr ""
+
+msgctxt "fw_whitelist_hint"
+msgid "Whitelisted members will not be blocked"
+msgstr ""
+
+msgctxt "fw_no_effect"
+msgid "Guard mode is not enabled"
+msgstr ""
+
+#, c-format
+msgctxt "member_firewall_log"
+msgid "Blocked: phone %d information %d"
+msgstr ""
+
+msgctxt "add_member"
+msgid "Add members"
+msgstr ""
+
+msgctxt "clear_all"
+msgid "Empty list"
+msgstr ""
+
+msgctxt "clear_all_calllog"
+msgid "Clear call log"
+msgstr ""
+
+msgctxt "clear_all_mslog"
+msgid "Clear message log"
+msgstr ""
+
+msgctxt "calllog"
+msgid "Call Log"
+msgstr ""
+
+msgctxt "mslog"
+msgid "Message Log"
+msgstr ""
+
+msgctxt "firewall_log"
+msgid "DND Log"
+msgstr ""
+
+msgctxt "firewall_log_person"
+msgid "Personal log record"
+msgstr ""
+
+msgctxt "firewall_log_detail"
+msgid "Log Details"
+msgstr ""
+
+msgctxt "firewall_reason"
+msgid "Blocking reason"
+msgstr ""
+
+msgctxt "reason_bl_call"
+msgid "Call Blacklist"
+msgstr ""
+
+msgctxt "reason_bl_sms"
+msgid "SMS Blacklist"
+msgstr ""
+
+msgctxt "reason_bl_mms"
+msgid "MMS Blacklist"
+msgstr ""
+
+msgctxt "reason_wl_call"
+msgid "Call Whitelist"
+msgstr ""
+
+msgctxt "reason_wl_sms"
+msgid "SMS Whitelist"
+msgstr ""
+
+msgctxt "reason_wl_mms"
+msgid "MMS Whitelist"
+msgstr ""
+
+msgctxt "ms_body"
+msgid "Content"
+msgstr ""
+
+msgctxt "firewall_settings"
+msgid "DND Settings"
+msgstr ""
+
+msgctxt "on"
+msgid "DND Mode is active"
+msgstr ""
+
+#, c-format
+msgctxt "current_option"
+msgid "Current option: %s"
+msgstr ""
+
+msgctxt "list_members"
+msgid "List members"
+msgstr ""
+
+msgctxt "blacklist_members"
+msgid "Blacklist members"
+msgstr ""
+
+msgctxt "show_in_calllog"
+msgid "Show in call log"
+msgstr ""
+
+msgctxt "stranger_contact"
+msgid "Unknown contact"
+msgstr ""
+
+msgctxt "remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "emptylist"
+msgid "List is empty"
+msgstr ""
+
+msgctxt "emptylist_fwlog_call"
+msgid "All blocked calls will be logged here."
+msgstr ""
+
+msgctxt "emptylist_fwlog_ms"
+msgid "All blocked SMS and MMS messages will be logged here."
+msgstr ""
+
+msgctxt "add_button"
+msgid "Add"
+msgstr ""
+
+msgctxt "cancel_button"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "add_black_list"
+msgid "Add to Blacklist"
+msgstr ""
+
+#, c-format
+msgctxt "context_call"
+msgid "Call %s"
+msgstr ""
+
+msgctxt "context_ms"
+msgid "Send SMS / MMS"
+msgstr ""
+
+msgctxt "context_new_contact"
+msgid "New Contact"
+msgstr ""
+
+msgctxt "context_add_contact"
+msgid "Add to existing contact"
+msgstr ""
+
+msgctxt "context_view_contact"
+msgid "View Contacts"
+msgstr ""
+
+msgctxt "number_empty"
+msgid "Enter the number to Blacklist"
+msgstr ""
+
+#, c-format
+msgctxt "number_add"
+msgid "Add a list of Blacklisted numbers %s"
+msgstr ""
+
+msgctxt "number_add_hint"
+msgid "Input number to add to Blacklist"
+msgstr ""
 

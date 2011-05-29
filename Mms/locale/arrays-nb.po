@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -39,7 +39,7 @@ msgid ";'("
 msgstr ""
 
 msgctxt "default_smiley_texts:5"
-msgid "\\@="
+msgid "@="
 msgstr ""
 
 msgctxt "default_smiley_texts:6"
@@ -86,6 +86,7 @@ msgctxt "default_smiley_texts:16"
 msgid ":-*"
 msgstr ""
 
+#, c-format
 msgctxt "default_smiley_texts:17"
 msgid ";-%"
 msgstr ""
@@ -147,11 +148,11 @@ msgid "O_O"
 msgstr ""
 
 msgctxt "extend_smiley_texts:0"
-msgid "::&gt;_&lt;::"
+msgid "::&gt;_&amp;amp;amp;lt;::"
 msgstr ""
 
 msgctxt "extend_smiley_texts:1"
-msgid "&lt;_&gt;¦¦¦"
+msgid "&amp;amp;amp;lt;_&gt;¦¦¦"
 msgstr ""
 
 msgctxt "extend_smiley_texts:2"
@@ -159,7 +160,7 @@ msgid "~~~^_^~~~"
 msgstr ""
 
 msgctxt "extend_smiley_texts:3"
-msgid "~~~(&gt;_&lt;)~~~"
+msgid "~~~(&gt;_&amp;amp;amp;lt;)~~~"
 msgstr ""
 
 msgctxt "extend_smiley_texts:4"
@@ -207,7 +208,7 @@ msgid "○^~^○"
 msgstr ""
 
 msgctxt "extend_smiley_texts:15"
-msgid "\\#^_^"
+msgid "^_^"
 msgstr ""
 
 msgctxt "extend_smiley_texts:16"
@@ -231,7 +232,7 @@ msgid "π_π"
 msgstr ""
 
 msgctxt "extend_smiley_texts:21"
-msgid "\\@ο@"
+msgid "@ο@"
 msgstr ""
 
 msgctxt "extend_smiley_texts:22"
@@ -282,6 +283,7 @@ msgctxt "extend_smiley_texts:33"
 msgid "∩_∩"
 msgstr ""
 
+#, c-format
 msgctxt "extend_smiley_texts:34"
 msgid "%-)"
 msgstr ""
@@ -390,6 +392,46 @@ msgctxt "extend_smiley_texts:60"
 msgid ":D"
 msgstr ""
 
+msgctxt "prefEntries_ringtone_repeat:0"
+msgid "1 time"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:1"
+msgid "2 times"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:2"
+msgid "3 times"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:3"
+msgid "5 times"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:4"
+msgid "10 times"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:0"
+msgid "1"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:1"
+msgid "2"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:2"
+msgid "3"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:3"
+msgid "5"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:4"
+msgid "10"
+msgstr ""
+
 msgctxt "select_dialog_items:0"
 msgid "1 second"
 msgstr ""
@@ -433,320 +475,4 @@ msgstr ""
 msgctxt "select_dialog_items:10"
 msgid "Other..."
 msgstr ""
-
-msgctxt "prefEntries_vibrateWhen:0"
-msgid "Always"
-msgstr ""
-
-msgctxt "prefEntries_vibrateWhen:1"
-msgid "Only when silent"
-msgstr ""
-
-msgctxt "prefEntries_vibrateWhen:2"
-msgid "Never"
-msgstr ""
-
-msgctxt "prefValues_vibrateWhen:0"
-msgid "always"
-msgstr ""
-
-msgctxt "prefValues_vibrateWhen:1"
-msgid "silent"
-msgstr ""
-
-msgctxt "prefValues_vibrateWhen:2"
-msgid "never"
-msgstr ""
-
-#~ msgctxt "default_smiley_texts:1"
-#~ msgid ";-P"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:2"
-#~ msgid ";-|"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:3"
-#~ msgid ":'("
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:4"
-#~ msgid ";-)"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:5"
-#~ msgid ";-l"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:6"
-#~ msgid ":-B"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:7"
-#~ msgid ";'("
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:8"
-#~ msgid "\\@="
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:9"
-#~ msgid ":-("
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:10"
-#~ msgid ":-|"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:12"
-#~ msgid ":-*"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:13"
-#~ msgid "^~^"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:14"
-#~ msgid ";-%"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:16"
-#~ msgid ":-x"
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:17"
-#~ msgid "X("
-#~ msgstr ""
-
-#~ msgctxt "default_smiley_texts:18"
-#~ msgid ":-?"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:0"
-#~ msgid ";-|"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:1"
-#~ msgid ":'("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:2"
-#~ msgid ":-D"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:3"
-#~ msgid ";'("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:4"
-#~ msgid ":-x"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:5"
-#~ msgid ";-l"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:6"
-#~ msgid ":x"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:7"
-#~ msgid ":-!"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:8"
-#~ msgid ":pc:"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:9"
-#~ msgid "O_O"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:10"
-#~ msgid "O_O"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:11"
-#~ msgid ":-["
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:12"
-#~ msgid ":-*"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:13"
-#~ msgid ":-?"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:14"
-#~ msgid "^~^"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:15"
-#~ msgid ";-%"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:16"
-#~ msgid ":-B"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:17"
-#~ msgid ":ok:"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:18"
-#~ msgid ":-z"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:19"
-#~ msgid ":-|"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:20"
-#~ msgid ";'("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:21"
-#~ msgid ":-2"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:22"
-#~ msgid ":-("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:23"
-#~ msgid ";'("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:24"
-#~ msgid ":-2"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:25"
-#~ msgid ";-%"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:27"
-#~ msgid ":-("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:28"
-#~ msgid ":-("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:29"
-#~ msgid ";'("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:30"
-#~ msgid ";'("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:31"
-#~ msgid ":-B"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:32"
-#~ msgid ";-l"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:33"
-#~ msgid ";-)"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:34"
-#~ msgid ";-|"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:35"
-#~ msgid ":-1"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:36"
-#~ msgid "'-|"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:37"
-#~ msgid ":-?"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:38"
-#~ msgid ":-O"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:39"
-#~ msgid ":-{"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:40"
-#~ msgid ";-P"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:41"
-#~ msgid ";P"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:42"
-#~ msgid ":-?"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:43"
-#~ msgid "X-("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:44"
-#~ msgid "X("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:45"
-#~ msgid "X("
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:46"
-#~ msgid ":-x"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:48"
-#~ msgid ":-)"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:49"
-#~ msgid ";-%"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:50"
-#~ msgid ":-|"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:53"
-#~ msgid "B-)"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:54"
-#~ msgid ";-%"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:55"
-#~ msgid ":gl:"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:56"
-#~ msgid "\\@="
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:57"
-#~ msgid "'-|"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:58"
-#~ msgid ":-)"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:59"
-#~ msgid ":-B"
-#~ msgstr ""
-
-#~ msgctxt "extend_smiley_texts:60"
-#~ msgid ":-D"
-#~ msgstr ""
 

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-04 12:17+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -154,19 +154,19 @@ msgid "cyan"
 msgstr ""
 
 msgctxt "led_color_values:6"
-msgid "\\#800080"
+msgid "800080"
 msgstr ""
 
 msgctxt "led_color_values:7"
-msgid "\\#ffc0cb"
+msgid "ffc0cb"
 msgstr ""
 
 msgctxt "led_color_values:8"
-msgid "\\#ffa500"
+msgid "ffa500"
 msgstr ""
 
 msgctxt "led_color_values:9"
-msgid "\\#add8e6"
+msgid "add8e6"
 msgstr ""
 
 msgctxt "led_freq_entries:0"
@@ -433,75 +433,80 @@ msgctxt "tts_engine_values:0"
 msgid "com.svox.pico"
 msgstr ""
 
-msgctxt "wifi_status:1"
+msgctxt "wifi_status:0"
 msgid "Scanning…"
 msgstr ""
 
-msgctxt "wifi_status:2"
+msgctxt "wifi_status:1"
 msgid "Connecting…"
 msgstr ""
 
-msgctxt "wifi_status:3"
+msgctxt "wifi_status:2"
 msgid "Authenticating…"
 msgstr ""
 
-msgctxt "wifi_status:4"
+msgctxt "wifi_status:3"
 msgid "Obtaining IP address..."
 msgstr ""
 
-msgctxt "wifi_status:5"
+msgctxt "wifi_status:4"
 msgid "Connected"
 msgstr ""
 
-msgctxt "wifi_status:6"
+msgctxt "wifi_status:5"
 msgid "Suspended"
 msgstr ""
 
-msgctxt "wifi_status:7"
+msgctxt "wifi_status:6"
 msgid "Disconnecting..."
 msgstr ""
 
-msgctxt "wifi_status:8"
+msgctxt "wifi_status:7"
 msgid "Disconnected"
 msgstr ""
 
-msgctxt "wifi_status:9"
+msgctxt "wifi_status:8"
 msgid "Unsuccessful"
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:1"
+msgctxt "wifi_status_with_ssid:0"
 msgid "Scanning…"
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:2"
+#, c-format
+msgctxt "wifi_status_with_ssid:1"
 msgid "Connecting to %1$s..."
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:3"
+#, c-format
+msgctxt "wifi_status_with_ssid:2"
 msgid "Authenticating with %1$s..."
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:4"
+#, c-format
+msgctxt "wifi_status_with_ssid:3"
 msgid "Obtaining IP address from %1$s..."
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:5"
+#, c-format
+msgctxt "wifi_status_with_ssid:4"
 msgid "Connected to %1$s"
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:6"
+msgctxt "wifi_status_with_ssid:5"
 msgid "Suspended"
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:7"
+#, c-format
+msgctxt "wifi_status_with_ssid:6"
 msgid "Disconnecting from %1$s..."
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:8"
+msgctxt "wifi_status_with_ssid:7"
 msgid "Disconnected"
 msgstr ""
 
-msgctxt "wifi_status_with_ssid:9"
+msgctxt "wifi_status_with_ssid:8"
 msgid "Unsuccessful"
 msgstr ""
 
@@ -749,6 +754,30 @@ msgctxt "apn_auth_values:3"
 msgid "3"
 msgstr ""
 
+msgctxt "apn_protocol_entries:0"
+msgid "IPv4"
+msgstr ""
+
+msgctxt "apn_protocol_entries:1"
+msgid "IPv6"
+msgstr ""
+
+msgctxt "apn_protocol_entries:2"
+msgid "IPv4/IPv6"
+msgstr ""
+
+msgctxt "apn_protocol_values:0"
+msgid "IP"
+msgstr ""
+
+msgctxt "apn_protocol_values:1"
+msgid "IPV6"
+msgstr ""
+
+msgctxt "apn_protocol_values:2"
+msgid "IPV4V6"
+msgstr ""
+
 msgctxt "app_install_location_entries:0"
 msgid "Internal device storage"
 msgstr ""
@@ -829,22 +858,27 @@ msgctxt "battery_indicator_style_values:2"
 msgid "2"
 msgstr ""
 
+#, c-format
 msgctxt "battery_low_level_entries:0"
 msgid "10%"
 msgstr ""
 
+#, c-format
 msgctxt "battery_low_level_entries:1"
 msgid "20%"
 msgstr ""
 
+#, c-format
 msgctxt "battery_low_level_entries:2"
 msgid "30%"
 msgstr ""
 
+#, c-format
 msgctxt "battery_low_level_entries:3"
 msgid "40%"
 msgstr ""
 
+#, c-format
 msgctxt "battery_low_level_entries:4"
 msgid "50%"
 msgstr ""
@@ -1014,11 +1048,11 @@ msgid "Cyan"
 msgstr ""
 
 msgctxt "led_color_values_for_milestone:5"
-msgid "\\#800080"
+msgid "800080"
 msgstr ""
 
 msgctxt "led_color_values_for_milestone:6"
-msgid "\\#ffa500"
+msgid "ffa500"
 msgstr ""
 
 msgctxt "led_color_entries_for_milestone:0"
@@ -1353,42 +1387,52 @@ msgctxt "values_light_levels_dim:15"
 msgid "26"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:0"
 msgid "0 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:1"
 msgid "10 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:2"
 msgid "20 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:3"
 msgid "30 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:4"
 msgid "40 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:5"
 msgid "50 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:6"
 msgid "60 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:7"
 msgid "70 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:8"
 msgid "80 %"
 msgstr ""
 
+#, c-format
 msgctxt "entries_light_decrease_hysteresis:9"
 msgid "90 %"
 msgstr ""

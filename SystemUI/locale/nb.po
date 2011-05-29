@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2011-05-04 12:17+0200\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
 "PO-Revision-Date: 2011-05-22 14:10+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
@@ -17,123 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.0dev\n"
 
-msgctxt "apps_clean_current_memory"
-msgid "Available memory %1$s"
-msgstr "Tilgjengelig minne %1$s"
-
-msgctxt "apps_clean_result"
-msgid "%1$s released, current available memory is now: %2$s"
-msgstr ""
-
-msgctxt "apps_clean_title"
-msgid "Kill apps"
-msgstr ""
-
 msgctxt "app_label"
 msgid "Status Bar"
 msgstr ""
 
-#, python-format
-msgctxt "battery_low_percent_format"
-msgid "%d%% or less remaining."
-msgstr ""
-
-msgctxt "battery_low_subtitle"
-msgid "The battery is getting low:"
-msgstr ""
-
-msgctxt "battery_low_title"
-msgid "Please connect charger"
-msgstr ""
-
-msgctxt "battery_low_why"
-msgid "Battery use"
-msgstr ""
-
-msgctxt "status_bar_button_apn"
-msgid "Data"
-msgstr "Data"
-
-msgctxt "status_bar_button_bluetooth"
-msgid "BT"
-msgstr "BT"
-
-msgctxt "status_bar_button_brightness"
-msgid "Backlight"
-msgstr ""
-
-msgctxt "status_bar_button_cpu"
-msgid "CPU"
-msgstr "CPU"
-
-msgctxt "status_bar_button_flight_mode"
-msgid "Airplane"
-msgstr "Flymodus"
-
-msgctxt "status_bar_button_gps"
-msgid "GPS"
-msgstr "GPS"
-
-msgctxt "status_bar_button_lock"
-msgid "Lock"
-msgstr ""
-
-msgctxt "status_bar_button_reboot"
-msgid "Reboot"
-msgstr "Restart"
-
-msgctxt "status_bar_button_ringer_mute"
-msgid "Silent"
-msgstr ""
-
-msgctxt "status_bar_button_ringer_normal"
-msgid "Volume"
-msgstr "Volum"
-
-msgctxt "status_bar_button_ringer_vibrate"
-msgid "Vibrate"
-msgstr ""
-
-msgctxt "status_bar_button_rotate"
-msgid "Rotation"
-msgstr ""
-
-msgctxt "status_bar_button_shutdown"
-msgid "Power"
-msgstr ""
-
-# Theres not enough space for "Synkronisering"
-msgctxt "status_bar_button_sync"
-msgid "Sync"
-msgstr "Synkronisering"
-
-msgctxt "status_bar_button_torch"
-msgid "Torch"
-msgstr ""
-
-msgctxt "status_bar_button_vibrate"
-msgid "Vibrate"
-msgstr ""
-
-msgctxt "status_bar_button_wifi"
-msgid "Wi-Fi"
-msgstr "Wi-Fi"
-
 msgctxt "status_bar_clear_all_button"
 msgid "Clear"
 msgstr ""
-
-msgctxt "status_bar_date_format"
-msgid "MMM d,"
-msgstr "MMM d,"
-
-msgctxt "status_bar_date_format_lock"
-msgid "E, MMM d"
-msgstr "E, MMM d"
-
-msgctxt "status_bar_latest_events_title"
-msgid "Notifications"
-msgstr "Varsler"
 
 msgctxt "status_bar_no_notifications_title"
 msgid "No notifications"
@@ -141,6 +31,53 @@ msgstr "Ingen varsler"
 
 msgctxt "status_bar_ongoing_events_title"
 msgid "On-going"
+msgstr ""
+
+msgctxt "status_bar_latest_events_title"
+msgid "Notifications"
+msgstr "Varsler"
+
+msgctxt "battery_low_title"
+msgid "Please connect charger"
+msgstr ""
+
+msgctxt "battery_low_subtitle"
+msgid "The battery is getting low:"
+msgstr ""
+
+#, c-format
+msgctxt "battery_low_percent_format"
+msgid "%d%% or less remaining."
+msgstr ""
+
+msgctxt "battery_low_why"
+msgid "Battery use"
+msgstr ""
+
+msgctxt "tab_notifications_lable"
+msgid "Notifications"
+msgstr "Varsler"
+
+msgctxt "tab_toggles_lable"
+msgid "Toggles"
+msgstr ""
+
+msgctxt "tab_apps_lable"
+msgid "Apps"
+msgstr "Apps"
+
+msgctxt "apps_clean_title"
+msgid "Kill apps"
+msgstr ""
+
+#, c-format
+msgctxt "apps_clean_current_memory"
+msgid "Available memory %1$s"
+msgstr "Tilgjengelig minne %1$s"
+
+#, c-format
+msgctxt "apps_clean_result"
+msgid "%1$s released, current available memory is now: %2$s"
 msgstr ""
 
 msgctxt "status_bar_time_format_12"
@@ -151,27 +88,45 @@ msgctxt "status_bar_time_format_24"
 msgid "HH:mm"
 msgstr "HH:mm"
 
-msgctxt "tab_apps_lable"
-msgid "Apps"
-msgstr "Apps"
+msgctxt "status_bar_date_format"
+msgid "MMM d,"
+msgstr "MMM d,"
 
-msgctxt "tab_notifications_lable"
-msgid "Notifications"
-msgstr "Varsler"
+msgctxt "status_bar_date_format_lock"
+msgid "E, MMM d"
+msgstr "E, MMM d"
 
-msgctxt "tab_toggles_lable"
-msgid "Toggles"
+#, c-format
+msgctxt "usb_accessory_permission_prompt"
+msgid "Allow the application %1$s to access the USB accessory?"
 msgstr ""
 
-#~ msgctxt "apps_clean_result"
+#, c-format
+msgctxt "usb_device_confirm_prompt"
+msgid "Open %1$s when this USB device is connected?"
+msgstr ""
 
-#~ msgid "%1$s released, current available memory now: %2$s"
-#~ msgstr ""
-#~ msgctxt "status_bar_ongoing_events_title"
+#, c-format
+msgctxt "usb_accessory_confirm_prompt"
+msgid "Open %1$s when this USB accessory is connected?"
+msgstr ""
 
-#~ msgid "Ongoing"
-#~ msgstr ""
-#~ msgctxt "tab_notifications_lable"
+#, c-format
+msgctxt "usb_accessory_uri_prompt"
+msgid ""
+"No installed applications work with this USB accessory. Learn more about "
+"this device at %1$s"
+msgstr ""
 
-#~ msgid "Notices"
-#~ msgstr ""
+msgctxt "title_usb_accessory"
+msgid "USB accessory"
+msgstr ""
+
+msgctxt "label_view"
+msgid "View"
+msgstr ""
+
+msgctxt "always_use_accessory"
+msgid "Always use this USB device"
+msgstr ""
+
