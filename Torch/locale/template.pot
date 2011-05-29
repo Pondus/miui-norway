@@ -1,0 +1,158 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "app_name"
+msgid "Torch"
+msgstr ""
+
+msgctxt "about"
+msgid "About:"
+msgstr ""
+
+msgctxt "about_btn"
+msgid "About Torch"
+msgstr ""
+
+msgctxt "about_title"
+msgid "About"
+msgstr ""
+
+msgctxt "about_close"
+msgid "Close"
+msgstr ""
+
+msgctxt "description"
+msgid "This program manipulates the camera LED.\n"
+msgstr ""
+
+msgctxt "warning"
+msgid ""
+"Warning: Leaving the LED on for a long time might overheat it.\n"
+"\n"
+"Full brightness 'always on' has been tested running for 1/2 hr, but there"
+" is the risk this could damage the LED.\n"
+msgstr ""
+
+msgctxt "license"
+msgid ""
+"Original code from Nexus One Torch by Ben Buxton, released under the GPL,"
+" v3.\n"
+"http://n1torch.googlecode.com/\n"
+"\n"
+"Thanks to David Prieto for new UI design.\n"
+"\n"
+"Modified for CyanogenMod by Steve Kondik.\n"
+"\n"
+msgstr ""
+
+msgctxt "warning_label"
+msgid "Warning"
+msgstr ""
+
+msgctxt "brightwarn"
+msgid ""
+"Full brightness has been tested successfully for 1/2 hour of operation, "
+"but got quite hot, and started flickering (temporarily) at 45 mins. Long "
+"term effects are unknown.\n"
+"\n"
+"This is not supported on the widget yet.\n"
+"\n"
+"Click 'Accept' if you want to use it at your own risk."
+msgstr ""
+
+msgctxt "brightwarn_title"
+msgid "Hi-brite 'On' button!!!"
+msgstr ""
+
+msgctxt "brightwarn_negative"
+msgid "No thanks"
+msgstr ""
+
+msgctxt "brightwarn_accept"
+msgid "Accept"
+msgstr ""
+
+msgctxt "label_on"
+msgid "On"
+msgstr ""
+
+msgctxt "label_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "label_high"
+msgid "High brightness"
+msgstr ""
+
+msgctxt "label_strobe"
+msgid "Strobe"
+msgstr ""
+
+msgctxt "label_frequency"
+msgid "Frequency: (slide to change)"
+msgstr ""
+
+msgctxt "widget_options"
+msgid "General options"
+msgstr ""
+
+msgctxt "setting_widget_bright"
+msgid "Bright widget"
+msgstr ""
+
+msgctxt "setting_widget_strobe"
+msgid "Strobe flash"
+msgstr ""
+
+msgctxt "setting_frequency_title"
+msgid "Strobe frequency"
+msgstr ""
+
+msgctxt "setting_frequency_summary"
+msgid "Frequency of strobe light"
+msgstr ""
+
+msgctxt "setting_frequency_dialog"
+msgid "Frequency"
+msgstr ""
+
+msgctxt "setting_frequency_hz"
+msgid "Hz"
+msgstr ""
+
+msgctxt "setting_add_widget"
+msgid "Add widget"
+msgstr ""
+
+msgctxt "not_torch_title"
+msgid "Torch on"
+msgstr ""
+
+msgctxt "not_torch_summary"
+msgid "Torch currently on"
+msgstr ""
+
+msgctxt "widget_label"
+msgid "Torch"
+msgstr ""
+
+msgctxt "torch_message"
+msgid "Hold [icon] on lockscreen to use torch"
+msgstr ""
+
