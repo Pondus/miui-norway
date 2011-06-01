@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: 2011-05-29 01:54+0100\n"
+"Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
+"Language-Team: nb <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "application_name"
+msgid "Launcher"
+msgstr "Launcher"
+
+msgctxt "uid_name"
+msgid "Android Core Apps"
+msgstr ""
+
+msgctxt "folder_name"
+msgid "Folder"
+msgstr "Mappe"
+
+msgctxt "chooser_wallpaper"
+msgid "Select wallpaper from"
+msgstr "Velg bakgrunn fra"
+
+msgctxt "wallpaper_instructions"
+msgid "Set wallpaper"
+msgstr ""
+
+msgctxt "pick_wallpaper"
+msgid "Wallpapers"
+msgstr "Bakgrunner"
+
+msgctxt "activity_not_found"
+msgid "Application is not installed on your phone."
+msgstr "Programmet er ikke installert på telefonen din."
+
+msgctxt "configure_wallpaper"
+msgid "Configure..."
+msgstr "Konfigurer..."
+
+msgctxt "rename_folder_label"
+msgid "Folder name"
+msgstr "Mappe navn"
+
+msgctxt "rename_folder_title"
+msgid "Rename folder"
+msgstr "Endre navn på mappe"
+
+msgctxt "rename_action"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "cancel_action"
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgctxt "menu_item_add_item"
+msgid "Add to Home screen"
+msgstr "Legg til på hjemmeskjermen"
+
+msgctxt "group_applications"
+msgid "Applications"
+msgstr "Programmer"
+
+msgctxt "group_shortcuts"
+msgid "Shortcuts"
+msgstr "Snarveier"
+
+msgctxt "group_folder"
+msgid "New folder"
+msgstr "Ny mappe"
+
+msgctxt "group_live_folders"
+msgid "Folders"
+msgstr "Mapper"
+
+msgctxt "group_widgets"
+msgid "Widgets"
+msgstr "Widgets"
+
+msgctxt "group_wallpapers"
+msgid "Wallpapers"
+msgstr "Bakgrunner"
+
+msgctxt "add_folder"
+msgid "Folder"
+msgstr "Mappe"
+
+msgctxt "add_clock"
+msgid "Clock"
+msgstr "Klokke"
+
+msgctxt "add_photo_frame"
+msgid "Picture frame"
+msgstr "Bilderamme"
+
+msgctxt "out_of_space"
+msgid "No more room on this Home screen."
+msgstr "Ikke mer plass på denne Hjem skjermen."
+
+#, c-format
+msgctxt "shortcut_installed"
+msgid "Shortcut \"%s\" created."
+msgstr "Snarvei \"%s\" opprettet."
+
+#, c-format
+msgctxt "shortcut_uninstalled"
+msgid "Shortcut \"%s\" was removed."
+msgstr "Snarvei \"%s\" ble fjernet."
+
+#, c-format
+msgctxt "shortcut_duplicate"
+msgid "Shortcut \"%s\" already exists."
+msgstr "Snarveien \"%s\" eksisterer allerede."
+
+msgctxt "title_select_shortcut"
+msgid "Select shortcut"
+msgstr "Velg snarvei"
+
+msgctxt "title_select_live_folder"
+msgid "Select folder"
+msgstr "Velg mappe"
+
+msgctxt "all_apps_button_label"
+msgid "All applications"
+msgstr "Alle programmer"
+
+msgctxt "all_apps_home_button_label"
+msgid "Home"
+msgstr "Hjem"
+
+msgctxt "menu_add"
+msgid "Add"
+msgstr "Legg til"
+
+msgctxt "menu_wallpaper"
+msgid "Wallpaper"
+msgstr "Bakgrunn"
+
+msgctxt "menu_search"
+msgid "Search"
+msgstr "Søk"
+
+msgctxt "menu_notifications"
+msgid "Notifications"
+msgstr "Varsler"
+
+msgctxt "menu_gestures"
+msgid "Gestures"
+msgstr ""
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgctxt "permlab_install_shortcut"
+msgid "install shortcuts"
+msgstr "installer snarveier"
+
+msgctxt "permdesc_install_shortcut"
+msgid "Allows an application to add shortcuts without user intervention."
+msgstr ""
+
+msgctxt "permlab_uninstall_shortcut"
+msgid "uninstall shortcuts"
+msgstr ""
+
+msgctxt "permdesc_uninstall_shortcut"
+msgid "Allows an application to remove shortcuts without user intervention."
+msgstr ""
+
+msgctxt "permlab_read_settings"
+msgid "read home settings and shortcuts"
+msgstr ""
+
+msgctxt "permdesc_read_settings"
+msgid "Allows an application to read the settings and shortcuts in Home."
+msgstr ""
+
+msgctxt "permlab_write_settings"
+msgid "Write home settings and shortcuts"
+msgstr ""
+
+msgctxt "permdesc_write_settings"
+msgid "Allows an application to change the settings and shortcuts in Home."
+msgstr ""
+
+msgctxt "start_activity_failed"
+msgid "Failed to start, please try again"
+msgstr "Startet ikke, prøv igjen"
+
+msgctxt "gadget_error_text"
+msgid "Problem loading widget"
+msgstr ""
+
+msgctxt "menu_edit"
+msgid "Editing mode"
+msgstr "Redigeringsmodus"
+
+#, fuzzy
+msgctxt "menu_sort"
+msgid "Sort home screen icons"
+msgstr "Skru av/på skyggen på hjemskjerm ikonene"
+
+msgctxt "menu_launcher_setting"
+msgid "Launcher settings"
+msgstr ""
+
+msgctxt "cant_remove_system_app"
+msgid "Unable to remove system application"
+msgstr ""
+
+#, c-format
+msgctxt "uninstall_body_format"
+msgid "Remove application \"%s\"?"
+msgstr "Fjern programmet \"%s\"?"
+
+msgctxt "uninstall"
+msgid "Uninstall"
+msgstr "Avinstaller"
+
+msgctxt "cant_remove_folder"
+msgid "Unable to remove non-empty folder"
+msgstr ""
+
+msgctxt "pick_lockscreenwallpaper"
+msgid "Lockscreen wallpaper"
+msgstr "Låseskjerm bakgrunn"
+
+#, fuzzy
+msgctxt "lockscreenwallpaper_instructions"
+msgid "Set lockscreen wallpaper"
+msgstr "Låseskjerm bakgrunn"
+
+msgctxt "failed_to_drop"
+msgid "Moving failed"
+msgstr ""
+
+msgctxt "failed_to_drop_widget_nospace"
+msgid "Failed to move, not enough space!"
+msgstr "Kunne ikke flytte, ikke nok plass!"
+
+msgctxt "failed_to_drop_widget_invalid"
+msgid "Plug-in invalid"
+msgstr ""
+
+msgctxt "failed_to_delete_temporary"
+msgid "Failed to delete, please try again."
+msgstr "Klarer ikke å slette, prøv igjen."
+
+msgctxt "widget_box_usage_hint"
+msgid "Drag widget to desired location."
+msgstr ""
+
+msgctxt "widget_favorite_contacts_lable"
+msgid "Favorite Contacts"
+msgstr ""
+
+msgctxt "widget_favorite_contacts_edit"
+msgid "Edit"
+msgstr "Endre"
+
+msgctxt "widget_favorite_contacts_style"
+msgid "Switch size"
+msgstr "Bytt størrelse"
+
+msgctxt "edit_folder_label"
+msgid "Modify the folder name"
+msgstr "Endre mappenavnet"
+
+msgctxt "edit_folder_title"
+msgid "Edit folder"
+msgstr "Endre mappe"
+
+msgctxt "confirm_btn_label"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "cancel_btn_label"
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgctxt "enable_hidden"
+msgid "Hide applications"
+msgstr "Skjul applikasjoner"
+
+#, fuzzy
+msgctxt "show_hidden"
+msgid "Show hidden applications"
+msgstr "Skjul applikasjoner"
+
+msgctxt "set_password"
+msgid "Set password"
+msgstr ""
+
+msgctxt "sort_by_not_defined"
+msgid "Sort by default"
+msgstr ""
+
+#, fuzzy
+msgctxt "sort_by_frequency"
+msgid "Sort by usage"
+msgstr "Sorter etter app navn"
+
+#, fuzzy
+msgctxt "sort_by_abc"
+msgid "Sort by name"
+msgstr "Sorter etter app navn"
+
+msgctxt "encryption"
+msgid "Encryption"
+msgstr "Kryptering"
+
+msgctxt "preferences_title"
+msgid "Launcher Settings"
+msgstr ""
+
+msgctxt "preferences_general_title"
+msgid "General settings"
+msgstr ""
+
+msgctxt "pref_keep_in_memory_title"
+msgid "Keep in memory"
+msgstr "Behold i minne"
+
+#, fuzzy
+msgctxt "pref_keep_in_memory_summary"
+msgid "Keeps application in memory, application will not exit."
+msgstr "Behold programmet i minne. Appen vil ikke avsluttes"
+
+msgctxt "pref_render_in_truecolor_title"
+msgid "Hi-res graphics"
+msgstr "Høyoppløslig grafikk"
+
+msgctxt "pref_render_in_truecolor_summary"
+msgid "Turn on to enhance graphics."
+msgstr "Skru på for å forbedre grafikk."
+
+msgctxt "pref_enable_drawing_cache_title"
+msgid "Drawing Cache"
+msgstr ""
+
+msgctxt "pref_enable_drawing_cache_summary"
+msgid "Turn off to free up memory, will cause some lag"
+msgstr ""
+
+msgctxt "pref_icon_shadow_title"
+msgid "Icon shadow"
+msgstr "Ikon skygge"
+
+#, fuzzy
+msgctxt "pref_icon_shadow_summary"
+msgid "Turn on/off the shadow on home screen icons."
+msgstr "Skru av/på skyggen på hjemskjerm ikonene"
+
+msgctxt "pref_screen_transformation_type_title"
+msgid "Transition effects"
+msgstr "Overgangseffekter"
+
+msgctxt "transformation_type_classic"
+msgid "Classic"
+msgstr "Klassisk"
+
+msgctxt "transformation_type_classic_no_overshoot"
+msgid "Classic (No overshoot)"
+msgstr ""
+
+msgctxt "transformation_type_crossfade"
+msgid "Crossfade"
+msgstr ""
+
+msgctxt "transformation_type_falldown"
+msgid "Falldown"
+msgstr ""
+
+msgctxt "transformation_type_cube"
+msgid "3D Cube"
+msgstr "3D Kube"
+
+msgctxt "transformation_type_leftpage"
+msgid "Page"
+msgstr ""
+
+msgctxt "transformation_type_stack"
+msgid "Cascading"
+msgstr ""
+
+msgctxt "transformation_type_rotate"
+msgid "Rotation"
+msgstr ""
+
+msgctxt "widget_gadget_player"
+msgid "Music_4x"
+msgstr "Music_4x"
+
+msgctxt "buffering"
+msgid "Buffering..."
+msgstr "Bufrer..."
+
+msgctxt "emptyplaylist"
+msgid "Playlist is empty"
+msgstr "Spilleliste er tom"
+
+msgctxt "sdcard_missing_title"
+msgid "SD card not found"
+msgstr "SD kort ikke funnet"
+
+msgctxt "sdcard_busy_title"
+msgid "SD card is not available or busy"
+msgstr "SD kortet er ikke tilgjengelig eller opptat"
+
+msgctxt "unknown_artist_name"
+msgid "Unknown Artist"
+msgstr "Ukjent artist"
+
+msgctxt "global_search_hint"
+msgid "Enter Keyword(s) To Search"
+msgstr ""
+
+msgctxt "widget_global_search"
+msgid "Global Search"
+msgstr ""
+
+#, c-format
+msgctxt "durationformatshort"
+msgid "%2$2d:%5$02d"
+msgstr "%2$2d:%5$02d"
+
+#, c-format
+msgctxt "durationformatshort_padding_with_0"
+msgid "%2$02d:%5$02d"
+msgstr "%2$02d:%5$02d"
+
+#, c-format
+msgctxt "durationformatlong"
+msgid "%1$d:%3$02d:%5$02d"
+msgstr "%1$d:%3$02d:%5$02d"
+
+#~ msgctxt "lockscreenwallpaper_instructions"
+
+#~ msgid "Set Lockscreen wallpaper"
+#~ msgstr ""
+#~ msgctxt "menu_sort"
+
+#~ msgid "Sort desktop icons"
+#~ msgstr "Sorter skrivebordsikoner"
+#~ msgctxt "preferences_general_title"
+
+#~ msgid "Performance settings"
+#~ msgstr ""
+#~ msgctxt "show_hidden"
+
+#~ msgid "Show hidden apps"
+#~ msgstr "Vis skjulte apps"
+#~ msgctxt "sort_by_frequency"
+
+#~ msgid "Sort by frequency of use"
+#~ msgstr ""
+#~ msgctxt "sort_by_not_defined"
+
+#~ msgid "Sort by default order"
+#~ msgstr ""
