@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-29 15:43+0100\n"
+"PO-Revision-Date: 2011-06-01 12:46+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -71,11 +71,11 @@ msgstr "OK"
 
 msgctxt "backup_finished"
 msgid "Backup completed"
-msgstr ""
+msgstr "Sikkerhetskopi fullført"
 
 msgctxt "menu_patch_delete"
 msgid "Delete backup(s)"
-msgstr ""
+msgstr "Slett sikkerhetskopi(er)"
 
 msgctxt "btn_done"
 msgid "Delete"
@@ -87,7 +87,7 @@ msgstr "Avbryt"
 
 msgctxt "delete_backup"
 msgid "Delete Backup"
-msgstr ""
+msgstr "Slett sikkerhetskopi"
 
 msgctxt "delete_backup_confirm"
 msgid "Selected backup will be removed, are you sure?"
@@ -102,10 +102,12 @@ msgid ""
 "\n"
 "Are you sure you wish to delete the selected backup?"
 msgstr ""
+"\n"
+"Er du sikker på at vil slette den valgte sikkerhetskopien?"
 
 msgctxt "start_restore"
 msgid "Restore"
-msgstr ""
+msgstr "Gjenopprett"
 
 msgctxt "backup_file_error"
 msgid "There was a problem with the backup, the operation was not valid."
@@ -117,15 +119,15 @@ msgstr " Bytes"
 
 msgctxt "unit_piece"
 msgid " Item(s)"
-msgstr ""
+msgstr "  Element(er)"
 
 msgctxt "restore_finished"
 msgid "Restore completed"
-msgstr ""
+msgstr "Gjenopprettning ferdig"
 
 msgctxt "restore_progress"
 msgid "Restoring..."
-msgstr ""
+msgstr "Gjenoppretter..."
 
 msgctxt "restore_contacts_hit"
 msgid "(Note: You need to manually restore Contacts established before the original account)"
@@ -141,11 +143,11 @@ msgstr ""
 
 msgctxt "settings_summary"
 msgid "Backup phone and messaging settings"
-msgstr ""
+msgstr "Sikkerhetskopier telefon og melding innstillinger"
 
 msgctxt "cloud_app_name"
 msgid "Cloud Backup"
-msgstr ""
+msgstr "Skylagring"
 
 msgctxt "cloud_home_title"
 msgid "Online"
@@ -165,7 +167,7 @@ msgstr "Sikkerhetskopierer..."
 
 msgctxt "menu_reset_contact"
 msgid "Reset contacts"
-msgstr ""
+msgstr "Reset kontakter"
 
 msgctxt "menu_reset_calllog"
 msgid "Reset call log"
@@ -222,7 +224,7 @@ msgstr ""
 
 msgctxt "cloud_backup_window_title"
 msgid "Cloud Backup"
-msgstr ""
+msgstr "Skylagring"
 
 msgctxt "cloud_backup_select_prompt"
 msgid "Select items to be backed up"
@@ -254,7 +256,7 @@ msgstr "MIUI Konto:"
 
 msgctxt "account_unlogin"
 msgid "Not logged in"
-msgstr ""
+msgstr "Ikke innlogget"
 
 msgctxt "account_login"
 msgid "Login"
@@ -270,7 +272,7 @@ msgstr "Automatisk sikkerhetskopi"
 
 msgctxt "backup_info"
 msgid "Backup info"
-msgstr "Sikkerhetskopi info"
+msgstr "Sikkerhetskopi-info"
 
 msgctxt "button_backup_now"
 msgid "Backup now"
@@ -348,10 +350,9 @@ msgctxt "un_cloud_backup"
 msgid " to cloud"
 msgstr " til skyen"
 
-#, fuzzy
 msgctxt "cloud_backup_for"
 msgid "Use cloud backup to:"
-msgstr "Bruk sky lagring til:"
+msgstr "Bruk skylagring til:"
 
 msgctxt "current_imsi_used"
 msgid "SIM card used"
@@ -559,11 +560,11 @@ msgstr ""
 
 msgctxt "progress_restore_hint"
 msgid "Restoring..."
-msgstr ""
+msgstr "Gjenoppretter..."
 
 msgctxt "cancel_restore"
 msgid "Cancel Restore"
-msgstr ""
+msgstr "Avbryt gjenoppretning"
 
 msgctxt "local_backup_hint1"
 msgid "Backup contacts, call records and messages"
@@ -579,7 +580,7 @@ msgstr ""
 
 msgctxt "local_restore_select_prompt"
 msgid "Select items to restore"
-msgstr ""
+msgstr "Velg elementer som skal gjenopprettes"
 
 msgctxt "local_select_sysdata"
 msgid "System"
