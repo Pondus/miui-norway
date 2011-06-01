@@ -1,0 +1,95 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "backup_dialog_content_type:0"
+msgid "Wi-Fi data"
+msgstr ""
+
+msgctxt "backup_dialog_content_type:1"
+msgid "All apps"
+msgstr ""
+
+msgctxt "system_package_label:0"
+msgid "SMS and MMS"
+msgstr ""
+
+msgctxt "system_data_label:0"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "system_data_label:1"
+msgid "Call log"
+msgstr ""
+
+msgctxt "system_data_label:2"
+msgid "Messages"
+msgstr ""
+
+msgctxt "system_data_label:3"
+msgid "System settings"
+msgstr ""
+
+msgctxt "system_data_label:4"
+msgid "Wi-Fi settings"
+msgstr ""
+
+msgctxt "system_data_label:5"
+msgid "Desktop layout"
+msgstr ""
+
+msgctxt "system_data_label:6"
+msgid "Alarm settings"
+msgstr ""
+
+msgctxt "system_data_label:7"
+msgid "Notes"
+msgstr ""
+
+msgctxt "app_type_desc:0"
+msgid "(data)"
+msgstr ""
+
+msgctxt "app_type_desc:1"
+msgid "(apps)"
+msgstr ""
+
+msgctxt "app_type_desc:2"
+msgid "(data + apps)"
+msgstr ""
+
+msgctxt "cloud_data_label:0"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "cloud_data_label:1"
+msgid "Call log"
+msgstr ""
+
+msgctxt "cloud_data_label:2"
+msgid "Messages"
+msgstr ""
+
+msgctxt "cloud_data_label:3"
+msgid "Wi-Fi settings"
+msgstr ""
+
+msgctxt "cloud_data_label:4"
+msgid "Notes"
+msgstr ""
+

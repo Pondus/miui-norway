@@ -1,0 +1,71 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+#, c-format
+msgctxt "format_for_exported_note:0"
+msgid "-%s"
+msgstr ""
+
+#, c-format
+msgctxt "format_for_exported_note:1"
+msgid "--%s"
+msgstr ""
+
+#, c-format
+msgctxt "format_for_exported_note:2"
+msgid "--%s"
+msgstr ""
+
+#, c-format
+msgctxt "format_for_exported_note:3"
+msgid "--%s"
+msgstr ""
+
+msgctxt "menu_share_ways:0"
+msgid "Messaging"
+msgstr ""
+
+msgctxt "menu_share_ways:1"
+msgid "Email"
+msgstr ""
+
+msgctxt "notelist_db_to_dist:0"
+msgid "Save to SD card"
+msgstr ""
+
+msgctxt "notelist_db_to_dist:1"
+msgid "Send by E-mail"
+msgstr ""
+
+msgctxt "note_send_app:0"
+msgid "SMS"
+msgstr ""
+
+msgctxt "note_send_app:1"
+msgid "E-Mail"
+msgstr ""
+
+msgctxt "notelist_array_default_folder:0"
+msgid "Friends / Work"
+msgstr ""
+
+msgctxt "notelist_array_default_folder:1"
+msgid "To-do list"
+msgstr ""
+

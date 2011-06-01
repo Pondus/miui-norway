@@ -1,0 +1,477 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "default_smiley_texts:0"
+msgid ":-D"
+msgstr ""
+
+msgctxt "default_smiley_texts:1"
+msgid ";-)"
+msgstr ""
+
+msgctxt "default_smiley_texts:2"
+msgid ";-l"
+msgstr ""
+
+msgctxt "default_smiley_texts:3"
+msgid ":-B"
+msgstr ""
+
+msgctxt "default_smiley_texts:4"
+msgid ";'("
+msgstr ""
+
+msgctxt "default_smiley_texts:5"
+msgid "@="
+msgstr ""
+
+msgctxt "default_smiley_texts:6"
+msgid ":-("
+msgstr ""
+
+msgctxt "default_smiley_texts:7"
+msgid ";-("
+msgstr ""
+
+msgctxt "default_smiley_texts:8"
+msgid "∠※"
+msgstr ""
+
+msgctxt "default_smiley_texts:9"
+msgid ":-x"
+msgstr ""
+
+msgctxt "default_smiley_texts:10"
+msgid ":-&gt;"
+msgstr ""
+
+msgctxt "default_smiley_texts:11"
+msgid "B-)"
+msgstr ""
+
+msgctxt "default_smiley_texts:12"
+msgid "*^‧^*"
+msgstr ""
+
+msgctxt "default_smiley_texts:13"
+msgid "○^~^○"
+msgstr ""
+
+msgctxt "default_smiley_texts:14"
+msgid ":-P"
+msgstr ""
+
+msgctxt "default_smiley_texts:15"
+msgid ":-)"
+msgstr ""
+
+msgctxt "default_smiley_texts:16"
+msgid ":-*"
+msgstr ""
+
+#, c-format
+msgctxt "default_smiley_texts:17"
+msgid ";-%"
+msgstr ""
+
+msgctxt "default_smiley_texts:18"
+msgid ":-)"
+msgstr ""
+
+msgctxt "default_smiley_texts:19"
+msgid ":-!"
+msgstr ""
+
+msgctxt "default_smiley_texts:20"
+msgid ":-{"
+msgstr ""
+
+msgctxt "default_smiley_texts:21"
+msgid ":-O"
+msgstr ""
+
+msgctxt "default_smiley_texts:22"
+msgid ":-?"
+msgstr ""
+
+msgctxt "default_smiley_texts:23"
+msgid ":-["
+msgstr ""
+
+msgctxt "default_smiley_texts:24"
+msgid "'-|"
+msgstr ""
+
+msgctxt "default_smiley_texts:25"
+msgid ":-1"
+msgstr ""
+
+msgctxt "default_smiley_texts:26"
+msgid ":-2"
+msgstr ""
+
+msgctxt "default_smiley_texts:27"
+msgid ":-z"
+msgstr ""
+
+msgctxt "default_smiley_texts:28"
+msgid ":ok:"
+msgstr ""
+
+msgctxt "default_smiley_texts:29"
+msgid ":pc:"
+msgstr ""
+
+msgctxt "default_smiley_texts:30"
+msgid ":gl:"
+msgstr ""
+
+msgctxt "default_smiley_texts:31"
+msgid "O_O"
+msgstr ""
+
+msgctxt "extend_smiley_texts:0"
+msgid "::&gt;_&amp;amp;amp;lt;::"
+msgstr ""
+
+msgctxt "extend_smiley_texts:1"
+msgid "&amp;amp;amp;lt;_&gt;¦¦¦"
+msgstr ""
+
+msgctxt "extend_smiley_texts:2"
+msgid "~~~^_^~~~"
+msgstr ""
+
+msgctxt "extend_smiley_texts:3"
+msgid "~~~(&gt;_&amp;amp;amp;lt;)~~~"
+msgstr ""
+
+msgctxt "extend_smiley_texts:4"
+msgid "╮〔╯ε╰〕╭"
+msgstr ""
+
+msgctxt "extend_smiley_texts:5"
+msgid "^_^/~~"
+msgstr ""
+
+msgctxt "extend_smiley_texts:6"
+msgid "o∩_∩o"
+msgstr ""
+
+msgctxt "extend_smiley_texts:7"
+msgid "°ο°/~"
+msgstr ""
+
+msgctxt "extend_smiley_texts:8"
+msgid "^_^)Y"
+msgstr ""
+
+msgctxt "extend_smiley_texts:9"
+msgid "-ิo-ิ"
+msgstr ""
+
+msgctxt "extend_smiley_texts:10"
+msgid "^(oo)^"
+msgstr ""
+
+msgctxt "extend_smiley_texts:11"
+msgid "~o~/~"
+msgstr ""
+
+msgctxt "extend_smiley_texts:12"
+msgid "*^o^*"
+msgstr ""
+
+msgctxt "extend_smiley_texts:13"
+msgid "ˋ_ˊ¦¦"
+msgstr ""
+
+msgctxt "extend_smiley_texts:14"
+msgid "○^~^○"
+msgstr ""
+
+msgctxt "extend_smiley_texts:15"
+msgid "^_^"
+msgstr ""
+
+msgctxt "extend_smiley_texts:16"
+msgid "^口^"
+msgstr ""
+
+msgctxt "extend_smiley_texts:17"
+msgid "人^人"
+msgstr ""
+
+msgctxt "extend_smiley_texts:18"
+msgid "^人^"
+msgstr ""
+
+msgctxt "extend_smiley_texts:19"
+msgid "一-一"
+msgstr ""
+
+msgctxt "extend_smiley_texts:20"
+msgid "π_π"
+msgstr ""
+
+msgctxt "extend_smiley_texts:21"
+msgid "@ο@"
+msgstr ""
+
+msgctxt "extend_smiley_texts:22"
+msgid ":-x"
+msgstr ""
+
+msgctxt "extend_smiley_texts:23"
+msgid "T_T"
+msgstr ""
+
+msgctxt "extend_smiley_texts:24"
+msgid "Ｏrz"
+msgstr ""
+
+msgctxt "extend_smiley_texts:25"
+msgid ":-P"
+msgstr ""
+
+msgctxt "extend_smiley_texts:26"
+msgid ":-O"
+msgstr ""
+
+msgctxt "extend_smiley_texts:27"
+msgid "︶︿︶"
+msgstr ""
+
+msgctxt "extend_smiley_texts:28"
+msgid "╯^╰"
+msgstr ""
+
+msgctxt "extend_smiley_texts:29"
+msgid "〒_〒"
+msgstr ""
+
+msgctxt "extend_smiley_texts:30"
+msgid ";-("
+msgstr ""
+
+msgctxt "extend_smiley_texts:31"
+msgid ":-("
+msgstr ""
+
+msgctxt "extend_smiley_texts:32"
+msgid ";-&gt;"
+msgstr ""
+
+msgctxt "extend_smiley_texts:33"
+msgid "∩_∩"
+msgstr ""
+
+#, c-format
+msgctxt "extend_smiley_texts:34"
+msgid "%-)"
+msgstr ""
+
+msgctxt "extend_smiley_texts:35"
+msgid "→_→"
+msgstr ""
+
+msgctxt "extend_smiley_texts:36"
+msgid "¯^¯"
+msgstr ""
+
+msgctxt "extend_smiley_texts:37"
+msgid "⊙⊙?"
+msgstr ""
+
+msgctxt "extend_smiley_texts:38"
+msgid "⊙.⊙"
+msgstr ""
+
+msgctxt "extend_smiley_texts:39"
+msgid ":-@"
+msgstr ""
+
+msgctxt "extend_smiley_texts:40"
+msgid ";-)"
+msgstr ""
+
+msgctxt "extend_smiley_texts:41"
+msgid "^÷^"
+msgstr ""
+
+msgctxt "extend_smiley_texts:42"
+msgid ":-@"
+msgstr ""
+
+msgctxt "extend_smiley_texts:43"
+msgid "╰_╯"
+msgstr ""
+
+msgctxt "extend_smiley_texts:44"
+msgid "ˋ^ˊ"
+msgstr ""
+
+msgctxt "extend_smiley_texts:45"
+msgid ":-/"
+msgstr ""
+
+msgctxt "extend_smiley_texts:46"
+msgid ":-*"
+msgstr ""
+
+msgctxt "extend_smiley_texts:47"
+msgid ":-)"
+msgstr ""
+
+msgctxt "extend_smiley_texts:48"
+msgid "^_^"
+msgstr ""
+
+msgctxt "extend_smiley_texts:49"
+msgid "$_$"
+msgstr ""
+
+msgctxt "extend_smiley_texts:50"
+msgid ":-&gt;"
+msgstr ""
+
+msgctxt "extend_smiley_texts:51"
+msgid ":-D"
+msgstr ""
+
+msgctxt "extend_smiley_texts:52"
+msgid "B-)"
+msgstr ""
+
+msgctxt "extend_smiley_texts:53"
+msgid "b_d"
+msgstr ""
+
+msgctxt "extend_smiley_texts:54"
+msgid ":P"
+msgstr ""
+
+msgctxt "extend_smiley_texts:55"
+msgid "ōk"
+msgstr ""
+
+msgctxt "extend_smiley_texts:56"
+msgid "∠※"
+msgstr ""
+
+msgctxt "extend_smiley_texts:57"
+msgid ":-J"
+msgstr ""
+
+msgctxt "extend_smiley_texts:58"
+msgid ":)"
+msgstr ""
+
+msgctxt "extend_smiley_texts:59"
+msgid ":("
+msgstr ""
+
+msgctxt "extend_smiley_texts:60"
+msgid ":D"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:0"
+msgid "1 time"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:1"
+msgid "2 times"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:2"
+msgid "3 times"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:3"
+msgid "5 times"
+msgstr ""
+
+msgctxt "prefEntries_ringtone_repeat:4"
+msgid "10 times"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:0"
+msgid "1"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:1"
+msgid "2"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:2"
+msgid "3"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:3"
+msgid "5"
+msgstr ""
+
+msgctxt "prefValues_ringtone_repeat:4"
+msgid "10"
+msgstr ""
+
+msgctxt "select_dialog_items:0"
+msgid "1 second"
+msgstr ""
+
+msgctxt "select_dialog_items:1"
+msgid "2 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:2"
+msgid "3 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:3"
+msgid "4 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:4"
+msgid "5 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:5"
+msgid "6 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:6"
+msgid "7 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:7"
+msgid "8 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:8"
+msgid "9 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:9"
+msgid "10 seconds"
+msgstr ""
+
+msgctxt "select_dialog_items:10"
+msgid "Other..."
+msgstr ""
+

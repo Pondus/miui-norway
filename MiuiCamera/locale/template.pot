@@ -1,0 +1,453 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "camera_error_title"
+msgid "Camera error"
+msgstr ""
+
+msgctxt "cannot_connect_camera"
+msgid "Can't connect to camera."
+msgstr ""
+
+msgctxt "camera_label"
+msgid "Camera"
+msgstr ""
+
+msgctxt "video_camera_label"
+msgid "Camcorder"
+msgstr ""
+
+msgctxt "gallery_camera_bucket_name"
+msgid "Camera pictures"
+msgstr ""
+
+msgctxt "gallery_camera_videos_bucket_name"
+msgid "Camera videos"
+msgstr ""
+
+msgctxt "wait"
+msgid "Please wait..."
+msgstr ""
+
+msgctxt "no_storage"
+msgid "Please insert an SD card before using the camera."
+msgstr ""
+
+msgctxt "not_enough_space"
+msgid "Your SD card is full."
+msgstr ""
+
+msgctxt "preparing_sd"
+msgid "Preparing SD card..."
+msgstr ""
+
+msgctxt "spaceIsLow_content"
+msgid ""
+"Your SD card is running out of space. Change the quality setting or "
+"delete items from Gallery."
+msgstr ""
+
+msgctxt "image_file_name_format"
+msgid "'IMG'_yyyyMMdd_HHmmss"
+msgstr ""
+
+msgctxt "video_file_name_format"
+msgid "'VID'_yyyyMMdd_HHmmss"
+msgstr ""
+
+msgctxt "video_reach_size_limit"
+msgid "Size limit reached."
+msgstr ""
+
+msgctxt "details_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "switch_to_camera_lable"
+msgid "Switch to camera"
+msgstr ""
+
+msgctxt "switch_to_video_lable"
+msgid "Switch to video"
+msgstr ""
+
+msgctxt "review_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "review_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "review_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "review_retake"
+msgid "Retake"
+msgstr ""
+
+msgctxt "warning"
+msgid "Warning"
+msgstr ""
+
+msgctxt "confirm_delete_image_message"
+msgid "Are you sure you wish to delete this image?"
+msgstr ""
+
+msgctxt "send_method"
+msgid "Send to"
+msgstr ""
+
+msgctxt "switch_to_camera"
+msgid "Camera"
+msgstr ""
+
+msgctxt "switch_to_video"
+msgid "Video"
+msgstr ""
+
+msgctxt "anti_shake"
+msgid "Anti-shake"
+msgstr ""
+
+msgctxt "burst"
+msgid "Burst"
+msgstr ""
+
+msgctxt "color_effect"
+msgid "Color effect"
+msgstr ""
+
+msgctxt "delay_snap"
+msgid "Delay"
+msgstr ""
+
+msgctxt "screen_shutter"
+msgid "Screen shutter"
+msgstr ""
+
+msgctxt "silence"
+msgid "Sound"
+msgstr ""
+
+msgctxt "disable_silence"
+msgid "Sounds"
+msgstr ""
+
+msgctxt "setting"
+msgid "Settings"
+msgstr ""
+
+msgctxt "camera_settings"
+msgid "Camera Settings"
+msgstr ""
+
+msgctxt "pref_camera_jpegquality_superfine"
+msgid "Super fine"
+msgstr ""
+
+msgctxt "pref_camera_jpegquality_fine"
+msgid "Fine"
+msgstr ""
+
+msgctxt "pref_camera_jpegquality_normal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "pref_camera_focusmode"
+msgid "Focus mode"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_infinity"
+msgid "Infinity"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_macro"
+msgid "Macro"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_fixed"
+msgid "Fixed"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_edof"
+msgid "EDOF"
+msgstr ""
+
+msgctxt "pref_camera_focusmode_continuous_video"
+msgid "Continuous video"
+msgstr ""
+
+msgctxt "flash_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "flash_on"
+msgid "On"
+msgstr ""
+
+msgctxt "flash_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance"
+msgid "White balance"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_incandescent"
+msgid "Incandescent"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_daylight"
+msgid "Daylight"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_fluorescent"
+msgid "Fluorescent"
+msgstr ""
+
+msgctxt "pref_camera_whitebalance_cloudy"
+msgid "Cloudy"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_none"
+msgid "Normal"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_mono"
+msgid "Mono"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_sepia"
+msgid "Sepia"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_negative"
+msgid "Negative"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_solarize"
+msgid "Solarize"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_posterize"
+msgid "Posterize"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_aqua"
+msgid "Aqua"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_pastel"
+msgid "Pastel"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_mosaic"
+msgid "Mosaic"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_redtint"
+msgid "Red tint"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_bluetint"
+msgid "Blue tint"
+msgstr ""
+
+msgctxt "pref_camera_coloreffect_greentint"
+msgid "Green tint"
+msgstr ""
+
+msgctxt "pref_camera_scenemode"
+msgid "Scene mode"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_action"
+msgid "Action"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_portrait"
+msgid "Portrait"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_landscape"
+msgid "Landscape"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_night"
+msgid "Night"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_night_portrait"
+msgid "Night portrait"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_theatre"
+msgid "Theatre"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_beach"
+msgid "Beach"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_snow"
+msgid "Snow"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_sunset"
+msgid "Sunset"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_steadyphoto"
+msgid "Steady photo"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_fireworks"
+msgid "Fireworks"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_sports"
+msgid "Sports"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_party"
+msgid "Party"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_candlelight"
+msgid "Candle light"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_backlight"
+msgid "Backlight"
+msgstr ""
+
+msgctxt "pref_camera_scenemode_flowers"
+msgid "Flowers"
+msgstr ""
+
+msgctxt "pref_camera_antibanding"
+msgid "Flicker reduction"
+msgstr ""
+
+msgctxt "pref_camera_antibanding_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "pref_camera_antibanding_50hz"
+msgid "50 Hz"
+msgstr ""
+
+msgctxt "pref_camera_antibanding_60hz"
+msgid "60 Hz"
+msgstr ""
+
+msgctxt "pref_camera_antibanding_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "pref_camera_picturesize"
+msgid "Picture size"
+msgstr ""
+
+msgctxt "pref_picturesize_M"
+msgid "MB"
+msgstr ""
+
+msgctxt "pref_picturesize_10K"
+msgid "0K"
+msgstr ""
+
+msgctxt "pref_picturesize_fullscreen"
+msgid "Full screen"
+msgstr ""
+
+msgctxt "pref_camera_referenceline"
+msgid "Composition grid"
+msgstr ""
+
+msgctxt "pref_camera_referenceline_none"
+msgid "None"
+msgstr ""
+
+msgctxt "pref_camera_referenceline_magicsquare"
+msgid "3x3"
+msgstr ""
+
+msgctxt "pref_camera_referenceline_goldenratio"
+msgid "Frame"
+msgstr ""
+
+msgctxt "pref_camera_recordlocation"
+msgid "Save location"
+msgstr ""
+
+msgctxt "pref_camera_recordlocation_on"
+msgid "On"
+msgstr ""
+
+msgctxt "pref_camera_recordlocation_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "pref_camera_playback"
+msgid "Play back"
+msgstr ""
+
+msgctxt "pref_camera_autofocus"
+msgid "Auto focus"
+msgstr ""
+
+msgctxt "pref_video_quality"
+msgid "Video Quality"
+msgstr ""
+
+msgctxt "pref_video_quality_720p"
+msgid "720P (30m)"
+msgstr ""
+
+msgctxt "pref_video_quality_high"
+msgid "High (30m)"
+msgstr ""
+
+msgctxt "pref_video_quality_low"
+msgid "Low (30m)"
+msgstr ""
+
+msgctxt "pref_video_quality_mms"
+msgid "MMS (Low, 30s)"
+msgstr ""
+
+msgctxt "tag_coloreffect"
+msgid "COLOR_EFFECT_INDEX"
+msgstr ""
+

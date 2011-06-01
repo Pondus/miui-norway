@@ -1,0 +1,450 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "app_name"
+msgid "Notes"
+msgstr ""
+
+msgctxt "app_widget2x2"
+msgid "Notes 2x2"
+msgstr ""
+
+msgctxt "app_widget4x4"
+msgid "Notes 4x4"
+msgstr ""
+
+msgctxt "button_set"
+msgid "Settings"
+msgstr ""
+
+msgctxt "button_clear"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "widget_havenot_content"
+msgid "No associated note found, click to create associated note."
+msgstr ""
+
+msgctxt "widget_under_visit_mode"
+msgid "In guarded mode, note content will be hidden"
+msgstr ""
+
+msgctxt "notelist_string_info"
+msgid "..."
+msgstr ""
+
+msgctxt "notelist_menu_new"
+msgid "Add note"
+msgstr ""
+
+msgctxt "noteedit_use_alert_time_error"
+msgid "Failed to set time"
+msgstr ""
+
+msgctxt "note_alert_expired"
+msgid "Expired"
+msgstr ""
+
+msgctxt "format_date_ymd"
+msgid "yyyyMMdd"
+msgstr ""
+
+msgctxt "format_datetime_mdhm"
+msgid "MMMd kk:mm"
+msgstr ""
+
+msgctxt "notealert_ok"
+msgid "Got it"
+msgstr ""
+
+msgctxt "notealert_enter"
+msgid "Take a look"
+msgstr ""
+
+msgctxt "note_link_tel"
+msgid "Call"
+msgstr ""
+
+msgctxt "note_link_email"
+msgid "Send E-mail"
+msgstr ""
+
+msgctxt "note_link_web"
+msgid "Browse web"
+msgstr ""
+
+msgctxt "note_link_other"
+msgid "Open map"
+msgstr ""
+
+msgctxt "file_path"
+msgid "/MIUI/notes/"
+msgstr ""
+
+#, c-format
+msgctxt "file_name_txt_format"
+msgid "notes_%s.txt"
+msgstr ""
+
+#, c-format
+msgctxt "format_folder_files_count"
+msgid "(%d)"
+msgstr ""
+
+msgctxt "menu_create_folder"
+msgid "New folder"
+msgstr ""
+
+msgctxt "menu_export_text"
+msgid "Export text"
+msgstr ""
+
+msgctxt "menu_sync"
+msgid "Sync"
+msgstr ""
+
+msgctxt "menu_sync_cancel"
+msgid "Cancel syncing"
+msgstr ""
+
+msgctxt "menu_setting"
+msgid "Settings"
+msgstr ""
+
+msgctxt "menu_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "menu_edit"
+msgid "Editor"
+msgstr ""
+
+msgctxt "menu_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "menu_font_size"
+msgid "Font size"
+msgstr ""
+
+msgctxt "menu_font_small"
+msgid "Small"
+msgstr ""
+
+msgctxt "menu_font_normal"
+msgid "Medium"
+msgstr ""
+
+msgctxt "menu_font_large"
+msgid "Large"
+msgstr ""
+
+msgctxt "menu_font_super"
+msgid "Super"
+msgstr ""
+
+msgctxt "menu_list_mode"
+msgid "Enter check list"
+msgstr ""
+
+msgctxt "menu_normal_mode"
+msgid "Leave check list"
+msgstr ""
+
+msgctxt "menu_folder_view"
+msgid "View folder"
+msgstr ""
+
+msgctxt "menu_folder_delete"
+msgid "Delete folder"
+msgstr ""
+
+msgctxt "menu_folder_change_name"
+msgid "Rename folder"
+msgstr ""
+
+#, c-format
+msgctxt "folder_exist"
+msgid "The folder %1$s already exists, please rename"
+msgstr ""
+
+msgctxt "menu_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "menu_send_to_desktop"
+msgid "Send to home screen"
+msgstr ""
+
+msgctxt "menu_alert"
+msgid "Remind me"
+msgstr ""
+
+msgctxt "menu_title_select_folder"
+msgid "Select folder"
+msgstr ""
+
+msgctxt "menu_move_parent_folder"
+msgid "Parent folder"
+msgstr ""
+
+msgctxt "info_note_enter_desktop"
+msgid "Note added to home screen"
+msgstr ""
+
+msgctxt "alert_message_delete_folder"
+msgid "Are you sure you want to delete the folder and its notes?"
+msgstr ""
+
+msgctxt "alert_title_delete"
+msgid "Delete selected notes"
+msgstr ""
+
+#, c-format
+msgctxt "alert_message_delete_notes"
+msgid "Are you sure you want to delete the selected %d notes?"
+msgstr ""
+
+msgctxt "alert_message_delete_note"
+msgid "Are you sure you want to delete this note?"
+msgstr ""
+
+#, c-format
+msgctxt "format_move_notes_to_folder"
+msgid "Moved %1$d note(s) to %2$s folder"
+msgstr ""
+
+msgctxt "error_sdcard_unmounted"
+msgid "SD card busy, not available now"
+msgstr ""
+
+msgctxt "error_sdcard_export"
+msgid "Export failed, please check SD card"
+msgstr ""
+
+msgctxt "error_note_not_exist"
+msgid "The note does not exist"
+msgstr ""
+
+msgctxt "error_note_empty_for_clock"
+msgid "Sorry, can't set reminder on an empty note"
+msgstr ""
+
+msgctxt "error_note_empty_for_send_to_desktop"
+msgid "Sorry, can't send an empty note to home screen"
+msgstr ""
+
+msgctxt "success_sdcard_export"
+msgid "Export successful"
+msgstr ""
+
+msgctxt "failed_sdcard_export"
+msgid "Export failed"
+msgstr ""
+
+#, c-format
+msgctxt "format_exported_file_location"
+msgid "Exported text file (%1$s) to SD card (%2$s) directory"
+msgstr ""
+
+msgctxt "ticker_syncing"
+msgid "Syncing notes..."
+msgstr ""
+
+msgctxt "ticker_success"
+msgid "Successfully synced"
+msgstr ""
+
+msgctxt "ticker_fail"
+msgid "Failed to sync"
+msgstr ""
+
+msgctxt "ticker_cancel"
+msgid "Sync is canceled"
+msgstr ""
+
+#, c-format
+msgctxt "success_sync_account"
+msgid "Sync is successful with account %1$s"
+msgstr ""
+
+msgctxt "error_sync_network"
+msgid "Sync failed, please check network and account settings"
+msgstr ""
+
+msgctxt "error_sync_internal"
+msgid "Internal error occurred!"
+msgstr ""
+
+msgctxt "error_sync_cancelled"
+msgid "Sync is canceled"
+msgstr ""
+
+#, c-format
+msgctxt "sync_progress_login"
+msgid "Logging into %1$s..."
+msgstr ""
+
+msgctxt "sync_progress_init_list"
+msgid "Getting remote note list..."
+msgstr ""
+
+msgctxt "sync_progress_syncing"
+msgid "Synchronise local notes with Google Task..."
+msgstr ""
+
+msgctxt "preferences_title"
+msgid "Settings"
+msgstr ""
+
+msgctxt "preferences_account_title"
+msgid "Sync account"
+msgstr ""
+
+msgctxt "preferences_account_summary"
+msgid "Sync notes with Google Task"
+msgstr ""
+
+#, c-format
+msgctxt "preferences_last_sync_time"
+msgid "Last sync time %1$s"
+msgstr ""
+
+msgctxt "preferences_last_sync_time_format"
+msgid "yyyy-MM-dd hh:mm:ss"
+msgstr ""
+
+msgctxt "preferences_add_account"
+msgid "Add account"
+msgstr ""
+
+msgctxt "preferences_menu_change_account"
+msgid "Change sync account"
+msgstr ""
+
+msgctxt "preferences_menu_remove_account"
+msgid "Remove sync account"
+msgstr ""
+
+msgctxt "preferences_menu_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "preferences_button_sync_immediately"
+msgid "Sync immediately"
+msgstr ""
+
+msgctxt "preferences_button_sync_cancel"
+msgid "Cancel syncing"
+msgstr ""
+
+#, c-format
+msgctxt "preferences_dialog_change_account_title"
+msgid "Current account %1$s"
+msgstr ""
+
+msgctxt "preferences_dialog_change_account_warn_msg"
+msgid ""
+"All sync related information will be deleted, which sometimes may result "
+"in duplicated items"
+msgstr ""
+
+msgctxt "preferences_dialog_select_account_title"
+msgid "Sync notes"
+msgstr ""
+
+msgctxt "preferences_dialog_select_account_tips"
+msgid ""
+"Please select a Google account. Local notes will be synced with Google "
+"Task"
+msgstr ""
+
+msgctxt "preferences_toast_cannot_change_account"
+msgid "Cannot change the account because sync is in progress"
+msgstr ""
+
+#, c-format
+msgctxt "preferences_toast_success_set_accout"
+msgid "%1$s has been set as the sync account"
+msgstr ""
+
+msgctxt "preferences_set_password_title"
+msgid "Set personal password"
+msgstr ""
+
+msgctxt "preferences_set_password_summary"
+msgid "Global password is required when starting notes application"
+msgstr ""
+
+msgctxt "preferences_bg_random_appear_title"
+msgid "Random note color"
+msgstr ""
+
+msgctxt "button_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "button_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "button_check"
+msgid "Select all"
+msgstr ""
+
+msgctxt "button_check_none"
+msgid "Deselect all"
+msgstr ""
+
+msgctxt "button_move"
+msgid "Move"
+msgstr ""
+
+msgctxt "call_record_folder_name"
+msgid "Call record"
+msgstr ""
+
+msgctxt "hint_foler_name"
+msgid "Enter folder name"
+msgstr ""
+
+msgctxt "search_label"
+msgid "Searching Notes"
+msgstr ""
+
+msgctxt "search_hint"
+msgid "Search for notes"
+msgstr ""
+
+msgctxt "search_setting_description"
+msgid "Text in your notes"
+msgstr ""
+
+msgctxt "search"
+msgid "Notes"
+msgstr ""
+
+msgctxt "search_empty"
+msgid "Note matches"
+msgstr ""
+
+msgctxt "preferences_bg_random_appear_summary"
+msgid "Random backgrounds for notes"
+msgstr ""
+

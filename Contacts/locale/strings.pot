@@ -1,0 +1,2103 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "config_import_vcard_type"
+msgid "default"
+msgstr ""
+
+msgctxt "config_export_vcard_type"
+msgid "default"
+msgstr ""
+
+msgctxt "config_export_dir"
+msgid "/sdcard"
+msgstr ""
+
+msgctxt "config_export_file_extension"
+msgid "vcf"
+msgstr ""
+
+msgctxt "contactsList"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "launcherDialer"
+msgid "Phone"
+msgstr ""
+
+msgctxt "shortcutContact"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "shortcutDialContact"
+msgid "Direct dial"
+msgstr ""
+
+msgctxt "shortcutMessageContact"
+msgid "Direct message"
+msgstr ""
+
+msgctxt "shortcutActivityTitle"
+msgid "Choose a contact shortcut"
+msgstr ""
+
+msgctxt "callShortcutActivityTitle"
+msgid "Choose a number to call"
+msgstr ""
+
+msgctxt "messageShortcutActivityTitle"
+msgid "Choose a number to message"
+msgstr ""
+
+msgctxt "starredList"
+msgid "Starred"
+msgstr ""
+
+msgctxt "frequentList"
+msgid "Frequent"
+msgstr ""
+
+msgctxt "strequentList"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "viewContactTitle"
+msgid "Contact details"
+msgstr ""
+
+msgctxt "viewContactDesription"
+msgid "View contact"
+msgstr ""
+
+msgctxt "editContactDescription"
+msgid "Edit contact"
+msgstr ""
+
+msgctxt "insertContactDescription"
+msgid "Create contact"
+msgstr ""
+
+msgctxt "searchHint"
+msgid "Search contacts"
+msgstr ""
+
+msgctxt "menu_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "menu_newContact"
+msgid "New"
+msgstr ""
+
+msgctxt "menu_viewContact"
+msgid "View contact"
+msgstr ""
+
+#, c-format
+msgctxt "menu_callNumber"
+msgid "Call %s"
+msgstr ""
+
+msgctxt "menu_addStar"
+msgid "Add to Favorites"
+msgstr ""
+
+msgctxt "menu_removeStar"
+msgid "Remove from Favorites"
+msgstr ""
+
+msgctxt "menu_editContact"
+msgid "Edit"
+msgstr ""
+
+msgctxt "menu_deleteContact"
+msgid "Delete contact"
+msgstr ""
+
+msgctxt "menu_call"
+msgid "Call contact"
+msgstr ""
+
+msgctxt "menu_sendSMS"
+msgid "Text contact"
+msgstr ""
+
+msgctxt "menu_sendEmail"
+msgid "Send E-mail"
+msgstr ""
+
+msgctxt "menu_viewAddress"
+msgid "Map address"
+msgstr ""
+
+msgctxt "menu_makeDefaultNumber"
+msgid "Make default number"
+msgstr ""
+
+msgctxt "menu_makeDefaultEmail"
+msgid "Make default E-mail"
+msgstr ""
+
+msgctxt "menu_splitAggregate"
+msgid "Separate"
+msgstr ""
+
+msgctxt "contactsSplitMessage"
+msgid "Contacts separated"
+msgstr ""
+
+msgctxt "splitConfirmation_title"
+msgid "Separate Contact"
+msgstr ""
+
+msgctxt "splitConfirmation"
+msgid ""
+"Are you sure you want to separate this single contact into multiple "
+"contacts: one for each set of contact information that was joined into "
+"it?"
+msgstr ""
+
+msgctxt "menu_joinAggregate"
+msgid "Join"
+msgstr ""
+
+msgctxt "titleJoinContactDataWith"
+msgid "Join contacts"
+msgstr ""
+
+#, c-format
+msgctxt "blurbJoinContactDataWith"
+msgid "Select the contact you want to join with %s."
+msgstr ""
+
+msgctxt "showAllContactsJoinItem"
+msgid "Show all contacts"
+msgstr ""
+
+msgctxt "separatorJoinAggregateSuggestions"
+msgid "Suggested contacts"
+msgstr ""
+
+msgctxt "separatorJoinAggregateAll"
+msgid "All contacts"
+msgstr ""
+
+msgctxt "contactsJoinedMessage"
+msgid "Contacts joined"
+msgstr ""
+
+msgctxt "menu_contactOptions"
+msgid "Options"
+msgstr ""
+
+msgctxt "contactOptionsTitle"
+msgid "Options"
+msgstr ""
+
+msgctxt "deleteConfirmation_title"
+msgid "Delete"
+msgstr ""
+
+msgctxt "readOnlyContactWarning"
+msgid ""
+"You cannot delete contacts from read-only accounts, but you can hide them"
+" in your contacts lists."
+msgstr ""
+
+msgctxt "readOnlyContactDeleteConfirmation"
+msgid ""
+"This contact contains information from multiple accounts. Information "
+"from read-only accounts will be hidden in your contacts lists, not "
+"deleted."
+msgstr ""
+
+msgctxt "multipleContactDeleteConfirmation"
+msgid "Deleting this contact will delete information from multiple accounts."
+msgstr ""
+
+msgctxt "deleteConfirmation"
+msgid "This contact will be deleted."
+msgstr ""
+
+msgctxt "menu_done"
+msgid "Done"
+msgstr ""
+
+msgctxt "menu_doNotSave"
+msgid "Revert"
+msgstr ""
+
+msgctxt "editContact_title_edit"
+msgid "Edit contact"
+msgstr ""
+
+msgctxt "editContact_title_insert"
+msgid "New contact"
+msgstr ""
+
+msgctxt "label_phonetic_name"
+msgid "Phonetic"
+msgstr ""
+
+msgctxt "label_notes"
+msgid "Notes"
+msgstr ""
+
+msgctxt "label_sip_address"
+msgid "VoIP call"
+msgstr ""
+
+msgctxt "label_ringtone"
+msgid "Ringtone"
+msgstr ""
+
+msgctxt "ghostData_name"
+msgid "First and Last"
+msgstr ""
+
+msgctxt "ghostData_phonetic_name"
+msgid "Phonetic name"
+msgstr ""
+
+msgctxt "ghostData_company"
+msgid "Company"
+msgstr ""
+
+msgctxt "ghostData_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "invalidContactMessage"
+msgid "The contact does not exist."
+msgstr ""
+
+msgctxt "pickerNewContactHeader"
+msgid "Create new contact"
+msgstr ""
+
+msgctxt "selectLabel"
+msgid "Select label"
+msgstr ""
+
+msgctxt "phoneLabelsGroup"
+msgid "Phone"
+msgstr ""
+
+msgctxt "emailLabelsGroup"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "imLabelsGroup"
+msgid "IM"
+msgstr ""
+
+msgctxt "postalLabelsGroup"
+msgid "Address"
+msgstr ""
+
+msgctxt "photoPickerNotFoundText"
+msgid "No pictures are available on the phone."
+msgstr ""
+
+msgctxt "attachToContact"
+msgid "Contact icon"
+msgstr ""
+
+msgctxt "customLabelPickerTitle"
+msgid "Custom label name"
+msgstr ""
+
+msgctxt "send_to_voicemail_checkbox"
+msgid "Send calls directly to voicemail"
+msgstr ""
+
+msgctxt "default_ringtone"
+msgid "Default"
+msgstr ""
+
+msgctxt "changePicture"
+msgid "Change icon"
+msgstr ""
+
+msgctxt "removePicture"
+msgid "Remove icon"
+msgstr ""
+
+msgctxt "noContacts"
+msgid "Call log is empty"
+msgstr ""
+
+msgctxt "noMatchingContacts"
+msgid "No matching contact found"
+msgstr ""
+
+msgctxt "noContactsWithPhoneNumbers"
+msgid "No contacts with phone numbers."
+msgstr ""
+
+msgctxt "savingContact"
+msgid "Saving contact..."
+msgstr ""
+
+msgctxt "contactSavedToast"
+msgid "Contact saved."
+msgstr ""
+
+msgctxt "contactSavedErrorToast"
+msgid "Error, unable to save contact changes."
+msgstr ""
+
+msgctxt "listTotalPhoneContactsZero"
+msgid "No visible contacts with phone numbers"
+msgstr ""
+
+msgctxt "listTotalAllContactsZero"
+msgid "No visible contacts"
+msgstr ""
+
+msgctxt "listFoundAllContactsZero"
+msgid "Contact not found"
+msgstr ""
+
+msgctxt "contactsIconLabel"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "contactsFavoritesLabel"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "dialerIconLabel"
+msgid "Phone"
+msgstr ""
+
+msgctxt "recentContactsIconLabel"
+msgid "Recent"
+msgstr ""
+
+msgctxt "liveFolderAll"
+msgid "All contacts"
+msgstr ""
+
+msgctxt "liveFolderFavorites"
+msgid "Starred contacts"
+msgstr ""
+
+msgctxt "liveFolderPhone"
+msgid "Contacts with phone numbers"
+msgstr ""
+
+msgctxt "menu_sendTextMessage"
+msgid "Send text message"
+msgstr ""
+
+#, c-format
+msgctxt "recentCalls_callNumber"
+msgid "Call %s"
+msgstr ""
+
+msgctxt "recentCalls_editNumberBeforeCall"
+msgid "Edit number before call"
+msgstr ""
+
+msgctxt "recentCalls_addToContact"
+msgid "Add to contacts"
+msgstr ""
+
+msgctxt "recentCalls_removeFromRecentList"
+msgid "Remove from call log"
+msgstr ""
+
+msgctxt "recentCalls_deleteAll"
+msgid "Clear call log"
+msgstr ""
+
+msgctxt "recentCalls_empty"
+msgid "Call log is empty."
+msgstr ""
+
+msgctxt "clearCallLogConfirmation_title"
+msgid "Clear call log"
+msgstr ""
+
+msgctxt "clearCallLogConfirmation"
+msgid "Are you sure you want to clear the call log?"
+msgstr ""
+
+msgctxt "imei"
+msgid "IMEI"
+msgstr ""
+
+msgctxt "meid"
+msgid "MEID"
+msgstr ""
+
+msgctxt "voicemail"
+msgid "Voicemail"
+msgstr ""
+
+msgctxt "unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "private_num"
+msgid "Private number"
+msgstr ""
+
+msgctxt "payphone"
+msgid "Pay phone"
+msgstr ""
+
+msgctxt "dialerKeyboardHintText"
+msgid "Use keyboard to dial"
+msgstr ""
+
+msgctxt "dialerDialpadHintText"
+msgid "Dial to add a call"
+msgstr ""
+
+msgctxt "simContacts_emptyLoading"
+msgid "Loading from SIM card..."
+msgstr ""
+
+msgctxt "simContacts_title"
+msgid "SIM card contacts"
+msgstr ""
+
+msgctxt "liveFolder_all_label"
+msgid "All contacts"
+msgstr ""
+
+msgctxt "liveFolder_favorites_label"
+msgid "Starred"
+msgstr ""
+
+msgctxt "liveFolder_phones_label"
+msgid "Phones"
+msgstr ""
+
+msgctxt "callDetailTitle"
+msgid "Call details"
+msgstr ""
+
+msgctxt "toast_call_detail_error"
+msgid "Couldn't read details for the requested call."
+msgstr ""
+
+msgctxt "type_incoming"
+msgid "Incoming call"
+msgstr ""
+
+msgctxt "type_outgoing"
+msgid "Outgoing call"
+msgstr ""
+
+msgctxt "type_missed"
+msgid "Missed call"
+msgstr ""
+
+msgctxt "actionIncomingCall"
+msgid "Incoming calls"
+msgstr ""
+
+msgctxt "callBack"
+msgid "Call back"
+msgstr ""
+
+msgctxt "callAgain"
+msgid "Call again"
+msgstr ""
+
+msgctxt "returnCall"
+msgid "Return call"
+msgstr ""
+
+#, c-format
+msgctxt "callDetailsDurationFormat"
+msgid "%1$s minutes %2$s seconds"
+msgstr ""
+
+msgctxt "favoritesFrquentSeparator"
+msgid "Recent"
+msgstr ""
+
+msgctxt "add_contact_dlg_title"
+msgid "Add contact"
+msgstr ""
+
+#, c-format
+msgctxt "add_contact_dlg_message_fmt"
+msgid "Add \"%s\" to contacts?"
+msgstr ""
+
+msgctxt "all_tab_label"
+msgid "All"
+msgstr ""
+
+msgctxt "description_image_button_one"
+msgid "one"
+msgstr ""
+
+msgctxt "description_image_button_two"
+msgid "two"
+msgstr ""
+
+msgctxt "description_image_button_three"
+msgid "three"
+msgstr ""
+
+msgctxt "description_image_button_four"
+msgid "four"
+msgstr ""
+
+msgctxt "description_image_button_five"
+msgid "five"
+msgstr ""
+
+msgctxt "description_image_button_six"
+msgid "six"
+msgstr ""
+
+msgctxt "description_image_button_seven"
+msgid "seven"
+msgstr ""
+
+msgctxt "description_image_button_eight"
+msgid "eight"
+msgstr ""
+
+msgctxt "description_image_button_nine"
+msgid "nine"
+msgstr ""
+
+msgctxt "description_image_button_star"
+msgid "star"
+msgstr ""
+
+msgctxt "description_image_button_delete"
+msgid "delete"
+msgstr ""
+
+msgctxt "description_image_button_zero"
+msgid "zero"
+msgstr ""
+
+msgctxt "description_image_button_pound"
+msgid "pound"
+msgstr ""
+
+msgctxt "description_voicemail_button"
+msgid "voicemail"
+msgstr ""
+
+msgctxt "description_dial_button"
+msgid "dial"
+msgstr ""
+
+msgctxt "description_delete_button"
+msgid "backspace"
+msgstr ""
+
+msgctxt "description_digits_edittext"
+msgid "Number to dial"
+msgstr ""
+
+msgctxt "description_contact_photo"
+msgid "Contact photo"
+msgstr ""
+
+msgctxt "description_minus_button"
+msgid "Delete"
+msgstr ""
+
+msgctxt "description_plus_button"
+msgid "plus"
+msgstr ""
+
+msgctxt "no_sdcard_title"
+msgid "No SD card"
+msgstr ""
+
+msgctxt "no_sdcard_message"
+msgid "No SD card detected"
+msgstr ""
+
+msgctxt "searching_vcard_title"
+msgid "Searching for vCard"
+msgstr ""
+
+msgctxt "import_from_sim"
+msgid "Import from SIM card"
+msgstr ""
+
+msgctxt "import_from_sdcard"
+msgid "Import from SD card"
+msgstr ""
+
+msgctxt "export_to_sdcard"
+msgid "Export to SD card"
+msgstr ""
+
+msgctxt "menu_checkall"
+msgid "Select all"
+msgstr ""
+
+msgctxt "menu_uncheckall"
+msgid "Deselect all"
+msgstr ""
+
+msgctxt "share_visible_contacts"
+msgid "Share visible contacts"
+msgstr ""
+
+msgctxt "import_one_vcard_string"
+msgid "Import one vCard file"
+msgstr ""
+
+msgctxt "import_multiple_vcard_string"
+msgid "Import multiple vCard files"
+msgstr ""
+
+msgctxt "import_all_vcard_string"
+msgid "Import all vCard files"
+msgstr ""
+
+msgctxt "searching_vcard_message"
+msgid "Searching for vCard data on SD card"
+msgstr ""
+
+msgctxt "scanning_sdcard_failed_title"
+msgid "Scanning SD card failed"
+msgstr ""
+
+#, c-format
+msgctxt "scanning_sdcard_failed_message"
+msgid "Scanning SD card failed (Reason: %s)"
+msgstr ""
+
+msgctxt "fail_reason_io_error"
+msgid "I/O Error"
+msgstr ""
+
+msgctxt "fail_reason_vcard_parse_error"
+msgid "Failed to parse vCard for unexpected reason"
+msgstr ""
+
+msgctxt "fail_reason_vcard_not_supported_error"
+msgid ""
+"Failed to parse vCard though it seems in valid format, since the current "
+"implementation does not support it"
+msgstr ""
+
+msgctxt "fail_reason_no_vcard_file"
+msgid "No vCard file found on the SD card"
+msgstr ""
+
+#, c-format
+msgctxt "fail_reason_failed_to_read_files"
+msgid "One or more files failed to be imported (%s)."
+msgstr ""
+
+msgctxt "fail_reason_unknown"
+msgid "Unknown error"
+msgstr ""
+
+msgctxt "select_vcard_title"
+msgid "Select vCard file"
+msgstr ""
+
+#, c-format
+msgctxt "progress_shower_message"
+msgid ""
+"%1$s\n"
+"%2$s"
+msgstr ""
+
+msgctxt "reading_vcard_title"
+msgid "Reading vCard"
+msgstr ""
+
+msgctxt "reading_vcard_message"
+msgid "Reading vCard file(s)"
+msgstr ""
+
+msgctxt "reading_vcard_failed_title"
+msgid "Reading of vCard data has failed"
+msgstr ""
+
+#, c-format
+msgctxt "reading_vcard_contacts"
+msgid "%1$s of %2$s contacts"
+msgstr ""
+
+#, c-format
+msgctxt "reading_vcard_files"
+msgid "%1$s of %2$s files"
+msgstr ""
+
+msgctxt "confirm_export_title"
+msgid "Confirm export"
+msgstr ""
+
+#, c-format
+msgctxt "confirm_export_message"
+msgid "Are you sure you want to export your contact list to \"%s\"?"
+msgstr ""
+
+msgctxt "exporting_contact_failed_title"
+msgid "Failed to export contact data"
+msgstr ""
+
+#, c-format
+msgctxt "exporting_contact_failed_message"
+msgid ""
+"Failed to export contact data.\n"
+"Reason for failure: \"%s\""
+msgstr ""
+
+msgctxt "fail_reason_no_exportable_contact"
+msgid "There is no exportable contact"
+msgstr ""
+
+msgctxt "fail_reason_too_many_vcard"
+msgid "Too many vCard files on the SD card"
+msgstr ""
+
+#, c-format
+msgctxt "fail_reason_too_long_filename"
+msgid "Required filename is too long (\"%s\")"
+msgstr ""
+
+msgctxt "exporting_contact_list_title"
+msgid "Exporting contact data"
+msgstr ""
+
+#, c-format
+msgctxt "exporting_contact_list_message"
+msgid "Exporting contact data to \"%s\""
+msgstr ""
+
+#, c-format
+msgctxt "fail_reason_could_not_initialize_exporter"
+msgid "Could not initialise the exporter: \"%s\""
+msgstr ""
+
+#, c-format
+msgctxt "fail_reason_error_occurred_during_export"
+msgid "Error occurred during export: \"%s\""
+msgstr ""
+
+msgctxt "composer_failed_to_get_database_infomation"
+msgid "Failed to get database information"
+msgstr ""
+
+msgctxt "composer_has_no_exportable_contact"
+msgid ""
+"There are no exportable contacts. The data provider may prohibit contacts"
+" from being exported."
+msgstr ""
+
+msgctxt "composer_not_initialized"
+msgid "The vCard composer is not correctly initialised"
+msgstr ""
+
+#, c-format
+msgctxt "fail_reason_could_not_open_file"
+msgid "Could not open \"%1$s\": %2$s"
+msgstr ""
+
+#, c-format
+msgctxt "exporting_contact_list_progress"
+msgid "%1$s of %2$s contacts"
+msgstr ""
+
+msgctxt "search_settings_description"
+msgid "Names of your contacts"
+msgstr ""
+
+msgctxt "add_2sec_pause"
+msgid "Add 2-sec pause"
+msgstr ""
+
+msgctxt "add_wait"
+msgid "Add wait"
+msgstr ""
+
+msgctxt "call_disambig_title"
+msgid "Call using"
+msgstr ""
+
+msgctxt "sms_disambig_title"
+msgid "Text using"
+msgstr ""
+
+msgctxt "make_primary"
+msgid "Remember this choice"
+msgstr ""
+
+msgctxt "quickcontact_missing_app"
+msgid "No application found to handle this action"
+msgstr ""
+
+msgctxt "quickcontact_remember_choice"
+msgid "Remember this choice"
+msgstr ""
+
+msgctxt "quickcontact_missing_name"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "menu_accounts"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "menu_import_export"
+msgid "Import/Export"
+msgstr ""
+
+msgctxt "dialog_import_export"
+msgid "Import/Export contacts"
+msgstr ""
+
+msgctxt "menu_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "share_via"
+msgid "Share contact via"
+msgstr ""
+
+msgctxt "share_error"
+msgid "This contact cannot be shared."
+msgstr ""
+
+msgctxt "nameLabelsGroup"
+msgid "Name"
+msgstr ""
+
+msgctxt "nicknameLabelsGroup"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "organizationLabelsGroup"
+msgid "Organisation"
+msgstr ""
+
+msgctxt "websiteLabelsGroup"
+msgid "Website"
+msgstr ""
+
+msgctxt "eventLabelsGroup"
+msgid "Event"
+msgstr ""
+
+msgctxt "type_short_home"
+msgid "H"
+msgstr ""
+
+msgctxt "type_short_mobile"
+msgid "M"
+msgstr ""
+
+msgctxt "type_short_work"
+msgid "W"
+msgstr ""
+
+msgctxt "type_short_pager"
+msgid "P"
+msgstr ""
+
+msgctxt "type_short_other"
+msgid "O"
+msgstr ""
+
+msgctxt "edit_read_only"
+msgid "This contact is read-only"
+msgstr ""
+
+msgctxt "edit_secondary_collapse"
+msgid "More"
+msgstr ""
+
+msgctxt "dialog_primary_name"
+msgid "Primary name"
+msgstr ""
+
+msgctxt "dialog_new_contact_account"
+msgid "Create contact under account"
+msgstr ""
+
+msgctxt "account_phone"
+msgid "Phone-only (un-synced)"
+msgstr ""
+
+#, c-format
+msgctxt "call_custom"
+msgid "Call %s"
+msgstr ""
+
+msgctxt "call_home"
+msgid "Call home"
+msgstr ""
+
+msgctxt "call_mobile"
+msgid "Call mobile"
+msgstr ""
+
+msgctxt "call_work"
+msgid "Call work"
+msgstr ""
+
+msgctxt "call_fax_work"
+msgid "Call work fax"
+msgstr ""
+
+msgctxt "call_fax_home"
+msgid "Call home fax"
+msgstr ""
+
+msgctxt "call_pager"
+msgid "Call pager"
+msgstr ""
+
+msgctxt "call_other"
+msgid "Call"
+msgstr ""
+
+msgctxt "call_callback"
+msgid "Call callback"
+msgstr ""
+
+msgctxt "call_car"
+msgid "Call car"
+msgstr ""
+
+msgctxt "call_company_main"
+msgid "Call company main"
+msgstr ""
+
+msgctxt "call_isdn"
+msgid "Call ISDN"
+msgstr ""
+
+msgctxt "call_main"
+msgid "Call main"
+msgstr ""
+
+msgctxt "call_other_fax"
+msgid "Call fax"
+msgstr ""
+
+msgctxt "call_radio"
+msgid "Call radio"
+msgstr ""
+
+msgctxt "call_telex"
+msgid "Call telex"
+msgstr ""
+
+msgctxt "call_tty_tdd"
+msgid "Call TTY/TDD"
+msgstr ""
+
+msgctxt "call_work_mobile"
+msgid "Call work mobile"
+msgstr ""
+
+msgctxt "call_work_pager"
+msgid "Call work pager"
+msgstr ""
+
+#, c-format
+msgctxt "call_assistant"
+msgid "Call %s"
+msgstr ""
+
+msgctxt "call_mms"
+msgid "Call MMS"
+msgstr ""
+
+#, c-format
+msgctxt "sms_custom"
+msgid "Text %s"
+msgstr ""
+
+msgctxt "sms_home"
+msgid "Text home"
+msgstr ""
+
+msgctxt "sms_mobile"
+msgid "Text mobile"
+msgstr ""
+
+msgctxt "sms_work"
+msgid "Text work"
+msgstr ""
+
+msgctxt "sms_fax_work"
+msgid "Text work fax"
+msgstr ""
+
+msgctxt "sms_fax_home"
+msgid "Text home fax"
+msgstr ""
+
+msgctxt "sms_pager"
+msgid "Text pager"
+msgstr ""
+
+msgctxt "sms_other"
+msgid "Text"
+msgstr ""
+
+msgctxt "sms_callback"
+msgid "Text callback"
+msgstr ""
+
+msgctxt "sms_car"
+msgid "Text car"
+msgstr ""
+
+msgctxt "sms_company_main"
+msgid "Text company main"
+msgstr ""
+
+msgctxt "sms_isdn"
+msgid "Text ISDN"
+msgstr ""
+
+msgctxt "sms_main"
+msgid "Text main"
+msgstr ""
+
+msgctxt "sms_other_fax"
+msgid "Text fax"
+msgstr ""
+
+msgctxt "sms_radio"
+msgid "Text radio"
+msgstr ""
+
+msgctxt "sms_telex"
+msgid "Text telex"
+msgstr ""
+
+msgctxt "sms_tty_tdd"
+msgid "Text TTY/TDD"
+msgstr ""
+
+msgctxt "sms_work_mobile"
+msgid "Text work mobile"
+msgstr ""
+
+msgctxt "sms_work_pager"
+msgid "Text work pager"
+msgstr ""
+
+#, c-format
+msgctxt "sms_assistant"
+msgid "Text %s"
+msgstr ""
+
+msgctxt "sms_mms"
+msgid "Text MMS"
+msgstr ""
+
+msgctxt "email_home"
+msgid "E-mail home"
+msgstr ""
+
+msgctxt "email_mobile"
+msgid "E-mail mobile"
+msgstr ""
+
+msgctxt "email_work"
+msgid "E-mail work"
+msgstr ""
+
+msgctxt "email_other"
+msgid "E-mail"
+msgstr ""
+
+#, c-format
+msgctxt "email_custom"
+msgid "E-mail %s"
+msgstr ""
+
+msgctxt "email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "map_home"
+msgid "View home address"
+msgstr ""
+
+msgctxt "map_work"
+msgid "View work address"
+msgstr ""
+
+msgctxt "map_other"
+msgid "View address"
+msgstr ""
+
+#, c-format
+msgctxt "map_custom"
+msgid "View %s address"
+msgstr ""
+
+msgctxt "chat_aim"
+msgid "Chat using AIM"
+msgstr ""
+
+msgctxt "chat_msn"
+msgid "Chat using Windows Live"
+msgstr ""
+
+msgctxt "chat_yahoo"
+msgid "Chat using Yahoo"
+msgstr ""
+
+msgctxt "chat_skype"
+msgid "Chat using Skype"
+msgstr ""
+
+msgctxt "chat_qq"
+msgid "Chat using QQ"
+msgstr ""
+
+msgctxt "chat_gtalk"
+msgid "Chat using Google Talk"
+msgstr ""
+
+msgctxt "chat_icq"
+msgid "Chat using ICQ"
+msgstr ""
+
+msgctxt "chat_jabber"
+msgid "Chat using Jabber"
+msgstr ""
+
+msgctxt "chat"
+msgid "Chat"
+msgstr ""
+
+msgctxt "postal_street"
+msgid "Street"
+msgstr ""
+
+msgctxt "postal_pobox"
+msgid "PO box"
+msgstr ""
+
+msgctxt "postal_neighborhood"
+msgid "Neighbourhood"
+msgstr ""
+
+msgctxt "postal_city"
+msgid "City"
+msgstr ""
+
+msgctxt "postal_region"
+msgid "State"
+msgstr ""
+
+msgctxt "postal_postcode"
+msgid "ZIP code"
+msgstr ""
+
+msgctxt "postal_country"
+msgid "Country"
+msgstr ""
+
+msgctxt "name_given"
+msgid "Given name"
+msgstr ""
+
+msgctxt "name_family"
+msgid "Family name"
+msgstr ""
+
+msgctxt "name_prefix"
+msgid "Name prefix"
+msgstr ""
+
+msgctxt "name_middle"
+msgid "Middle name"
+msgstr ""
+
+msgctxt "name_suffix"
+msgid "Name suffix"
+msgstr ""
+
+msgctxt "name_phonetic_given"
+msgid "Phonetic given name"
+msgstr ""
+
+msgctxt "name_phonetic_middle"
+msgid "Phonetic middle name"
+msgstr ""
+
+msgctxt "name_phonetic_family"
+msgid "Phonetic family name"
+msgstr ""
+
+#, c-format
+msgctxt "account_type_format"
+msgid "%1$s contact"
+msgstr ""
+
+#, c-format
+msgctxt "from_account_format"
+msgid "from %1$s"
+msgstr ""
+
+msgctxt "use_photo_as_primary"
+msgid "Use this photo"
+msgstr ""
+
+#, c-format
+msgctxt "contact_read_only"
+msgid "%1$s contact information is not editable on this device."
+msgstr ""
+
+msgctxt "no_contact_details"
+msgid "No additional information for this contact"
+msgstr ""
+
+msgctxt "search_bar_hint"
+msgid "Search Contacts"
+msgstr ""
+
+msgctxt "search_for_all_contacts"
+msgid "Search for all contacts"
+msgstr ""
+
+msgctxt "take_photo"
+msgid "Take photo"
+msgstr ""
+
+msgctxt "pick_photo"
+msgid "Select photo from Gallery"
+msgstr ""
+
+msgctxt "locale_change_in_progress"
+msgid ""
+"Contact list is being updated to reflect the change of language.\n"
+"\n"
+"Please wait..."
+msgstr ""
+
+msgctxt "upgrade_in_progress"
+msgid ""
+"Contact list is being updated.\n"
+"\n"
+"Please wait..."
+msgstr ""
+
+#, c-format
+msgctxt "upgrade_out_of_memory"
+msgid ""
+"Contacts are in the process of being upgraded. \n"
+"\n"
+"The upgrade process requires approximately %dMb of internal phone "
+"storage.\n"
+"\n"
+"Choose one of the following options:"
+msgstr ""
+
+msgctxt "upgrade_out_of_memory_uninstall"
+msgid "Uninstall some applications"
+msgstr ""
+
+msgctxt "upgrade_out_of_memory_retry"
+msgid "Retry upgrade"
+msgstr ""
+
+#, c-format
+msgctxt "search_results_for"
+msgid "Search results for: %s"
+msgstr ""
+
+msgctxt "search_results_searching"
+msgid "Searching..."
+msgstr ""
+
+#, c-format
+msgctxt "numberCountFormat"
+msgid "%s numbers"
+msgstr ""
+
+msgctxt "menu_display_all"
+msgid "Show all contacts"
+msgstr ""
+
+msgctxt "menu_display_only_phones"
+msgid "Only show contacts with phone number"
+msgstr ""
+
+msgctxt "openDialKeyboard"
+msgid "Dial pad"
+msgstr ""
+
+#, c-format
+msgctxt "nameContactsCount"
+msgid "%d Contacts"
+msgstr ""
+
+msgctxt "contactsGroupsLabel"
+msgid "Groups"
+msgstr ""
+
+#, c-format
+msgctxt "group_summary_format"
+msgid "%s member(s)"
+msgstr ""
+
+msgctxt "no_member"
+msgid "Group contains no contacts"
+msgstr ""
+
+msgctxt "applyGroupsSelection"
+msgid "Updating group..."
+msgstr ""
+
+msgctxt "no_availablePhone"
+msgid "Phone number unavailable for the group"
+msgstr ""
+
+msgctxt "add_group_member"
+msgid "Add members"
+msgstr ""
+
+msgctxt "group_name_contacts"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "group_name_friends"
+msgid "Friends"
+msgstr ""
+
+msgctxt "group_name_family"
+msgid "Family"
+msgstr ""
+
+msgctxt "group_name_coworkers"
+msgid "Colleagues"
+msgstr ""
+
+msgctxt "group_name_important"
+msgid "Important Contacts"
+msgstr ""
+
+msgctxt "group_name_life_info"
+msgid "Lifestyle"
+msgstr ""
+
+msgctxt "group_name_white_list"
+msgid "Whitelist"
+msgstr ""
+
+msgctxt "group_name_black_list"
+msgid "Blacklist"
+msgstr ""
+
+msgctxt "button_manage_groups"
+msgid "Edit"
+msgstr ""
+
+msgctxt "groupsDefaultText"
+msgid "Synchronise groups"
+msgstr ""
+
+msgctxt "button_back"
+msgid "Back"
+msgstr ""
+
+msgctxt "button_remove_contacts"
+msgid "Remove contacts"
+msgstr ""
+
+msgctxt "duplicatedGroupNameHelpText"
+msgid "Group name must be unique"
+msgstr ""
+
+msgctxt "system_groups_unchangable"
+msgid "The group is built into the system. It cannot be deleted or renamed."
+msgstr ""
+
+msgctxt "menu_add"
+msgid "Add"
+msgstr ""
+
+msgctxt "menu_remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "create_new_group"
+msgid "Create group"
+msgstr ""
+
+msgctxt "edit_group_name"
+msgid "Edit group name"
+msgstr ""
+
+msgctxt "manage_groups"
+msgid "Edit group"
+msgstr ""
+
+msgctxt "menu_viewGroup"
+msgid "View group"
+msgstr ""
+
+msgctxt "menu_deleteGroup"
+msgid "Delete group"
+msgstr ""
+
+msgctxt "menu_editGroupName"
+msgid "Rename group"
+msgstr ""
+
+msgctxt "input_group_name_hint"
+msgid "Enter the group name"
+msgstr ""
+
+msgctxt "notification_invalid_group_name"
+msgid "The group name cannot be blank"
+msgstr ""
+
+#, c-format
+msgctxt "add_to_group_format"
+msgid "Add to %s"
+msgstr ""
+
+msgctxt "name_full"
+msgid "Full name"
+msgstr ""
+
+msgctxt "add_more_items"
+msgid "Add more"
+msgstr ""
+
+msgctxt "saveConfirmationTitle"
+msgid "Save contact"
+msgstr ""
+
+msgctxt "saveConfirmationBody"
+msgid "Confirm changes to contact?"
+msgstr ""
+
+msgctxt "saveConfirmationYes"
+msgid "Save"
+msgstr ""
+
+msgctxt "saveConfirmationNo"
+msgid "Don't Save"
+msgstr ""
+
+msgctxt "import_from_account"
+msgid "Import from other accounts"
+msgstr ""
+
+msgctxt "select_account_import_from"
+msgid "Choose account to import from"
+msgstr ""
+
+msgctxt "importing_from_account"
+msgid "Importing contacts"
+msgstr ""
+
+msgctxt "fail_message_account_needed"
+msgid "Please configure your MIUI account"
+msgstr ""
+
+msgctxt "success_message_import_from_account"
+msgid "Import completed"
+msgstr ""
+
+msgctxt "date_day"
+msgid "Day"
+msgstr ""
+
+msgctxt "fast_scroll_alphabet"
+msgid "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr ""
+
+msgctxt "belong_no_group"
+msgid "Not in group"
+msgstr ""
+
+msgctxt "menu_remove_member"
+msgid "Remove contacts"
+msgstr ""
+
+msgctxt "removeConfirmation_title"
+msgid "Remove"
+msgstr ""
+
+msgctxt "menu_add_favorite_contact"
+msgid "Add/Remove from Favorites"
+msgstr ""
+
+msgctxt "menu_group_sms"
+msgid "Group SMS"
+msgstr ""
+
+msgctxt "menu_group_ringtone"
+msgid "Group ringtone"
+msgstr ""
+
+msgctxt "menu_add_member"
+msgid "Add contacts"
+msgstr ""
+
+#, c-format
+msgctxt "menu_callIpNumber"
+msgid "Dial IP phone (dial %s)"
+msgstr ""
+
+msgctxt "menu_clearDefaultNumber"
+msgid "Clear the default number settings"
+msgstr ""
+
+msgctxt "menu_clearDefaultEmail"
+msgid "Clear default E-mail settings"
+msgstr ""
+
+msgctxt "favoriteContactDescription"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "hasBeenFavoriteContactDescription"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "unfavoriteContactDescription"
+msgid "Remove from Favorites"
+msgstr ""
+
+msgctxt "sendContactDescription"
+msgid "Share Contact"
+msgstr ""
+
+msgctxt "titlePickOrCreateNewContact"
+msgid "Create/Edit Contact"
+msgstr ""
+
+msgctxt "titlePickContactNumber"
+msgid "Select a phone number"
+msgstr ""
+
+msgctxt "fixedWorkLabel"
+msgid "Office"
+msgstr ""
+
+msgctxt "fixedHomeLabel"
+msgid "Landline"
+msgstr ""
+
+msgctxt "fixedPhoneLabel"
+msgid "Phone"
+msgstr ""
+
+msgctxt "fixedFaxLabel"
+msgid "Fax"
+msgstr ""
+
+msgctxt "goto_album"
+msgid "Go to album"
+msgstr ""
+
+msgctxt "recommneded_photos"
+msgid "Favourite photos"
+msgstr ""
+
+msgctxt "downloading_photos"
+msgid "Download Images"
+msgstr ""
+
+msgctxt "callButtonText"
+msgid "Call"
+msgstr ""
+
+msgctxt "callrecordview_menu_show_title"
+msgid "Select call log type to be displayed"
+msgstr ""
+
+msgctxt "callrecordview_menu_show_all"
+msgid "Show all calls"
+msgstr ""
+
+msgctxt "callrecordview_menu_show_missed"
+msgid "Show only missed calls"
+msgstr ""
+
+msgctxt "callrecordview_menu_show_stranger"
+msgid "Show only unknown calls"
+msgstr ""
+
+msgctxt "callrecordview_menu_delete_one"
+msgid "Remove from call log"
+msgstr ""
+
+msgctxt "callrecordview_menu_delete_missed"
+msgid "Clear missed calls"
+msgstr ""
+
+msgctxt "callrecordview_menu_delete_stranger"
+msgid "Clear unknown numbers"
+msgstr ""
+
+msgctxt "callrecordview_menu_delete_all"
+msgid "Clear all calls"
+msgstr ""
+
+#, c-format
+msgctxt "callrecordview_menu_delete_confirm"
+msgid "Confirm %s?"
+msgstr ""
+
+msgctxt "callrecordview_menu_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "callrecordview_menu_show"
+msgid "Call log filter"
+msgstr ""
+
+msgctxt "callrecordview_menu_paste"
+msgid "Paste"
+msgstr ""
+
+msgctxt "callrecordview_more"
+msgid "More"
+msgstr ""
+
+#, c-format
+msgctxt "callrecordview_more_title"
+msgid "%s All Calls"
+msgstr ""
+
+#, c-format
+msgctxt "callrecordview_item_calls"
+msgid "Total of %d calls"
+msgstr ""
+
+msgctxt "callrecordview_item_op_time_missed"
+msgid "Not connected"
+msgstr ""
+
+msgctxt "callrecordview_item_op_time_rejected"
+msgid "Rejected call"
+msgstr ""
+
+msgctxt "callrecordview_item_newcontact"
+msgid "New Contact"
+msgstr ""
+
+msgctxt "callrecordview_item_op_time_short_incoming"
+msgid "Incoming: "
+msgstr ""
+
+msgctxt "callrecordview_item_op_time_short_outgoing"
+msgid "Outgoing: "
+msgstr ""
+
+#, c-format
+msgctxt "callrecordview_item_op_time_only_seconds"
+msgid "%d seconds"
+msgstr ""
+
+#, c-format
+msgctxt "callrecordview_item_op_time_only_minutes"
+msgid "%d minutes"
+msgstr ""
+
+#, c-format
+msgctxt "callrecordview_item_op_time_minutes_seconds"
+msgid "%d minutes %d seconds"
+msgstr ""
+
+msgctxt "group_delete_confirmation"
+msgid "The selected group will be deleted "
+msgstr ""
+
+msgctxt "no_sms_availabe_contact_in_group"
+msgid "No SMS contact is available in this group"
+msgstr ""
+
+msgctxt "set_ringtone_for_group_members_success"
+msgid "Group ringtone successfully set"
+msgstr ""
+
+msgctxt "noContactHelpText"
+msgid "No Contacts, you can:"
+msgstr ""
+
+msgctxt "noFavoriteHelpText"
+msgid "No Favorites, you can:"
+msgstr ""
+
+msgctxt "noGroupMemberHelpText"
+msgid "There is no group member, you can:"
+msgstr ""
+
+msgctxt "noGroupHelpText"
+msgid "No group"
+msgstr ""
+
+msgctxt "noContactHelpTextAccounts"
+msgid "Configure Accounts"
+msgstr ""
+
+msgctxt "noContactHelpTextImportSim"
+msgid "Import from SIM"
+msgstr ""
+
+msgctxt "noContactHelpTextImportSD"
+msgid "Import from SD Card"
+msgstr ""
+
+msgctxt "noContactHelpTextAddContact"
+msgid "Create new contact"
+msgstr ""
+
+msgctxt "noContactHelpTextAddStarred"
+msgid "Add/Remove from Favorites"
+msgstr ""
+
+msgctxt "noContactHelpTextAddMember"
+msgid "Add to group"
+msgstr ""
+
+msgctxt "simCard"
+msgid "SIM card"
+msgstr ""
+
+msgctxt "export_to_sim"
+msgid "Export to SIM card"
+msgstr ""
+
+msgctxt "simExportLoadingAdn"
+msgid ""
+"SIM card information is being read. This operation may take a minute, "
+"please be patient."
+msgstr ""
+
+#, c-format
+msgctxt "simExportCancelled"
+msgid ""
+"Copying has been canceled\n"
+"%s Contacts in %s have not been copied to the SIM card."
+msgstr ""
+
+#, c-format
+msgctxt "simExportNoSpace"
+msgid "SIM card full, not enough space to store %s contacts, can only store %s"
+msgstr ""
+
+msgctxt "nickname_picker_name_column"
+msgid "Contact Name"
+msgstr ""
+
+msgctxt "nickname_picker_nickname_column"
+msgid "Title"
+msgstr ""
+
+msgctxt "not_applied"
+msgid "Not supported"
+msgstr ""
+
+msgctxt "toast_for_saving_nickname"
+msgid "Saving nickname..."
+msgstr ""
+
+msgctxt "toast_for_failed_saving_nickname"
+msgid "Failed to save nickname!"
+msgstr ""
+
+msgctxt "contact_card_photo_edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "btn_selected"
+msgid "Select"
+msgstr ""
+
+#, c-format
+msgctxt "extendSelection"
+msgid "Select【%s】to【%s】"
+msgstr ""
+
+msgctxt "menuSelectAll"
+msgid "Select all numbers"
+msgstr ""
+
+#, c-format
+msgctxt "btn_selected_with_count"
+msgid "Select (%d)"
+msgstr ""
+
+#, c-format
+msgctxt "group_count"
+msgid "(%d)"
+msgstr ""
+
+msgctxt "recipient_multi_number_title"
+msgid "Contact has multiple numbers, select a number to use"
+msgstr ""
+
+msgctxt "btn_confirm"
+msgid "OK"
+msgstr ""
+
+msgctxt "btn_cancel"
+msgid "Cancel"
+msgstr ""
+
+#, c-format
+msgctxt "recent_contact_statstic"
+msgid "Total: %d Contacts"
+msgstr ""
+
+msgctxt "view_contact_insert"
+msgid "Add Contact"
+msgstr ""
+
+msgctxt "view_contact_insert_or_edit"
+msgid "Add / Edit"
+msgstr ""
+
+msgctxt "view_contact_add_firewall"
+msgid "Blacklist"
+msgstr ""
+
+msgctxt "call_logs"
+msgid "Call logs"
+msgstr ""
+
+#, c-format
+msgctxt "call_logs_show_all"
+msgid "Show all %d"
+msgstr ""
+
+msgctxt "view_contact_call"
+msgid "Call"
+msgstr ""
+
+msgctxt "view_contact_sms"
+msgid "SMS"
+msgstr ""
+
+msgctxt "view_contact_number_call_confirm"
+msgid "Call"
+msgstr ""
+
+msgctxt "view_contact_number_sms_confirm"
+msgid "SMS"
+msgstr ""
+
+msgctxt "edit_contact_card_delete"
+msgid "Delete contact"
+msgstr ""
+
+msgctxt "sip_address"
+msgid "VoIP"
+msgstr ""
+
+msgctxt "contact_pick_photo_female"
+msgid "Girls"
+msgstr ""
+
+msgctxt "contact_pick_photo_male"
+msgid "Boys"
+msgstr ""
+
+msgctxt "quick_contact_send_sms"
+msgid "SMS"
+msgstr ""
+
+msgctxt "quick_contact_contact_detail"
+msgid "Details"
+msgstr ""
+
+msgctxt "quick_contact_call"
+msgid "Call"
+msgstr ""
+
+msgctxt "quick_contact_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "quick_contact_gtalk"
+msgid "GTalk"
+msgstr ""
+
+msgctxt "quick_contact_map"
+msgid "Map"
+msgstr ""
+
+msgctxt "quick_contact_create_contact"
+msgid "New Contact"
+msgstr ""
+
+msgctxt "quick_contact_add_live_contact"
+msgid "Edit Contact"
+msgstr ""
+
+msgctxt "quick_contact_add_bl"
+msgid "Blacklist"
+msgstr ""
+
+msgctxt "contact_call_incoming_photo"
+msgid "Add photo"
+msgstr ""
+
+msgctxt "contact_call_incoming_photo_set"
+msgid "Edit photo"
+msgstr ""
+
+msgctxt "incoming_call_photo_confirm"
+msgid "Use photo"
+msgstr ""
+
+msgctxt "incoming_call_photo_title"
+msgid "Zoom or Move or Rotate Photo"
+msgstr ""
+
+msgctxt "incoming_call_photo_saving"
+msgid "Saving photo..."
+msgstr ""
+
+msgctxt "set_as_photo"
+msgid "Set as contact photo"
+msgstr ""
+
+msgctxt "btn_replace"
+msgid "Replace"
+msgstr ""
+
+msgctxt "btn_ignore"
+msgid "Ignore"
+msgstr ""
+
+msgctxt "remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "check_all"
+msgid "Select all"
+msgstr ""
+
+msgctxt "check_nothing"
+msgid "Deselect all"
+msgstr ""
+
+msgctxt "confirm_delete_title"
+msgid "Confirm delete"
+msgstr ""
+
+#, c-format
+msgctxt "confirm_delete_message"
+msgid "%d contacts will be removed from call log"
+msgstr ""
+
+msgctxt "call_log_note"
+msgid "View call notes"
+msgstr ""
+
+msgctxt "delete_sigle_call_log"
+msgid "Delete selected log"
+msgstr ""
+
+msgctxt "delete_all_call_logs"
+msgid "Delete all call logs"
+msgstr ""
+
+msgctxt "delete_call_log_title"
+msgid "Select call logs to delete"
+msgstr ""
+
+msgctxt "delete_all_call_logs_title"
+msgid "Delete all call logs"
+msgstr ""
+
+msgctxt "export_success_title"
+msgid "Export successful"
+msgstr ""
+
+#, c-format
+msgctxt "export_success_message"
+msgid "Exported %d contacts"
+msgstr ""
+
+msgctxt "use_lunar_birthday"
+msgid "Lunar calendar"
+msgstr ""
+
+msgctxt "birthday_picker_reminder"
+msgid "Birthday reminder"
+msgstr ""
+
+msgctxt "birthday_remind"
+msgid "Birthday Reminder"
+msgstr ""
+
+#, c-format
+msgctxt "birthday_remind_notify"
+msgid "Today is %s %s don't forget to say happy birthday or get a present"
+msgstr ""
+
+#, c-format
+msgctxt "birthday_remind_3days_notify"
+msgid "3 days until %s %s don't forget to buy a card and present"
+msgstr ""
+
+msgctxt "dialer_empty_text_no_call_log"
+msgid "No calls"
+msgstr ""
+
+msgctxt "dialer_empty_text_no_search_result"
+msgid "No contacts found"
+msgstr ""
+
+msgctxt "menu_remove_duplicate"
+msgid "Remove duplicates"
+msgstr ""
+
+msgctxt "scan_duplicate_contacts"
+msgid "Searching for duplicate contacts..."
+msgstr ""
+
+msgctxt "remove_duplicate_contacts"
+msgid "Deleting duplicate contacts..."
+msgstr ""
+
+msgctxt "no_duplicate_contacts"
+msgid "No duplicate contacts"
+msgstr ""
+
+#, c-format
+msgctxt "remove_duplicate_contacts_title"
+msgid "Delete %d duplicate contacts?"
+msgstr ""
+
+msgctxt "import_preview_vcard"
+msgid "Import vCard"
+msgstr ""
+

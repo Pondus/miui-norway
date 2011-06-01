@@ -1,0 +1,55 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "equalizer_presents:0"
+msgid "Normal"
+msgstr ""
+
+msgctxt "equalizer_presents:1"
+msgid "Classical"
+msgstr ""
+
+msgctxt "equalizer_presents:2"
+msgid "Dance"
+msgstr ""
+
+msgctxt "equalizer_presents:3"
+msgid "Easy listening"
+msgstr ""
+
+msgctxt "equalizer_presents:4"
+msgid "Heavy metal"
+msgstr ""
+
+msgctxt "equalizer_presents:5"
+msgid "Hip hop"
+msgstr ""
+
+msgctxt "equalizer_presents:6"
+msgid "Jazz"
+msgstr ""
+
+msgctxt "equalizer_presents:7"
+msgid "Pop"
+msgstr ""
+
+msgctxt "equalizer_presents:8"
+msgid "Rock"
+msgstr ""
+

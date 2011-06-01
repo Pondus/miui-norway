@@ -1,0 +1,55 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "app_label"
+msgid "Contacts Storage"
+msgstr ""
+
+msgctxt "provider_label"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "upgrade_out_of_memory_notification_ticker"
+msgid "Contact upgrade needs more memory"
+msgstr ""
+
+msgctxt "upgrade_out_of_memory_notification_title"
+msgid "Upgrading contact storage"
+msgstr ""
+
+msgctxt "upgrade_out_of_memory_notification_text"
+msgid "Select to complete the upgrade."
+msgstr ""
+
+msgctxt "edit_contact"
+msgid "Edit Contact"
+msgstr ""
+
+msgctxt "create_contact"
+msgid "Create New Contact"
+msgstr ""
+
+msgctxt "send_sms"
+msgid "Send SMS"
+msgstr ""
+
+msgctxt "pound_search_tip"
+msgid "Enter the number to search for"
+msgstr ""
+

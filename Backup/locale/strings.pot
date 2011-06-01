@@ -1,0 +1,597 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "app_name"
+msgid "Backup"
+msgstr ""
+
+msgctxt "local_app_name"
+msgid "Backup"
+msgstr ""
+
+msgctxt "local_home_title"
+msgid "Local"
+msgstr ""
+
+msgctxt "button_backup"
+msgid "Backup"
+msgstr ""
+
+msgctxt "start_backup"
+msgid "Start Backup"
+msgstr ""
+
+msgctxt "button_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "backup_empty"
+msgid "No backup files found"
+msgstr ""
+
+msgctxt "backup_items_sysdata_tailer"
+msgid " System Data Files"
+msgstr ""
+
+msgctxt "backup_items_app_tailer"
+msgid " App Data Files"
+msgstr ""
+
+msgctxt "backup_recently"
+msgid " (Latest)"
+msgstr ""
+
+msgctxt "sdcard_unmounted"
+msgid "SD card unmounted or not found!"
+msgstr ""
+
+msgctxt "backup_progress"
+msgid "Backing up..."
+msgstr ""
+
+msgctxt "button_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "backup_finished"
+msgid "Backup completed"
+msgstr ""
+
+msgctxt "menu_patch_delete"
+msgid "Delete backup(s)"
+msgstr ""
+
+msgctxt "btn_done"
+msgid "Delete"
+msgstr ""
+
+msgctxt "btn_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "delete_backup"
+msgid "Delete Backup"
+msgstr ""
+
+msgctxt "delete_backup_confirm"
+msgid "Selected backup will be removed, are you sure?"
+msgstr ""
+
+msgctxt "delete_backup_process"
+msgid "Deleting backup(s), please wait..."
+msgstr ""
+
+msgctxt "batch_delete_backup_confirm"
+msgid ""
+"\n"
+"Are you sure you wish to delete the selected backup?"
+msgstr ""
+
+msgctxt "start_restore"
+msgid "Restore"
+msgstr ""
+
+msgctxt "backup_file_error"
+msgid "There was a problem with the backup, the operation was not valid."
+msgstr ""
+
+msgctxt "unit_byte"
+msgid " Bytes"
+msgstr ""
+
+msgctxt "unit_piece"
+msgid " Item(s)"
+msgstr ""
+
+msgctxt "restore_finished"
+msgid "Restore completed"
+msgstr ""
+
+msgctxt "restore_progress"
+msgid "Restoring..."
+msgstr ""
+
+msgctxt "restore_contacts_hit"
+msgid ""
+"(Note: You need to manually restore Contacts established before the "
+"original account)"
+msgstr ""
+
+msgctxt "restore_telephony_hit"
+msgid "(Note: The recovery process will restart the Phone application)"
+msgstr ""
+
+msgctxt "restore_launcher_layout_hit"
+msgid "(Note: Restore launcher layout)"
+msgstr ""
+
+msgctxt "settings_summary"
+msgid "Backup phone and messaging settings"
+msgstr ""
+
+msgctxt "cloud_app_name"
+msgid "Cloud Backup"
+msgstr ""
+
+msgctxt "cloud_home_title"
+msgid "Online"
+msgstr ""
+
+msgctxt "prompt_reading"
+msgid "Reading..."
+msgstr ""
+
+msgctxt "prompt_sending"
+msgid "Uploading..."
+msgstr ""
+
+msgctxt "prompt_writing"
+msgid "Saving..."
+msgstr ""
+
+msgctxt "menu_reset_contact"
+msgid "Reset contacts"
+msgstr ""
+
+msgctxt "menu_reset_calllog"
+msgid "Reset call log"
+msgstr ""
+
+msgctxt "menu_reset_sms"
+msgid "Reset SMS"
+msgstr ""
+
+msgctxt "menu_reset_task"
+msgid "Reset background tasks"
+msgstr ""
+
+msgctxt "menu_debug_host"
+msgid "Test Server"
+msgstr ""
+
+msgctxt "menu_formal_host"
+msgid "Live Server"
+msgstr ""
+
+msgctxt "ok_reset"
+msgid "Reset completed"
+msgstr ""
+
+msgctxt "backup_new"
+msgid "New:"
+msgstr ""
+
+msgctxt "backup_update"
+msgid "Update"
+msgstr ""
+
+msgctxt "backup_delete"
+msgid "Delete:"
+msgstr ""
+
+msgctxt "findlost_contact"
+msgid "Recover deleted contacts"
+msgstr ""
+
+msgctxt "welcome_cloud_backup"
+msgid "Cloud Backup"
+msgstr ""
+
+msgctxt "cloud_backup_hint1"
+msgid "Securely store your files online"
+msgstr ""
+
+msgctxt "cloud_backup_hint2"
+msgid "with our cloud backup service"
+msgstr ""
+
+msgctxt "cloud_backup_window_title"
+msgid "Cloud Backup"
+msgstr ""
+
+msgctxt "cloud_backup_select_prompt"
+msgid "Select items to be backed up"
+msgstr ""
+
+msgctxt "cloud_restore_window_title"
+msgid "Cloud Recovery"
+msgstr ""
+
+msgctxt "cloud_restore_hint"
+msgid "Cloud Restore"
+msgstr ""
+
+msgctxt "cloud_restore_select_prompt"
+msgid "Select items to restore"
+msgstr ""
+
+msgctxt "local_backup_window_title"
+msgid "Local"
+msgstr ""
+
+msgctxt "local_restore_window_title"
+msgid "Local Recovery"
+msgstr ""
+
+msgctxt "account_hint"
+msgid "MIUI Account:"
+msgstr ""
+
+msgctxt "account_unlogin"
+msgid "Not logged in"
+msgstr ""
+
+msgctxt "account_login"
+msgid "Login"
+msgstr ""
+
+msgctxt "account_logout"
+msgid "Logout"
+msgstr ""
+
+msgctxt "auto_backup"
+msgid "Automatic Backup"
+msgstr ""
+
+msgctxt "backup_info"
+msgid "Backup info"
+msgstr ""
+
+msgctxt "button_backup_now"
+msgid "Backup now"
+msgstr ""
+
+msgctxt "button_restore_data"
+msgid "Restore data"
+msgstr ""
+
+msgctxt "select_store"
+msgid "Select archive"
+msgstr ""
+
+msgctxt "contact_title"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "call_title"
+msgid "Call logs"
+msgstr ""
+
+msgctxt "sms_title"
+msgid "Messaging"
+msgstr ""
+
+msgctxt "wifi_title"
+msgid "Wi-Fi Settings"
+msgstr ""
+
+msgctxt "note_title"
+msgid "Notes"
+msgstr ""
+
+msgctxt "last_backup_title"
+msgid "Last backup"
+msgstr ""
+
+msgctxt "compute_backup_info"
+msgid "Retrieving backup info"
+msgstr ""
+
+msgctxt "local_hint"
+msgid "Local"
+msgstr ""
+
+msgctxt "cloud_hint"
+msgid "Online"
+msgstr ""
+
+msgctxt "unknown_hint"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "unknown_name"
+msgid "Unknown name"
+msgstr ""
+
+msgctxt "unbackup"
+msgid "Remove backup"
+msgstr ""
+
+msgctxt "time_past"
+msgid "Time since last backup "
+msgstr ""
+
+msgctxt "day_unit"
+msgid " Days"
+msgstr ""
+
+msgctxt "time_past_you"
+msgid "Your last backup "
+msgstr ""
+
+msgctxt "un_cloud_backup"
+msgid " to cloud"
+msgstr ""
+
+msgctxt "cloud_backup_for"
+msgid "Use cloud backup to:"
+msgstr ""
+
+msgctxt "current_imsi_used"
+msgid "SIM card used"
+msgstr ""
+
+msgctxt "choose_prompt"
+msgid ""
+"Cloud backup will read all messages and call logs saved to SIM card in "
+"the current archive"
+msgstr ""
+
+msgctxt "store_named"
+msgid "SIM card backup name"
+msgstr ""
+
+msgctxt "named_hint1"
+msgid "Detected that the SIM card has multiple backups"
+msgstr ""
+
+msgctxt "named_hint2"
+msgid "Backup each SIM card messages and call logs"
+msgstr ""
+
+msgctxt "named_hint3"
+msgid "Please use phone number to identify different file name"
+msgstr ""
+
+msgctxt "named_last_sim"
+msgid "Last backup using the SIM card name"
+msgstr ""
+
+msgctxt "named_current_sim"
+msgid "Use current SIM name for backup"
+msgstr ""
+
+msgctxt "named_current_sim2"
+msgid "The current SIM card name"
+msgstr ""
+
+msgctxt "named_sim_hint"
+msgid "Enter the phone number belonging to the SIM card"
+msgstr ""
+
+msgctxt "named_hint6"
+msgid "Use the SIM cards name for the data backup"
+msgstr ""
+
+msgctxt "named_alert"
+msgid "Please give the SIM card a file name"
+msgstr ""
+
+msgctxt "network_status"
+msgid "Unable to access network"
+msgstr ""
+
+msgctxt "network_conn"
+msgid "Open Wi-Fi or Mobile network"
+msgstr ""
+
+msgctxt "logout_dialog"
+msgid ""
+"Note: You will be logged out of your MIUI account, are you sure you want "
+"to do this?"
+msgstr ""
+
+msgctxt "last_backup_hint"
+msgid "Last backup:"
+msgstr ""
+
+msgctxt "backup_stores_hint"
+msgid "Backup:"
+msgstr ""
+
+msgctxt "task_progress"
+msgid "Progress"
+msgstr ""
+
+msgctxt "task_pending"
+msgid "Pending"
+msgstr ""
+
+msgctxt "task_pre_running"
+msgid "Preparing"
+msgstr ""
+
+msgctxt "task_post_running"
+msgid "Post-processing"
+msgstr ""
+
+msgctxt "task_finished"
+msgid "Finished"
+msgstr ""
+
+msgctxt "task_canceled"
+msgid "Cancelled"
+msgstr ""
+
+msgctxt "task_failed"
+msgid "Failed"
+msgstr ""
+
+msgctxt "task_running_hint"
+msgid ""
+"Service is running in the background, please try again to restore this "
+"backup!"
+msgstr ""
+
+msgctxt "task_running_dialog"
+msgid "Background backup and recovery is in progress, press OK to view it"
+msgstr ""
+
+msgctxt "task_service_not_launched"
+msgid "Service is not started, please wait!"
+msgstr ""
+
+msgctxt "button_searching"
+msgid "Searching"
+msgstr ""
+
+msgctxt "wait_searching"
+msgid "Waiting for search results"
+msgstr ""
+
+msgctxt "nothing_searched"
+msgid "No search results found"
+msgstr ""
+
+msgctxt "restore_counts"
+msgid "Recovery:"
+msgstr ""
+
+msgctxt "service_stoped"
+msgid "Service stopped"
+msgstr ""
+
+msgctxt "sc_network_unavailable"
+msgid "Network connection error"
+msgstr ""
+
+msgctxt "sc_unaccess_password_file"
+msgid "Don't store Wi-Fi password details"
+msgstr ""
+
+msgctxt "sc_service_unavailable"
+msgid "Could service unavailable"
+msgstr ""
+
+msgctxt "sc_unauthorized"
+msgid "Certification is not valid"
+msgstr ""
+
+msgctxt "sc_request_timeout"
+msgid "Request timed out"
+msgstr ""
+
+msgctxt "sc_internal_server_error"
+msgid "Internal server error"
+msgstr ""
+
+msgctxt "sc_others"
+msgid "Program exception"
+msgstr ""
+
+msgctxt "task_backup_succeed"
+msgid "Backup successful"
+msgstr ""
+
+msgctxt "task_backup_failed"
+msgid "Backup failed"
+msgstr ""
+
+msgctxt "task_restore_succeed"
+msgid "Recovery successful"
+msgstr ""
+
+msgctxt "task_restore_failed"
+msgid "Recovery failed"
+msgstr ""
+
+msgctxt "button_return"
+msgid "Back"
+msgstr ""
+
+msgctxt "button_next"
+msgid "Next"
+msgstr ""
+
+msgctxt "button_finish"
+msgid "Finish"
+msgstr ""
+
+msgctxt "progress_backup_hint"
+msgid "Backing up..."
+msgstr ""
+
+msgctxt "cancel_backup"
+msgid "Cancel Backup"
+msgstr ""
+
+msgctxt "preference_primary_restore"
+msgid "Select recovery"
+msgstr ""
+
+msgctxt "preference_restore_summary"
+msgid "Example: Contacts / Call log / Messages"
+msgstr ""
+
+msgctxt "preference_findlost_contact"
+msgid "Restore deleted contacts"
+msgstr ""
+
+msgctxt "progress_restore_hint"
+msgid "Restoring..."
+msgstr ""
+
+msgctxt "cancel_restore"
+msgid "Cancel Restore"
+msgstr ""
+
+msgctxt "local_backup_hint1"
+msgid "Backup contacts, call records and messages"
+msgstr ""
+
+msgctxt "local_backup_hint2"
+msgid "Backup settings, and system program data"
+msgstr ""
+
+msgctxt "local_backup_hint3"
+msgid "Backup applications and application data"
+msgstr ""
+
+msgctxt "local_restore_select_prompt"
+msgid "Select items to restore"
+msgstr ""
+
+msgctxt "local_select_sysdata"
+msgid "System"
+msgstr ""
+
+msgctxt "local_select_userapp"
+msgid "Applications"
+msgstr ""
+
