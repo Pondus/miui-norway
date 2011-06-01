@@ -1,0 +1,83 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-05-29 01:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "animation:0"
+msgid "No animation"
+msgstr ""
+
+msgctxt "animation:1"
+msgid "Fade"
+msgstr ""
+
+msgctxt "animation:2"
+msgid "Dial"
+msgstr ""
+
+msgctxt "animation:3"
+msgid "Page"
+msgstr ""
+
+msgctxt "animation:4"
+msgid "Cascade"
+msgstr ""
+
+msgctxt "animation:5"
+msgid "Rotation"
+msgstr ""
+
+msgctxt "animation:6"
+msgid "3D Cube"
+msgstr ""
+
+msgctxt "animation:7"
+msgid "Cover Flow"
+msgstr ""
+
+msgctxt "animation_value:0"
+msgid "0"
+msgstr ""
+
+msgctxt "animation_value:1"
+msgid "1"
+msgstr ""
+
+msgctxt "animation_value:2"
+msgid "2"
+msgstr ""
+
+msgctxt "animation_value:3"
+msgid "3"
+msgstr ""
+
+msgctxt "animation_value:4"
+msgid "4"
+msgstr ""
+
+msgctxt "animation_value:5"
+msgid "5"
+msgstr ""
+
+msgctxt "animation_value:6"
+msgid "6"
+msgstr ""
+
+msgctxt "animation_value:7"
+msgid "7"
+msgstr ""
+
