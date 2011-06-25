@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-29 15:46+0100\n"
+"PO-Revision-Date: 2011-06-25 11:30+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -25,9 +25,10 @@ msgctxt "contactsFavoritesLabel"
 msgid "Favorites"
 msgstr "Favoritter"
 
+#, fuzzy
 msgctxt "dialerIconLabel"
 msgid "Dialer"
-msgstr ""
+msgstr "Telefon"
 
 msgctxt "emergencyDialerIconLabel"
 msgid "Emergency Dialer"
@@ -35,7 +36,7 @@ msgstr ""
 
 msgctxt "phoneIconLabel"
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 msgctxt "recentCallsIconLabel"
 msgid "Call log"
@@ -51,7 +52,7 @@ msgstr ""
 
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 msgctxt "private_num"
 msgid "Private number"
@@ -103,7 +104,7 @@ msgstr ""
 
 msgctxt "callFailed_noSignal"
 msgid "No signal"
-msgstr ""
+msgstr "Ingen signal"
 
 msgctxt "callFailed_limitExceeded"
 msgid "ACM limit exceeded"
@@ -113,9 +114,10 @@ msgctxt "callFailed_powerOff"
 msgid "Radio off"
 msgstr ""
 
+#, fuzzy
 msgctxt "callFailed_simError"
 msgid "No SIM, or SIM error"
-msgstr ""
+msgstr "Ingen SIM-kort, eller SIM-kort feil"
 
 msgctxt "callFailed_outOfService"
 msgid "Out of service area"
@@ -179,7 +181,7 @@ msgstr ""
 
 msgctxt "callFailed_unobtainable_number"
 msgid "Invalid Number"
-msgstr ""
+msgstr "Ugyldig nummer"
 
 msgctxt "confCall"
 msgid "Conference call"
@@ -187,7 +189,7 @@ msgstr ""
 
 msgctxt "call_lost"
 msgid "Call has been lost."
-msgstr ""
+msgstr "Anropet har blitt tapt"
 
 msgctxt "retry"
 msgid "Retry"
@@ -195,7 +197,7 @@ msgstr "Prøv igjen"
 
 msgctxt "call_lost_title"
 msgid "Call Lost"
-msgstr ""
+msgstr "Anrop tapt"
 
 msgctxt "mmiStarted"
 msgid "MMI code started"
@@ -211,7 +213,7 @@ msgstr ""
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgctxt "menu_rejectCallAndSms"
 msgid "Reject Call and reply by SMS"
@@ -219,11 +221,11 @@ msgstr ""
 
 msgctxt "menu_speaker"
 msgid "Speaker"
-msgstr ""
+msgstr "Høytaler"
 
 msgctxt "menu_bluetooth"
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgctxt "menu_mute"
 msgid "Mute"
@@ -287,11 +289,11 @@ msgstr ""
 
 msgctxt "menu_answer"
 msgid "Talk"
-msgstr ""
+msgstr "Snakk"
 
 msgctxt "menu_ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorer"
 
 msgctxt "wait_prompt_str"
 msgid "Send the following tones?\n"
@@ -2610,7 +2612,7 @@ msgstr ""
 
 msgctxt "default_port"
 msgid "5060"
-msgstr ""
+msgstr "5060"
 
 msgctxt "default_transport"
 msgid "UDP"
@@ -2618,24 +2620,24 @@ msgstr "UDP"
 
 msgctxt "advanced_settings_show"
 msgid "▷ Touch to show all"
-msgstr ""
+msgstr "▷ Trykk for å vise alle"
 
 msgctxt "advanced_settings_hide"
 msgid "▽ Touch to hide all"
-msgstr ""
+msgstr "▽ Trykk for å skjule alle"
 
 #, c-format
 msgctxt "empty_alert"
 msgid "%s is required, cannot be left blank"
-msgstr ""
+msgstr "%s er påkrevd, kan ikke være blank"
 
 msgctxt "not_a_valid_port"
 msgid "Port number should be within 1000 and 65534"
-msgstr ""
+msgstr "Port nummer må være mellom 1000 og 65534"
 
 msgctxt "no_internet_available_title"
 msgid "No Internet connection"
-msgstr ""
+msgstr "Ingen Internet forbindelse"
 
 msgctxt "no_wifi_available_title"
 msgid "No Wi-Fi connection"
@@ -2667,7 +2669,7 @@ msgstr ""
 
 msgctxt "sip_system_decide"
 msgid "Automatic"
-msgstr ""
+msgstr "Automatisk"
 
 msgctxt "sip_always_send_keepalive"
 msgid "Always send"
@@ -2691,7 +2693,7 @@ msgstr ""
 
 msgctxt "proxy_address"
 msgid "ProxyAddress"
-msgstr ""
+msgstr "ProxyAddress"
 
 msgctxt "port"
 msgid "Port"
@@ -2703,15 +2705,15 @@ msgstr "Protokoll"
 
 msgctxt "send_keepalive"
 msgid "SendKeepAlive"
-msgstr ""
+msgstr "SendKeepAlive"
 
 msgctxt "auto_registration"
 msgid "AutoRegistration"
-msgstr ""
+msgstr "AutoRegistration"
 
 msgctxt "set_primary"
 msgid "SetPrimary"
-msgstr ""
+msgstr "SetPrimary"
 
 msgctxt "advanced_settings_container"
 msgid "advanced settings container"
@@ -2719,7 +2721,7 @@ msgstr ""
 
 msgctxt "auth_username"
 msgid "AuthUserName"
-msgstr ""
+msgstr "AuthUserName"
 
 #, c-format
 msgctxt "card_title_my_phone_number"

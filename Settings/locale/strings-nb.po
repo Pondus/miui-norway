@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-29 17:10+0100\n"
-"Last-Translator: Thor K.H. <nitrolinken@gmail.com>\n"
+"PO-Revision-Date: 2011-06-25 11:22+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: MIUI Norway\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -1448,7 +1448,7 @@ msgstr "Eksplisitt tilstand"
 
 msgctxt "rssi_label"
 msgid "RSSI:"
-msgstr ""
+msgstr "RSSI:"
 
 msgctxt "bssid_label"
 msgid "BSSID :"
@@ -1828,7 +1828,7 @@ msgstr "Avmonter/løs ut minnekort"
 
 msgctxt "sd_eject_summary"
 msgid "Unmount the SD card for safe removal"
-msgstr ""
+msgstr "Avmonter SD-kortet for sikker fjerning"
 
 #, fuzzy
 msgctxt "sd_insert_summary"
@@ -1877,7 +1877,7 @@ msgstr "Kunne ikke fjerne SD kortet. Prøv igjen senere."
 
 msgctxt "unmount_inform_text"
 msgid "SD card will be unmounted. Check the notification area for status."
-msgstr ""
+msgstr "SD card vil bli fjernet. Sjekk varslingsområdet for status."
 
 msgctxt "sd_ejecting_title"
 msgid "Unmount"
@@ -3533,10 +3533,9 @@ msgctxt "tts_default_rate_summary"
 msgid "Speed at which the text is spoken"
 msgstr "Hvor raskt teksten leses"
 
-#, fuzzy
 msgctxt "tts_default_lang_title"
 msgid "Language"
-msgstr "SprÅk"
+msgstr "Språk"
 
 #, fuzzy
 msgctxt "tts_default_lang_summary"
@@ -4845,7 +4844,7 @@ msgstr ""
 
 msgctxt "customized_theme_title"
 msgid "Themes"
-msgstr ""
+msgstr "Temaer"
 
 msgctxt "reboot"
 msgid "Restart"
@@ -5206,7 +5205,7 @@ msgstr "Auto-gjenoppretting"
 
 msgctxt "auto_agps_sum"
 msgid "Use Wi-Fi or Mobile network to improve GPS positioning accuracy"
-msgstr ""
+msgstr "Bruk Wi-Fi eller moblie nettverk for å forbedre GPS-posisjonerings nøyaktighet"
 
 msgctxt "gps_config_title"
 msgid "GPS configuration"
@@ -5246,7 +5245,7 @@ msgstr "Lukk"
 
 msgctxt "cit_version_check_title"
 msgid "Check system"
-msgstr ""
+msgstr "Sjekk system"
 
 #, fuzzy
 msgctxt "cit_sim_check_title"
@@ -5255,7 +5254,7 @@ msgstr "Sjekk SIM status"
 
 msgctxt "cit_keyboard_test_title"
 msgid "Check hardware buttons"
-msgstr ""
+msgstr "Sjekk fysiske knapper"
 
 #, fuzzy
 msgctxt "cit_pointer_location_title"
@@ -5365,7 +5364,7 @@ msgstr "Slå av/på DNS-sjekk"
 
 msgctxt "cit_reset_check_title"
 msgid "Check phone restart"
-msgstr ""
+msgstr "Sjekk telefon restart"
 
 msgctxt "cit_version_check_summary"
 msgid "The following hardware and software versions where found"
@@ -5479,7 +5478,7 @@ msgstr "Vibrering"
 
 msgctxt "cit_wifi_address_error"
 msgid "Unable to obtain IP address, check Wi-Fi is enabled"
-msgstr ""
+msgstr "Kan ikke hente IP adresse, sjekk at Wi-Fi er på"
 
 msgctxt "cit_wifi_ap_scanning"
 msgid "Scanning for Access Points..."
@@ -5630,7 +5629,7 @@ msgstr "Ukjent"
 
 msgctxt "cit_reset_test"
 msgid "Reboot"
-msgstr ""
+msgstr "Restart"
 
 msgctxt "cit_audio_loopback_next"
 msgid "Next"
@@ -5684,9 +5683,10 @@ msgctxt "cit_sd_fail"
 msgid "Operation failed"
 msgstr "USB-operasjonen mislyktes"
 
+#, fuzzy
 msgctxt "cit_charger_waiting_in"
 msgid "Please plug in the charger"
-msgstr ""
+msgstr "Vennligst sett i lader"
 
 #, fuzzy
 msgctxt "cit_ac_charger_in"
@@ -5890,7 +5890,7 @@ msgstr "Telefonsamtaler"
 
 msgctxt "mms_vibrate_abbreviation"
 msgid "Messages"
-msgstr ""
+msgstr "Meldinger"
 
 #, fuzzy
 msgctxt "no_vibrate_item"

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: MIUI NORWEGIAN 0.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-06-01 12:18+0100\n"
+"PO-Revision-Date: 2011-06-25 11:56+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: MIUI Norway\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -3747,11 +3747,11 @@ msgstr "Starter på nytt..."
 
 msgctxt "global_action_toggle_privacy_mode"
 msgid "Guard"
-msgstr ""
+msgstr "Gjestemodus"
 
 msgctxt "global_action_privacy_mode_on_status"
 msgid "Guard mode is ON"
-msgstr ""
+msgstr "Gjestemodus er på"
 
 #, fuzzy
 msgctxt "global_action_privacy_mode_on_toast"
@@ -3765,7 +3765,7 @@ msgstr "I gjestemodus er telefonloggen og tekstmeldinger skjult, og hjemmeskjerm
 
 msgctxt "global_action_privacy_mode_off_status"
 msgid "Guard mode is OFF"
-msgstr ""
+msgstr "Gjestemodus er av"
 
 msgctxt "status_bar_toggle_divider"
 msgid "Toggles placed above bar are active"
@@ -3829,7 +3829,7 @@ msgstr "Slå av"
 
 msgctxt "status_bar_toggle_privacy_mode"
 msgid "Guard"
-msgstr ""
+msgstr "Gjestemodus"
 
 #, fuzzy
 msgctxt "first_back_long_press_title"
@@ -3851,12 +3851,10 @@ msgctxt "force_exit_message"
 msgid "Successfully closed \"%1$s\""
 msgstr "Vellykket avslutning av \"%1$s\""
 
-#, fuzzy
 msgctxt "lockscreen_dial_label"
 msgid "Open Dialer"
 msgstr "Åpne telefonen"
 
-#, fuzzy
 msgctxt "lockscreen_mms_label"
 msgid "Open SMS"
 msgstr "Åpne tekstmeldinger"

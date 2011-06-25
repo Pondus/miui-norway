@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-05-04 12:15+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-06-25 12:03+0100\n"
+"Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +23,7 @@ msgstr ""
 
 msgctxt "confirm"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "category_title"
 msgid "File Management"
@@ -244,15 +243,15 @@ msgstr ""
 
 msgctxt "yes"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgctxt "no"
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 msgctxt "operation_deleting"
 msgid "Deleting..."
-msgstr ""
+msgstr "Sletter..."
 
 msgctxt "operation_pasting"
 msgid "Pasting..."
@@ -260,11 +259,11 @@ msgstr ""
 
 msgctxt "operation_moving"
 msgid "Moving..."
-msgstr ""
+msgstr "Flytter..."
 
 msgctxt "confirm_know"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "install_successful"
 msgid "Installation successful"
@@ -296,15 +295,15 @@ msgstr ""
 
 msgctxt "enable_sd_card"
 msgid "Mount SD card"
-msgstr ""
+msgstr "Monter SD kort"
 
 msgctxt "start_server"
 msgid "Start Service"
-msgstr ""
+msgstr "Start tjeneste"
 
 msgctxt "stop_server"
 msgid "Stop Service"
-msgstr ""
+msgstr "Stop tjeneste"
 
 msgctxt "notif_server_starting"
 msgid "FTP Server started"
@@ -312,7 +311,7 @@ msgstr ""
 
 msgctxt "notif_title"
 msgid "FTP Server"
-msgstr ""
+msgstr "FTP Server"
 
 msgctxt "notif_text"
 msgid "Status: Waiting for connection"
@@ -349,5 +348,5 @@ msgstr ""
 #, c-format
 msgctxt "file_size"
 msgid "%d Bytes"
-msgstr ""
+msgstr "%d Bytes"
 

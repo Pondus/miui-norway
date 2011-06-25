@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-05-29 01:53+0200\n"
-"PO-Revision-Date: 2011-06-01 12:46+0100\n"
+"PO-Revision-Date: 2011-06-25 11:52+0100\n"
 "Last-Translator: datagutt <datagutt666@hotmail.com>\n"
 "Language-Team: nb <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -55,11 +55,11 @@ msgstr ""
 
 msgctxt "backup_recently"
 msgid " (Latest)"
-msgstr ""
+msgstr " (Nyeste)"
 
 msgctxt "sdcard_unmounted"
 msgid "SD card unmounted or not found!"
-msgstr ""
+msgstr "SD kort fjernet eller ikke funnet!"
 
 msgctxt "backup_progress"
 msgid "Backing up..."
@@ -171,7 +171,7 @@ msgstr "Reset kontakter"
 
 msgctxt "menu_reset_calllog"
 msgid "Reset call log"
-msgstr ""
+msgstr "Nullstill anropslogg"
 
 msgctxt "menu_reset_sms"
 msgid "Reset SMS"
@@ -192,7 +192,7 @@ msgstr "Live Server"
 
 msgctxt "ok_reset"
 msgid "Reset completed"
-msgstr ""
+msgstr "Nullstilling fjernet"
 
 msgctxt "backup_new"
 msgid "New:"
@@ -216,11 +216,11 @@ msgstr "Sky lagring"
 
 msgctxt "cloud_backup_hint1"
 msgid "Securely store your files online"
-msgstr ""
+msgstr "Sikkert lagre dine filer i skyen"
 
 msgctxt "cloud_backup_hint2"
 msgid "with our cloud backup service"
-msgstr ""
+msgstr "med vår cloud-sikkerhetskopi tjeneste"
 
 msgctxt "cloud_backup_window_title"
 msgid "Cloud Backup"
@@ -232,15 +232,15 @@ msgstr ""
 
 msgctxt "cloud_restore_window_title"
 msgid "Cloud Recovery"
-msgstr ""
+msgstr "Cloud gjenoppretning"
 
 msgctxt "cloud_restore_hint"
 msgid "Cloud Restore"
-msgstr ""
+msgstr "Cloud gjennopprette"
 
 msgctxt "cloud_restore_select_prompt"
 msgid "Select items to restore"
-msgstr ""
+msgstr "Velg elementene du skal gjennopprette"
 
 msgctxt "local_backup_window_title"
 msgid "Local"
@@ -292,11 +292,11 @@ msgstr "Kontakter"
 
 msgctxt "call_title"
 msgid "Call logs"
-msgstr ""
+msgstr "Anropslogg"
 
 msgctxt "sms_title"
 msgid "Messaging"
-msgstr ""
+msgstr "Meldinger"
 
 msgctxt "wifi_title"
 msgid "Wi-Fi Settings"
@@ -332,11 +332,11 @@ msgstr "Ukjent navn"
 
 msgctxt "unbackup"
 msgid "Remove backup"
-msgstr ""
+msgstr "Fjern sikkerhetshkopi"
 
 msgctxt "time_past"
 msgid "Time since last backup "
-msgstr ""
+msgstr "Tid siden siste sikkerhetskopi"
 
 msgctxt "day_unit"
 msgid " Days"
@@ -344,7 +344,7 @@ msgstr " Dager"
 
 msgctxt "time_past_you"
 msgid "Your last backup "
-msgstr ""
+msgstr "Din siste sikkerhetskopi"
 
 msgctxt "un_cloud_backup"
 msgid " to cloud"
@@ -444,11 +444,11 @@ msgstr "Ferdig"
 
 msgctxt "task_canceled"
 msgid "Cancelled"
-msgstr ""
+msgstr "Avbrutt"
 
 msgctxt "task_failed"
 msgid "Failed"
-msgstr ""
+msgstr "Feilet"
 
 msgctxt "task_running_hint"
 msgid "Service is running in the background, please try again to restore this backup!"
@@ -472,7 +472,7 @@ msgstr ""
 
 msgctxt "nothing_searched"
 msgid "No search results found"
-msgstr ""
+msgstr "Ingen søkeresultater funnet"
 
 msgctxt "restore_counts"
 msgid "Recovery:"
@@ -488,7 +488,7 @@ msgstr ""
 
 msgctxt "sc_unaccess_password_file"
 msgid "Don't store Wi-Fi password details"
-msgstr ""
+msgstr "Ikke lagre Wi-Fi passord"
 
 msgctxt "sc_service_unavailable"
 msgid "Could service unavailable"
@@ -516,15 +516,15 @@ msgstr ""
 
 msgctxt "task_backup_failed"
 msgid "Backup failed"
-msgstr ""
+msgstr "Sikkerhetskopi feilet<"
 
 msgctxt "task_restore_succeed"
 msgid "Recovery successful"
-msgstr ""
+msgstr "Gjenoppretning vellykket"
 
 msgctxt "task_restore_failed"
 msgid "Recovery failed"
-msgstr ""
+msgstr "Gjenoppretning feilet"
 
 msgctxt "button_return"
 msgid "Back"
@@ -540,7 +540,7 @@ msgstr "Ferdig"
 
 msgctxt "progress_backup_hint"
 msgid "Backing up..."
-msgstr ""
+msgstr "Sikkerhetskopierer..."
 
 msgctxt "cancel_backup"
 msgid "Cancel Backup"
@@ -548,11 +548,11 @@ msgstr "Stopp sikkerhetskopiering"
 
 msgctxt "preference_primary_restore"
 msgid "Select recovery"
-msgstr ""
+msgstr "Velg recovery"
 
 msgctxt "preference_restore_summary"
 msgid "Example: Contacts / Call log / Messages"
-msgstr ""
+msgstr "Eksempel: Kontakter / Anrop / Meldinger"
 
 msgctxt "preference_findlost_contact"
 msgid "Restore deleted contacts"
@@ -570,13 +570,14 @@ msgctxt "local_backup_hint1"
 msgid "Backup contacts, call records and messages"
 msgstr ""
 
+#, fuzzy
 msgctxt "local_backup_hint2"
 msgid "Backup settings, and system program data"
-msgstr ""
+msgstr "Sikkerhetskopier innstillinger, og system program data"
 
 msgctxt "local_backup_hint3"
 msgid "Backup applications and application data"
-msgstr ""
+msgstr "Sikkerhetskopier applikasjoner og applikasjons data"
 
 msgctxt "local_restore_select_prompt"
 msgid "Select items to restore"
